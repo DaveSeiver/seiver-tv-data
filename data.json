@@ -72,21 +72,21 @@
       },
       {
         "callable": {
-          "etrade": "5.40% Celtic Bank",
-          "fdicNote": null,
-          "green": "etrade",
-          "schwab": null
+          "schwab": null,
+          "etrade": null,
+          "green": null,
+          "fdicNote": null
         },
         "noncall": {
+          "schwab": null,
           "etrade": null,
-          "fdicNote": null,
           "green": null,
-          "schwab": null
+          "fdicNote": null
         },
         "term": "10-Year CDs"
       }
     ],
-    "footnote": "Rates from Sean's logged-in Schwab and eTrade CD searches. Each slot shows the highest monthly-paying yield; * marks the best available payout frequency when no monthly payer exists.",
+    "footnote": "Rates from Sean's logged-in Schwab and eTrade CD searches. Each slot shows the highest monthly-paying yield; * marks the best available payout frequency when no monthly payer exists. Texas state restrictions applied — CDs restricted in Texas are excluded (all accounts are Texas-based).",
     "ratesAsOf": "Wed, Nov 4, 2026"
   },
   "hormuz": {
