@@ -57,16 +57,16 @@
       },
       {
         "callable": {
-          "etrade": "5.55%* Morgan Stanley (semi-annual)",
-          "fdicNote": "FDIC reminder: you hold $11k of Morgan Stanley Private Bank (#34221) in your eTrade joint account — $489k of headroom under its $500k joint limit.",
-          "green": "etrade",
-          "schwab": "5.25% Canandaigua"
+          "schwab": "5.25% Canandaigua",
+          "etrade": "5.15% Farmers & Merchants Bk",
+          "green": "schwab",
+          "fdicNote": null
         },
         "noncall": {
-          "etrade": null,
-          "fdicNote": null,
+          "schwab": "5.00% UBS Bank USA",
+          "etrade": "5.00% UBS Bank USA",
           "green": null,
-          "schwab": "5.00% UBS Bank USA"
+          "fdicNote": null
         },
         "term": "5-Year CDs"
       },
@@ -87,7 +87,7 @@
       }
     ],
     "footnote": "Rates from Sean's logged-in Schwab and eTrade CD searches. Each slot shows the highest monthly-paying yield; * marks the best available payout frequency when no monthly payer exists. Texas state restrictions applied — CDs restricted in Texas are excluded (all accounts are Texas-based).",
-    "ratesAsOf": "Wed, Nov 4, 2026"
+    "ratesAsOf": "Schwab Wed, Nov 4, 2026 · eTrade Mon, Nov 9, 2026"
   },
   "hormuz": {
     "items": [
