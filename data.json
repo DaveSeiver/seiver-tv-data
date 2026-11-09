@@ -42,16 +42,16 @@
     "boxes": [
       {
         "callable": {
-          "etrade": "5.30%* Morgan Stanley (semi-annual)",
-          "fdicNote": "FDIC reminder: you hold $11k of Morgan Stanley Private Bank (#34221) in your eTrade joint account — $489k of headroom under its $500k joint limit.",
-          "green": "etrade",
-          "schwab": "5.00% Thomasville"
+          "schwab": "5.00% Thomasville",
+          "etrade": "5.00% Thomasville",
+          "green": "schwab",
+          "fdicNote": null
         },
         "noncall": {
-          "etrade": null,
-          "fdicNote": null,
+          "schwab": "4.90% UBS Bank USA",
+          "etrade": "4.80% Wells Fargo",
           "green": null,
-          "schwab": "4.90% UBS Bank USA"
+          "fdicNote": null
         },
         "term": "3-Year CDs"
       },
