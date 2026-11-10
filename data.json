@@ -1,110 +1,110 @@
 {
   "apod": {
-    "credit": "Piotr Czerski",
-    "date": "November 9, 2026",
-    "explanation": "The Witch Head Nebula (IC 2118), about 50 light-years across, is gas and dust eroded by the nearby bright star Rigel in Orion. Its blue color comes from Rigel's intense blue starlight, scattered more efficiently by the dust grains — the same process that makes Earth's daytime sky blue.",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/WitchHead_Czerski_3000.jpg?w=2048&h=1359&fit=clip&crop=faces%2Cfocalpoint",
+    "credit": "Roberto Ortu",
+    "date": "November 10, 2026",
+    "explanation": "Saturn vanishes when the Moon passes in front of it \u2014 an occultation visible in early 2025 from Greenland through central Europe to northern Africa. This fusion of three images from Sardinia, Italy, catches Saturn just before it disappeared; the bright dot nearby is the star 85 Aquarii, and the next such occultation comes in 2031.",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Moonsaturn6_Ortu_2124.jpg?w=2048&h=1525&fit=clip&crop=faces%2Cfocalpoint",
     "pageUrl": "https://apod.nasa.gov/apod/astropix.html",
-    "title": "Rigel and the Witch Head Nebula"
+    "title": "Saturn Behind the Moon"
   },
-  "asOf": "Mon Nov 9, 2026, 4:00 PM CT",
+  "asOf": "Tue Nov 10, 2026, 8:00 AM CT",
   "breaking": [
     {
-      "fact": "S&P 500 +2.35% to 7,549.94, Nasdaq +2.74%, Dow +2.15%; VIX fell to 19.92 (-22.3%) in the strongest session since April, led by chips ex-Nvidia.",
-      "headline": "Stocks post best day since April as oil slide cools inflation fears",
-      "source": "TradingKey",
+      "fact": "Prices rose 0.4% in October (vs 0.3% expected) and core 0.3% for a third straight month; BLS published no 12-month rate after the 2025 shutdown wiped out Oct 2025 data. A December Fed hike is now near-certain \u2014 Gov. Waller had tied a 0.3% core print to a possible 50bp move.",
+      "headline": "October CPI runs hot: +0.4% headline, +0.3% core \u2014 both above forecasts",
+      "source": "NY Post",
       "tag": "US",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262297090-us-stock-nasdaq-dow-rise-anthropic-ipo-nvidia-spacex-tesla-tradingkey"
+      "url": "https://nypost.com/2026/11/10/business/inflation-hotter-than-expected-in-october-adding-to-feds-case-for-rate-hike/"
     },
     {
-      "fact": "Record $268M revenue (+73% YoY, beat $257M expected) and record $3.57B backlog, but EPS -$0.12 missed the -$0.07 consensus; Q4 guidance $270-290M, Neutron first flight now 2027.",
-      "headline": "Rocket Lab Q3 after the close: record revenue, EPS miss, shares slip",
-      "source": "TipRanks",
-      "tag": "US",
-      "url": "https://www.tipranks.com/news/rocket-lab-stock-slips-after-mixed-q3-results"
-    },
-    {
-      "fact": "Trump and VP Vance meet Qatar's PM, the chief mediator, behind closed doors to weigh Tehran's two-day nuclear-and-peace proposal; officials stress no imminent deal.",
-      "headline": "Trump meets Qatar PM at White House today on Iran ceasefire proposal",
-      "source": "Al Jazeera via Trinidad Tribune",
+      "fact": "In the first readout from Monday's White House meeting with Qatar's PM, Trump said Tehran is 'talking very politely' and there is a 'good chance' of a deal \u2014 but the naval blockade and Operation Iron Gate stay, and Tehran disputes that talks exist.",
+      "headline": "Trump says Iran war could end 'fairly soon'; new strikes 'quite unlikely'",
+      "source": "The Emirates Times",
       "tag": "World",
-      "url": "https://trinidadtribune.com/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations/"
+      "url": "https://theemiratestimes.com/trump-signals-iran-war-could-end-fairly-soon-as-uae-adviser-urges-caution/"
     },
     {
-      "fact": "FBI Houston responded Monday after the ship docked in Galveston; it had sailed Sunday on a 7-night cruise and was ordered back after the cruise line reported an incident involving a guest.",
-      "headline": "FBI investigates suspected homicide aboard MSC Seascape; ship ordered back to Galveston",
-      "source": "Fox News",
+      "fact": "The Claude maker's Nasdaq listing (ticker ANT) is targeted for the week of Nov 16; investors have cut the valuation talk from ~$2T after Monday's sell-off, though no price range is set yet.",
+      "headline": "Anthropic IPO roadshow can start today; valuation pushed down to $1.5-1.6T",
+      "source": "Pandromeda",
+      "tag": "US",
+      "url": "https://pandromeda.com/ai/anthropic-ipo-valuation-cut-to-15-16-trillion-after-stock-sell-off"
+    },
+    {
+      "fact": "Jason Leon Watford, 48, was taken into custody Monday after the cruise ship docked in Galveston one day into its voyage; he is held at Galveston County Jail on an FBI hold. The victim's identity has not been released.",
+      "headline": "Suspect detained in MSC Seascape homicide probe after ship returns to Galveston",
+      "source": "The Sun",
       "tag": "Local",
-      "url": "https://foxnews.com/us/fbi-investigates-suspected-homicide-aboard-msc-seascape-cruise-ship-sudden-return-texas"
+      "url": "https://www.the-sun.com/news/17282510/msc-seascape-cruise-murder-investigation-fbi-suspect-arrested/"
     }
   ],
   "cdRates": {
     "boxes": [
       {
         "callable": {
-          "schwab": "5.00% Thomasville",
           "etrade": "5.00% Thomasville",
+          "fdicNote": null,
           "green": "schwab",
-          "fdicNote": null
+          "schwab": "5.00% Thomasville"
         },
         "noncall": {
-          "schwab": "4.90% UBS Bank USA",
           "etrade": "4.80% Forbright Bk",
+          "fdicNote": null,
           "green": null,
-          "fdicNote": null
+          "schwab": "4.90% UBS Bank USA"
         },
         "term": "3-Year CDs"
       },
       {
         "callable": {
-          "schwab": "5.25% Canandaigua",
           "etrade": "5.15% Farmers & Merchants Bk",
+          "fdicNote": null,
           "green": "schwab",
-          "fdicNote": null
+          "schwab": "5.25% Canandaigua"
         },
         "noncall": {
-          "schwab": "5.00% UBS Bank USA",
           "etrade": "5.00% UBS Bank USA",
+          "fdicNote": null,
           "green": null,
-          "fdicNote": null
+          "schwab": "5.00% UBS Bank USA"
         },
         "term": "5-Year CDs"
       },
       {
         "callable": {
-          "schwab": null,
           "etrade": null,
+          "fdicNote": null,
           "green": null,
-          "fdicNote": null
+          "schwab": null
         },
         "noncall": {
-          "schwab": null,
           "etrade": null,
+          "fdicNote": null,
           "green": null,
-          "fdicNote": null
+          "schwab": null
         },
         "term": "10-Year CDs"
       }
     ],
-    "footnote": "Rates from Sean's logged-in Schwab and eTrade CD searches. Each slot shows the highest monthly-paying yield; * marks the best available payout frequency when no monthly payer exists. Texas state restrictions applied — CDs restricted in Texas are excluded (all accounts are Texas-based).",
-    "ratesAsOf": "Schwab Wed, Nov 4, 2026 · eTrade Mon, Nov 9, 2026"
+    "footnote": "Rates from Sean's logged-in Schwab and eTrade CD searches. Each slot shows the highest monthly-paying yield; * marks the best available payout frequency when no monthly payer exists. Texas state restrictions applied \u2014 CDs restricted in Texas are excluded (all accounts are Texas-based).",
+    "ratesAsOf": "Schwab Wed, Nov 4, 2026 \u00b7 eTrade Mon, Nov 9, 2026"
   },
   "hormuz": {
     "items": [
       {
-        "body": "IRGC Navy says 3 tankers exploded or caught fire Sunday after hitting mines on an \"unauthorized route\"; Iran's Navy separately claims a 4th. Reuters could not confirm any of the strikes. UKMTO verified one outbound tanker hit by an unidentified projectile 15 km NW of Khasab, Oman (Nov 8), crew safe.",
-        "headline": "Tanker claims grow, none independently confirmed"
+        "body": "Maritime agencies say attacks on tankers rose sharply in October and remain at their highest rate since the conflict began. The IRGC's claim that 3-4 tankers hit mines Sunday is still unconfirmed; UKMTO verified one outbound tanker hit by an unidentified projectile 15 km NW of Khasab, Oman (Nov 8), crew safe.",
+        "headline": "Tanker attacks at highest rate since conflict began, agencies say"
       },
       {
-        "body": "Iranian state media claim IRGC destruction of southern navigational aids has halted unmonitored night transits — unverified. A Sri Lankan fertilizer vessel reportedly transited Nov 9 after direct Iranian naval clearance — single-source, unverified.",
-        "headline": "No ships crossed Hormuz on Sunday, Iranian media say"
+        "body": "Iranian state media reported US forces struck Qeshm Island over the weekend \u2014 unverified, with no US confirmation. Iran's Navy separately claims a 4th tanker was hit; Reuters could not confirm any of the strikes.",
+        "headline": "Iranian media claim US struck Qeshm Island over the weekend"
       },
       {
         "body": "The Saudi-led coalition says it intercepted 2 ballistic and 2 cruise missiles targeting Riyadh and other regions Sunday; debris damaged several floors of the Aramco Tower, no casualties. The Khor Mor gas field in Iraqi Kurdistan was hit by a drone strike Nov 8 and reported dark.",
         "headline": "Houthi missiles reach Riyadh"
       },
       {
-        "body": "Day 1: the US lifts its naval blockade and releases frozen Iranian funds ($6-9B, figures differ by source), and Iran invites IAEA inspectors to damaged nuclear sites. Day 2: Hormuz reopens and nuclear talks resume over the 60%-enriched stockpile (IAEA: 440.9 kg). Trump met Qatar's PM today; Rubio says no breakthrough is near.",
+        "body": "Trump now says the war could end 'fairly soon' and renewed strikes are 'quite unlikely' \u2014 but the naval blockade and Operation Iron Gate stay in place, Rubio says no breakthrough is near, and Tehran disputes that talks exist. Day 1 of the proposal: the US lifts the blockade and releases frozen Iranian funds ($6-9B, figures differ); Day 2: Hormuz reopens and nuclear talks resume over the 60%-enriched stockpile (IAEA: 440.9 kg).",
         "headline": "Diplomacy: the two-day Qatar proposal"
       }
     ],
@@ -385,31 +385,31 @@
       "value": "$92.13"
     }
   ],
-  "marketsNote": "Best day since April: the S&P 500 jumped 2.35% as oil slid 5-6% on Iran-talks progress and inflation fears cooled; the VIX collapsed 22% to 19.92. Chip stocks led, except Nvidia, which fell on board-probe news.",
+  "marketsNote": "Monday's best day since April holds into Tuesday's open: futures are mixed after a hot October CPI (+0.4% headline, +0.3% core) \u2014 S&P 500 futures ~7,576 (flat), Dow futures +0.37%, Nasdaq-100 futures -0.40%. Oil extends Monday's slide (WTI ~$84.74, Brent ~$90.18) as Trump plays down new Iran strikes; the 10-year is near 4.9%.",
   "space": [
     {
-      "body": "NASA announced Saturday at Kennedy Space Center that it is accepting applications for its 25th astronaut class to grow the Artemis program (deadline Dec 3, 2026; selection late 2027). Administrator Jared Isaacman also unveiled the experimental X-70 Fractal X-plane and a $1M student Moon Base challenge.",
-      "headline": "NASA opens applications for a new astronaut class — and unveils the X-70 Fractal",
+      "body": "NASA's Chandra X-ray Observatory caught the 'supernova impostor' AT 2016blu, 30 million light-years away, flaring 100x brighter in X-rays during a March 2026 outburst \u2014 evidence an unseen black hole or neutron star is siphoning gas off the giant star every ~113 days. Published in Astrophysical Journal Letters.",
+      "headline": "Hidden companion may be fueling a giant star's 113-day outbursts",
       "tag": "Space",
-      "url": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/"
+      "url": "https://knowridge.com/2026/11/a-hidden-companion-may-be-fueling-a-giant-stars-mysterious-outbursts/"
     },
     {
-      "body": "UCLA-led astronomers found the hot Jupiter TOI-2535 b transited its star for seven years of TESS observations, then stopped — gravity from an unseen neighboring planet is tilting its orbit, so it will not transit again for 30-50 years. Published in Astrophysical Journal Letters.",
-      "headline": "First known \"disappearing planet\" has a neighbor that makes it wobble like a top",
+      "body": "The rover's SuperCam laser detected chromium-bearing corundum \u2014 the mineral behind rubies \u2014 in three pale rocks near Jezero Crater's rim. No collectible gems, but the crystals hint at ancient heat and pressure on a planet with no plate tectonics. Published in Geophysical Research Letters.",
+      "headline": "Perseverance finds ruby-family mineral on Mars",
       "tag": "Space",
-      "url": "https://phys.org/news/2026-11-planet-neighbor.html"
+      "url": "https://science.nasa.gov/blog/rubies-on-mars/"
     },
     {
-      "body": "A new study in npj Palaeoecosystems dates the famous Taung Child fossil to 2.96-3.03 million years old and finds several adult fossils grouped as Australopithecus africanus do not match its developmental trajectory — southern Africa's family tree was far more complex than assumed.",
-      "headline": "3-million-year-old Taung Child once again shakes up our human family tree",
+      "body": "Hoag researchers found a blood RNA molecule, Tu-Stroma, that detected precancerous STIC lesions in 92.3% of women who had them and correctly cleared 98.2% of healthy women in validation \u2014 an eight-year international study published in Nature Medicine.",
+      "headline": "Blood RNA signal may flag ovarian cancer before it turns invasive",
       "tag": "Science",
-      "url": "https://phys.org/news/2026-11-million-year-taung-child-human.html"
+      "url": "https://medicalxpress.com/news/2026-11-blood-rna-reveal-ovarian-cancer.html"
     }
   ],
-  "version": 1,
+  "version": 2,
   "watchlist": [
     {
-      "blurb": "Air Liquide (Paris) rose 0.89% in euros Monday; converted at the ECB's Nov 9 reference rate of 1.1193.",
+      "blurb": "Air Liquide closed Monday at \u20ac189.46, up 0.89% in euros; converted at the ECB's Nov 9 reference rate of 1.1193. Paris is trading again today.",
       "change": "+1.15%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/AI.PA",
@@ -425,12 +425,12 @@
         187.78,
         189.46
       ],
-      "subTag": "€189.46 × 1.1193 (ECB Nov 9)",
+      "subTag": "\u20ac189.46 \u00d7 1.1193 (ECB Nov 9)",
       "ticker": "AIL.F",
       "yieldTag": null
     },
     {
-      "blurb": "Holds only 1-3 month US T-bills; the latest monthly distribution annualizes to a 4.05% yield at this price.",
+      "blurb": "T-bill ETF steady Monday; the latest monthly distribution annualizes to a 4.05% yield at this price.",
       "change": "+0.02%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/BIL",
@@ -451,7 +451,7 @@
       "yieldTag": "Dist. yield 4.05%"
     },
     {
-      "blurb": "Fastenal jumped 2.98% in Monday's broad rebound — well above the $48 buy gate; still the watchlist's only non-holding.",
+      "blurb": "Fastenal jumped 2.98% in Monday's broad rebound \u2014 well above the $48 buy gate; still the only watchlist name Sean doesn't own.",
       "change": "+2.98%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/FAST",
@@ -472,7 +472,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Alphabet added 1.18% Monday as mega-cap tech joined the rebound.",
+      "blurb": "Alphabet gained 1.18% Monday as mega-cap tech joined the broad rebound.",
       "change": "+1.18%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/GOOGL",
@@ -535,7 +535,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Fell 4.27% Monday after the board opened a probe into reports CEO Jensen Huang was targeted by a foreign-intelligence effort; earnings Nov 17.",
+      "blurb": "Fell 4.27% Monday after the board opened a probe into reports CEO Jensen Huang was targeted by a foreign-intelligence effort; earnings Nov 17, House briefing Nov 18.",
       "change": "-4.27%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/NVDA",
@@ -577,7 +577,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Q3 after today's close: record $268M revenue beat, record $3.57B backlog, EPS missed; the stock rose 10.91% in the session, then slipped after hours.",
+      "blurb": "Q3 Monday after the close: record $268M revenue and $3.57B backlog, but EPS missed; shares rose 10.91% in the session, then slipped after hours and stayed under pressure premarket Tuesday.",
       "change": "+10.91%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/RKLB",
@@ -619,7 +619,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "SpaceX rose strongly in Monday's rebound alongside the other high-beta names.",
+      "blurb": "SpaceX rose 5.81% Monday alongside the other high-beta names in the rebound.",
       "change": "+5.81%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/SPCX",
@@ -661,7 +661,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "US Antimony rocketed 23.05% Monday — a sharp rebound off last week's $2.59 low; back above the $3 accrue gate.",
+      "blurb": "US Antimony rocketed 23.05% Monday \u2014 a sharp rebound off last week's $2.59 low; back above the $3 accrue gate.",
       "change": "+23.05%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/UAMY",
@@ -724,12 +724,12 @@
       "yieldTag": null
     },
     {
-      "blurb": "Latest published NAV is Nov 6 at $29.00; the Nov 9 NAV had not been published at build time.",
-      "change": "",
-      "dir": "flat",
+      "blurb": "Nov 9 NAV $29.50, up 1.72% from Nov 6's $29.00, tracking Monday's rally.",
+      "change": "+1.72%",
+      "dir": "up",
       "link": "https://finance.yahoo.com/quote/VTTHX",
       "name": "Vanguard Target Retirement 2025",
-      "price": "$29.00",
+      "price": "$29.50",
       "risk": 3,
       "spark": [
         29.39,
@@ -737,9 +737,10 @@
         29.36,
         29.71,
         28.96,
-        29.0
+        29.0,
+        29.5
       ],
-      "subTag": "NAV as of Nov 6",
+      "subTag": "NAV as of Nov 9",
       "ticker": "VTTHX",
       "yieldTag": null
     },
@@ -765,7 +766,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Schwab money market fund; stable $1.00 NAV, 7-day SEC yield 3.77% as published Nov 6.",
+      "blurb": "Schwab money market fund; stable $1.00 NAV, 7-day SEC yield 3.76% as published Nov 9.",
       "change": "",
       "dir": "flat",
       "link": "https://finance.yahoo.com/quote/SWVXX",
@@ -773,12 +774,12 @@
       "price": "$1.00",
       "risk": 1,
       "spark": null,
-      "subTag": "Yield published Nov 6 (Schwab)",
+      "subTag": "Yield published Nov 9 (Schwab)",
       "ticker": "SWVXX",
-      "yieldTag": "7-day yield 3.77%"
+      "yieldTag": "7-day yield 3.76%"
     },
     {
-      "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV, 7-day SEC yield 3.96% as published Nov 6.",
+      "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV, 7-day SEC yield 3.97% as published Nov 9.",
       "change": "",
       "dir": "flat",
       "link": "https://finance.yahoo.com/quote/VUSXX",
@@ -786,74 +787,84 @@
       "price": "$1.00",
       "risk": 0,
       "spark": null,
-      "subTag": "Yield published Nov 6 (Vanguard)",
+      "subTag": "Yield published Nov 9 (Vanguard)",
       "ticker": "VUSXX",
-      "yieldTag": "7-day yield 3.96%"
+      "yieldTag": "7-day yield 3.97%"
     }
   ],
   "weather": [
     {
       "alerts": "No alerts",
-      "aqi": 64,
+      "aqi": 80,
       "aqiCat": "Moderate",
       "aqiNote": "PM2.5",
-      "conditions": "Mostly Cloudy",
+      "conditions": "Partly Cloudy",
       "detail": "ZIP 77056",
-      "extra": "Humidity 89% · Wind NE 7 mph",
-      "icon": "clouds",
+      "extra": "Humidity 89% \u00b7 Wind ENE 5 mph",
+      "icon": "partly",
       "name": "Houston Winter Condo",
-      "tempF": 60,
-      "today": "Mostly cloudy, showers likely, high ~65°F",
-      "tomorrow": "Cloudy, becoming partly sunny, high 74°F",
-      "tonight": "Showers, low 58°F"
+      "tempF": 62,
+      "today": "Partly cloudy, PM showers possible, high ~75\u00b0F",
+      "tomorrow": "Mostly cloudy, becoming partly sunny, high 75\u00b0F",
+      "tonight": "Thunderstorms likely, low 63\u00b0F"
     },
     {
-      "alerts": "No alerts — no wildfire or red-flag warnings",
-      "aqi": 56,
+      "alerts": "No alerts \u2014 no wildfire or red-flag warnings",
+      "aqi": 82,
       "aqiCat": "Moderate",
       "aqiNote": "PM2.5",
-      "conditions": "Cloudy",
+      "conditions": "Fog",
       "detail": "Sanders County",
-      "extra": "Humidity 80% · Wind calm",
-      "icon": "clouds",
-      "name": "Seiver Ranch — Plains, MT",
-      "tempF": 50,
-      "today": "Cloudy, high 51°F",
-      "tomorrow": "Cloudy, high 52°F",
-      "tonight": "Showers, low 40°F"
+      "extra": "Humidity 100% \u00b7 Wind SSW 1 mph",
+      "icon": "fog",
+      "name": "Seiver Ranch \u2014 Plains, MT",
+      "tempF": 39,
+      "today": "Cloudy, afternoon showers, high 53\u00b0F",
+      "tomorrow": "Partly cloudy, high 60\u00b0F",
+      "tonight": "Clouds early, clearing late, low 41\u00b0F"
     },
     {
       "alerts": "No alerts",
-      "aqi": 24,
+      "aqi": 18,
       "aqiCat": "Good",
       "aqiNote": "O3",
       "conditions": "Fair",
       "detail": "Pierce County",
-      "extra": "Humidity 38% · Wind WNW 17 mph, gusts 26",
+      "extra": "Humidity 96% \u00b7 Wind SW 5 mph",
       "icon": "sun",
-      "name": "Seiver Slough — Rugby, ND",
-      "tempF": 57,
-      "today": "Fair, reaching ~57°F late afternoon",
-      "tomorrow": "PM showers, high 46°F",
-      "tonight": "Partly cloudy, low 27°F"
+      "name": "Seiver Slough \u2014 Rugby, ND",
+      "tempF": 28,
+      "today": "Showers, high 47\u00b0F",
+      "tomorrow": "AM clouds, PM sun, high 38\u00b0F",
+      "tonight": "Cloudy, low 30\u00b0F"
     },
     {
-      "alerts": "Small Craft Advisory Tue 1 AM–4 PM EST (marine only)",
-      "aqi": 26,
+      "alerts": "Small Craft Advisory until Tue 1:00 PM EST (marine only)",
+      "aqi": 23,
       "aqiCat": "Good",
       "aqiNote": "O3",
       "conditions": "Sunny",
       "detail": "Baraga County",
-      "extra": "Humidity 55% · Wind SSW 10 mph, gusts 19",
+      "extra": "Humidity 96% \u00b7 Wind W 10 mph, gusts 18",
       "icon": "sun",
-      "name": "Seiver Lodge — L'Anse, MI",
-      "tempF": 53,
-      "today": "Sunny, high ~55°F",
-      "tomorrow": "Mostly sunny, high 55°F",
-      "tonight": "Clear, low 40°F"
+      "name": "Seiver Lodge \u2014 L'Anse, MI",
+      "tempF": 39,
+      "today": "Mostly sunny, high 55\u00b0F",
+      "tomorrow": "Showers, high 46\u00b0F",
+      "tonight": "Cloudy, low 38\u00b0F"
     }
   ],
   "weekInBrief": [
+    {
+      "body": "The S&P 500 jumped 2.35% to 7,549.94 on Monday, its best day since April 8, as oil slid and inflation fears cooled; the Dow gained 1,104 points and the Nasdaq 2.74%, while the VIX collapsed 22% to 19.92.",
+      "headline": "Stocks post best day since April",
+      "stamp": "Mon Nov 9, 3:00 PM CT"
+    },
+    {
+      "body": "Record $268M revenue (+73% YoY) and a record $3.57B backlog, but EPS of -$0.12 missed the -$0.07 consensus; Q4 guidance $270-290M, Neutron's first flight now 2027. Shares slipped after hours.",
+      "headline": "Rocket Lab Q3: record revenue, EPS miss",
+      "stamp": "Mon Nov 9, 3:30 PM CT"
+    },
     {
       "body": "The board opened an independent probe Sun Nov 8 into reports CEO Jensen Huang was targeted by a foreign-intelligence effort; Huang remains CEO, shares fell 4.27% Monday, and a House briefing is set for Nov 18 ahead of Nov 17 earnings.",
       "headline": "Nvidia board probe rocks AI's biggest name",
@@ -868,16 +879,6 @@
       "body": "California's governor commuted every death sentence in the state on Friday.",
       "headline": "Newsom commutes all 548 California death sentences",
       "stamp": "Fri Nov 6, 2026"
-    },
-    {
-      "body": "The index closed the week at 7,376.86, down 2.7%; Thursday's -4.36% rout was the worst session since April 2025.",
-      "headline": "S&P 500 suffers worst week since April 2025",
-      "stamp": "Fri Nov 6, 2026"
-    },
-    {
-      "body": "The BoE's first hike in over three years passed 8-1; Australia's RBA also hiked the same week, to 4.85%.",
-      "headline": "Bank of England hikes to 4.00%",
-      "stamp": "Thu Nov 5, 2026"
     }
   ]
 }
