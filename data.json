@@ -51,7 +51,7 @@
      "etrade": "4.80% Forbright Bk",
      "fdicNote": null,
      "green": null,
-     "schwab": "4.90% UBS Bank USA"
+     "schwab": "4.80% Forbright Bk"
     },
     "term": "3-Year CDs"
    },
@@ -59,14 +59,14 @@
     "callable": {
      "etrade": "5.15% Farmers & Merchants Bk",
      "fdicNote": null,
-     "green": "schwab",
-     "schwab": "5.25% Canandaigua"
+     "green": "etrade",
+     "schwab": "5.05% First United Bk"
     },
     "noncall": {
      "etrade": "5.00% UBS Bank USA",
      "fdicNote": null,
-     "green": null,
-     "schwab": "5.00% UBS Bank USA"
+     "green": "etrade",
+     "schwab": "4.90% Wells Fargo"
     },
     "term": "5-Year CDs"
    },
@@ -87,7 +87,7 @@
    }
   ],
   "footnote": "",
-  "ratesAsOf": "Schwab Wed, Nov 4, 2026 · eTrade Mon, Nov 9, 2026"
+  "ratesAsOf": "Schwab Tue, Nov 10, 2026 · eTrade Mon, Nov 9, 2026"
  },
  "hormuz": {
   "items": [
