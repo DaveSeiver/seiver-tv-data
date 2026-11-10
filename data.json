@@ -2,40 +2,40 @@
  "apod": {
   "credit": "Roberto Ortu",
   "date": "November 10, 2026",
-  "explanation": "Saturn vanishes when the Moon passes in front of it \u2014 an occultation visible in early 2025 from Greenland through central Europe to northern Africa. This fusion of three images from Sardinia, Italy, catches Saturn just before it disappeared; the bright dot nearby is the star 85 Aquarii, and the next such occultation comes in 2031.",
+  "explanation": "Saturn vanishes when the Moon passes in front of it — an occultation visible in early 2025 from Greenland through central Europe to northern Africa. This fusion of three images from Sardinia, Italy, catches Saturn just before it disappeared; the bright dot nearby is the star 85 Aquarii, and the next such occultation comes in 2031.",
   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Moonsaturn6_Ortu_2124.jpg?w=2048&h=1525&fit=clip&crop=faces%2Cfocalpoint",
   "pageUrl": "https://apod.nasa.gov/apod/astropix.html",
   "title": "Saturn Behind the Moon"
  },
- "asOf": "Tue Nov 10, 2026, 8:00 AM CT",
+ "asOf": "Tue Nov 10, 2026, 10:53 AM CT",
  "breaking": [
   {
-   "fact": "Prices rose 0.4% in October (vs 0.3% expected) and core 0.3% for a third straight month; BLS published no 12-month rate after the 2025 shutdown wiped out Oct 2025 data. A December Fed hike is now near-certain \u2014 Gov. Waller had tied a 0.3% core print to a possible 50bp move.",
-   "headline": "October CPI runs hot: +0.4% headline, +0.3% core \u2014 both above forecasts",
-   "source": "NY Post",
+   "headline": "December hike now fully priced; Waller floats a half-point move",
+   "fact": "Markets now price a December Fed hike at 100%, up from 82% Monday, after October CPI ran hot (+0.4% headline, +0.3% core) — and Gov. Waller said a 50bp hike should be considered if core inflation stays hot. Stocks are giving back part of Monday's rally and the 10-year is near 5.00%.",
+   "source": "Barchart",
    "tag": "US",
-   "url": "https://nypost.com/2026/11/10/business/inflation-hotter-than-expected-in-october-adding-to-feds-case-for-rate-hike/"
+   "url": "https://www.barchart.com/story/news/8759964/hot-cpi-and-hawkish-fed-weigh-on-stocks"
   },
   {
-   "fact": "In the first readout from Monday's White House meeting with Qatar's PM, Trump said Tehran is 'talking very politely' and there is a 'good chance' of a deal \u2014 but the naval blockade and Operation Iron Gate stay, and Tehran disputes that talks exist.",
-   "headline": "Trump says Iran war could end 'fairly soon'; new strikes 'quite unlikely'",
-   "source": "The Emirates Times",
+   "headline": "Nvidia shareholders sue; Aletheia cuts to Hold as probe widens",
+   "fact": "Shareholders filed a class action in San Jose federal court alleging Nvidia concealed CEO Jensen Huang's ties to a woman suspected of being a Chinese spy; Aletheia cut the stock to Hold, dropping its $340 target. About 600,000 H200 AI chips are sitting in Hong Kong awaiting shipment to China, and House leaders want a briefing from Huang on Nov 18. Shares are down about 6.5% today.",
+   "source": "Reuters",
+   "tag": "US",
+   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/nvidia-s-credibility-test-board-backs-huang-aletheia-steps-aside-and-600-000-chips-sit-in-hong-kong/70485148"
+  },
+  {
+   "headline": "Anthropic sets IPO price at $70–$78; Google, Nvidia to buy $26B",
+   "fact": "The Claude maker launched its roadshow today with 825 million shares priced at $70–$78, raising up to $64.4B and valuing it at about $1T — $1.4T fully diluted. Google and Nvidia are each putting in $10B of a $26B private placement from seven tech firms; pricing is set for Nov 18, with trading expected Nov 19 under ticker ANT.",
+   "source": "TheWrap",
+   "tag": "US",
+   "url": "https://www.thewrap.com/industry-news/tech/anthropic-ipo-valuation/"
+  },
+  {
+   "headline": "TSMC October sales jump 60% to a record on AI demand",
+   "fact": "The world's largest chipmaker posted October revenue of NT$586.89B (about $17.9B), up 59.7% year over year and 14.7% from September — a monthly record driven by 2-nanometer AI chip demand. Revenue for the first ten months is up 43.3%.",
+   "source": "TipRanks",
    "tag": "World",
-   "url": "https://theemiratestimes.com/trump-signals-iran-war-could-end-fairly-soon-as-uae-adviser-urges-caution/"
-  },
-  {
-   "fact": "The Claude maker's Nasdaq listing (ticker ANT) is targeted for the week of Nov 16; investors have cut the valuation talk from ~$2T after Monday's sell-off, though no price range is set yet.",
-   "headline": "Anthropic IPO roadshow can start today; valuation pushed down to $1.5-1.6T",
-   "source": "Pandromeda",
-   "tag": "US",
-   "url": "https://pandromeda.com/ai/anthropic-ipo-valuation-cut-to-15-16-trillion-after-stock-sell-off"
-  },
-  {
-   "fact": "Jason Leon Watford, 48, was taken into custody Monday after the cruise ship docked in Galveston one day into its voyage; he is held at Galveston County Jail on an FBI hold. The victim's identity has not been released.",
-   "headline": "Suspect detained in MSC Seascape homicide probe after ship returns to Galveston",
-   "source": "The Sun",
-   "tag": "Local",
-   "url": "https://www.the-sun.com/news/17282510/msc-seascape-cruise-murder-investigation-fbi-suspect-arrested/"
+   "url": "https://www.tipranks.com/news/tsmcs-october-revenue-jumps-60-on-ai-demand-shares-rise"
   }
  ],
  "cdRates": {
@@ -87,154 +87,145 @@
    }
   ],
   "footnote": "",
-  "ratesAsOf": "Schwab Wed, Nov 4, 2026 \u00b7 eTrade Mon, Nov 9, 2026"
+  "ratesAsOf": "Schwab Wed, Nov 4, 2026 · eTrade Mon, Nov 9, 2026"
  },
  "hormuz": {
   "items": [
    {
-    "body": "Maritime agencies say attacks on tankers rose sharply in October and remain at their highest rate since the conflict began. The IRGC's claim that 3-4 tankers hit mines Sunday is still unconfirmed; UKMTO verified one outbound tanker hit by an unidentified projectile 15 km NW of Khasab, Oman (Nov 8), crew safe.",
-    "headline": "Tanker attacks at highest rate since conflict began, agencies say"
+    "headline": "Iranian forces strike navigation aids on Didamar Island",
+    "body": "Iranian forces hit radar and navigation equipment on Didamar Island in the southern strait on Nov 9 and fired missiles at tankers in southern channels, per regional monitors. The IRGC claims three tankers were hit Nov 8; UKMTO confirmed two tanker incidents with no crew casualties. War-risk premiums for Gulf transit remain 0.85–1.10% of hull value, vs 0.05% before the crisis; the JMIC threat level is SEVERE."
    },
    {
-    "body": "Iranian state media reported US forces struck Qeshm Island over the weekend \u2014 unverified, with no US confirmation. Iran's Navy separately claims a 4th tanker was hit; Reuters could not confirm any of the strikes.",
-    "headline": "Iranian media claim US struck Qeshm Island over the weekend"
-   },
-   {
-    "body": "The Saudi-led coalition says it intercepted 2 ballistic and 2 cruise missiles targeting Riyadh and other regions Sunday; debris damaged several floors of the Aramco Tower, no casualties. The Khor Mor gas field in Iraqi Kurdistan was hit by a drone strike Nov 8 and reported dark.",
-    "headline": "Houthi missiles reach Riyadh"
-   },
-   {
-    "body": "Trump now says the war could end 'fairly soon' and renewed strikes are 'quite unlikely' \u2014 but the naval blockade and Operation Iron Gate stay in place, Rubio says no breakthrough is near, and Tehran disputes that talks exist. Day 1 of the proposal: the US lifts the blockade and releases frozen Iranian funds ($6-9B, figures differ); Day 2: Hormuz reopens and nuclear talks resume over the 60%-enriched stockpile (IAEA: 440.9 kg).",
-    "headline": "Diplomacy: the two-day Qatar proposal"
+    "headline": "CENTCOM: strait open, 900M barrels moved since May",
+    "body": "US Central Command says traffic 'continues to flow' under US naval coordination and that its forces have helped move more than 900 million barrels of crude through the strait since early May, while redirecting 122+ vessels under the blockade. AIS-visible traffic is still only about 8% of normal — 7.0 ships a day over the past week, including 19 tankers."
    }
   ],
-  "stats": "Traffic & shares (latest verified): EIA puts Hormuz oil flows at 4.9M bbl/day in Q2 2026, down from 21.6M in Q4 2025; the IEA estimates ~20M bbl/day transited in 2025, about a quarter of global seaborne oil trade. China takes ~42% and India ~13% of strait crude throughput; ~90% of Iran's oil exports go to China. The EIA warns vessel-tracking data have become less reliable during the conflict."
+  "stats": "Traffic & shares (latest verified): AIS-visible commercial traffic is running about 8% of normal — 7.0 ships a day over the past week (19 tankers) against 84.8 before the crisis. EIA puts Hormuz oil flows at 4.9M bbl/day in Q2 2026, down from 21.6M in Q4 2025; the IEA estimates ~20M bbl/day transited in 2025, about a quarter of global seaborne oil trade. China takes ~42% and India ~13% of strait crude throughput; ~90% of Iran's oil exports go to China. The EIA warns vessel-tracking data have become less reliable during the conflict."
  },
  "markets": [
   {
-   "change": "+173.08",
-   "dir": "up",
-   "label": "S&P 500",
-   "pct": "+2.35%",
-   "spark": [
-    7670.84,
-    7651.54,
-    7666.45,
-    7722.72,
-    7773.95,
-    7818.93,
-    7801.77,
-    7765.36,
-    7811.54,
-    7807.24,
-    7805.45,
-    7718.94,
-    7744.06,
-    7659.44,
-    7690.73,
-    7712.57,
-    7757.17,
-    7663.43,
-    7623.68,
-    7676.77,
-    7722.6,
-    7743.98,
-    7720.39,
-    7580.07,
-    7541.4,
-    7568.92,
-    7688.62,
-    7353.73,
-    7376.86,
-    7549.94
-   ],
-   "value": "7,549.94"
-  },
-  {
-   "change": "+673.71",
-   "dir": "up",
-   "label": "NASDAQ Composite",
-   "pct": "+2.74%",
-   "spark": [
-    26797.54,
-    26861.06,
-    26871.6,
-    27190.86,
-    27477.31,
-    27599.79,
-    27538.69,
-    27193.34,
-    27366.17,
-    27245.9,
-    27204.38,
-    26692.87,
-    26713.03,
-    26140.03,
-    26430.89,
-    26424.82,
-    26702.86,
-    26008.86,
-    25955.34,
-    26169.38,
-    26477.81,
-    26549.85,
-    26184.72,
-    25437.0,
-    25164.31,
-    25372.01,
-    25736.51,
-    24315.0,
-    24579.43,
-    25253.14
-   ],
-   "value": "25,253.14"
-  },
-  {
-   "change": "+1,104.02",
-   "dir": "up",
-   "label": "Dow Jones",
-   "pct": "+2.15%",
-   "spark": [
-    51349.92,
-    50906.05,
-    50926.56,
-    51176.96,
-    51267.9,
-    51521.28,
-    51179.87,
-    51231.64,
-    51654.95,
-    51850.55,
-    51670.1,
-    51621.48,
-    52177.69,
-    52002.41,
-    51966.03,
-    52495.88,
-    52856.09,
-    52867.98,
-    52215.16,
-    52361.58,
-    52377.57,
-    52475.1,
-    52342.56,
-    51770.31,
-    51983.98,
-    51786.72,
-    53356.12,
-    51523.06,
-    51285.73,
-    52389.75
-   ],
-   "value": "52,389.75"
-  },
-  {
-   "change": "-5.72",
+   "change": "-64.18",
    "dir": "down",
-   "label": "VIX",
-   "pct": "-22.31%",
+   "label": "S&P 500",
+   "pct": "-0.85%",
    "spark": [
-    16.04,
+    7651.54,
+    7666.4502,
+    7722.7202,
+    7773.9502,
+    7818.9302,
+    7801.77,
+    7765.3599,
+    7811.54,
+    7807.2402,
+    7805.4502,
+    7718.9399,
+    7744.0601,
+    7659.4399,
+    7690.73,
+    7712.5698,
+    7757.1699,
+    7663.4302,
+    7623.6802,
+    7676.77,
+    7722.6001,
+    7743.98,
+    7720.3901,
+    7580.0698,
+    7541.3999,
+    7568.9199,
+    7688.6201,
+    7353.73,
+    7376.8599,
+    7549.9399,
+    7485.7598
+   ],
+   "value": "7,485.76"
+  },
+  {
+   "change": "-323.32",
+   "dir": "down",
+   "label": "NASDAQ Composite",
+   "pct": "-1.28%",
+   "spark": [
+    26861.0605,
+    26871.5996,
+    27190.8594,
+    27477.3105,
+    27599.7891,
+    27538.6895,
+    27193.3398,
+    27366.1699,
+    27245.9004,
+    27204.3809,
+    26692.8691,
+    26713.0293,
+    26140.0293,
+    26430.8906,
+    26424.8203,
+    26702.8594,
+    26008.8594,
+    25955.3398,
+    26169.3809,
+    26477.8105,
+    26549.8496,
+    26184.7207,
+    25437.0,
+    25164.3105,
+    25372.0098,
+    25736.5098,
+    24315.0,
+    24579.4297,
+    25253.1406,
+    24929.8223
+   ],
+   "value": "24,929.82"
+  },
+  {
+   "change": "-342.61",
+   "dir": "down",
+   "label": "Dow Jones",
+   "pct": "-0.65%",
+   "spark": [
+    50906.0508,
+    50926.5586,
+    51176.9609,
+    51267.8984,
+    51521.2812,
+    51179.8711,
+    51231.6406,
+    51654.9492,
+    51850.5508,
+    51670.1016,
+    51621.4805,
+    52177.6914,
+    52002.4102,
+    51966.0312,
+    52495.8789,
+    52856.0898,
+    52867.9805,
+    52215.1602,
+    52361.5781,
+    52377.5703,
+    52475.1016,
+    52342.5586,
+    51770.3086,
+    51983.9805,
+    51786.7188,
+    53356.1211,
+    51523.0586,
+    51285.7305,
+    52389.75,
+    52047.1406
+   ],
+   "value": "52,047.14"
+  },
+  {
+   "change": "+0.75",
+   "dir": "up",
+   "label": "VIX",
+   "pct": "+3.77%",
+   "spark": [
     16.34,
     16.39,
     15.31,
@@ -263,56 +254,56 @@
     16.61,
     28.18,
     25.64,
-    19.92
+    19.92,
+    20.67
    ],
-   "value": "19.92"
+   "value": "20.67"
   },
   {
-   "change": "+0.005 pp",
+   "change": "+0.140 pp",
    "dir": "up",
    "label": "10-Yr Treasury",
    "pct": "",
    "spark": [
-    5.25,
-    5.29,
+    5.293,
+    5.237,
+    5.277,
+    5.311,
+    5.269,
+    5.277,
+    5.231,
+    5.244,
     5.24,
-    5.28,
-    5.31,
-    5.27,
-    5.28,
-    5.23,
-    5.24,
-    5.24,
-    5.22,
+    5.217,
     5.19,
-    5.09,
-    5.1,
-    5.14,
-    5.12,
-    5.15,
-    4.95,
-    4.99,
-    4.99,
-    4.99,
-    5.04,
-    4.99,
-    4.93,
-    4.89,
-    4.95,
-    4.89,
-    4.84,
-    4.86,
-    4.86
+    5.089,
+    5.098,
+    5.136,
+    5.117,
+    5.146,
+    4.953,
+    4.988,
+    4.986,
+    4.993,
+    5.045,
+    4.989,
+    4.929,
+    4.894,
+    4.952,
+    4.894,
+    4.837,
+    4.859,
+    4.864,
+    5.004
    ],
-   "value": "4.864%"
+   "value": "5.004%"
   },
   {
-   "change": "-4.44",
+   "change": "-0.16",
    "dir": "down",
    "label": "WTI Crude",
-   "pct": "-4.89%",
+   "pct": "-0.18%",
    "spark": [
-    89.38,
     90.42,
     92.87,
     91.11,
@@ -341,17 +332,17 @@
     88.12,
     90.52,
     90.83,
-    86.39
+    86.85,
+    86.69
    ],
-   "value": "$86.39"
+   "value": "$86.69"
   },
   {
-   "change": "-6.19",
+   "change": "-0.59",
    "dir": "down",
    "label": "Brent Crude",
-   "pct": "-6.30%",
+   "pct": "-0.64%",
    "spark": [
-    102.59,
     103.53,
     102.31,
     102.25,
@@ -380,353 +371,354 @@
     94.62,
     98.29,
     98.32,
-    92.13
+    92.57,
+    91.98
    ],
-   "value": "$92.13"
+   "value": "$91.98"
   }
  ],
- "marketsNote": "Monday's best day since April holds into Tuesday's open: futures are mixed after a hot October CPI (+0.4% headline, +0.3% core) \u2014 S&P 500 futures ~7,576 (flat), Dow futures +0.37%, Nasdaq-100 futures -0.40%. Oil extends Monday's slide (WTI ~$84.74, Brent ~$90.18) as Trump plays down new Iran strikes; the 10-year is near 4.9%.",
+ "marketsNote": "Tuesday's session is giving back part of Monday's best day since April: hot October CPI (+0.4% headline, +0.3% core) has fully priced a December Fed hike — Waller even floated 50bp — and the 10-year is at 5.00%. S&P ~7,486 (-0.9%), Nasdaq ~24,930 (-1.3%), Dow ~52,047 (-0.7%); VIX 20.67. Oil extends its slide (WTI ~$86.69, Brent ~$91.98) as Trump plays down new Iran strikes. Bonds close tomorrow for Veterans Day while stocks trade; a $42B 10-year auction lands at 1:00 PM ET.",
  "space": [
   {
-   "body": "NASA's Chandra X-ray Observatory caught the 'supernova impostor' AT 2016blu, 30 million light-years away, flaring 100x brighter in X-rays during a March 2026 outburst \u2014 evidence an unseen black hole or neutron star is siphoning gas off the giant star every ~113 days. Published in Astrophysical Journal Letters.",
-   "headline": "Hidden companion may be fueling a giant star's 113-day outbursts",
+   "headline": "Starship Flight 15 set for Friday; first dual catch attempt",
+   "body": "SpaceX rolled Super Heavy Booster 22 to Pad 2 at Starbase ahead of Flight 15, targeted for Friday, Nov 13, in a window opening at 4:45 PM CT, pending FAA approval. It would be the first flight aiming to catch both the Super Heavy booster and the Starship upper stage back at the launch site; Ship 42 would orbit 14 times over about 22 hours.",
    "tag": "Space",
-   "url": "https://knowridge.com/2026/11/a-hidden-companion-may-be-fueling-a-giant-stars-mysterious-outbursts/"
+   "url": "https://starlust.org/starship-flight-15-spacex-moves-super-heavy-booster-to-launch-pad-ahead-of-november-13-lift-off/"
   },
   {
-   "body": "The rover's SuperCam laser detected chromium-bearing corundum \u2014 the mineral behind rubies \u2014 in three pale rocks near Jezero Crater's rim. No collectible gems, but the crystals hint at ancient heat and pressure on a planet with no plate tectonics. Published in Geophysical Research Letters.",
-   "headline": "Perseverance finds ruby-family mineral on Mars",
+   "headline": "NASA to test two lunar landers in Earth orbit before 2028 landing",
+   "body": "NASA's revised Artemis plan has Orion carrying four astronauts on Artemis III in 2027 to rendezvous and dock with test versions of both SpaceX's Starship and Blue Origin's Blue Moon landers in Earth orbit, before Artemis IV aims to land astronauts on the Moon in 2028. Which lander flies the crew depends on test results.",
    "tag": "Space",
-   "url": "https://science.nasa.gov/blog/rubies-on-mars/"
+   "url": "https://vestibg.com/2026/11/10/nasa-plans-to-test-two-lunar-landers-in-earth-orbit-before-2028-landing/"
   },
   {
-   "body": "Hoag researchers found a blood RNA molecule, Tu-Stroma, that detected precancerous STIC lesions in 92.3% of women who had them and correctly cleared 98.2% of healthy women in validation \u2014 an eight-year international study published in Nature Medicine.",
-   "headline": "Blood RNA signal may flag ovarian cancer before it turns invasive",
+   "headline": "1,600-year-old Nazca burial holds a baby born with one central eye",
+   "body": "DNA from a tiny skull in a Nazca urn at Jauranga, Peru (AD 325–440) shows the infant girl had trisomy 13, or Patau syndrome, which caused cyclopia — a single central eye socket. It is the first such case ever identified in an archaeological context, published Nov 9 in PNAS.",
    "tag": "Science",
-   "url": "https://medicalxpress.com/news/2026-11-blood-rna-reveal-ovarian-cancer.html"
+   "url": "https://dailygalaxy.com/2026/11/nazca-baby-single-eye-ancient-peru-burial/"
   }
  ],
- "version": 3,
+ "version": 4,
  "watchlist": [
   {
-   "blurb": "Air Liquide closed Monday at \u20ac189.46, up 0.89% in euros; converted at the ECB's Nov 9 reference rate of 1.1193. Paris is trading again today.",
-   "change": "+1.15%",
+   "blurb": "Air Liquide closed in Paris today at €190.34, up 0.46% in euros; converted at the ECB's Nov 10 reference rate of 1.1214.",
+   "change": "+0.65%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/AI.PA",
    "name": "Air Liquide",
-   "price": "$212.06",
+   "price": "$213.45",
    "risk": 2,
    "spark": [
-    180.9,
     182.04,
     182.56,
     187.36,
     189.72,
     187.78,
-    189.46
+    189.46,
+    190.34
    ],
-   "subTag": "\u20ac189.46 \u00d7 1.1193 (ECB Nov 9)",
+   "subTag": "€190.34 × 1.1214 (ECB Nov 10)",
    "ticker": "AIL.F",
    "yieldTag": null
   },
   {
-   "blurb": "T-bill ETF steady Monday; the latest monthly distribution annualizes to a 4.05% yield at this price.",
-   "change": "+0.02%",
+   "blurb": "T-bill ETF steady in late-morning trade; the latest monthly distribution annualizes to a 4.05% yield at this price.",
+   "change": "+0.01%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/BIL",
    "name": "SPDR 1-3 Month T-Bill ETF",
-   "price": "$91.48",
+   "price": "$91.49",
    "risk": 0,
    "spark": [
-    91.7,
     91.41,
     91.42,
     91.42,
     91.43,
     91.46,
-    91.48
+    91.48,
+    91.4922
    ],
    "subTag": "$0.30849 dist., ex Nov 2, paid Nov 5",
    "ticker": "BIL",
    "yieldTag": "Dist. yield 4.05%"
   },
   {
-   "blurb": "Fastenal jumped 2.98% in Monday's broad rebound \u2014 well above the $48 buy gate; still the only watchlist name Sean doesn't own.",
-   "change": "+2.98%",
-   "dir": "up",
+   "blurb": "Fastenal eases a touch today after closing Monday at $54.57; still well above Sean's $48 buy gate.",
+   "change": "-0.17%",
+   "dir": "down",
    "link": "https://finance.yahoo.com/quote/FAST",
    "name": "Fastenal",
-   "price": "$54.57",
+   "price": "$54.48",
    "risk": 2,
    "spark": [
-    51.91,
     52.55,
     52.33,
     53.21,
     52.9,
     52.99,
-    54.57
+    54.57,
+    54.475
    ],
    "subTag": null,
    "ticker": "FAST",
    "yieldTag": null
   },
   {
-   "blurb": "Alphabet gained 1.18% Monday as mega-cap tech joined the broad rebound.",
-   "change": "+1.18%",
-   "dir": "up",
+   "blurb": "Alphabet dips slightly with the market after Monday's rally; Anthropic — in which Google is a major investor — priced its IPO at $70–$78 today.",
+   "change": "-0.36%",
+   "dir": "down",
    "link": "https://finance.yahoo.com/quote/GOOGL",
    "name": "Alphabet (Google) Cl A",
-   "price": "$288.15",
+   "price": "$287.11",
    "risk": 3,
    "spark": [
-    279.84,
     278.99,
     280.03,
     288.93,
     282.57,
     284.78,
-    288.15
+    288.15,
+    287.105
    ],
    "subTag": null,
    "ticker": "GOOGL",
    "yieldTag": null
   },
   {
-   "blurb": "Eli Lilly surged 4.28% Monday, back above $1,400 after last week's dip.",
-   "change": "+4.28%",
+   "blurb": "Lilly edges higher in a down market, holding near $1,419 after Monday's 4.28% jump.",
+   "change": "+0.53%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/LLY",
    "name": "Eli Lilly",
-   "price": "$1,411.95",
+   "price": "$1,419.46",
    "risk": 3,
    "spark": [
-    1417.54,
     1410.99,
     1409.38,
     1417.99,
     1364.73,
     1354.0,
-    1411.95
+    1411.95,
+    1419.455
    ],
    "subTag": null,
    "ticker": "LLY",
    "yieldTag": null
   },
   {
-   "blurb": "Cheniere bounced 2.52% Monday after five straight down days last week, even as crude slid.",
-   "change": "+2.52%",
+   "blurb": "Cheniere climbs 2.5% as energy holds up while the broader market slips; oil's slide is not dragging LNG along today.",
+   "change": "+2.50%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/LNG",
    "name": "Cheniere Energy",
-   "price": "$284.95",
+   "price": "$292.08",
    "risk": 3,
    "spark": [
-    330.32,
     311.67,
     311.17,
     292.02,
     279.57,
     277.95,
-    284.95
+    284.95,
+    292.08
    ],
    "subTag": null,
    "ticker": "LNG",
    "yieldTag": null
   },
   {
-   "blurb": "Fell 4.27% Monday after the board opened a probe into reports CEO Jensen Huang was targeted by a foreign-intelligence effort; earnings Nov 17, House briefing Nov 18.",
-   "change": "-4.27%",
+   "blurb": "Nvidia slides 6.5% as shareholders sue in San Jose and Aletheia cuts the stock to Hold; the board probe, FBI inquiry and ~600,000 H200 chips stuck in Hong Kong hang over the name a week before earnings.",
+   "change": "-6.54%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/NVDA",
    "name": "NVIDIA",
-   "price": "$178.67",
+   "price": "$166.98",
    "risk": 3,
    "spark": [
-    204.64,
     202.06,
     206.69,
     200.13,
     181.6,
     186.64,
-    178.67
+    178.67,
+    166.9783
    ],
    "subTag": null,
    "ticker": "NVDA",
    "yieldTag": null
   },
   {
-   "blurb": "Pfizer eased 0.54% Monday, sitting out the rebound near $29.",
-   "change": "-0.54%",
+   "blurb": "Pfizer drifts lower with the market; no fresh company news today.",
+   "change": "-0.24%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/PFE",
    "name": "Pfizer",
-   "price": "$29.23",
+   "price": "$29.16",
    "risk": 2,
    "spark": [
-    30.52,
     30.67,
     30.0,
     30.79,
     29.88,
     29.39,
-    29.23
+    29.23,
+    29.16
    ],
    "subTag": null,
    "ticker": "PFE",
    "yieldTag": null
   },
   {
-   "blurb": "Q3 Monday after the close: record $268M revenue and $3.57B backlog, but EPS missed; shares rose 10.91% in the session, then slipped after hours and stayed under pressure premarket Tuesday.",
-   "change": "+10.91%",
+   "blurb": "Rocket Lab holds Monday's post-earnings gain; Starship Flight 15's Friday window keeps space in the spotlight.",
+   "change": "+0.46%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/RKLB",
    "name": "Rocket Lab",
-   "price": "$58.86",
+   "price": "$59.13",
    "risk": 4,
    "spark": [
-    54.73,
     52.07,
     54.43,
     52.37,
     45.99,
     53.07,
-    58.86
+    58.86,
+    59.13
    ],
    "subTag": null,
    "ticker": "RKLB",
    "yieldTag": null
   },
   {
-   "blurb": "Rithm Capital added 2.28% Monday in the broad risk-on session.",
-   "change": "+2.28%",
-   "dir": "up",
+   "blurb": "Rithm eases back after Monday's 2.28% gain; mortgage REITs feel the pinch as the 10-year nears 5%.",
+   "change": "-1.75%",
+   "dir": "down",
    "link": "https://finance.yahoo.com/quote/RITM",
    "name": "Rithm Capital",
-   "price": "$9.44",
+   "price": "$9.28",
    "risk": 4,
    "spark": [
-    9.31,
     9.45,
     9.22,
     9.5,
     9.45,
     9.23,
-    9.44
+    9.44,
+    9.275
    ],
    "subTag": null,
    "ticker": "RITM",
    "yieldTag": null
   },
   {
-   "blurb": "SpaceX rose 5.81% Monday alongside the other high-beta names in the rebound.",
-   "change": "+5.81%",
-   "dir": "up",
+   "blurb": "SPAC ETF nearly flat in a soft market after Monday's 5.81% surge.",
+   "change": "-0.72%",
+   "dir": "down",
    "link": "https://finance.yahoo.com/quote/SPCX",
    "name": "SpaceX",
-   "price": "$142.07",
+   "price": "$141.05",
    "risk": 4,
    "spark": [
-    134.72,
     136.37,
     141.31,
     135.92,
     123.62,
     134.27,
-    142.07
+    142.07,
+    141.05
    ],
    "subTag": null,
    "ticker": "SPCX",
    "yieldTag": null
   },
   {
-   "blurb": "Truist added 1.92% Monday as financials joined the rally.",
-   "change": "+1.92%",
-   "dir": "up",
+   "blurb": "Truist slips as bank stocks fade with the rate-hike repricing; the 10-year near 5% cuts both ways for lenders.",
+   "change": "-0.73%",
+   "dir": "down",
    "link": "https://finance.yahoo.com/quote/TFC",
    "name": "Truist Financial",
-   "price": "$50.33",
+   "price": "$49.97",
    "risk": 3,
    "spark": [
-    48.79,
     50.17,
     49.41,
     50.87,
     49.84,
     49.38,
-    50.33
+    50.33,
+    49.965
    ],
    "subTag": null,
    "ticker": "TFC",
    "yieldTag": null
   },
   {
-   "blurb": "US Antimony rocketed 23.05% Monday \u2014 a sharp rebound off last week's $2.59 low; back above the $3 accrue gate.",
-   "change": "+23.05%",
-   "dir": "up",
+   "blurb": "U.S. Antimony drops 9.1%, giving back part of Monday's 23% surge; still above Sean's $3 buy gate.",
+   "change": "-9.08%",
+   "dir": "down",
    "link": "https://finance.yahoo.com/quote/UAMY",
    "name": "United States Antimony",
-   "price": "$3.47",
+   "price": "$3.16",
    "risk": 5,
    "spark": [
-    2.98,
     2.87,
     2.88,
     2.98,
     2.59,
     2.82,
-    3.47
+    3.47,
+    3.155
    ],
    "subTag": null,
    "ticker": "UAMY",
    "yieldTag": null
   },
   {
-   "blurb": "Uranium Energy jumped 10.12% Monday in the broad speculative rebound.",
-   "change": "+10.12%",
-   "dir": "up",
+   "blurb": "Uranium Energy falls with the market even as U3O8 spot holds ~$91/lb and utility term contracting runs well ahead of last year's pace.",
+   "change": "-6.36%",
+   "dir": "down",
    "link": "https://finance.yahoo.com/quote/UEC",
    "name": "Uranium Energy",
-   "price": "$7.62",
+   "price": "$7.14",
    "risk": 5,
    "spark": [
-    7.71,
     7.51,
     7.56,
     7.19,
     6.48,
     6.92,
-    7.62
+    7.62,
+    7.135
    ],
    "subTag": null,
    "ticker": "UEC",
    "yieldTag": null
   },
   {
-   "blurb": "Valero rose 2.97% Monday even as crude fell 5-6% on Iran-talks progress.",
-   "change": "+2.97%",
-   "dir": "up",
+   "blurb": "Valero slips as crude extends its slide — Brent ~$91.98, WTI ~$86.69 — on easing Iran-strike fears.",
+   "change": "-2.18%",
+   "dir": "down",
    "link": "https://finance.yahoo.com/quote/VLO",
    "name": "Valero Energy",
-   "price": "$356.75",
+   "price": "$348.96",
    "risk": 3,
    "spark": [
-    399.66,
     381.46,
     387.65,
     365.34,
     351.23,
     346.45,
-    356.75
+    356.75,
+    348.96
    ],
    "subTag": null,
    "ticker": "VLO",
    "yieldTag": null
   },
   {
-   "blurb": "Nov 9 NAV $29.50, up 1.72% from Nov 6's $29.00, tracking Monday's rally.",
-   "change": "+1.72%",
-   "dir": "up",
+   "blurb": "No new NAV yet today — Nov 9 NAV $29.50, up 1.72% from Nov 6's $29.00; today's NAV posts after the close.",
+   "change": "+0.00%",
+   "dir": "flat",
    "link": "https://finance.yahoo.com/quote/VTTHX",
    "name": "Vanguard Target Retirement 2025",
    "price": "$29.50",
@@ -745,28 +737,28 @@
    "yieldTag": null
   },
   {
-   "blurb": "Estimate anchored to the S&P 500 close ($155.58 when the S&P closed 7,568.92); this CIT has no public quote.",
-   "change": "+2.35%",
-   "dir": "up",
+   "blurb": "Estimate anchored to the S&P 500 ($155.58 when the S&P closed 7,568.92); this CIT has no public quote — it tracks the index down 0.85% in late-morning trade.",
+   "change": "-0.85%",
+   "dir": "down",
    "link": null,
    "name": "Vanguard Institutional 500 Index Trust",
-   "price": "$155.19 (est.)",
+   "price": "$153.87 (est.)",
    "risk": 3,
    "spark": [
-    155.81,
     155.01,
     155.58,
     158.04,
     151.16,
     151.63,
-    155.19
+    155.19,
+    153.87
    ],
    "subTag": "S&P 500-anchored estimate",
    "ticker": "VI5TC",
    "yieldTag": null
   },
   {
-   "blurb": "Schwab money market fund; stable $1.00 NAV, 7-day SEC yield 3.76% as published Nov 9.",
+   "blurb": "Schwab money market fund; stable $1.00 NAV, 7-day SEC yield 3.76% as published Nov 9, re-verified from Schwab's page today.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/SWVXX",
@@ -779,7 +771,7 @@
    "yieldTag": "7-day yield 3.76%"
   },
   {
-   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV, 7-day SEC yield 3.97% as published Nov 9.",
+   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV, 7-day SEC yield 3.97% as published Nov 9, re-verified from Vanguard's page today.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/VUSXX",
@@ -794,91 +786,86 @@
  ],
  "weather": [
   {
-   "alerts": "No alerts",
-   "aqi": 80,
-   "aqiCat": "Moderate",
-   "aqiNote": "PM2.5",
-   "conditions": "Partly Cloudy",
-   "detail": "ZIP 77056",
-   "extra": "Humidity 89% \u00b7 Wind ENE 5 mph",
-   "icon": "partly",
    "name": "Houston Winter Condo",
-   "tempF": 62,
-   "today": "Partly cloudy, PM showers possible, high ~75\u00b0F",
-   "tomorrow": "Mostly cloudy, becoming partly sunny, high 75\u00b0F",
-   "tonight": "Thunderstorms likely, low 63\u00b0F"
-  },
-  {
-   "alerts": "No alerts \u2014 no wildfire or red-flag warnings",
-   "aqi": 82,
+   "detail": "ZIP 77056",
+   "tempF": 70,
+   "conditions": "Partly Cloudy",
+   "icon": "partly",
+   "aqi": 83,
    "aqiCat": "Moderate",
    "aqiNote": "PM2.5",
-   "conditions": "Fog",
-   "detail": "Sanders County",
-   "extra": "Humidity 100% \u00b7 Wind SSW 1 mph",
-   "icon": "fog",
-   "name": "Seiver Ranch \u2014 Plains, MT",
-   "tempF": 39,
-   "today": "Cloudy, afternoon showers, high 53\u00b0F",
-   "tomorrow": "Partly cloudy, high 60\u00b0F",
-   "tonight": "Clouds early, clearing late, low 41\u00b0F"
-  },
-  {
    "alerts": "No alerts",
-   "aqi": 18,
-   "aqiCat": "Good",
-   "aqiNote": "O3",
-   "conditions": "Fair",
-   "detail": "Pierce County",
-   "extra": "Humidity 96% \u00b7 Wind SW 5 mph",
-   "icon": "sun",
-   "name": "Seiver Slough \u2014 Rugby, ND",
-   "tempF": 28,
-   "today": "Showers, high 47\u00b0F",
-   "tomorrow": "AM clouds, PM sun, high 38\u00b0F",
-   "tonight": "Cloudy, low 30\u00b0F"
+   "extra": "Humidity 67% · Wind E 6 mph",
+   "today": "Showers, high 74°F",
+   "tonight": "Thunderstorms, low 64°F",
+   "tomorrow": "Cloudy, high 75°F"
   },
   {
-   "alerts": "Small Craft Advisory until Tue 1:00 PM EST (marine only)",
-   "aqi": 23,
+   "name": "Seiver Ranch — Plains, MT",
+   "detail": "Sanders County",
+   "tempF": 43,
+   "conditions": "Cloudy",
+   "icon": "clouds",
+   "aqi": 83,
+   "aqiCat": "Moderate",
+   "aqiNote": "PM2.5",
+   "alerts": "No alerts — no wildfire or red-flag warnings",
+   "extra": "Humidity 100% · Wind calm",
+   "today": "PM showers, high 53°F",
+   "tonight": "Clouds early, clearing late, low 40°F",
+   "tomorrow": "AM clouds, PM sun, high 59°F"
+  },
+  {
+   "name": "Seiver Slough — Rugby, ND",
+   "detail": "Pierce County",
+   "tempF": 40,
+   "conditions": "Fair",
+   "icon": "sun",
+   "aqi": 13,
    "aqiCat": "Good",
    "aqiNote": "O3",
-   "conditions": "Sunny",
+   "alerts": "No alerts",
+   "extra": "Humidity 80% · Wind SE 5 mph",
+   "today": "Showers, high 46°F",
+   "tonight": "Cloudy, low 30°F",
+   "tomorrow": "AM clouds, PM sun, high 39°F"
+  },
+  {
+   "name": "Seiver Lodge — L'Anse, MI",
    "detail": "Baraga County",
-   "extra": "Humidity 96% \u00b7 Wind W 10 mph, gusts 18",
+   "tempF": 52,
+   "conditions": "Sunny",
    "icon": "sun",
-   "name": "Seiver Lodge \u2014 L'Anse, MI",
-   "tempF": 39,
-   "today": "Mostly sunny, high 55\u00b0F",
-   "tomorrow": "Showers, high 46\u00b0F",
-   "tonight": "Cloudy, low 38\u00b0F"
+   "aqi": 20,
+   "aqiCat": "Good",
+   "aqiNote": "O3",
+   "alerts": "Small Craft Advisory until Tue 1:00 PM EST (marine only)",
+   "extra": "Humidity 62% · Wind WNW 10 mph, gusts 18",
+   "today": "Mostly sunny, high 55°F",
+   "tonight": "Mostly cloudy, low 39°F",
+   "tomorrow": "Showers, high 48°F"
   }
  ],
  "weekInBrief": [
   {
-   "body": "The S&P 500 jumped 2.35% to 7,549.94 on Monday, its best day since April 8, as oil slid and inflation fears cooled; the Dow gained 1,104 points and the Nasdaq 2.74%, while the VIX collapsed 22% to 19.92.",
-   "headline": "Stocks post best day since April",
-   "stamp": "Mon Nov 9, 3:00 PM CT"
+   "headline": "Trump declares Iran war 'effectively over'; strikes paused, blockade stays",
+   "body": "President Trump said the US-Iran war is 'effectively over' and that further strikes are paused pending diplomacy, after meeting Qatar's prime minister on Monday. The naval blockade and Operation Iron Gate remain in place, and Tehran disputes that talks exist. Oil slid on the news, with Brent falling below $92.",
+   "stamp": "Tue Nov 10, 2026"
   },
   {
-   "body": "Record $268M revenue (+73% YoY) and a record $3.57B backlog, but EPS of -$0.12 missed the -$0.07 consensus; Q4 guidance $270-290M, Neutron's first flight now 2027. Shares slipped after hours.",
-   "headline": "Rocket Lab Q3: record revenue, EPS miss",
-   "stamp": "Mon Nov 9, 3:30 PM CT"
+   "headline": "Oil extends its slide as Iran fears ease",
+   "body": "Brent crude is trading near $91.98 and WTI near $86.69 in late-morning trade, extending a slide that has taken Brent from $118 on Oct 30 and $97.00 on Monday. The drop follows Trump's signal that new strikes on Iran are unlikely; a $42B 10-year Treasury auction lands at 1:00 PM ET.",
+   "stamp": "Tue Nov 10, 10:50 AM CT"
   },
   {
-   "body": "The board opened an independent probe Sun Nov 8 into reports CEO Jensen Huang was targeted by a foreign-intelligence effort; Huang remains CEO, shares fell 4.27% Monday, and a House briefing is set for Nov 18 ahead of Nov 17 earnings.",
-   "headline": "Nvidia board probe rocks AI's biggest name",
-   "stamp": "Mon Nov 9, 3:00 PM CT"
+   "headline": "Federal debt at 101% of GDP, triple the 2001 level",
+   "body": "A new Congressional Research Service report puts publicly held federal debt at 101% of GDP at the end of fiscal 2026, more than triple the 32% recorded in 2001, the last surplus year. The CBO projects a fiscal 2026 deficit of $1.85 trillion (5.8% of GDP), with debt reaching 120% of GDP by 2036 and net interest at 4.6% of GDP.",
+   "stamp": "Fri Nov 6, 9:55 AM CT"
   },
   {
-   "body": "Democrats flipped 7 Senate seats and 30+ House seats to take both chambers, plus the Texas governorship and a U.S. Senate seat.",
-   "headline": "Democrats sweep Congress in midterms",
-   "stamp": "Tue Nov 3, 2026"
-  },
-  {
-   "body": "California's governor commuted every death sentence in the state on Friday.",
-   "headline": "Newsom commutes all 548 California death sentences",
-   "stamp": "Fri Nov 6, 2026"
+   "headline": "Utility uranium contracting already outruns last year's pace",
+   "body": "Term uranium contracting so far this year tops 83 million pounds, against about 48 million at the end of October last year, as utilities lock in supply. Spot U3O8 is holding near $91/lb with the long-term price at $97/lb; Kazatomprom's Q3 realized price rose 18% to $81.50/lb, while the Sprott trust still trades at about a 16% discount to NAV.",
+   "stamp": "Tue Nov 10, 6:22 AM CT"
   }
  ]
 }
