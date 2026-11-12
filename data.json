@@ -7,35 +7,35 @@
     "pageUrl": "https://apod.nasa.gov/apod/astropix.html",
     "title": "Moon, Venus and Spica Meet"
   },
-  "asOf": "Thu Nov 12, 2026, 12:00 PM CT",
+  "asOf": "Thu Nov 12, 2026, 5:00 PM CT",
   "breaking": [
     {
-      "fact": "Nvidia announced Thursday morning that founder-CEO Jensen Huang has resigned as president, CEO and board member, effective immediately, after the board met late Wednesday — reversing its Sunday statement of confidence in him. CFO Colette Kress, 59, is interim CEO while keeping her finance role, and director Harvey Jones, 73, becomes the board's first-ever chair. No reason was given in the 8-K filing. Shares fell as much as 14% early, then pared the loss to about 5% near $165 midday; earnings are due Nov 17.",
-      "headline": "Nvidia CEO Jensen Huang resigns effective immediately; Kress named interim chief",
-      "source": "CNN",
-      "tag": "US",
-      "url": "https://www.cnn.com/2026/11/12/tech/jensen-huang-nvidia-resigns?cid=external-feeds_iluminar_meta"
-    },
-    {
-      "fact": "Talks between Vladimir Putin and US envoys Jared Kushner and Steve Witkoff ended in Moscow Thursday; Witkoff said 'progress was made,' the trilateral format has restarted and a new meeting is set, with European representatives possibly joining. Putin rejected any European troop presence in Ukraine after a deal and held to his demand that Kyiv surrender all of Donbas. The envoys now fly to Dublin to brief President Zelensky on Friday; the Abu Dhabi round agreed a major prisoner exchange but no ceasefire.",
-      "headline": "Moscow talks end: envoys say progress made, trilateral talks restarted",
-      "source": "CNN",
-      "tag": "World",
-      "url": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl?cid=external-feeds_iluminar_meta"
-    },
-    {
-      "fact": "US existing-home sales fell 5.5% in October to a seasonally adjusted annual rate of 3.75 million — the lowest since August 2010 and below the 3.85 million consensus — as the average 30-year mortgage hit 7.33%, the highest since 2000 outside one month in 2023. Sales were down 8.8% year over year; inventory rose to 1.59 million homes, a 5.1-month supply, while the median price edged up 0.4% to $416,700.",
-      "headline": "Existing home sales fall to 3.75 million, lowest since August 2010",
+      "fact": "Cisco's fiscal Q1 revenue rose 24% to $18.5 billion with non-GAAP earnings of $1.40 a share, up 40%, and the company raised its fiscal 2027 revenue outlook to $74.8–75.8 billion. Applied Materials posted record Q4 revenue of $10.41 billion, up 53%, with adjusted earnings of $4.16 a share against $4.06 expected, and guided Q1 fiscal 2027 revenue to about $11.10 billion, above the $10.89 billion estimate. Cisco shares were little changed after hours; Applied Materials fell 3.6% in the regular session, then steadied after hours.",
+      "headline": "Cisco and Applied Materials beat after the close on strong AI demand",
       "source": "Reuters",
       "tag": "US",
-      "url": "https://www.reuters.com/business/us-existing-home-sales-slump-more-than-16-year-low-october-2026-11-12/"
+      "url": "https://stockvolt.com/stories/cisco-lifts-fiscal-2027-revenue-outlook-to-as-much-as-75-8-billion-and-applied-m-24b922"
     },
     {
-      "fact": "President Zelensky said Thursday that Starshield — the military-grade version of Starlink critical to Ukraine's military operations — has faced 'significant disruptions' in recent days, hampering Kyiv's ability to shoot down Russian drones. It is the latest recurrence of outages to the service, which Ukraine relies on for battlefield communications.",
-      "headline": "Ukraine says Starshield hit by disruptions again as Moscow talks end",
-      "source": "CNN",
-      "tag": "World",
-      "url": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl?cid=external-feeds_iluminar_meta"
+      "fact": "U.S. Antimony's Q3 revenue rose 16% to $10.1 million but missed the roughly $16.7 million estimate, and the net loss widened to $9.5 million as antimony prices fell about 63%. Gross margin expanded to 42% from 23% and antimony pounds sold rose 68%; the company projects 2026 antimony sales of 1.68–1.81 million pounds, up about 24%, with October sales of about 310,000 pounds, its best month ever. Shares fell 6.7% to $2.91 at the close and slid about 9% further after hours.",
+      "headline": "U.S. Antimony's Q3 revenue misses as antimony prices plunge; shares slide after hours",
+      "source": "Reuters",
+      "tag": "US",
+      "url": "https://www.quantisnow.com/insight/united-states-antimony-corporation-reports-third-quarter-and-nine-months-6787632"
+    },
+    {
+      "fact": "The S&P 500 fell 0.35% to 7,592.40, the Nasdaq 0.39% to 25,366.09 and the Dow 0.36% to 52,297.09, while the Russell 2000 dropped 1.66%. Nvidia plunged 14% at the open after Jensen Huang's resignation, then pared the loss to 4.3% at $166.19; retail investors bought about $111 million of the stock in the first half hour, the biggest opening bid on record, per Vanda Research. AMD and Broadcom each rose nearly 6% to lead S&P advancers, and energy was the best sector for a fourth straight session.",
+      "headline": "Stocks close lower as Nvidia's 14% plunge outweighs energy gains",
+      "source": "Reuters",
+      "tag": "US",
+      "url": "https://www.sfntoday.com/2026/11/12/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/"
+    },
+    {
+      "fact": "The National Weather Service in Marquette has a Winter Weather Advisory in effect for Baraga County until noon Friday EST, with snow showers around L'Anse, north winds near 15 mph and temperatures in the mid-30s; snow showers continue into Friday.",
+      "headline": "Winter Weather Advisory for Baraga County until Friday noon",
+      "source": "National Weather Service",
+      "tag": "Local",
+      "url": "https://www.weather.gov/mqt/"
     }
   ],
   "cdRates": {
@@ -104,10 +104,10 @@
   },
   "markets": [
     {
-      "change": "+15.10",
-      "dir": "up",
+      "change": "-26.98",
+      "dir": "down",
       "label": "S&P 500",
-      "pct": "+0.20%",
+      "pct": "-0.35%",
       "spark": [
         7722.72021484375,
         7773.9501953125,
@@ -138,15 +138,15 @@
         7549.93994140625,
         7520.93017578125,
         7619.3798828125,
-        7634.47998046875
+        7592.39990234375
       ],
-      "value": "7,634.48"
+      "value": "7,592.40"
     },
     {
-      "change": "+22.70",
-      "dir": "up",
+      "change": "-100.10",
+      "dir": "down",
       "label": "NASDAQ Composite",
-      "pct": "+0.09%",
+      "pct": "-0.39%",
       "spark": [
         27190.859375,
         27477.310546875,
@@ -177,15 +177,15 @@
         25253.140625,
         25065.869140625,
         25466.189453125,
-        25488.888671875
+        25366.09375
       ],
-      "value": "25,488.89"
+      "value": "25,366.09"
     },
     {
-      "change": "+190.11",
-      "dir": "up",
+      "change": "-189.40",
+      "dir": "down",
       "label": "Dow Jones",
-      "pct": "+0.36%",
+      "pct": "-0.36%",
       "spark": [
         51176.9609375,
         51267.8984375,
@@ -216,15 +216,15 @@
         52389.75,
         52231.890625,
         52486.48828125,
-        52676.6015625
+        52297.08984375
       ],
-      "value": "52,676.60"
+      "value": "52,297.09"
     },
     {
-      "change": "+0.01",
+      "change": "+1.21",
       "dir": "up",
       "label": "VIX",
-      "pct": "+0.06%",
+      "pct": "+6.92%",
       "spark": [
         15.3100004196167,
         15.520000457763672,
@@ -255,12 +255,12 @@
         19.920000076293945,
         19.459999084472656,
         17.489999771118164,
-        17.5
+        18.700000762939453
       ],
-      "value": "17.50"
+      "value": "18.70"
     },
     {
-      "change": "+0.107 pp",
+      "change": "+0.105 pp",
       "dir": "up",
       "label": "10-Yr Treasury",
       "pct": "",
@@ -294,15 +294,15 @@
         4.863999843597412,
         4.982999801635742,
         4.998000144958496,
-        5.105000019073486
+        5.102999687194824
       ],
-      "value": "5.105%"
+      "value": "5.103%"
     },
     {
-      "change": "+1.16",
+      "change": "+2.17",
       "dir": "up",
       "label": "WTI Crude",
-      "pct": "+1.34%",
+      "pct": "+2.51%",
       "spark": [
         91.11000061035156,
         89.43000030517578,
@@ -333,15 +333,15 @@
         86.8499984741211,
         86.04000091552734,
         86.52999877929688,
-        87.69000244140625
+        88.69999694824219
       ],
-      "value": "$87.69"
+      "value": "$88.70"
     },
     {
-      "change": "+1.80",
+      "change": "+3.01",
       "dir": "up",
       "label": "Brent Crude",
-      "pct": "+1.94%",
+      "pct": "+3.24%",
       "spark": [
         102.25,
         100.31999969482422,
@@ -372,36 +372,36 @@
         92.56999969482422,
         91.48999786376953,
         92.76000213623047,
-        94.55999755859375
+        95.7699966430664
       ],
-      "value": "$94.56"
+      "value": "$95.77"
     }
   ],
-  "marketsNote": "Midday Thursday: stocks have rebounded from early losses after Nvidia's CEO resignation — S&P 500 +0.2% near 7,634, Nasdaq +0.1%, Dow +0.4% — as AMD and Broadcom jump ~6% and Alphabet gains ~3%, while Nvidia slides ~5% to ~$165. Oil jumps (WTI $87.69, Brent $94.56) after four tankers were hit in the Strait of Hormuz; the VIX is near 17.5 and the 10-year yield is back above 5% at 5.105%. Today: jobless claims came in at 200,000; October existing home sales fell to a 16-year low of 3.75 million; Cisco and Applied Materials report after the close; Friday brings the October PPI report.",
+  "marketsNote": "Thursday's close: stocks ended lower after a volatile session — S&P 500 -0.35% at 7,592.40, Nasdaq -0.39%, Dow -0.36% — as Nvidia plunged 14% at the open on Jensen Huang's resignation before recovering to -4.3%, while AMD and Broadcom each rose nearly 6%. Oil jumped (WTI $88.70, Brent $95.77) after four tankers were hit in the Strait of Hormuz; the VIX rose to 18.7 and the 10-year yield topped 5% at 5.103%. After the close, Cisco and Applied Materials both beat estimates on strong AI demand, and U.S. Antimony's Q3 revenue missed; Friday brings the October PPI report.",
   "space": [
     {
-      "body": "SpaceX is targeting Friday, Nov 13, for Starship Flight 15 from Starbase, Texas, in a 75-minute window opening at 4:45 PM CT — the first attempt to catch both the Super Heavy booster and the Ship upper stage in the launch tower's arms. Ship 42 would orbit about 14 times over 22-plus hours, deploy 26 Starlink V3 satellites, and return for a tower catch Saturday afternoon; the flight is still pending an FAA license as of Nov 11.",
-      "headline": "Starship Flight 15 targets Friday for first double tower catch",
+      "body": "Astronomers sifting through Vera C. Rubin Observatory data found 2026 ED138, an object 46 times farther from the Sun than Earth that takes 281 years to complete an orbit. Estimated at 370 to 930 miles across, it is likely big enough to be round and could become the solar system's sixth dwarf planet; its orbit is tilted nearly 25 degrees, suggesting a past gravitational brush with Neptune.",
+      "headline": "Possible new dwarf planet found far beyond Pluto",
       "tag": "Space",
-      "url": "https://starlust.org/starship-flight-15-spacex-moves-super-heavy-booster-to-launch-pad-ahead-of-november-13-lift-off/"
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"
     },
     {
-      "body": "ESA's Euclid space telescope released its first major data batch, DR1 Foundation: 13 months of observations covering light from more than a billion objects across sky equal to 9,500 full moons, including over 900 million galaxies, around 15,000 strong gravitational-lensing candidates and more than 60 million quasar candidates. It lays the foundation for the largest-ever 3D map of the cosmos; the full Data Release 1 follows in mid-2027.",
-      "headline": "Euclid releases best-ever 3D map of the universe",
+      "body": "NASA announced Nov 7 it has selected SpaceX to launch communications satellites aboard Starship in 2028 for its Cislunar Communications Deployment Demonstration, building the relay network for astronauts and a planned base near the Moon's south pole. The demo sits within a broader Moon Base plan for an initial constellation of five relay satellites, followed by a second constellation from another provider.",
+      "headline": "NASA picks SpaceX to launch lunar communications satellites on Starship",
       "tag": "Space",
-      "url": "https://phys.org/news/2026-11-euclid-3d-universe-date.html"
+      "url": "https://dig.watch/updates/nasa-awards-contract-to-spacex-for-moon-base"
     },
     {
-      "body": "Flinders University scientists found that carefully controlled microscopic cracks boost an antibacterial coating of gallium-carbon nanotube film: after one minute of electrical stimulation from a standard 9-volt battery, more than 80% of MRSA and Pseudomonas aeruginosa cells were dead within three hours. The work, published in Small Structures, could lead to smart wound dressings and wearable devices that treat infections at the source.",
-      "headline": "Tiny cracks and a 9-volt battery could help fight deadly superbugs",
+      "body": "University of Washington researchers, publishing Nov 12 in Science, showed that stretching and compressing magic-angle twisted bilayer graphene swings its electrical resistance by more than 100 times that of an ordinary metal, an effect amplified at very low temperatures. The new “strain knob” gives physicists a way to tune the material's exotic quantum states.",
+      "headline": "Strain tunes magic-angle graphene resistance more than 100-fold",
       "tag": "Science",
-      "url": "https://phys.org/news/2026-11-tiny-volt-battery-deadly-superbugs.html"
+      "url": "https://phys.org/news/2026-11-magic-angle-graphene-tuning-resistance.html"
     }
   ],
-  "version": 12,
+  "version": 13,
   "watchlist": [
     {
-      "blurb": "Paris closed Thursday at €192.84, up 0.35%; at the ECB's Nov 12 reference rate of 1.1081 that's $213.69, down 0.06% in dollars as the euro slipped.",
+      "blurb": "Air Liquide closed in Paris at €192.84 Thursday, up 0.35%; converted at the ECB's Nov 12 reference rate of 1.1081, that's $213.69 — down 0.06% in dollars as the euro eased.",
       "change": "-0.06%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/AI.PA",
@@ -422,12 +422,12 @@
       "yieldTag": null
     },
     {
-      "blurb": "T-bill ETF trades near $91.51 midday Thursday; its latest monthly distribution ($0.30849, ex Nov 2) still annualizes to a 4.05% yield at that price.",
-      "change": "+0.01%",
-      "dir": "up",
+      "blurb": "T-bill ETF closed Thursday at $91.50, flat on the day; its latest monthly distribution ($0.30849, ex Nov 2) still annualizes to a 4.05% yield at that price.",
+      "change": "0.00%",
+      "dir": "flat",
       "link": "https://finance.yahoo.com/quote/BIL",
       "name": "SPDR 1-3 Month T-Bill ETF",
-      "price": "$91.51",
+      "price": "$91.50",
       "risk": 0,
       "spark": [
         91.41999816894531,
@@ -436,19 +436,19 @@
         91.4800033569336,
         91.48999786376953,
         91.5,
-        91.50769805908203
+        91.5
       ],
       "subTag": "$0.30849 dist., ex Nov 2, paid Nov 5",
       "ticker": "BIL",
       "yieldTag": "Dist. yield 4.05%"
     },
     {
-      "blurb": "Fastenal trades near $55.83 midday Thursday (+0.6%), still well above Sean's $48 buy gate.",
-      "change": "+0.61%",
+      "blurb": "Fastenal closed Thursday at $55.55 (+0.1%), still well above Sean's $48 buy gate.",
+      "change": "+0.11%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/FAST",
       "name": "Fastenal",
-      "price": "$55.83",
+      "price": "$55.55",
       "risk": 2,
       "spark": [
         53.209999084472656,
@@ -457,19 +457,19 @@
         54.56999969482422,
         54.84000015258789,
         55.4900016784668,
-        55.83000183105469
+        55.54999923706055
       ],
       "subTag": null,
       "ticker": "FAST",
       "yieldTag": null
     },
     {
-      "blurb": "Alphabet jumps ~3% midday Thursday to $302.10, pacing the market's recovery as investors rotate toward Google's TPU edge while Nvidia slides on its CEO's resignation.",
-      "change": "+2.95%",
+      "blurb": "Alphabet closed Thursday at $298.70, up 1.8%, pacing the market's recovery as investors rotated toward Google's TPU edge while Nvidia slid on its CEO's resignation.",
+      "change": "+1.79%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/GOOGL",
       "name": "Alphabet (Google) Cl A",
-      "price": "$302.10",
+      "price": "$298.70",
       "risk": 3,
       "spark": [
         288.92999267578125,
@@ -478,19 +478,19 @@
         288.1499938964844,
         287.3800048828125,
         293.45001220703125,
-        302.1000061035156
+        298.70001220703125
       ],
       "subTag": null,
       "ticker": "GOOGL",
       "yieldTag": null
     },
     {
-      "blurb": "Lilly trades near $1,446 midday Thursday (+0.6%); the FDA's rare vision-loss (NAION) warning on GLP-1 labels, including Zepbound and Mounjaro, remains the overhang.",
-      "change": "+0.62%",
-      "dir": "up",
+      "blurb": "Lilly closed Thursday at $1,427.28 (-0.7%); the FDA's rare vision-loss (NAION) warning on GLP-1 labels, including Zepbound and Mounjaro, remains the overhang.",
+      "change": "-0.70%",
+      "dir": "down",
       "link": "https://finance.yahoo.com/quote/LLY",
       "name": "Eli Lilly",
-      "price": "$1,446.27",
+      "price": "$1,427.28",
       "risk": 3,
       "spark": [
         1417.989990234375,
@@ -499,19 +499,19 @@
         1411.949951171875,
         1432.2900390625,
         1437.2900390625,
-        1446.2659912109375
+        1427.280029296875
       ],
       "subTag": null,
       "ticker": "LLY",
       "yieldTag": null
     },
     {
-      "blurb": "Cheniere trades near $311.71 midday Thursday (+2.4%) as crude jumps on the latest Strait of Hormuz tanker attacks.",
-      "change": "+2.36%",
+      "blurb": "Cheniere closed Thursday at $309.48 (+1.6%) as crude jumped on the latest Strait of Hormuz tanker attacks.",
+      "change": "+1.63%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/LNG",
       "name": "Cheniere Energy",
-      "price": "$311.71",
+      "price": "$309.48",
       "risk": 3,
       "spark": [
         292.0199890136719,
@@ -520,19 +520,19 @@
         284.95001220703125,
         293.489990234375,
         304.510009765625,
-        311.7099914550781
+        309.4800109863281
       ],
       "subTag": null,
       "ticker": "LNG",
       "yieldTag": null
     },
     {
-      "blurb": "Nvidia slides ~5% midday Thursday to ~$164.79 after founder-CEO Jensen Huang resigned effective immediately; CFO Colette Kress is interim CEO and Harvey Jones is the board's first-ever chair. Earnings are due Nov 17.",
-      "change": "-5.14%",
+      "blurb": "Nvidia closed Thursday at $166.19 (-4.3%) after founder-CEO Jensen Huang resigned effective immediately; the stock plunged 14% at the open before recovering most of the loss. CFO Colette Kress is interim CEO and Harvey Jones is the board's first-ever chair. Earnings are due Nov 17.",
+      "change": "-4.34%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/NVDA",
       "name": "NVIDIA",
-      "price": "$164.79",
+      "price": "$166.19",
       "risk": 3,
       "spark": [
         200.1300048828125,
@@ -541,19 +541,19 @@
         178.6699981689453,
         168.88999938964844,
         173.72999572753906,
-        164.7949981689453
+        166.19000244140625
       ],
       "subTag": null,
       "ticker": "NVDA",
       "yieldTag": null
     },
     {
-      "blurb": "Pfizer trades near $29.22 midday Thursday (-0.8%), lagging the broad market's recovery.",
-      "change": "-0.80%",
+      "blurb": "Pfizer closed Thursday at $28.83 (-2.1%), lagging the broad market.",
+      "change": "-2.11%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/PFE",
       "name": "Pfizer",
-      "price": "$29.22",
+      "price": "$28.83",
       "risk": 2,
       "spark": [
         30.790000915527344,
@@ -562,19 +562,19 @@
         29.229999542236328,
         29.360000610351562,
         29.450000762939453,
-        29.21500015258789
+        28.829999923706055
       ],
       "subTag": null,
       "ticker": "PFE",
       "yieldTag": null
     },
     {
-      "blurb": "Rocket Lab trades near $65.50 midday Thursday (-1.0%); SpaceX's Starship Flight 15 window opens Friday afternoon.",
-      "change": "-0.98%",
+      "blurb": "Rocket Lab closed Thursday at $64.07 (-3.1%); SpaceX's Starship Flight 15 window opens Friday afternoon.",
+      "change": "-3.14%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/RKLB",
       "name": "Rocket Lab",
-      "price": "$65.50",
+      "price": "$64.07",
       "risk": 4,
       "spark": [
         52.369998931884766,
@@ -583,19 +583,19 @@
         58.86000061035156,
         62.709999084472656,
         66.1500015258789,
-        65.5
+        64.06999969482422
       ],
       "subTag": null,
       "ticker": "RKLB",
       "yieldTag": null
     },
     {
-      "blurb": "Rithm trades near $9.15 midday Thursday (-0.7%) as the 10-year yield climbs back above 5%.",
-      "change": "-0.65%",
+      "blurb": "Rithm closed Thursday at $9.00 (-2.3%) as the 10-year yield climbed back above 5%.",
+      "change": "-2.28%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/RITM",
       "name": "Rithm Capital",
-      "price": "$9.15",
+      "price": "$9.00",
       "risk": 4,
       "spark": [
         9.5,
@@ -604,19 +604,19 @@
         9.4399995803833,
         9.270000457763672,
         9.210000038146973,
-        9.149999618530273
+        9.0
       ],
       "subTag": null,
       "ticker": "RITM",
       "yieldTag": null
     },
     {
-      "blurb": "The SPAC ETF trades near $143.03 midday Thursday (+2.3%), riding the market's rebound from the morning's Nvidia-led dip.",
-      "change": "+2.35%",
+      "blurb": "The SPAC ETF closed Thursday at $139.94 (+0.1%), giving back most of the midday rebound.",
+      "change": "+0.14%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/SPCX",
       "name": "SpaceX",
-      "price": "$143.03",
+      "price": "$139.94",
       "risk": 4,
       "spark": [
         135.9199981689453,
@@ -625,19 +625,19 @@
         142.07000732421875,
         143.08999633789062,
         139.75,
-        143.02999877929688
+        139.94000244140625
       ],
       "subTag": null,
       "ticker": "SPCX",
       "yieldTag": null
     },
     {
-      "blurb": "Truist trades near $50.27 midday Thursday, essentially flat.",
-      "change": "+0.02%",
-      "dir": "up",
+      "blurb": "Truist closed Thursday at $49.89 (-0.7%).",
+      "change": "-0.74%",
+      "dir": "down",
       "link": "https://finance.yahoo.com/quote/TFC",
       "name": "Truist Financial",
-      "price": "$50.27",
+      "price": "$49.89",
       "risk": 3,
       "spark": [
         50.869998931884766,
@@ -646,19 +646,19 @@
         50.33000183105469,
         50.2599983215332,
         50.2599983215332,
-        50.27000045776367
+        49.88999938964844
       ],
       "subTag": null,
       "ticker": "TFC",
       "yieldTag": null
     },
     {
-      "blurb": "U.S. Antimony trades near $2.95 midday Thursday (-5.6%), still under Sean's $4 buy gate.",
-      "change": "-5.61%",
+      "blurb": "U.S. Antimony closed Thursday at $2.91 (-6.7%), still under Sean's $4 buy gate — and slid further after hours after Q3 revenue missed estimates.",
+      "change": "-6.73%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/UAMY",
       "name": "United States Antimony",
-      "price": "$2.95",
+      "price": "$2.91",
       "risk": 5,
       "spark": [
         2.9800000190734863,
@@ -667,19 +667,19 @@
         3.4700000286102295,
         3.2100000381469727,
         3.119999885559082,
-        2.944999933242798
+        2.9100000858306885
       ],
       "subTag": null,
       "ticker": "UAMY",
       "yieldTag": null
     },
     {
-      "blurb": "Uranium Energy trades near $7.00 midday Thursday (-3.2%) even as crude rallies on the Hormuz attacks.",
-      "change": "-3.20%",
+      "blurb": "Uranium Energy closed Thursday at $6.80 (-6.0%) even as crude rallied on the Hormuz attacks.",
+      "change": "-5.95%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/UEC",
       "name": "Uranium Energy",
-      "price": "$7.00",
+      "price": "$6.80",
       "risk": 5,
       "spark": [
         7.190000057220459,
@@ -688,19 +688,19 @@
         7.619999885559082,
         7.170000076293945,
         7.230000019073486,
-        6.998600006103516
+        6.800000190734863
       ],
       "subTag": null,
       "ticker": "UEC",
       "yieldTag": null
     },
     {
-      "blurb": "Valero trades near $377.45 midday Thursday (+3.8%) as crude jumps on the Hormuz tanker attacks.",
-      "change": "+3.78%",
+      "blurb": "Valero closed Thursday at $374.95 (+3.1%) as crude jumped on the Hormuz tanker attacks.",
+      "change": "+3.09%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/VLO",
       "name": "Valero Energy",
-      "price": "$377.45",
+      "price": "$374.95",
       "risk": 3,
       "spark": [
         365.3399963378906,
@@ -709,7 +709,7 @@
         356.75,
         350.7099914550781,
         363.7099914550781,
-        377.45001220703125
+        374.95001220703125
       ],
       "subTag": null,
       "ticker": "VLO",
@@ -737,12 +737,12 @@
       "yieldTag": null
     },
     {
-      "blurb": "S&P 500-anchored estimate ($155.58 when the index closed 7,568.92 on Nov 3); this CIT has no public quote — up 0.20% with the index's midday level to $156.93 (est.).",
-      "change": "+0.20%",
-      "dir": "up",
+      "blurb": "S&P 500-anchored estimate ($155.58 when the index closed 7,568.92 on Nov 3); this CIT has no public quote — down 0.35% with the index's close to $156.06 (est.).",
+      "change": "-0.36%",
+      "dir": "down",
       "link": null,
       "name": "Vanguard Institutional 500 Index Trust",
-      "price": "$156.93 (est.)",
+      "price": "$156.06 (est.)",
       "risk": 3,
       "spark": [
         158.04,
@@ -751,14 +751,14 @@
         155.19,
         154.59,
         156.62,
-        156.93
+        156.06
       ],
       "subTag": "S&P 500-anchored estimate",
       "ticker": "VI5TC",
       "yieldTag": null
     },
     {
-      "blurb": "Schwab money market fund; stable $1.00 NAV, 7-day SEC yield 3.75% as published Nov 10 — Schwab's page still shows no newer figure at midday.",
+      "blurb": "Schwab money market fund; stable $1.00 NAV, 7-day SEC yield 3.75% as published Nov 10 — re-verified from Schwab's official page this run; no newer figure.",
       "change": "",
       "dir": "flat",
       "link": "https://finance.yahoo.com/quote/SWVXX",
@@ -787,84 +787,84 @@
   "weather": [
     {
       "alerts": "No alerts",
-      "aqi": 53,
+      "aqi": 75,
       "aqiCat": "Moderate",
       "aqiNote": "PM2.5",
       "conditions": "Sunny",
       "detail": "ZIP 77056",
-      "extra": "Humidity 26% · Wind NE 11 mph",
+      "extra": "Humidity 41% · Wind N 5 mph",
       "icon": "sun",
       "name": "Houston Winter Condo",
-      "tempF": 76,
-      "today": "Sunny, high 78°F",
-      "tomorrow": "Sunny, high 76°F",
-      "tonight": "Clear, low 56°F"
+      "tempF": 75,
+      "today": "Sunny, high 77°F",
+      "tomorrow": "Sunny, high 73°F",
+      "tonight": "Clear, low 55°F"
     },
     {
       "alerts": "No alerts — no wildfire or red-flag warnings",
-      "aqi": 63,
-      "aqiCat": "Moderate",
+      "aqi": 21,
+      "aqiCat": "Good",
       "aqiNote": "PM2.5",
       "conditions": "Mostly Cloudy",
       "detail": "Sanders County",
-      "extra": "Humidity 94% · Wind NE 4 mph",
+      "extra": "Humidity 47% · Wind ESE 1 mph",
       "icon": "clouds",
       "name": "Seiver Ranch — Plains, MT",
-      "tempF": 43,
-      "today": "AM clouds/PM sun, high 56°F",
-      "tomorrow": "Partly cloudy, high 54°F",
-      "tonight": "Partly cloudy, low 35°F"
+      "tempF": 54,
+      "today": "Mostly cloudy, high 55°F",
+      "tomorrow": "Mostly cloudy, high 53°F",
+      "tonight": "Mostly cloudy, low 33°F"
     },
     {
       "alerts": "No alerts",
-      "aqi": 19,
+      "aqi": 28,
       "aqiCat": "Good",
       "aqiNote": "O3",
-      "conditions": "Cloudy",
+      "conditions": "Mostly Sunny",
       "detail": "Pierce County",
-      "extra": "Humidity 80% · Wind SSE 7 mph",
-      "icon": "clouds",
+      "extra": "Humidity 64% · Wind SE 7 mph",
+      "icon": "partly",
       "name": "Seiver Slough — Rugby, ND",
-      "tempF": 32,
-      "today": "AM clouds/PM sun, high 37°F",
-      "tomorrow": "Partly cloudy, high 38°F",
-      "tonight": "Partly cloudy, low 22°F"
+      "tempF": 37,
+      "today": "Sunny, high 38°F",
+      "tomorrow": "Mostly sunny, high 37°F",
+      "tonight": "Partly cloudy, low 21°F"
     },
     {
-      "alerts": "Winter Weather Advisory until Fri 12:00 PM EST · Small Craft Advisory until Fri 7:00 AM EST",
-      "aqi": 31,
+      "alerts": "Winter Weather Advisory until Fri 12:00 PM EST",
+      "aqi": 36,
       "aqiCat": "Good",
       "aqiNote": "O3",
-      "conditions": "Snow Showers",
+      "conditions": "Snow Showers Likely",
       "detail": "Baraga County",
-      "extra": "Humidity 76% · Wind N 13 mph",
+      "extra": "Humidity 79% · Wind N 15 mph",
       "icon": "snow",
       "name": "Seiver Lodge — L'Anse, MI",
-      "tempF": 37,
-      "today": "Snow showers, high 37°F",
-      "tomorrow": "Snow showers, high 37°F",
-      "tonight": "Snow showers, low 29°F"
+      "tempF": 35,
+      "today": "Snow showers likely, high 36°F",
+      "tomorrow": "Chance snow showers, high 36°F",
+      "tonight": "Snow showers likely, low 31°F"
     }
   ],
   "weekInBrief": [
     {
-      "body": "October CPI rose 0.4% month over month, beating the 0.3% forecast, and CME FedWatch now puts a 25-basis-point December hike at 91% odds, up from 84% on Monday, with about 10% odds of a 50-point move. Fed Governor Waller backs a December hike and Dallas Fed President Logan says at least two more quarter-point rises are needed; the dollar index touched 103.02, its highest since April 2025. October PPI is due Friday at 8:30 AM ET, expected up 0.4% headline and 0.3% core.",
-      "headline": "December hike odds hit 91% as PPI looms Friday",
+      "body": "Gold fell 2.96% to $3,882.10 Thursday as the 10-year Treasury yield climbed 10.5 basis points to 5.103%, its highest in weeks, after the hotter-than-expected October CPI hardened expectations of a December rate hike. The yield move also pressured rate-sensitive stocks, with the Russell 2000 down 1.66%.",
+      "headline": "Gold slides nearly 3% as the 10-year yield tops 5%",
       "stamp": "Nov 12, 2026"
     },
     {
-      "body": "A day after CoreWeave's 25% surge revived the AI trade, Thursday's money rotated to Nvidia's rivals: AMD and Broadcom each jumped about 6% to lead S&P 500 advancers while Nvidia slid roughly 5% on Jensen Huang's resignation, and Alphabet gained about 3%. The split shows the AI trade alive but no longer a one-stock story.",
-      "headline": "AI money rotates: AMD, Broadcom jump 6% as Nvidia slides",
+      "body": "The S&P 500 energy index rose for a fourth straight session as the day's best-performing sector, with refiners and LNG names leading — Valero up 3.1% and Cheniere up 1.6% — as crude rallied on the latest tanker attacks in the Strait of Hormuz. Energy was the one clear winner on a day the broad market fell.",
+      "headline": "Energy leads the market for a fourth straight session",
       "stamp": "Nov 12, 2026"
     },
     {
-      "body": "Anthropic's bankers are preparing to price its IPO above the $70-to-$78 range filed Tuesday after strong first-day roadshow demand, which could lift the valuation to $1.5 trillion or more, the Financial Times reported; the filed range implies $1.26-1.41 trillion fully diluted. Pricing is set for Nov 18 with Nasdaq trading Nov 19 under ticker ANT, alongside a $26 billion private placement from Google, Nvidia, Microsoft, AMD, Broadcom, Micron and TSMC — potentially the biggest IPO ever.",
-      "headline": "Anthropic IPO bankers weigh a $1.5 trillion valuation",
+      "body": "A regional WHO body is meeting this week to decide whether the United States has kept its measles elimination status, and STAT, The Guardian and The Hill report the country is likely to lose it. The US is in its largest measles outbreak in 35 years, with more than 5,400 cases reported; the CDC says its response is unchanged.",
+      "headline": "US likely to lose measles elimination status",
       "stamp": "Nov 11, 2026"
     },
     {
-      "body": "Apple closed at a record high Wednesday and is up about 1% again midday Thursday, leaving it 31% higher in 2026 — the top performer among the Magnificent 7 by a wide margin. The stock has climbed steadily even as the AI trade churned around it.",
-      "headline": "Apple at a record high, up 31% in 2026",
+      "body": "Axios reported, citing six senior sources, that President Trump has approved a crackdown on firms suspected of diverting Nvidia AI chips to China three times this year — in May, in August and again on November 5 — but the restrictions still have not been implemented. The report lands as Nvidia's leadership shake-up rattles chip stocks.",
+      "headline": "Trump approved Nvidia chip-diversion crackdown — but curbs still not in place",
       "stamp": "Nov 12, 2026"
     }
   ]
