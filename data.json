@@ -1,41 +1,41 @@
 {
   "apod": {
-    "credit": "NASA, ESA, A. Aloisi (STScI/ESA), and the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration",
-    "date": "November 11, 2026",
-    "explanation": "Don't judge a galaxy by its size. This Hubble image shows NGC 4449, a dwarf galaxy about a tenth the size of the Milky Way — yet dwarf galaxies are the most common type in the universe. NGC 4449 and similar dwarfs are missing more oxygen than models predict, suggesting their stellar winds and supernovae are surprisingly effective at blowing away oxygen and other heavy elements. These tiny galaxies may play a big role in spreading the building blocks of stars, planets and life throughout the universe.",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/irregular/NGC%204449.jpg?w=2048&h=1320&fit=clip&crop=faces%2Cfocalpoint",
+    "credit": "Włodzimierz Bubak",
+    "date": "November 12, 2026",
+    "explanation": "A crescent Moon and bright Venus appear together over Poland's Tatra Mountains at dusk in a planetary conjunction, with the bright star Spica — a triple star system about 250 light-years away in Virgo — just to Venus's left.",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/conjunction-bubak.jpg?w=1638&h=2048&fit=clip&crop=faces%2Cfocalpoint",
     "pageUrl": "https://apod.nasa.gov/apod/astropix.html",
-    "title": "NGC 4449: Small Galaxy, Big Impact"
+    "title": "Moon, Venus and Spica Meet"
   },
-  "asOf": "Wed Nov 11, 2026, 8:40 PM CT",
+  "asOf": "Thu Nov 12, 2026, 12:12 AM CT",
   "breaking": [
     {
-      "fact": "After Tuesday's hot inflation print, traders put a December Fed rate hike at about 90%, and Goldman Sachs now expects hikes in December and March — a sharp reversal from the cuts priced in just weeks ago.",
-      "headline": "December Fed rate hike now looks near-certain after hot inflation print",
-      "source": "Seven Lights",
+      "fact": "Shares fell to $158.76 by 7:59 p.m. ET after the Wall Street Journal reported the board is preparing to remove founder-CEO Jensen Huang; Reuters says the board met late Wednesday and no decision has been announced. Earnings are due Nov 17.",
+      "headline": "Nvidia plunges ~9% after hours as board reportedly prepares to oust Huang",
+      "source": "MacObserver",
       "tag": "US",
-      "url": "https://sevenlights.org/podcast/2026-11-11-daily-brief/"
+      "url": "https://www.macobserver.com/news/nvidia-stock-falls-after-hours-jensen-huang-ouster-report/"
     },
     {
-      "fact": "Two days of US-Russia-Ukraine talks in Abu Dhabi ended with a large prisoner exchange agreed in principle and nothing else signed — no ceasefire, no joint statement, no date for a next round. Envoys Kushner and Witkoff meet Putin in Moscow on Thursday, then Zelenskyy in Dublin.",
-      "headline": "Abu Dhabi talks end with prisoner swap agreed, no ceasefire",
-      "source": "Objective Daily News",
+      "fact": "Explosions were heard across Kyiv early Thursday and Moscow said it shot down five drones, hours after Abu Dhabi talks ended with a prisoner exchange agreed but no ceasefire; Kushner and Witkoff meet Putin on Thursday, then Zelenskyy in Dublin.",
+      "headline": "Kyiv and Moscow hit in overnight strikes as US envoys head to Moscow",
+      "source": "The Independent",
       "tag": "World",
-      "url": "https://objectivedailynews.com/editions/2026-11-11-evening-watch.html"
+      "url": "https://indy-web-prod.brightsites.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-oil-refineries-abu-dhabi-b3082845.html?page=2"
     },
     {
-      "fact": "The House voted 211–204 to refer impeachment articles against Defense Secretary Pete Hegseth to committee, effectively sidelining the effort; eleven Democrats missed the procedural vote.",
-      "headline": "House shelves Hegseth impeachment push, 211–204",
-      "source": "Mini-Market",
-      "tag": "US",
-      "url": "https://mini-market.uk/america-news-briefing-wednesday-11-november-2026/"
-    },
-    {
-      "fact": "The National Weather Service has a winter weather advisory in effect for the L'Anse area from 10 PM Wednesday until noon Friday, with rain and snow showers and a small craft advisory on Lake Superior until 7 AM Friday.",
-      "headline": "Winter weather advisory for Baraga County through Friday noon",
-      "source": "weather.com",
+      "fact": "A cross-country storm system reaches Texas this weekend, triggering a level 1-of-4 flash-flood threat for Houston, San Antonio and Corpus Christi, with rain likely Sunday; parts of Texas have already had one of their wettest Novembers on record.",
+      "headline": "Weekend storm to bring flash-flood threat to Houston",
+      "source": "Fox Weather",
       "tag": "Local",
-      "url": "https://weather.com/us/mi/city/l-anse/tenday"
+      "url": "https://www.foxweather.com/weather-news/where-us-rain-weekend-storms-sweep-across-country-kalshi"
+    },
+    {
+      "fact": "The S&P 500 closed at 7,619.38 (+1.31%), the Nasdaq at 25,466.19 (+1.60%) and the Dow at 52,486.49 (+0.49%); CoreWeave jumped 24.7% on earnings and Nvidia rebounded 2.9% in the session before its after-hours plunge.",
+      "headline": "Stocks surge as CoreWeave revives the AI trade; S&P +1.3%, Nasdaq +1.6%",
+      "source": "The Company Chronicle",
+      "tag": "US",
+      "url": "https://thecompanychronicle.com/story/stocks-close-nasdaq-100-up-2-3-percent-coreweave-24-micron-12-dow-255-points-november-11-2026"
     }
   ],
   "cdRates": {
@@ -92,12 +92,12 @@
   "hormuz": {
     "items": [
       {
-        "body": "Iran's parliament speaker Mohammad Bagher Ghalibaf said Wednesday the Strait of Hormuz will never return to its pre-war status, while Tehran waits for a US response to seven conditions for reopening the waterway. Foreign Minister Araghchi said the strait could reopen within two days if the conditions are met; US Central Command says nearly 150 ships have been turned away under the continuing naval blockade.",
-        "headline": "Tehran: Hormuz will never return to pre-war status"
+        "body": "The Liberian-flagged VLCC Fujairah Energy was hit by a projectile on Nov 10 while sailing Al Ruwais to Dubai; four of 22 crew were injured. It is at least the eighth Sinokor tanker attacked in Hormuz since July; the IMO counts 133 confirmed incidents and 25 seafarer deaths as of Nov 10.",
+        "headline": "Projectile strike on Sinokor VLCC Fujairah Energy injures four crew"
       },
       {
-        "body": "Iran's navy said Wednesday a tanker caught fire after striking a mine in a restricted area east of the strait, giving no ship name and no casualty figures; the claim has no independent confirmation. UKMTO separately logged an overnight tanker incident with details still unconfirmed. The International Maritime Organization counts 133 confirmed incidents in the strait and wider Middle East as of Nov 10, with 25 seafarer fatalities.",
-        "headline": "Iran navy claims another tanker hit a mine; UKMTO logs incident"
+        "body": "UKMTO issued Warning 202-26 on Nov 11 after a report concerning a tanker in the strait; India's shipping minister identified the vessel as the Saudi-flagged NCC Fajr and said the whole crew was safe, including three Indian nationals. No damage or weapon has been confirmed.",
+        "headline": "Second tanker incident in two days: Saudi-flagged NCC Fajr in possible attack"
       }
     ],
     "stats": "Traffic & shares (latest verified): AIS-visible commercial traffic is running about 8% of normal — 6.9 ships a day over the past week (18 tankers) against 84.8 before the crisis. EIA puts Hormuz oil flows at 4.9M bbl/day in Q2 2026, down from 21.6M in Q4 2025; the IEA estimates ~20M bbl/day transited in 2025, about a quarter of global seaborne oil trade. China takes ~42% and India ~13% of strait crude throughput; ~90% of Iran's oil exports go to China. The EIA warns vessel-tracking data have become less reliable during the conflict."
@@ -299,10 +299,10 @@
       "value": "4.983%"
     },
     {
-      "change": "+0.43",
+      "change": "+0.49",
       "dir": "up",
       "label": "WTI Crude",
-      "pct": "+0.50%",
+      "pct": "+0.57%",
       "spark": [
         92.87000274658203,
         91.11000061035156,
@@ -333,15 +333,15 @@
         90.83000183105469,
         86.8499984741211,
         86.04000091552734,
-        86.47000122070312
+        86.53
       ],
-      "value": "$86.47"
+      "value": "$86.53"
     },
     {
-      "change": "+1.15",
+      "change": "+1.27",
       "dir": "up",
       "label": "Brent Crude",
-      "pct": "+1.26%",
+      "pct": "+1.39%",
       "spark": [
         102.30999755859375,
         102.25,
@@ -372,36 +372,36 @@
         98.31999969482422,
         92.56999969482422,
         91.48999786376953,
-        92.63999938964844
+        92.76
       ],
-      "value": "$92.64"
+      "value": "$92.76"
     }
   ],
-  "marketsNote": "Wednesday's rebound held into the close: S&P 500 +1.31% to 7,619.38, Nasdaq +1.60% to 25,466.19, Dow +0.49% to 52,486.49 as CoreWeave (+25%) and Nvidia (+2.9%) revive the AI trade and chip stocks jump — the Philadelphia Semiconductor Index +5.66%. Oil edges up (WTI $86.47, Brent $92.64) as Hormuz attacks keep a risk premium in crude; the VIX falls to 17.49. The bond market was closed for Veterans Day, so the 10-year yield is Tuesday's 4.98%.",
+  "marketsNote": "Wednesday's rebound held into the close: S&P 500 +1.31% to 7,619.38, Nasdaq +1.60% to 25,466.19, Dow +0.49% to 52,486.49 as CoreWeave (+25%) revives the AI trade. Overnight, futures slipped — S&P -0.3%, Nasdaq about -0.9% — as Nvidia plunged ~8.6% after hours on reports its board is preparing to oust CEO Jensen Huang; no decision has been announced. Oil settled higher (WTI $86.53, Brent $92.76) on Hormuz attack risk, then eased overnight; the VIX fell to 17.49. The bond market was closed for Veterans Day, so the 10-year yield is Tuesday's 4.98%.",
   "space": [
     {
-      "body": "NASA Administrator Jared Isaacman said the Orion spacecraft 'will clearly live on beyond SLS,' signalling a long-term future for the capsule on other launch vehicles after the Space Launch System retires — Blue Origin's New Glenn 9x4 is reported able to support Orion flights to the Moon. Orion is being readied to carry the Artemis III crew for most of their mission in 2027.",
-      "headline": "Orion will clearly live on beyond SLS, NASA chief signals",
+      "body": "NASA opened applications Nov 7 for its 25th astronaut class, the first since 2024; the deadline is Dec 3, 2026, with selection late 2027 and training from early 2028. With only 32 active astronauts on the books, the new class will train for the Moon, the planned Moon Base and Mars prep — at Johnson Space Center in Houston.",
+      "headline": "NASA opens applications for its next astronaut class — first in two years",
       "tag": "Space",
-      "url": "https://starlust.org/orion-will-clearly-last-beyond-sls-nasa-administrator-isaacman-drops-hints-on-artemis-future/"
+      "url": "https://avweb.com/aviation-news/nasa-astronaut-pilot-recruitment-2026/"
     },
     {
-      "body": "Amino acids from asteroid Bennu — sampled by NASA's OSIRIS-REx — and from the Murchison meteorite formed through the same process but originated in different parts of the solar system, researchers report in Communications Earth & Environment, based on new isotope measurements. The pristine Bennu sample, free of Earth contamination, is reshaping ideas about where life's building blocks formed.",
-      "headline": "Bennu asteroid organics formed far from where they were found",
+      "body": "Astronomers found an invisible object of about 2.2 solar masses tugging on a red giant in binary system J0008+0128 — most likely a neutron star far heavier than the usual 1.4 solar masses, a puzzle for how such objects form. The finding is published in Science Advances.",
+      "headline": "Possible supermassive neutron star found hiding beside a red giant",
       "tag": "Space",
-      "url": "https://phys.org/news/2026-11-bennu-asteroid-analysis-unexpected-space.html"
+      "url": "https://www.scientificamerican.com/article/newfound-invisible-object-in-space-could-be-a-rare-supermassive-neutron-star/"
     },
     {
-      "body": "Researchers at King's College London, UCL and the Francis Crick Institute report in Nature that correcting a single error in how the UNC13A gene is produced restored communication between human neurons in lab models of motor neuron disease. A similar drug approach is already in human clinical trials in the UK, Europe and China.",
-      "headline": "Drug restores neuron communication in motor neuron disease models",
+      "body": "HKUST researchers found the deep-sea mollusk Chaetoderma shenloong evolved a previously unknown organelle, the ‘dracosphera’ — a 10–15 µm sphere wrapped in 20+ membrane layers housing hundreds to thousands of sulfur-oxidizing bacteria — letting it survive in near-oxygen-free cold-seep sediment. The work is published in Nature Communications.",
+      "headline": "Deep-sea mollusk evolved a brand-new organelle — tiny ‘dragon balls’ housing bacteria",
       "tag": "Science",
-      "url": "https://medicalxpress.com/news/2026-11-human-neurons-regain-communication-motor.html"
+      "url": "https://phys.org/news/2026-11-deep-sea-mollusk-houses-bacteria.html"
     }
   ],
-  "version": 9,
+  "version": 10,
   "watchlist": [
     {
-      "blurb": "Air Liquide closed Wednesday in Paris at €192.16, up 0.96%; at the ECB's Nov 11 reference rate of 1.1127 that is $213.82, up 0.17% in dollars.",
+      "blurb": "Air Liquide's Paris close Wednesday was €192.16 (+0.96%), worth $213.82 at the ECB's Nov 11 reference rate of 1.1127 — up 0.17% in dollars on the day.",
       "change": "+0.17%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/AI.PA",
@@ -422,7 +422,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "T-bill ETF closed at $91.50; the latest monthly distribution ($0.30849, ex Nov 2) still annualizes to a 4.05% yield at this price.",
+      "blurb": "T-bill ETF's Wednesday close was $91.50; its latest monthly distribution ($0.30849, ex Nov 2) annualizes to a 4.05% yield at that price.",
       "change": "+0.01%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/BIL",
@@ -443,7 +443,7 @@
       "yieldTag": "Dist. yield 4.05%"
     },
     {
-      "blurb": "Fastenal added 1.2% to $55.49 in Wednesday's rally, still comfortably above Sean's $48 buy gate.",
+      "blurb": "Fastenal's Wednesday close of $55.49 (+1.2%) keeps it well above Sean's $48 buy gate.",
       "change": "+1.19%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/FAST",
@@ -464,7 +464,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Alphabet jumped 2.1% to $293.45 in Wednesday's AI-led rebound; Google-backed Anthropic filed Tuesday for a Nasdaq listing at a reported $1.4T valuation.",
+      "blurb": "Alphabet jumped 2.1% Wednesday to $293.45 in the AI-led rebound and edged up ~0.5% after hours as Nvidia's turmoil put the spotlight on Google's TPU edge; Google-backed Anthropic filed Tuesday for a Nasdaq listing at a reported $1.4T valuation.",
       "change": "+2.11%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/GOOGL",
@@ -485,7 +485,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Lilly edged up 0.35% to $1,437.29; the FDA added a rare vision-loss warning to GLP-1 drug labels on Tuesday.",
+      "blurb": "Lilly closed Wednesday at $1,437.29 (+0.35%); the FDA ordered a rare vision-loss (NAION) warning on GLP-1 labels including Zepbound and Mounjaro, offsetting a Phase 3 sleep-apnea win for Foundayo.",
       "change": "+0.35%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/LLY",
@@ -506,7 +506,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Cheniere jumped 3.8% to $304.51 as energy rallied with crude.",
+      "blurb": "Cheniere's Wednesday close of $304.51 (+3.8%) rode the energy rally as crude settled higher.",
       "change": "+3.75%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/LNG",
@@ -527,7 +527,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Nvidia rebounded 2.9% to $173.73 after its two-day slide, even as it named a former federal prosecutor to lead the probe of CEO Jensen Huang.",
+      "blurb": "Nvidia rebounded 2.9% Wednesday to $173.73, then plunged ~8.6% after hours to $158.76 on reports the board is preparing to oust founder-CEO Jensen Huang; the board met late Wednesday and no decision has been announced.",
       "change": "+2.87%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/NVDA",
@@ -548,7 +548,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Pfizer edged up 0.3% to $29.45 in Wednesday's broad rally.",
+      "blurb": "Pfizer's Wednesday close of $29.45 (+0.3%) tracked the broad rally.",
       "change": "+0.31%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/PFE",
@@ -569,7 +569,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Rocket Lab jumped 5.5% to $66.15 ahead of Friday's Starship Flight 15 window; space names stay hot.",
+      "blurb": "Rocket Lab closed Wednesday at $66.15 (+5.5%) on its record Q3 — $267.8M revenue and a $3.57B backlog; SpaceX's Starship Flight 15 window opens Friday.",
       "change": "+5.49%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/RKLB",
@@ -590,7 +590,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Rithm slipped 0.65% to $9.21 as the 10-year yield held near 5%.",
+      "blurb": "Rithm's Wednesday close of $9.21 (-0.65%) came as the 10-year yield held near 5%.",
       "change": "-0.65%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/RITM",
@@ -611,7 +611,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "SPAC ETF fell 2.3% to $139.75, bucking Wednesday's broad rally.",
+      "blurb": "The SPAC ETF's Wednesday close of $139.75 (-2.3%) bucked the broad rally.",
       "change": "-2.33%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/SPCX",
@@ -632,7 +632,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Truist closed flat at $50.26 on Wednesday.",
+      "blurb": "Truist ended Wednesday flat at $50.26.",
       "change": "0.00%",
       "dir": "flat",
       "link": "https://finance.yahoo.com/quote/TFC",
@@ -653,7 +653,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "U.S. Antimony slipped 2.8% to $3.12, now under Sean's $4 buy gate.",
+      "blurb": "U.S. Antimony closed Wednesday at $3.12 (-2.8%), still under Sean's $4 buy gate.",
       "change": "-2.80%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/UAMY",
@@ -674,7 +674,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Uranium Energy added 0.8% to $7.23 in Wednesday's rally.",
+      "blurb": "Uranium Energy closed Wednesday at $7.23 (+0.8%) in the broad rally.",
       "change": "+0.84%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/UEC",
@@ -695,7 +695,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Valero jumped 3.7% to $363.71 as crude rebounded and refiners rallied.",
+      "blurb": "Valero closed Wednesday at $363.71 (+3.7%) as crude rebounded and refiners rallied.",
       "change": "+3.71%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/VLO",
@@ -716,28 +716,28 @@
       "yieldTag": null
     },
     {
-      "blurb": "Target-date fund's Nov 10 NAV $29.35, down 0.51% from Nov 9's $29.50; Wednesday's NAV had not posted by this evening's build.",
-      "change": "-0.51%",
-      "dir": "down",
+      "blurb": "Target-date fund's Nov 11 NAV $29.57, up 0.75% from Nov 10's $29.35.",
+      "change": "+0.75%",
+      "dir": "up",
       "link": "https://finance.yahoo.com/quote/VTTHX",
       "name": "Vanguard Target Retirement 2035",
-      "price": "$29.35",
+      "price": "$29.57",
       "risk": 3,
       "spark": [
-        29.36,
         29.36,
         29.71,
         28.96,
         29.0,
         29.5,
-        29.35
+        29.35,
+        29.57
       ],
-      "subTag": "NAV as of Nov 10",
+      "subTag": "NAV as of Nov 11",
       "ticker": "VTTHX",
       "yieldTag": null
     },
     {
-      "blurb": "Estimate anchored to the S&P 500 ($155.58 when the S&P closed 7,568.92 on Nov 3); this CIT has no public quote — it tracks the index up 1.31% at Wednesday's close.",
+      "blurb": "S&P 500-anchored estimate ($155.58 when the index closed 7,568.92 on Nov 3); this CIT has no public quote — up 1.31% with Wednesday's index close to $156.62 (est.).",
       "change": "+1.31%",
       "dir": "up",
       "link": null,
@@ -758,7 +758,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Schwab money market fund; stable $1.00 NAV, 7-day SEC yield 3.75% as published Nov 10, re-verified from Schwab's page this evening.",
+      "blurb": "Schwab money market fund; stable $1.00 NAV, 7-day SEC yield 3.75% as published Nov 10 — Schwab's page still shows no newer figure.",
       "change": "",
       "dir": "flat",
       "link": "https://finance.yahoo.com/quote/SWVXX",
@@ -771,7 +771,7 @@
       "yieldTag": "7-day yield 3.75%"
     },
     {
-      "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV, 7-day SEC yield 3.97% as published Nov 10, re-verified from Vanguard's page this evening.",
+      "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV, 7-day SEC yield 3.97% as published Nov 10 — carried forward, as Vanguard's page did not surface for a re-check tonight.",
       "change": "",
       "dir": "flat",
       "link": "https://finance.yahoo.com/quote/VUSXX",
@@ -787,85 +787,85 @@
   "weather": [
     {
       "alerts": "No alerts",
-      "aqi": 61,
-      "aqiCat": "Moderate",
-      "aqiNote": "PM2.5",
-      "conditions": "Partly Cloudy",
-      "detail": "ZIP 77056",
-      "extra": "Humidity 83% · Wind NW 3 mph",
-      "icon": "partly",
-      "name": "Houston Winter Condo",
-      "tempF": 70,
-      "today": "Partly cloudy, high 72°F",
-      "tomorrow": "Sunny, high 79°F",
-      "tonight": "Partly cloudy, low 61°F"
-    },
-    {
-      "alerts": "No alerts — no wildfire or red-flag warnings",
       "aqi": 72,
       "aqiCat": "Moderate",
       "aqiNote": "PM2.5",
-      "conditions": "Partly Cloudy",
+      "conditions": "Fair",
+      "detail": "ZIP 77056",
+      "extra": "Humidity 88% · Wind W 3 mph",
+      "icon": "sun",
+      "name": "Houston Winter Condo",
+      "tempF": 66,
+      "today": "Sunny, high 79°F",
+      "tomorrow": "Sunny, high 78°F",
+      "tonight": "Clear, low 55°F"
+    },
+    {
+      "alerts": "No alerts — no wildfire or red-flag warnings",
+      "aqi": 81,
+      "aqiCat": "Moderate",
+      "aqiNote": "PM2.5",
+      "conditions": "Fog",
       "detail": "Sanders County",
-      "extra": "Humidity 100% · Wind SSW 2 mph",
-      "icon": "partly",
+      "extra": "Humidity 98% · Wind calm",
+      "icon": "fog",
       "name": "Seiver Ranch — Plains, MT",
-      "tempF": 42,
-      "today": "Areas of fog, high 60°F",
-      "tomorrow": "Partly cloudy, high 57°F",
-      "tonight": "Partly cloudy, low 37°F"
+      "tempF": 41,
+      "today": "Partly cloudy, high 57°F",
+      "tomorrow": "Partly cloudy, high 54°F",
+      "tonight": "Partly cloudy, low 35°F"
     },
     {
       "alerts": "No alerts",
-      "aqi": 39,
+      "aqi": 36,
       "aqiCat": "Good",
       "aqiNote": "PM2.5",
       "conditions": "Cloudy",
       "detail": "Pierce County",
-      "extra": "Humidity 86% · Wind ENE 7 mph",
+      "extra": "Humidity 80% · Wind ENE 9 mph",
       "icon": "clouds",
       "name": "Seiver Slough — Rugby, ND",
       "tempF": 32,
-      "today": "Cloudy, high 40°F",
-      "tomorrow": "AM clouds/PM sun, high 34°F",
-      "tonight": "Cloudy, low 22°F"
+      "today": "AM clouds/PM sun, high 35°F",
+      "tomorrow": "Partly cloudy, high 37°F",
+      "tonight": "Partly cloudy, low 20°F"
     },
     {
       "alerts": "Winter Weather Advisory 10 PM Wed – 12 PM Fri · Small Craft Advisory until 7 AM Fri",
-      "aqi": 26,
+      "aqi": 28,
       "aqiCat": "Good",
       "aqiNote": "O3",
-      "conditions": "Showers in the Vicinity",
+      "conditions": "Cloudy",
       "detail": "Baraga County",
-      "extra": "Humidity 85% · Wind NNE 12 mph",
-      "icon": "rain",
+      "extra": "Humidity 87% · Wind N 12 mph",
+      "icon": "clouds",
       "name": "Seiver Lodge — L'Anse, MI",
-      "tempF": 36,
-      "today": "Light snow, high 47°F",
-      "tomorrow": "Snow showers, high 38°F",
-      "tonight": "Rain/snow, low 32°F"
+      "tempF": 34,
+      "today": "Snow showers, high 38°F",
+      "tomorrow": "Cloudy, high 37°F",
+      "tonight": "Snow showers early, low 30°F"
     }
   ],
   "weekInBrief": [
     {
-      "body": "SpaceX is planning a $24 billion gas-fired power plant and data centre in Texas, according to Wednesday evening wire reports — a major new energy load in the state, coming as data-centre power demand keeps climbing.",
-      "headline": "SpaceX plans $24 billion gas power plant and data centre in Texas",
-      "stamp": "Wed Nov 11, 2026"
+      "body": "October CPI rose 0.4% m/m (forecast +0.3%) and core +0.3%, but the BLS published no year-over-year rate because October 2025 prices were never collected during the 2025 shutdown. December hike odds moved to ~100%, and the 2-year Treasury yield jumped 18.9bp to 4.736%.",
+      "headline": "October CPI came in hot — and for the first time ever, there's no annual rate",
+      "stamp": "Nov 10, 2026, 7:30 AM CT"
     },
     {
-      "body": "Google launched Gemini 4 Carbon on Wednesday, its most powerful AI model yet, as competition in frontier AI heats up — Big Tech backers have also committed $26 billion to Anthropic ahead of its planned Nasdaq listing.",
-      "headline": "Google launches Gemini 4 Carbon, its most powerful AI model yet",
-      "stamp": "Wed Nov 11, 2026"
+      "body": "All 101 economists polled expect a December hike to 4.00–4.25%, and 55% say it ends the cycle; the same poll has PCE inflation not returning to 2% until at least 2028.",
+      "headline": "Reuters poll: Fed to raise rates once more in December",
+      "stamp": "Nov 10, 2026, 6:45 AM CT"
     },
     {
-      "body": "House Republicans elected Jim Jordan as their next leader on Wednesday, following the party's midterm defeat — he takes over the caucus as the new Congress takes shape.",
-      "headline": "Jim Jordan elected House Republican leader",
-      "stamp": "Wed Nov 11, 2026"
+      "body": "Brent rose to $92.76 (+1.39%) and WTI to $86.53 (+0.57%) at the Nov 11 close, recovering from two-month lows; 37 vessels were attacked in and around Hormuz in October — the highest monthly tally of the war — and 10 more so far in November.",
+      "headline": "Oil rebounds from two-month lows as Hormuz attacks dent truce hopes",
+      "stamp": "Nov 11, 2026"
     },
     {
-      "body": "Four million workers struck across Spain on Wednesday over housing costs, in the country's first general strike in 14 years — a sign of how housing affordability has become a top political issue in Europe.",
-      "headline": "Four million workers strike in Spain over housing",
-      "stamp": "Wed Nov 11, 2026"
+      "body": "After meeting Qatar's PM, Trump said the conflict was moving toward an end ‘fairly soon’ and further US strikes were ‘quite unlikely,’ with forces remaining ready and the naval blockade of Iran staying in place for now; Iran says Hormuz stays closed until its conditions are met.",
+      "headline": "Trump says Iran war winding down ‘fairly soon,’ but the naval blockade stays",
+      "stamp": "Nov 11, 2026, 6:35 AM CT"
     }
   ]
 }
