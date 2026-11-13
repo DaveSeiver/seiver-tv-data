@@ -1,41 +1,41 @@
 {
   "apod": {
-    "credit": "Włodzimierz Bubak",
-    "date": "November 12, 2026",
-    "explanation": "A crescent Moon and bright Venus appear together over Poland's Tatra Mountains at dusk in a planetary conjunction, with the bright star Spica — a triple star system about 250 light-years away in Virgo — just to Venus's left.",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/conjunction-bubak.jpg?w=1638&h=2048&fit=clip&crop=faces%2Cfocalpoint",
+    "credit": "David Cruz",
+    "date": "November 13, 2026",
+    "explanation": "The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the open or galactic clusters of young stars in the disk of our Milky Way galaxy, NGC 206 spans about 4,000 light-years.",
+    "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
     "pageUrl": "https://apod.nasa.gov/apod/astropix.html",
-    "title": "Moon, Venus and Spica Meet"
+    "title": "NGC 206 and the Star Clouds of Andromeda"
   },
-  "asOf": "Thu Nov 12, 2026, 5:00 PM CT",
+  "asOf": "Fri Nov 13, 2026, 8:00 AM CT",
   "breaking": [
     {
-      "fact": "Cisco's fiscal Q1 revenue rose 24% to $18.5 billion with non-GAAP earnings of $1.40 a share, up 40%, and the company raised its fiscal 2027 revenue outlook to $74.8–75.8 billion. Applied Materials posted record Q4 revenue of $10.41 billion, up 53%, with adjusted earnings of $4.16 a share against $4.06 expected, and guided Q1 fiscal 2027 revenue to about $11.10 billion, above the $10.89 billion estimate. Cisco shares were little changed after hours; Applied Materials fell 3.6% in the regular session, then steadied after hours.",
-      "headline": "Cisco and Applied Materials beat after the close on strong AI demand",
+      "fact": "Producer prices rose 0.3% in October, below the 0.4% forecast and a sharp slowdown from September's upwardly revised 1.4% jump, but the annual rate climbed to 6.5%, the largest in four years, keeping a December Fed rate hike fully priced. Goods rose 0.5%, led by food and basic organic chemicals, while services rose 0.2% for a fifth straight month; core PPI also rose 0.3%.",
+      "headline": "October PPI rises 0.3%, below forecast, but annual rate hits a four-year high",
       "source": "Reuters",
       "tag": "US",
-      "url": "https://stockvolt.com/stories/cisco-lifts-fiscal-2027-revenue-outlook-to-as-much-as-75-8-billion-and-applied-m-24b922"
+      "url": "https://www.reuters.com/business/us-producer-prices-rise-further-october-2026-11-13/"
     },
     {
-      "fact": "U.S. Antimony's Q3 revenue rose 16% to $10.1 million but missed the roughly $16.7 million estimate, and the net loss widened to $9.5 million as antimony prices fell about 63%. Gross margin expanded to 42% from 23% and antimony pounds sold rose 68%; the company projects 2026 antimony sales of 1.68–1.81 million pounds, up about 24%, with October sales of about 310,000 pounds, its best month ever. Shares fell 6.7% to $2.91 at the close and slid about 9% further after hours.",
-      "headline": "U.S. Antimony's Q3 revenue misses as antimony prices plunge; shares slide after hours",
+      "fact": "Reuters reported Thursday that Jensen Huang had an intimate relationship with a third Nvidia employee, after the New York Times reported affairs with a former Megaspeed executive US officials suspect of spying for China and with Nvidia health-care chief Kimberly Powell. Huang has agreed to testify before Congress about his interactions with the alleged spy by Thanksgiving, and Singapore said it questioned the Megaspeed executive and seized her passport last year. Nvidia shares, down 4.3% Thursday to $166.19, were up about 1.8% premarket Friday; earnings are due Nov 17.",
+      "headline": "Huang to testify before Congress as third affair reported; Nvidia steadies premarket",
+      "source": "Associated Press",
+      "tag": "US",
+      "url": "https://techxplore.com/news/2026-11-jensen-huang-built-company-powers.html"
+    },
+    {
+      "fact": "Cerebras shares surged about 18% in premarket trading Friday after the AI chipmaker posted a surprise adjusted profit and raised its full-year revenue forecast to $940–960 million; core revenue jumped 70% to $230.9 million, with cloud and services revenue up 265% to about $145 million, and the company signed a cloud deal with Microsoft. The rally would add nearly $4 billion in market value; shares are still down about 47% from their May IPO price of $185.",
+      "headline": "Cerebras surges 18% premarket on Q3 beat, cloud boom and Microsoft deal",
       "source": "Reuters",
       "tag": "US",
-      "url": "https://www.quantisnow.com/insight/united-states-antimony-corporation-reports-third-quarter-and-nine-months-6787632"
+      "url": "https://q106fm.com/2026/11/13/cerebras-shares-surge-as-profit-surprise-forecast-raise-ease-ai-spending-worries/"
     },
     {
-      "fact": "The S&P 500 fell 0.35% to 7,592.40, the Nasdaq 0.39% to 25,366.09 and the Dow 0.36% to 52,297.09, while the Russell 2000 dropped 1.66%. Nvidia plunged 14% at the open after Jensen Huang's resignation, then pared the loss to 4.3% at $166.19; retail investors bought about $111 million of the stock in the first half hour, the biggest opening bid on record, per Vanda Research. AMD and Broadcom each rose nearly 6% to lead S&P advancers, and energy was the best sector for a fourth straight session.",
-      "headline": "Stocks close lower as Nvidia's 14% plunge outweighs energy gains",
-      "source": "Reuters",
-      "tag": "US",
-      "url": "https://www.sfntoday.com/2026/11/12/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/"
-    },
-    {
-      "fact": "The National Weather Service in Marquette has a Winter Weather Advisory in effect for Baraga County until noon Friday EST, with snow showers around L'Anse, north winds near 15 mph and temperatures in the mid-30s; snow showers continue into Friday.",
-      "headline": "Winter Weather Advisory for Baraga County until Friday noon",
-      "source": "National Weather Service",
-      "tag": "Local",
-      "url": "https://www.weather.gov/mqt/"
+      "fact": "President Trump wrote on Truth Social Thursday that the United States does not need a deal with Iran — 'We've got their money, Hundreds of Billions of Dollars, and we've got their Strait!' — and said he had asked Vice President JD Vance, who led the US side of the talks, to turn to corruption in Democratic-run states. Brent rose more than 1% after the post, and traders marked down the odds of a deal by year-end; separately, the IAEA said Friday it cannot locate Iran's Isfahan enrichment plant, calling it a proliferation concern.",
+      "headline": "Trump says US needs no Iran deal, pulls Vance off the talks",
+      "source": "PTI",
+      "tag": "World",
+      "url": "https://mx.drovus.world/2026/11/12/trump-says-us-doesn-t-need-iran-deal-asks-vance-to-tackle-corruption"
     }
   ],
   "cdRates": {
@@ -92,12 +92,12 @@
   "hormuz": {
     "items": [
       {
-        "body": "Iran's military said Thursday that four oil tankers have now been hit by explosions in the Strait of Hormuz: two supertankers carrying more than 4 million barrels combined were disabled late Wednesday after what Iran calls an unauthorised southern route — Iranian state media said they hit naval mines — and Iran's army said two more tankers hit mines Thursday afternoon in the eastern strait after disabling their radar. UKMTO separately reported a vessel hit by an unidentified projectile near Ras Al-Khaimah on Wednesday, causing an engine-room fire. Reuters could not verify Iran's account. At least 10 ships were hit in the first 10 days of November, after 37 attacks in October, per Washington Institute data.",
-        "headline": "Four tankers struck by explosions in the Strait, Iran says"
+        "body": "Iran's Revolutionary Guards Navy said Friday that a tanker carrying liquefied gas struck a naval mine and suffered an explosion in the Strait of Hormuz while using what Tehran calls an unauthorised and dangerous route. No vessel name, flag, owner or crew details were available, and there was no independent confirmation; reports differed on whether the cargo was liquefied natural gas or liquefied petroleum gas. The claim follows Thursday's reports of four oil tankers hit in the strait.",
+        "headline": "Gas carrier hit by mine in the Strait, Iran says"
       },
       {
-        "body": "Kpler data reported by Reuters shows commercial cargo transits through the strait fell to 5 last Saturday, from 31 the week before, with none recorded Sunday, after ADNOC said three of its vessels were attacked; the IMO counts 133 confirmed incidents and 25 seafarer deaths since February, and is not advising ships to transit. Some vessels sail with AIS switched off, so the true count may be higher.",
-        "headline": "Strait traffic collapses: 5 transits Saturday, none Sunday"
+        "body": "Iran's military said Thursday that four oil tankers have now been hit by explosions in the Strait of Hormuz: two supertankers carrying more than 4 million barrels combined were disabled late Wednesday after what Iran calls an unauthorised southern route — Iranian state media said they hit naval mines — and Iran's army said two more tankers hit mines Thursday afternoon in the eastern strait after disabling their radar. UKMTO separately reported a vessel hit by an unidentified projectile near Ras Al-Khaimah on Wednesday, causing an engine-room fire. Reuters could not verify Iran's account. At least 10 ships were hit in the first 10 days of November, after 37 attacks in October, per Washington Institute data.",
+        "headline": "Four tankers struck by explosions in the Strait, Iran says"
       }
     ],
     "stats": "Traffic & shares (latest verified): AIS-visible commercial traffic is running about 8% of normal — 6.9 ships a day over the past week (18 tankers) against 84.8 before the crisis. EIA puts Hormuz oil flows at 4.9M bbl/day in Q2 2026, down from 21.6M in Q4 2025; the IEA estimates ~20M bbl/day transited in 2025, about a quarter of global seaborne oil trade. China takes ~42% and India ~13% of strait crude throughput; ~90% of Iran's oil exports go to China. The EIA warns vessel-tracking data have become less reliable during the conflict."
@@ -377,31 +377,31 @@
       "value": "$95.77"
     }
   ],
-  "marketsNote": "Thursday's close: stocks ended lower after a volatile session — S&P 500 -0.35% at 7,592.40, Nasdaq -0.39%, Dow -0.36% — as Nvidia plunged 14% at the open on Jensen Huang's resignation before recovering to -4.3%, while AMD and Broadcom each rose nearly 6%. Oil jumped (WTI $88.70, Brent $95.77) after four tankers were hit in the Strait of Hormuz; the VIX rose to 18.7 and the 10-year yield topped 5% at 5.103%. After the close, Cisco and Applied Materials both beat estimates on strong AI demand, and U.S. Antimony's Q3 revenue missed; Friday brings the October PPI report.",
+  "marketsNote": "Premarket Friday: futures point to a slightly higher open — S&P 500 futures +0.2% near 7,631, Nasdaq-100 futures about flat, Dow futures +0.1% near 52,452 — after Thursday's lower close (S&P 500 -0.35% at 7,592.40). October PPI came in at +0.3% on the month and +6.5% over the year, below the 0.4% forecast but the biggest annual gain since November 2022; the VIX sits near 18.3 and the 10-year yield near 5.10%. Nvidia is up about 1.8% premarket after the scandal details and a pledge to testify before Congress; Cerebras surged about 18% on its Q3 beat and a new Microsoft cloud deal. Oil is steady (WTI ~$88.55, Brent ~$96.10) after Iran said a gas carrier hit a mine in the Strait of Hormuz on Friday. Today: Fed officials Michelle Bowman and Philip Jefferson speak.",
   "space": [
     {
-      "body": "Astronomers sifting through Vera C. Rubin Observatory data found 2026 ED138, an object 46 times farther from the Sun than Earth that takes 281 years to complete an orbit. Estimated at 370 to 930 miles across, it is likely big enough to be round and could become the solar system's sixth dwarf planet; its orbit is tilted nearly 25 degrees, suggesting a past gravitational brush with Neptune.",
-      "headline": "Possible new dwarf planet found far beyond Pluto",
+      "body": "SpaceX's Starship Flight 15 is set to launch from Starbase in South Texas on Friday with a 75-minute window opening at 5:45 p.m. EDT, attempting to catch both the Super Heavy booster and the Ship upper stage — a first. The Ship will deploy 26 Starlink V3 satellites and circle Earth about 14 times over more than 22 hours before a possible catch the next day. ULA's Vulcan Centaur also returns to flight Friday, its first launch since February.",
+      "headline": "Starship Flight 15 lifts off today in first attempt to catch both stages",
       "tag": "Space",
-      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"
+      "url": "https://particle.news/story/spacex-readies-starship-flight-15-for-first-attempt-to-catch-both-stages"
     },
     {
-      "body": "NASA announced Nov 7 it has selected SpaceX to launch communications satellites aboard Starship in 2028 for its Cislunar Communications Deployment Demonstration, building the relay network for astronauts and a planned base near the Moon's south pole. The demo sits within a broader Moon Base plan for an initial constellation of five relay satellites, followed by a second constellation from another provider.",
-      "headline": "NASA picks SpaceX to launch lunar communications satellites on Starship",
+      "body": "SpaceX plans to retire Falcon 9, the rocket that carries the Dragon capsule — currently the only American spacecraft able to ferry NASA astronauts to the International Space Station — as Starship advances, and NASA has booked only three more Dragon flights, which would end in 2028. No further flights are booked beyond that point, leaving open how American astronauts will reach the station before it is retired in 2030; the next Starliner test flight is planned for this winter, with a crewed flight in 2028.",
+      "headline": "Starship's rise leaves NASA's station trips in doubt after 2028",
       "tag": "Space",
-      "url": "https://dig.watch/updates/nasa-awards-contract-to-spacex-for-moon-base"
+      "url": "https://worldrightnowlive.com/story/spacex-s-giant-rocket-may-leave-nasa-in-the-dust"
     },
     {
-      "body": "University of Washington researchers, publishing Nov 12 in Science, showed that stretching and compressing magic-angle twisted bilayer graphene swings its electrical resistance by more than 100 times that of an ordinary metal, an effect amplified at very low temperatures. The new “strain knob” gives physicists a way to tune the material's exotic quantum states.",
-      "headline": "Strain tunes magic-angle graphene resistance more than 100-fold",
+      "body": "Scientists at UT Austin and Zhejiang University built a molecularly woven fabric that absorbed 97.9% of the benzene from a 50-50 benzene-cyclohexane mixture, a step toward far less energy-intensive separation of industrial chemicals used in nylon, paint, foams and detergents. Published in Nature, the work was co-authored by the late Nobel laureate Sir Fraser Stoddart.",
+      "headline": "Reusable molecular fabric filters 97.9% of benzene from industrial mix",
       "tag": "Science",
-      "url": "https://phys.org/news/2026-11-magic-angle-graphene-tuning-resistance.html"
+      "url": "https://phys.org/news/2026-11-reusable-molecular-fabric-energy-industrial.html"
     }
   ],
-  "version": 13,
+  "version": 14,
   "watchlist": [
     {
-      "blurb": "Air Liquide closed in Paris at €192.84 Thursday, up 0.35%; converted at the ECB's Nov 12 reference rate of 1.1081, that's $213.69 — down 0.06% in dollars as the euro eased.",
+      "blurb": "Air Liquide's Paris close Thursday was €192.84 (+0.35%); at the ECB's Nov 12 reference rate of 1.1081 that's $213.69 in dollars, a 0.06% slip as the euro eased. The next ECB rate posts after 4 PM CET today.",
       "change": "-0.06%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/AI.PA",
@@ -422,7 +422,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "T-bill ETF closed Thursday at $91.50, flat on the day; its latest monthly distribution ($0.30849, ex Nov 2) still annualizes to a 4.05% yield at that price.",
+      "blurb": "T-bill ETF closed Thursday at $91.50, flat on the day; its latest monthly distribution ($0.30849, ex Nov 2, paid Nov 5) still annualizes to a 4.05% yield at that price.",
       "change": "0.00%",
       "dir": "flat",
       "link": "https://finance.yahoo.com/quote/BIL",
@@ -443,7 +443,7 @@
       "yieldTag": "Dist. yield 4.05%"
     },
     {
-      "blurb": "Fastenal closed Thursday at $55.55 (+0.1%), still well above Sean's $48 buy gate.",
+      "blurb": "Fastenal ended Thursday at $55.55, up 0.1% — still $7.55 above Sean's $48 buy gate.",
       "change": "+0.11%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/FAST",
@@ -464,7 +464,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Alphabet closed Thursday at $298.70, up 1.8%, pacing the market's recovery as investors rotated toward Google's TPU edge while Nvidia slid on its CEO's resignation.",
+      "blurb": "Alphabet closed Thursday at $298.70, up 1.8%, as investors rotated toward Google's TPU edge while Nvidia slid on its CEO's resignation; shares sit just under $300 heading into Friday's PPI report.",
       "change": "+1.79%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/GOOGL",
@@ -485,7 +485,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Lilly closed Thursday at $1,427.28 (-0.7%); the FDA's rare vision-loss (NAION) warning on GLP-1 labels, including Zepbound and Mounjaro, remains the overhang.",
+      "blurb": "Lilly closed Thursday at $1,427.28, down 0.7% on a down day for the market; the FDA's rare vision-loss (NAION) warning on GLP-1 labels, including Zepbound and Mounjaro, remains the overhang.",
       "change": "-0.70%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/LLY",
@@ -506,7 +506,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Cheniere closed Thursday at $309.48 (+1.6%) as crude jumped on the latest Strait of Hormuz tanker attacks.",
+      "blurb": "Cheniere closed Thursday at $309.48, up 1.6%, as crude jumped on the latest Strait of Hormuz tanker attacks; a gas carrier was reported hit by a mine in the strait Friday morning, keeping the focus there.",
       "change": "+1.63%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/LNG",
@@ -527,7 +527,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Nvidia closed Thursday at $166.19 (-4.3%) after founder-CEO Jensen Huang resigned effective immediately; the stock plunged 14% at the open before recovering most of the loss. CFO Colette Kress is interim CEO and Harvey Jones is the board's first-ever chair. Earnings are due Nov 17.",
+      "blurb": "Nvidia closed Thursday at $166.19, down 4.3%, after founder-CEO Jensen Huang resigned amid reports of affairs, including one with a woman US officials suspect of spying for China; the stock had plunged 14% at the open. Huang has agreed to testify before Congress by Thanksgiving, and shares were up about 1.8% premarket Friday. Earnings are due Nov 17.",
       "change": "-4.34%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/NVDA",
@@ -548,7 +548,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Pfizer closed Thursday at $28.83 (-2.1%), lagging the broad market.",
+      "blurb": "Pfizer closed Thursday at $28.83, down 2.1% — a steeper slide than the broad market's 0.35% drop.",
       "change": "-2.11%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/PFE",
@@ -569,7 +569,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Rocket Lab closed Thursday at $64.07 (-3.1%); SpaceX's Starship Flight 15 window opens Friday afternoon.",
+      "blurb": "Rocket Lab closed Thursday at $64.07, down 3.1%; SpaceX's Starship Flight 15 lifts off Friday evening with a first attempt to catch both stages — a flight the space sector is watching closely.",
       "change": "-3.14%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/RKLB",
@@ -590,7 +590,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Rithm closed Thursday at $9.00 (-2.3%) as the 10-year yield climbed back above 5%.",
+      "blurb": "Rithm closed Thursday at $9.00, down 2.3%, as the 10-year yield climbed back above 5% to 5.103% — a headwind for mortgage REITs.",
       "change": "-2.28%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/RITM",
@@ -611,7 +611,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "The SPAC ETF closed Thursday at $139.94 (+0.1%), giving back most of the midday rebound.",
+      "blurb": "The SPAC ETF closed Thursday at $139.94, up 0.1% — a quiet day after Wednesday's 2.3% slide.",
       "change": "+0.14%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/SPCX",
@@ -632,7 +632,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Truist closed Thursday at $49.89 (-0.7%).",
+      "blurb": "Truist closed Thursday at $49.89, down 0.7%, in line with the broad market's slide.",
       "change": "-0.74%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/TFC",
@@ -653,7 +653,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "U.S. Antimony closed Thursday at $2.91 (-6.7%), still under Sean's $4 buy gate — and slid further after hours after Q3 revenue missed estimates.",
+      "blurb": "U.S. Antimony closed Thursday at $2.91, down 6.7% and still under Sean's $4 buy gate; Q3 revenue of $10.1M missed the roughly $16.7M estimate as antimony prices fell about 63%, and shares slid further after hours.",
       "change": "-6.73%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/UAMY",
@@ -674,7 +674,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Uranium Energy closed Thursday at $6.80 (-6.0%) even as crude rallied on the Hormuz attacks.",
+      "blurb": "Uranium Energy closed Thursday at $6.80, down 6.0%, even as crude rallied on the Hormuz attacks — uranium names stayed under pressure with the broad selloff.",
       "change": "-5.95%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/UEC",
@@ -695,7 +695,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Valero closed Thursday at $374.95 (+3.1%) as crude jumped on the Hormuz tanker attacks.",
+      "blurb": "Valero closed Thursday at $374.95, up 3.1%, as crude jumped on the Hormuz tanker attacks; oil held near $89 Friday morning after the latest reported mine strike in the strait.",
       "change": "+3.09%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/VLO",
@@ -716,28 +716,28 @@
       "yieldTag": null
     },
     {
-      "blurb": "Target-date fund's Nov 11 NAV $29.57, up 0.75% from Nov 10's $29.35; today's NAV posts after the close.",
-      "change": "+0.75%",
-      "dir": "up",
+      "blurb": "Target-date fund's Nov 12 NAV $29.39, down 0.61% from Nov 11's $29.57.",
+      "change": "-0.61%",
+      "dir": "down",
       "link": "https://finance.yahoo.com/quote/VTTHX",
       "name": "Vanguard Target Retirement 2035",
-      "price": "$29.57",
+      "price": "$29.39",
       "risk": 3,
       "spark": [
-        29.360000610351562,
-        29.709999084472656,
-        28.959999084472656,
+        29.71,
+        28.96,
         29.0,
         29.5,
-        29.350000381469727,
-        29.56999969482422
+        29.35,
+        29.57,
+        29.39
       ],
-      "subTag": "NAV as of Nov 11",
+      "subTag": "NAV as of Nov 12",
       "ticker": "VTTHX",
       "yieldTag": null
     },
     {
-      "blurb": "S&P 500-anchored estimate ($155.58 when the index closed 7,568.92 on Nov 3); this CIT has no public quote — down 0.35% with the index's close to $156.06 (est.).",
+      "blurb": "S&P 500-anchored estimate ($155.58 when the index closed 7,568.92 on Nov 3); this CIT has no public quote — down 0.35% with Thursday's index close to $156.06 (est.).",
       "change": "-0.36%",
       "dir": "down",
       "link": null,
@@ -758,7 +758,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Schwab money market fund; stable $1.00 NAV, 7-day SEC yield 3.75% as published Nov 10 — re-verified from Schwab's official page this run; no newer figure.",
+      "blurb": "Schwab money market fund; stable $1.00 NAV, 7-day SEC yield 3.75% as published Nov 12 — re-verified from Schwab's official page this run; no newer figure.",
       "change": "",
       "dir": "flat",
       "link": "https://finance.yahoo.com/quote/SWVXX",
@@ -766,12 +766,12 @@
       "price": "$1.00",
       "risk": 1,
       "spark": null,
-      "subTag": "Yield published Nov 10 (Schwab)",
+      "subTag": "Yield published Nov 12 (Schwab)",
       "ticker": "SWVXX",
       "yieldTag": "7-day yield 3.75%"
     },
     {
-      "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV, 7-day SEC yield 3.97% as published Nov 11 — re-verified from Vanguard's official fund page this run.",
+      "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV, 7-day SEC yield 3.98% as published Nov 12 — re-verified from Vanguard's official fund page this run, up from 3.97%.",
       "change": "",
       "dir": "flat",
       "link": "https://finance.yahoo.com/quote/VUSXX",
@@ -779,93 +779,93 @@
       "price": "$1.00",
       "risk": 0,
       "spark": null,
-      "subTag": "Yield published Nov 11 (Vanguard)",
+      "subTag": "Yield published Nov 12 (Vanguard)",
       "ticker": "VUSXX",
-      "yieldTag": "7-day yield 3.97%"
+      "yieldTag": "7-day yield 3.98%"
     }
   ],
   "weather": [
     {
       "alerts": "No alerts",
-      "aqi": 75,
+      "aqi": 51,
       "aqiCat": "Moderate",
       "aqiNote": "PM2.5",
       "conditions": "Sunny",
       "detail": "ZIP 77056",
-      "extra": "Humidity 41% · Wind N 5 mph",
+      "extra": "Humidity 83% · Wind N 4 mph",
       "icon": "sun",
       "name": "Houston Winter Condo",
-      "tempF": 75,
-      "today": "Sunny, high 77°F",
-      "tomorrow": "Sunny, high 73°F",
-      "tonight": "Clear, low 55°F"
+      "tempF": 56,
+      "today": "Sunny, high 74°F",
+      "tomorrow": "Partly sunny, high 66°F",
+      "tonight": "Mostly clear, low 54°F"
     },
     {
       "alerts": "No alerts — no wildfire or red-flag warnings",
-      "aqi": 21,
+      "aqi": 34,
       "aqiCat": "Good",
       "aqiNote": "PM2.5",
-      "conditions": "Mostly Cloudy",
+      "conditions": "Patchy Fog",
       "detail": "Sanders County",
-      "extra": "Humidity 47% · Wind ESE 1 mph",
-      "icon": "clouds",
+      "extra": "Humidity 56% · Wind ESE 4 mph",
+      "icon": "fog",
       "name": "Seiver Ranch — Plains, MT",
-      "tempF": 54,
-      "today": "Mostly cloudy, high 55°F",
-      "tomorrow": "Mostly cloudy, high 53°F",
-      "tonight": "Mostly cloudy, low 33°F"
+      "tempF": 32,
+      "today": "Patchy fog, then partly sunny, high 52°F",
+      "tomorrow": "Areas of fog, then partly sunny, high 51°F",
+      "tonight": "Patchy fog, low 33°F"
     },
     {
-      "alerts": "No alerts",
-      "aqi": 28,
+      "alerts": "Dense Fog Advisory until Fri 12:00 PM CST",
+      "aqi": 26,
       "aqiCat": "Good",
-      "aqiNote": "O3",
-      "conditions": "Mostly Sunny",
+      "aqiNote": "PM2.5",
+      "conditions": "Patchy Fog",
       "detail": "Pierce County",
-      "extra": "Humidity 64% · Wind SE 7 mph",
-      "icon": "partly",
+      "extra": "Humidity 94% · Wind SE 9 mph",
+      "icon": "fog",
       "name": "Seiver Slough — Rugby, ND",
-      "tempF": 37,
-      "today": "Sunny, high 38°F",
-      "tomorrow": "Mostly sunny, high 37°F",
-      "tonight": "Partly cloudy, low 21°F"
+      "tempF": 23,
+      "today": "Patchy fog, then mostly sunny, high 38°F",
+      "tomorrow": "Partly sunny, high 43°F",
+      "tonight": "Mostly cloudy, low 23°F"
     },
     {
       "alerts": "Winter Weather Advisory until Fri 12:00 PM EST",
-      "aqi": 36,
+      "aqi": 37,
       "aqiCat": "Good",
       "aqiNote": "O3",
-      "conditions": "Snow Showers Likely",
+      "conditions": "Chance Snow Showers",
       "detail": "Baraga County",
-      "extra": "Humidity 79% · Wind N 15 mph",
+      "extra": "Humidity 73% · Wind N 11 mph",
       "icon": "snow",
       "name": "Seiver Lodge — L'Anse, MI",
-      "tempF": 35,
-      "today": "Snow showers likely, high 36°F",
-      "tomorrow": "Chance snow showers, high 36°F",
-      "tonight": "Snow showers likely, low 31°F"
+      "tempF": 33,
+      "today": "Chance snow showers, high 37°F",
+      "tomorrow": "Mostly cloudy, high 39°F",
+      "tonight": "Slight chance snow showers, then cloudy, low 33°F"
     }
   ],
   "weekInBrief": [
     {
-      "body": "Gold fell 2.96% to $3,882.10 Thursday as the 10-year Treasury yield climbed 10.5 basis points to 5.103%, its highest in weeks, after the hotter-than-expected October CPI hardened expectations of a December rate hike. The yield move also pressured rate-sensitive stocks, with the Russell 2000 down 1.66%.",
-      "headline": "Gold slides nearly 3% as the 10-year yield tops 5%",
+      "body": "Goldman Sachs strategists led by Peter Oppenheimer expect the S&P 500 to reach 8,700 over the next 12 months, a roughly 14% gain, arguing the recent selloff in megacap tech has left valuations attractive even as earnings growth slows from 36% this year to about 11% in 2027. The bank is overweight US and Japanese equities for 2027 and expects the bull market to continue as inflation, bond yields and oil prices moderate.",
+      "headline": "Goldman Sachs sees S&P 500 at 8,700 in 12 months, up 14%",
+      "stamp": "Nov 13, 2026"
+    },
+    {
+      "body": "Crude has fallen roughly 20% from its late-October peak near $118 a barrel as hopes of de-escalation and rebounding flows through the Strait of Hormuz weigh on prices; the IEA says global oil supply exceeded demand by almost 2 million barrels a day in October, the first clear surplus since the US-Iran war began. Brent settled Thursday at $95.77, up 3.2% on the day after the latest tanker attacks.",
+      "headline": "Oil down about 20% from its October peak as supply outruns demand",
+      "stamp": "Nov 13, 2026"
+    },
+    {
+      "body": "US existing-home sales fell 5.5% in October to a 3.75 million annual rate, the lowest since August 2010 and 8.8% below a year earlier, as the average 30-year mortgage rate averaged 7.33% in October. Inventory rose 1.3% to 1.59 million homes, or 5.1 months of supply, while the median price edged up 0.4% to $416,700.",
+      "headline": "Existing-home sales fall to a 16-year low as mortgage rates bite",
       "stamp": "Nov 12, 2026"
     },
     {
-      "body": "The S&P 500 energy index rose for a fourth straight session as the day's best-performing sector, with refiners and LNG names leading — Valero up 3.1% and Cheniere up 1.6% — as crude rallied on the latest tanker attacks in the Strait of Hormuz. Energy was the one clear winner on a day the broad market fell.",
-      "headline": "Energy leads the market for a fourth straight session",
-      "stamp": "Nov 12, 2026"
-    },
-    {
-      "body": "A regional WHO body is meeting this week to decide whether the United States has kept its measles elimination status, and STAT, The Guardian and The Hill report the country is likely to lose it. The US is in its largest measles outbreak in 35 years, with more than 5,400 cases reported; the CDC says its response is unchanged.",
-      "headline": "US likely to lose measles elimination status",
-      "stamp": "Nov 11, 2026"
-    },
-    {
-      "body": "Axios reported, citing six senior sources, that President Trump has approved a crackdown on firms suspected of diverting Nvidia AI chips to China three times this year — in May, in August and again on November 5 — but the restrictions still have not been implemented. The report lands as Nvidia's leadership shake-up rattles chip stocks.",
-      "headline": "Trump approved Nvidia chip-diversion crackdown — but curbs still not in place",
-      "stamp": "Nov 12, 2026"
+      "body": "After a hotter-than-expected October CPI and a 6.5% annual PPI reading, CME FedWatch shows markets pricing a 100% likelihood of a Federal Reserve rate hike at the December meeting. October CPI rose 0.4% on the month, and the Fed's next decision comes Dec 8–9, with minutes from the October meeting due Nov 18.",
+      "headline": "Markets now fully price a December Fed rate hike",
+      "stamp": "Nov 13, 2026"
     }
   ]
 }
