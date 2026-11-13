@@ -311,7 +311,7 @@
 
       <!-- NASA APOD (always last) -->
       <section aria-labelledby="h-apod">
-        <h2 class="sec" id="h-apod">NASA ASTRONOMY PICTURE OF THE DAY</h2>
+        <h2 class="sec" id="h-apod">PICTURE OF THE DAY</h2>
         <div class="apod" id="apodCard"></div>
       </section>
     </div>
@@ -641,14 +641,14 @@
          the APOD page in a new tab. */
       (function(){
         var a = D.apod; if (!a) return;
-        document.getElementById("h-apod").textContent = "NASA Astronomy Picture of the Day — " + a.date;
+        document.getElementById("h-apod").textContent = "Picture of the Day — " + a.date;
         var card = document.getElementById("apodCard");
         var fig = el('<figure></figure>');
         var link = el('<a target="_blank" rel="noopener"></a>');
         link.setAttribute("href", a.pageUrl);
         var img = document.createElement("img");
         img.src = a.image;
-        img.alt = "NASA Astronomy Picture of the Day — " + a.title;
+        img.alt = "Picture of the Day — " + a.title;
         img.loading = "lazy";
         link.appendChild(img);
         fig.appendChild(link);
