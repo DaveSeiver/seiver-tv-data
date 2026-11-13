@@ -1,41 +1,41 @@
 {
   "apod": {
-    "credit": "ESA/Hubble & NASA, M. Libralato, G. Piotto, A. Sarajedini",
+    "credit": "NASA/CXC/Univ. of Virginia/M. Aghakhanloo et al.; Optical: SDSS; Image Processing: NASA/CXC/SAO/P. Edmonds",
     "date": "November 13, 2026",
-    "explanation": "This NASA/ESA Hubble Space Telescope image, released November 5, 2026, shows the ancient globular cluster Messier 30, about 27,500 light-years away in the constellation Capricornus. The sparkling collection of stars is nearly as old as the universe itself — globular clusters are estimated at 11.5 to 13.5 billion years old — and the new portrait combines ultraviolet, visible and near-infrared observations from three Hubble programs, including a fifteen-year baseline tracking how different stellar populations move. Messier 30's unusual orbit hints it may have arrived with another galaxy rather than forming where it now sits.",
-    "image": "https://www.spacelaunchschedule.com/wp-content/uploads/2026/11/hubble-m30-potm2610a-1024x903.jpg",
-    "pageUrl": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
-    "title": "M30's Sparkling Stars"
+    "explanation": "Using NASA's Chandra X-ray Observatory, astronomers have discovered what triggers repeated outbursts from the giant, unstable star AT 2016blu in the spiral galaxy NGC 4559, about 30 million light-years away. The star, at least 33 times the Sun's mass, brightens and dims every 113 days as a previously hidden companion — a black hole or a neutron star — pulls material from it, heating the gas until it shines brightly in X-rays. The composite image, released Nov. 9, 2026, shows the galaxy tilted at a sharp angle, with the outbursting star marked near its outer edge.",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg",
+    "pageUrl": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
+    "title": "Outbursts from a Massive Star"
   },
-  "asOf": "Fri Nov 13, 2026, 9:41 AM CT",
+  "asOf": "Fri Nov 13, 2026, 12:09 PM CT",
   "breaking": [
     {
-      "fact": "Bitcoin fell as low as $67,652 on Friday, down more than 3.5% in 24 hours and 16% over the past month, slipping below its 200-week moving average near $68,000, before bouncing to around $69,500 after a softer-than-expected PPI reading.",
-      "headline": "Bitcoin slides below $67,700, under its 200-week average",
-      "source": "CoinDesk",
+      "fact": "President Trump threatened Thursday to immediately double U.S. tariffs on Mexican goods — from 10% to 20% on most goods — unless Mexico stops migrant caravans heading north; Treasury Secretary Scott Bessent said Friday he is still optimistic the U.S. can reach trade deals with Mexico and Canada, a day after the threat landed amid sensitive USMCA renegotiations.",
+      "headline": "Trump threatens to double Mexico tariffs",
+      "source": "Reuters",
       "tag": "US",
-      "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets?post-id=573b33a3e5af"
+      "url": "https://www.reuters.com/world/china/us-treasurys-bessent-says-he-is-optimistic-trade-deals-with-canada-mexico-2026-11-13/"
     },
     {
-      "fact": "Bank of America now expects three consecutive quarter-point Fed rate hikes — December 2026, January 2027 and March 2027 — after October CPI came in hot, a step up from its earlier warning of a possible 50-basis-point December move.",
-      "headline": "Bank of America now sees three straight Fed hikes",
-      "source": "Stock Market Watch",
+      "fact": "A global Microsoft 365 outage that began Thursday afternoon knocked out Outlook, Teams, SharePoint and Copilot for users in 74 countries, with Downdetector logging more than 130,000 U.S. Outlook reports at the peak; Microsoft says servers failed automated health checks and overloaded the rest, with no sign of a cyberattack, and recovery was progressing Friday with shares down about 3% in premarket trading.",
+      "headline": "Microsoft 365 outage stretches into a second day",
+      "source": "Malwarebytes",
       "tag": "US",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/markets-edge-higher-as-fed-officials-warn-of-persistent-inflation/74641/"
+      "url": "https://www.malwarebytes.com/blog/news/2026/11/worldwide-microsoft-365-outage-disrupts-outlook-sharepoint-teams-and-more"
     },
     {
-      "fact": "Cisco posted record fiscal first-quarter revenue of $18.5 billion, up 24%, with adjusted earnings of $1.40 a share, up 40% — its strongest growth in more than 15 years — and raised its fiscal 2027 revenue outlook to $74.8–$75.8 billion, lifting its hyperscaler AI revenue target to $9 billion from $7.5 billion; shares dipped overnight amid Nvidia-linked volatility.",
-      "headline": "Cisco beats and raises on the AI networking boom",
-      "source": "Zacks",
+      "fact": "U.S. existing-home sales fell 5.5% in October to a 3.75 million annual rate, the lowest since August 2010 and 8.8% below a year earlier, as the average 30-year mortgage hit 7.33% — its highest since 2000 — even as inventory rose 1.3% to 1.59 million homes.",
+      "headline": "Existing-home sales fall to a 16-year low",
+      "source": "Reuters",
       "tag": "US",
-      "url": "https://www.zacks.com/stock/news/3029564/cisco-q1-earnings-call-highlights-ai-growth-and-higher-outlook"
+      "url": "https://www.reuters.com/business/us-existing-home-sales-slump-more-than-16-year-low-october-2026-11-12/"
     },
     {
-      "fact": "Anthropic's IPO is reportedly about six times oversubscribed, with orders for roughly six times the shares on offer and existing backers getting allocation priority; the company is raising up to $64.4 billion at $70–$78 a share — about a $1.4 trillion valuation — plus a $26 billion private placement, with pricing Nov 18 and Nasdaq trading as ANT from Nov 19. Annualized revenue hit an $81 billion run rate at Oct 31.",
-      "headline": "Anthropic's IPO is about six times oversubscribed",
-      "source": "Stocktwits",
+      "fact": "Spot gold traded near $3,895 Friday morning, down about 4% for the week, as hot CPI and PPI readings pushed the 10-year Treasury yield above 5.1% and hardened expectations of a December Fed rate hike.",
+      "headline": "Gold slides about 4% on the week as yields top 5.1%",
+      "source": "Weekly Market Update",
       "tag": "US",
-      "url": "https://www.tradingview.com/news/stocktwits:0dc81ad1f094b:0-ai-trade-barometer-anthropic-s-ipo-is-reportedly-six-times-oversubscribed/"
+      "url": "https://johnnychoe.ca/weekly-market-update-november-13-2026/"
     }
   ],
   "cdRates": {
@@ -92,7 +92,7 @@
   "hormuz": {
     "items": [
       {
-        "body": "Iran's parliament speaker Mohammad Bagher Ghalibaf has said the strait will never return to pre-war conditions, and Tehran is still waiting for a U.S. answer to its seven conditions for reopening; attacks on shipping continued into November, with at least 10 ships hit in the first 10 days of the month after 37 attacks in October — the highest monthly tally — according to Washington Institute data. U.S. Central Command says it has turned away nearly 150 ships under its naval blockade of Iranian ports. On oil, Kpler's tracking shows Iranian crude loadings have been zero since late August — the first zero month since Kpler began tracking in 2013 — while non-Iranian crude is still moving, with Kpler putting direct Hormuz crude exports at about 7.3 million barrels a day in the week to October 28.",
+        "body": "Reuters reports the IRGC navy said Friday that a tanker carrying liquefied natural gas struck a naval mine in the Strait of Hormuz and suffered an explosion while using what Tehran called an “unauthorised and dangerous route”; Iranian media reported Thursday that four oil tankers were hit by explosions after entering waters Iran considers restricted. On oil, Kpler's tracking shows Iranian crude loadings have been zero since late August — the first zero month since Kpler began tracking in 2013 — while non-Iranian crude is still moving, with Kpler putting direct Hormuz crude exports at about 7.3 million barrels a day in the week to October 28.",
         "headline": "Latest from the Strait"
       }
     ],
@@ -100,12 +100,11 @@
   },
   "markets": [
     {
-      "change": "-82.53",
+      "change": "-52.43",
       "dir": "down",
       "label": "S&P 500",
-      "pct": "-1.09%",
+      "pct": "-0.69%",
       "spark": [
-        7818.93017578125,
         7801.77001953125,
         7765.35986328125,
         7811.5400390625,
@@ -134,17 +133,17 @@
         7619.3798828125,
         7592.39990234375,
         7583.0498046875,
-        7509.87
+        7509.87,
+        7539.97
       ],
-      "value": "7,509.87"
+      "value": "7,539.97"
     },
     {
-      "change": "-413.43",
+      "change": "-297.81",
       "dir": "down",
       "label": "NASDAQ Composite",
-      "pct": "-1.63%",
+      "pct": "-1.17%",
       "spark": [
-        27599.7890625,
         27538.689453125,
         27193.33984375,
         27366.169921875,
@@ -173,17 +172,17 @@
         25466.189453125,
         25366.08984375,
         25252.0625,
-        24952.66
+        24952.66,
+        25068.277
       ],
-      "value": "24,952.66"
+      "value": "25,068.28"
     },
     {
-      "change": "-260.25",
+      "change": "-53.45",
       "dir": "down",
       "label": "Dow Jones",
-      "pct": "-0.50%",
+      "pct": "-0.10%",
       "spark": [
-        51521.28125,
         51179.87109375,
         51231.640625,
         51654.94921875,
@@ -212,17 +211,17 @@
         52486.48828125,
         52297.08984375,
         52449.33984375,
-        52036.84
+        52036.84,
+        52243.64
       ],
-      "value": "52,036.84"
+      "value": "52,243.64"
     },
     {
-      "change": "+0.12",
+      "change": "+1.01",
       "dir": "up",
       "label": "VIX",
-      "pct": "+0.64%",
+      "pct": "+5.40%",
       "spark": [
-        15.010000228881836,
         15.079999923706055,
         15.40999984741211,
         14.84000015258789,
@@ -251,17 +250,17 @@
         17.489999771118164,
         18.700000762939453,
         18.100000381469727,
-        18.82
+        18.82,
+        19.71
       ],
-      "value": "18.82"
+      "value": "19.71"
     },
     {
-      "change": "+0.04 pp",
+      "change": "+0.03 pp",
       "dir": "up",
       "label": "10-Yr Treasury",
       "pct": "",
       "spark": [
-        5.269000053405762,
         5.2769999504089355,
         5.230999946594238,
         5.24399995803833,
@@ -290,17 +289,17 @@
         4.998000144958496,
         5.103000164031982,
         5.161999702453613,
-        5.14
+        5.14,
+        5.13
       ],
-      "value": "5.14%"
+      "value": "5.13%"
     },
     {
-      "change": "+0.67",
-      "dir": "up",
+      "change": "-0.17",
+      "dir": "down",
       "label": "WTI Crude",
-      "pct": "+0.76%",
+      "pct": "-0.19%",
       "spark": [
-        89.44000244140625,
         88.27999877929688,
         91.48999786376953,
         91.8499984741211,
@@ -329,17 +328,17 @@
         86.52999877929688,
         88.73999786376953,
         89.25,
-        89.41
+        89.41,
+        88.57
       ],
-      "value": "$89.41"
+      "value": "$88.57"
     },
     {
-      "change": "+1.12",
-      "dir": "up",
+      "change": "-0.19",
+      "dir": "down",
       "label": "Brent Crude",
-      "pct": "+1.17%",
+      "pct": "-0.20%",
       "spark": [
-        100.58000183105469,
         100.19999694824219,
         104.27999877929688,
         104.72000122070312,
@@ -368,350 +367,351 @@
         92.76000213623047,
         95.81999969482422,
         96.75,
-        96.94
+        96.94,
+        95.63
       ],
-      "value": "$96.94"
+      "value": "$95.63"
     }
   ],
   "marketsNote": "",
   "space": [
     {
-      "body": "SpaceX's Starship Flight 15 is set for Friday evening from Starbase, with the FAA's air-traffic plan listing a window of 4:45–6:40 PM CT and the same time Saturday as backup, but no FAA launch license had been issued as of Friday morning. Road closures run 11 AM–11:30 PM; Booster 22 and Ship 42, both Block 3 vehicles, will attempt the first catch of both stages, with Ship 42 deploying 26 Starlink V3 satellites and a ship catch possible around 2:45 PM CT Saturday.",
-      "headline": "FAA license still missing hours before Starship's first double catch",
+      "body": "SpaceX released the flight plan today for Starship Flight 15, still targeting a 4:45–6:40 PM CT window Friday evening from Starbase, but the FAA launch license had still not been issued as of Friday morning — the last hurdle before the first attempt to catch both stages. Booster 22 and Ship 42, both Block 3 vehicles, would fly the first double catch, with Ship 42 deploying 26 Starlink V3 satellites and a ship catch possible around 2:45 PM CT Saturday; the same window is available Saturday as backup.",
+      "headline": "SpaceX releases Starship Flight 15 flight plan as license clock ticks down",
       "tag": "Space",
-      "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/"
+      "url": "https://www.basenor.com/blogs/news/spacex-starship-flight-15-targets-nov-13-launch-window"
     },
     {
-      "body": "Brown University engineers solved the dead-layer problem that has limited multiferroic chips, showing bismuth ferrite films just a few atoms thick stay both ferroelectric and magnetic — a step toward ultra-low-power AI hardware — and stumbled onto a new form of magnetism, altermagnetism, along the way. The work was published in Nature Materials; it is a lab result, not yet a product.",
-      "headline": "Brown engineers solve the 'dead layer' blocking ultra-low-power AI chips",
+      "body": "Gladstone Institutes researchers found the blood-brain barrier is a selective filter that picks helpful proteins from the blood and delivers them to the right brain cells — 92 of 861 tagged blood proteins crossed in mice. The liver protein apolipoprotein A1, which helps maintain connections between neurons, was among them; in Alzheimer's-model mice, restoring its supply eased early signs of the disease. The work was published in Cell.",
+      "headline": "Blood-brain barrier is a filter, not a wall — a new Alzheimer's lead",
       "tag": "Science",
-      "url": "https://thedingodaily.com/news/article/2026-11-13-brown-university-dead-layer-low-power-ai-chips"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/blood-brain-barrier-discovery-could-lead-new-alzheimers-disease-approach-2026-11-13/"
     },
     {
-      "body": "Monash University scientists identified the protein Granzyme K as a driver of age-related damage in the heart, liver and kidneys, with levels rising sharply with age. The finding, published in Immunity, points to a possible target for slowing organ ageing.",
-      "headline": "Monash scientists identify a protein driving age-related organ damage",
-      "tag": "Science",
-      "url": "https://newshub.medianet.com.au/2026/11/monash-scientists-identify-protein-driving-age-related-organ-damage/181570/"
-    },
-    {
-      "body": "Supernova SN 2026ahvu, in the galaxy NGC 1433 about 50 million light-years away, was discovered Nov 2 by ATLAS and confirmed as a young Type Ia explosion; it is still brightening and is expected to peak at magnitude 10.5–12.1 between Nov 18 and 23, tracked by DECam and Gemini South.",
-      "headline": "Nearby supernova SN 2026ahvu still brightening, expected to peak Nov 18–23",
+      "body": "Astronomers using the Vera C. Rubin Observatory in Chile have discovered two previously hidden companions of the Milky Way — the ultra-faint galaxy Aquarius 4 in the galaxy's distant outskirts and a star cluster, Rubin GC1, on the far side — adding to the roughly 65 known satellite galaxies orbiting our own. The findings were reported in the Astrophysical Journal Letters.",
+      "headline": "Rubin Observatory finds two hidden neighbours of the Milky Way",
       "tag": "Space",
-      "url": "https://rightcolumnmedia.com/business/nsf-noirlab-operated-facilities-capture-brightening-nearby-supernova"
+      "url": "https://spacetimewithstuartgary.com/podcast/spacetime-astronomy-space-and-science-news/episode/milky-ways-hidden-neighbours-come-into-view-with-rubin-observatory"
+    },
+    {
+      "body": "A Gachon University team has developed a multifunctional nanozyme that breaks down biofilms — the protective layers bacteria form on surfaces — by simultaneously attacking their DNA, protein and polysaccharide components. In tests it removed biofilms formed by E. coli and Staphylococcus aureus, kept more than 80% of its activity after 60 uses, and held up after 100 days in storage. The study was published in Advanced Functional Materials.",
+      "headline": "Nanozyme that dissolves bacterial biofilms could fight drug-resistant infections",
+      "tag": "Science",
+      "url": "https://en.sedaily.com/society/2026/11/13/gachon-university-team-develops-nanozyme-that-breaks-down"
     }
   ],
-  "version": 19,
+  "version": 20,
   "watchlist": [
     {
-      "blurb": "Air Liquide's Paris close Thursday was €192.84 (+0.35%); at the ECB's Nov 12 reference rate of 1.1081 that's $213.69 in dollars. Paris is trading higher Friday, near €194.08 (+0.64%), and the Nov 13 ECB rate posts around 4 PM CET (9 AM CT).",
-      "change": "-0.06%",
+      "blurb": "Air Liquide closed in Paris today at €193.32 (+0.25%); at the ECB's Nov 13 reference rate of 1.1052 that's $213.66 in dollars — a touch below Thursday's $213.69.",
+      "change": "-0.01%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/AI.PA",
       "name": "Air Liquide",
-      "price": "$213.69",
+      "price": "$213.66",
       "risk": 2,
       "spark": [
-        187.36000061035156,
-        189.72000122070312,
-        187.77999877929688,
-        189.4600067138672,
-        190.33999633789062,
-        192.16000366210938,
-        192.83999633789062
+        189.72,
+        187.78,
+        189.46,
+        190.34,
+        192.16,
+        192.84,
+        193.32
       ],
-      "subTag": "€192.84 × 1.1081 (ECB Nov 12)",
+      "subTag": "€193.32 × 1.1052 (ECB Nov 13)",
       "ticker": "AIL.F",
       "yieldTag": null
     },
     {
-      "blurb": "T-bill ETF is trading at $91.53 Friday morning, up 0.03% from Thursday's $91.50 close; its latest monthly distribution ($0.30849, ex Nov 2, paid Nov 5) annualizes to a 4.04% yield at that price.",
-      "change": "+0.03%",
+      "blurb": "T-bill ETF is trading at $91.52 Friday midday, up 0.02% from Thursday's $91.50 close; its latest monthly distribution ($0.30849, ex Nov 2, paid Nov 5) annualizes to a 4.04% yield at that price.",
+      "change": "+0.02%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/BIL",
       "name": "SPDR 1-3 Month T-Bill ETF",
-      "price": "$91.53",
+      "price": "$91.52",
       "risk": 0,
       "spark": [
-        91.45999908447266,
-        91.4800033569336,
-        91.48999786376953,
+        91.43,
+        91.46,
+        91.48,
+        91.49,
         91.5,
         91.5,
-        91.5199966430664,
-        91.525
+        91.52
       ],
       "subTag": "$0.30849 dist., ex Nov 2, paid Nov 5",
       "ticker": "BIL",
       "yieldTag": "Dist. yield 4.04%"
     },
     {
-      "blurb": "Fastenal is trading at $55.23 Friday morning, down 0.6% from Thursday's $55.55 close — still $7.23 above Sean's $48 buy gate.",
-      "change": "-0.58%",
+      "blurb": "Fastenal is trading at $55.31 Friday midday, down 0.4% from Thursday's $55.55 close — still $7.31 above Sean's $48 buy gate.",
+      "change": "-0.43%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/FAST",
       "name": "Fastenal",
-      "price": "$55.23",
+      "price": "$55.31",
       "risk": 2,
       "spark": [
-        52.9900016784668,
-        54.56999969482422,
-        54.84000015258789,
-        55.4900016784668,
-        55.54999923706055,
-        55.75,
-        55.23
+        52.9,
+        52.99,
+        54.57,
+        54.84,
+        55.49,
+        55.55,
+        55.31
       ],
       "subTag": null,
       "ticker": "FAST",
       "yieldTag": null
     },
     {
-      "blurb": "Alphabet is trading at $296.17 Friday morning, down 0.9% from Thursday's $298.70 close, giving back the $300 level after opening near $303 and touching $304.97; the rotation toward Google's TPU edge is still the story, with Nvidia sliding.",
-      "change": "-0.85%",
+      "blurb": "Alphabet is trading at $295.53 Friday midday, down 1.1% from Thursday's $298.70 close, giving back the $300 level for a second day as the AI rotation cools; Nvidia's slide into Tuesday's earnings is dragging the sector.",
+      "change": "-1.06%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/GOOGL",
       "name": "Alphabet (Google) Cl A",
-      "price": "$296.17",
+      "price": "$295.53",
       "risk": 3,
       "spark": [
-        284.7799987792969,
-        288.1499938964844,
-        287.3800048828125,
-        293.45001220703125,
-        298.70001220703125,
-        302.7099914550781,
-        296.17
+        282.57,
+        284.78,
+        288.15,
+        287.38,
+        293.45,
+        298.7,
+        295.5288
       ],
       "subTag": null,
       "ticker": "GOOGL",
       "yieldTag": null
     },
     {
-      "blurb": "Lilly is trading at $1,425.08 Friday morning, down 0.2% from Thursday's $1,427.28 close; China Merchants Securities cut the stock to Hold on Nov 12, and the FDA's rare vision-loss (NAION) warning on GLP-1 labels, including Zepbound and Mounjaro, remains the overhang.",
-      "change": "-0.15%",
-      "dir": "down",
+      "blurb": "Lilly is trading at $1,444.84 Friday midday, up 1.2% from Thursday's $1,427.28 close, recovering after Thursday's dip; the FDA's rare vision-loss (NAION) warning on GLP-1 labels, including Zepbound and Mounjaro, remains the overhang.",
+      "change": "+1.23%",
+      "dir": "up",
       "link": "https://finance.yahoo.com/quote/LLY",
       "name": "Eli Lilly",
-      "price": "$1,425.08",
+      "price": "$1,444.84",
       "risk": 3,
       "spark": [
+        1364.73,
         1354.0,
-        1411.949951171875,
-        1432.2900390625,
-        1437.2900390625,
-        1427.280029296875,
-        1422.81005859375,
-        1425.08
+        1411.95,
+        1432.29,
+        1437.29,
+        1427.28,
+        1444.8357
       ],
       "subTag": null,
       "ticker": "LLY",
       "yieldTag": null
     },
     {
-      "blurb": "Cheniere is trading at $306.39 Friday morning, down 1.0% from Thursday's $309.48 close; RBC raised its price target to $319, and a $0.625 dividend is payable Nov 17 (record date Nov 9).",
-      "change": "-1.00%",
+      "blurb": "Cheniere is trading at $308.74 Friday midday, down 0.2% from Thursday's $309.48 close; RBC raised its price target to $319, and a $0.625 dividend is payable Nov 17 (record date Nov 9).",
+      "change": "-0.24%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/LNG",
       "name": "Cheniere Energy",
-      "price": "$306.39",
+      "price": "$308.74",
       "risk": 3,
       "spark": [
-        277.95001220703125,
-        284.95001220703125,
-        293.489990234375,
-        304.510009765625,
-        309.4800109863281,
-        308.0,
-        306.39
+        279.57,
+        277.95,
+        284.95,
+        293.49,
+        304.51,
+        309.48,
+        308.74
       ],
       "subTag": null,
       "ticker": "LNG",
       "yieldTag": null
     },
     {
-      "blurb": "Nvidia is trading at $160.28 Friday morning, down 3.6% from Thursday's $166.19 close, after opening near $169.90 and spiking to $170 before sliding; the post-Huang slide continues into earnings, due Nov 17. Wedbush set a $345 target and RBC $225 on Nov 12.",
-      "change": "-3.56%",
+      "blurb": "Nvidia is trading at $161.16 Friday midday, down 3.0% from Thursday's $166.19 close, extending the post-Huang slide — the stock is down about 14% this week — with earnings due Tuesday Nov 17. Wedbush set a $345 target and RBC $225 on Nov 12.",
+      "change": "-3.03%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/NVDA",
       "name": "NVIDIA",
-      "price": "$160.28",
+      "price": "$161.16",
       "risk": 3,
       "spark": [
-        186.63999938964844,
-        178.6699981689453,
-        168.88999938964844,
-        173.72999572753906,
-        166.19000244140625,
-        162.77139282226562,
-        160.28
+        181.6,
+        186.64,
+        178.67,
+        168.89,
+        173.73,
+        166.19,
+        161.16
       ],
       "subTag": null,
       "ticker": "NVDA",
       "yieldTag": null
     },
     {
-      "blurb": "Pfizer is trading at $28.82 Friday morning, down 0.1% from Thursday's $28.83 close; Bernstein reiterated Market Perform with a $29 target on Nov 12.",
-      "change": "-0.05%",
+      "blurb": "Pfizer is trading at $28.79 Friday midday, down 0.1% from Thursday's $28.83 close; Bernstein reiterated Market Perform with a $29 target on Nov 12.",
+      "change": "-0.14%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/PFE",
       "name": "Pfizer",
-      "price": "$28.82",
+      "price": "$28.79",
       "risk": 2,
       "spark": [
-        29.389999389648438,
-        29.229999542236328,
-        29.360000610351562,
-        29.450000762939453,
-        28.829999923706055,
-        28.764999389648438,
-        28.82
+        29.88,
+        29.39,
+        29.23,
+        29.36,
+        29.45,
+        28.83,
+        28.79
       ],
       "subTag": null,
       "ticker": "PFE",
       "yieldTag": null
     },
     {
-      "blurb": "Rocket Lab is trading at $60.28 Friday morning, down 5.9% from Thursday's $64.07 close; its Electron rocket flies its 100th mission early Saturday, while SpaceX's Starship Flight 15 lifts off Friday evening.",
-      "change": "-5.92%",
+      "blurb": "Rocket Lab is trading at $60.97 Friday midday, down 4.8% from Thursday's $64.07 close, giving back some of this week's big gains; its Electron rocket flies its 100th mission early Saturday.",
+      "change": "-4.84%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/RKLB",
       "name": "Rocket Lab",
-      "price": "$60.28",
+      "price": "$60.97",
       "risk": 4,
       "spark": [
-        53.06999969482422,
-        58.86000061035156,
-        62.709999084472656,
-        66.1500015258789,
-        64.06999969482422,
-        60.849998474121094,
-        60.28
+        45.99,
+        53.07,
+        58.86,
+        62.71,
+        66.15,
+        64.07,
+        60.9689
       ],
       "subTag": null,
       "ticker": "RKLB",
       "yieldTag": null
     },
     {
-      "blurb": "Rithm is trading at $8.90 Friday morning, down 1.1% from Thursday's $9.00 close and below its 50-day moving average of $9.17, as the 10-year yield holds above 5% — a headwind for mortgage REITs.",
-      "change": "-1.11%",
+      "blurb": "Rithm is trading at $8.99 Friday midday, down 0.2% from Thursday's $9.00 close and below its 50-day moving average of $9.17, as the 10-year yield holds above 5% — a headwind for mortgage REITs.",
+      "change": "-0.17%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/RITM",
       "name": "Rithm Capital",
-      "price": "$8.90",
+      "price": "$8.99",
       "risk": 4,
       "spark": [
-        9.229999542236328,
-        9.4399995803833,
-        9.270000457763672,
-        9.210000038146973,
+        9.45,
+        9.23,
+        9.44,
+        9.27,
+        9.21,
         9.0,
-        9.020000457763672,
-        8.9
+        8.985
       ],
       "subTag": null,
       "ticker": "RITM",
       "yieldTag": null
     },
     {
-      "blurb": "The SPAC ETF is trading at $137.61 Friday morning, down 1.7% from Thursday's $139.94 close, giving back Thursday's spike near $147 on speculation about Jensen Huang joining SpaceX.",
-      "change": "-1.67%",
+      "blurb": "The SPAC ETF is trading at $139.47 Friday midday, down 0.3% from Thursday's $139.94 close, easing off Thursday's spike near $147 on speculation about Jensen Huang joining SpaceX.",
+      "change": "-0.34%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/SPCX",
       "name": "SpaceX",
-      "price": "$137.61",
+      "price": "$139.47",
       "risk": 4,
       "spark": [
-        134.27000427246094,
-        142.07000732421875,
-        143.08999633789062,
+        123.62,
+        134.27,
+        142.07,
+        143.09,
         139.75,
-        139.94000244140625,
-        139.8249969482422,
-        137.61
+        139.94,
+        139.4672
       ],
       "subTag": null,
       "ticker": "SPCX",
       "yieldTag": null
     },
     {
-      "blurb": "Truist is trading at $49.33 Friday morning, down 1.1% from Thursday's $49.89 close, underperforming the broad market's slide.",
-      "change": "-1.12%",
+      "blurb": "Truist is trading at $49.65 Friday midday, down 0.5% from Thursday's $49.89 close, underperforming the broad market's slide.",
+      "change": "-0.48%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/TFC",
       "name": "Truist Financial",
-      "price": "$49.33",
+      "price": "$49.65",
       "risk": 3,
       "spark": [
-        49.380001068115234,
-        50.33000183105469,
-        50.2599983215332,
-        50.2599983215332,
-        49.88999938964844,
-        49.744998931884766,
-        49.33
+        49.84,
+        49.38,
+        50.33,
+        50.26,
+        50.26,
+        49.89,
+        49.65
       ],
       "subTag": null,
       "ticker": "TFC",
       "yieldTag": null
     },
     {
-      "blurb": "U.S. Antimony is trading at $3.01 Friday morning, up 3.4% from Thursday's $2.91 close and still under Sean's $4 buy gate; Q3 revenue of $10.1M missed the roughly $16.7M estimate as antimony prices fell about 63%.",
-      "change": "+3.44%",
+      "blurb": "U.S. Antimony is trading at $3.05 Friday midday, up 4.9% from Thursday's $2.91 close and still under Sean's $4 buy gate; Q3 revenue of $10.1M missed the roughly $16.7M estimate as antimony prices fell about 63%.",
+      "change": "+4.88%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/UAMY",
       "name": "United States Antimony",
-      "price": "$3.01",
+      "price": "$3.05",
       "risk": 5,
       "spark": [
-        2.819999933242798,
-        3.4700000286102295,
-        3.2100000381469727,
-        3.119999885559082,
-        2.9100000858306885,
-        2.944999933242798,
-        3.01
+        2.59,
+        2.82,
+        3.47,
+        3.21,
+        3.12,
+        2.91,
+        3.0516
       ],
       "subTag": null,
       "ticker": "UAMY",
       "yieldTag": null
     },
     {
-      "blurb": "Uranium Energy is trading at $6.62 Friday morning, down 2.7% from Thursday's $6.80 close, with uranium names still under pressure.",
-      "change": "-2.72%",
+      "blurb": "Uranium Energy is trading at $6.65 Friday midday, down 2.2% from Thursday's $6.80 close, with uranium names still under pressure.",
+      "change": "-2.21%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/UEC",
       "name": "Uranium Energy",
-      "price": "$6.62",
+      "price": "$6.65",
       "risk": 5,
       "spark": [
-        6.920000076293945,
-        7.619999885559082,
-        7.170000076293945,
-        7.230000019073486,
-        6.800000190734863,
-        6.735000133514404,
-        6.62
+        6.48,
+        6.92,
+        7.62,
+        7.17,
+        7.23,
+        6.8,
+        6.65
       ],
       "subTag": null,
       "ticker": "UEC",
       "yieldTag": null
     },
     {
-      "blurb": "Valero is trading at $372.16 Friday morning, down 0.7% from Thursday's $374.95 close, giving back some of Thursday's 3.1% Hormuz-driven gain as crude holds near $89.",
-      "change": "-0.74%",
+      "blurb": "Valero is trading at $374.55 Friday midday, down 0.1% from Thursday's $374.95 close, holding near its highs as crude stays near $89.",
+      "change": "-0.11%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/VLO",
       "name": "Valero Energy",
-      "price": "$372.16",
+      "price": "$374.55",
       "risk": 3,
       "spark": [
-        346.45001220703125,
+        351.23,
+        346.45,
         356.75,
-        350.7099914550781,
-        363.7099914550781,
-        374.95001220703125,
-        367.6000061035156,
-        372.16
+        350.71,
+        363.71,
+        374.95,
+        374.55
       ],
       "subTag": null,
       "ticker": "VLO",
@@ -739,21 +739,21 @@
       "yieldTag": null
     },
     {
-      "blurb": "S&P 500-anchored estimate ($155.58 when the index closed 7,568.92 on Nov 3); this CIT has no public quote — $154.37 (est.) with the index near 7,510 Friday morning.",
-      "change": "-1.09%",
+      "blurb": "S&P 500-anchored estimate ($155.58 when the index closed 7,568.92 on Nov 3); this CIT has no public quote — $154.98 (est.) with the index near 7,540 Friday midday.",
+      "change": "-0.69%",
       "dir": "down",
       "link": null,
       "name": "Vanguard Institutional 500 Index Trust",
-      "price": "$154.37 (est.)",
+      "price": "$154.98 (est.)",
       "risk": 3,
       "spark": [
+        151.1567,
         151.6322,
         155.1899,
         154.5936,
         156.6172,
         156.0626,
-        155.8704,
-        154.3654
+        154.9849
       ],
       "subTag": "S&P 500-anchored estimate",
       "ticker": "VI5TC",
@@ -789,84 +789,84 @@
   "weather": [
     {
       "alerts": "",
-      "aqi": 65,
+      "aqi": 52,
       "aqiCat": "Moderate",
       "aqiNote": "PM2.5",
       "conditions": "Sunny",
       "detail": "ZIP 77056",
-      "extra": "Humidity 53% · Wind ENE 2 mph",
+      "extra": "Humidity 44% · Wind calm",
       "icon": "sun",
       "name": "Houston Winter Condo",
-      "tempF": 68,
-      "today": "Sunny, high 77°F",
-      "tomorrow": "Mostly cloudy, high 67°F",
-      "tonight": "Partly cloudy, low 54°F"
+      "tempF": 74,
+      "today": "Sunny, high 76°F",
+      "tomorrow": "Mostly sunny, high 68°F",
+      "tonight": "Mostly clear, low 55°F"
     },
     {
       "alerts": "",
-      "aqi": 51,
-      "aqiCat": "Moderate",
+      "aqi": 31,
+      "aqiCat": "Good",
       "aqiNote": "PM2.5",
-      "conditions": "Mostly Cloudy",
+      "conditions": "Partly Sunny",
       "detail": "Sanders County",
-      "extra": "Humidity 85% · Wind SSE 2 mph",
-      "icon": "clouds",
+      "extra": "Humidity 68% · Wind calm",
+      "icon": "partly",
       "name": "Seiver Ranch — Plains, MT",
-      "tempF": 38,
-      "today": "Partly cloudy, high 52°F",
-      "tomorrow": "Cloudy, high 49°F",
-      "tonight": "Partly cloudy, low 36°F"
+      "tempF": 45,
+      "today": "Mostly sunny, high 53°F",
+      "tomorrow": "Areas of fog then partly sunny, high 51°F",
+      "tonight": "Areas of fog, low 32°F"
     },
     {
       "alerts": "",
-      "aqi": 58,
-      "aqiCat": "Moderate",
+      "aqi": 25,
+      "aqiCat": "Good",
       "aqiNote": "PM2.5",
-      "conditions": "Fair",
+      "conditions": "Mostly Sunny",
       "detail": "Pierce County",
-      "extra": "Humidity 98% · Wind SSE 10 mph, gusts 16 mph",
+      "extra": "Humidity 75% · Wind SE 15 mph",
       "icon": "sun",
       "name": "Seiver Slough — Rugby, ND",
-      "tempF": 26,
-      "today": "Mostly sunny, high 39°F",
-      "tomorrow": "Partly cloudy, high 42°F",
-      "tonight": "Partly cloudy, low 23°F"
+      "tempF": 34,
+      "today": "Mostly sunny, high 38°F",
+      "tomorrow": "Partly sunny, high 43°F",
+      "tonight": "Mostly cloudy, low 23°F"
     },
     {
-      "alerts": "Winter Weather Advisory until Fri 12:00 PM EST",
-      "aqi": 32,
+      "alerts": "",
+      "aqi": 38,
       "aqiCat": "Good",
       "aqiNote": "O3",
-      "conditions": "Cloudy",
+      "conditions": "Chance Rain And Snow Showers",
       "detail": "Baraga County",
-      "extra": "Humidity 92% · Wind N 9 mph, gusts 17 mph",
-      "icon": "clouds",
+      "extra": "Humidity 73% · Wind N 10 mph",
+      "icon": "rain",
       "name": "Seiver Lodge — L'Anse, MI",
-      "tempF": 31,
-      "today": "Snow showers, high 38°F",
-      "tomorrow": "Cloudy, high 40°F",
-      "tonight": "Cloudy, low 32°F"
+      "tempF": 36,
+      "today": "Chance rain and snow showers, high 37°F",
+      "tomorrow": "Mostly cloudy, high 39°F",
+      "tonight": "Slight chance snow showers then cloudy, low 34°F"
     }
   ],
   "weekInBrief": [
     {
-      "body": "Producer prices rose 0.3% in October, below the 0.4% forecast and a sharp slowdown from September's upwardly revised 1.4% jump, but the annual rate climbed to 6.5%, the highest since November 2022. Food rose 1.3%, with fresh vegetables up 26.7%; core PPI rose 0.3% on the month and 5.0% over the year. It is the last inflation print before the Fed's December meeting.",
-      "headline": "October PPI rises 0.3%, but the annual rate hits a four-year high",
+      "body": "The S&P 500 rose 2.9% and the Nasdaq 3.2% from last Friday's close through Thursday, rebounding strongly after the previous week's AI-chip rout, even after Thursday's slide on hot inflation data and Nvidia's leadership turmoil.",
+      "headline": "Stocks rebound for the week despite Thursday's drop",
       "stamp": "Nov 13, 2026"
     },
     {
-      "body": "Cerebras shares jumped 18.19% in premarket trading after the AI chipmaker beat third-quarter expectations, with cloud revenue up 272%, and raised its full-year guidance.",
-      "headline": "Cerebras jumps on Q3 beat as cloud revenue grows 272%",
+      "body": "Nvidia shares are down about 14% this week after founder-CEO Jensen Huang resigned Nov 11; interim CEO Colette Kress faces her first test when the company reports earnings Tuesday, Nov 17.",
+      "headline": "Nvidia heads for a roughly 14% weekly loss after Huang's exit",
       "stamp": "Nov 13, 2026"
     },
     {
-      "body": "The 10-year Treasury yield is up nearly 30 basis points on the week to about 5.15%, its worst week since April, after hot CPI and PPI readings hardened expectations of a December Fed rate hike — pressuring gold and growth stocks.",
-      "headline": "10-year yield heads for its worst week since April",
+      "body": "The U.S. dollar index held above 103, its highest since April 2025, after three days of gains on persistent-inflation fears, while the yen traded near 160 per dollar — the level markets watch for Japanese intervention — and Japan's finance minister renewed warnings against speculative moves.",
+      "headline": "Dollar hits a 19-month high as yen nears 160",
       "stamp": "Nov 13, 2026"
     },
     {
-      "body": "Google Finance is serving the Texas Stock Exchange listings again: SUN $65.00, ET $19.48, SUNC $66.39, USAC $25.07, and =GOOGLEFINANCE(\"TXSE:SUN\",\"price\") formulas work again after weeks of returning errors.",
-      "headline": "Google Finance restores Texas Stock Exchange listings",
+      "body": "Traders now put an 88% chance on a quarter-point Fed hike in December, with a 12% chance of a half-point move, after hot CPI and PPI readings; Fed Governor Michelle Bowman said Thursday “there is still work to do” to bring inflation back to 2%.",
+      "headline": "Markets price an 88% chance of a December Fed hike",
       "stamp": "Nov 13, 2026"
     }
   ]
