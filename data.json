@@ -373,7 +373,7 @@
       "value": "$96.75"
     }
   ],
-  "marketsNote": "Friday morning, about 15 minutes into the session: the S&P 500 is near 7,583 (-0.1%), the Nasdaq near 25,252 (-0.5%) and the Dow near 52,449 (+0.3%) after Thursday's lower close. The 10-year yield has pushed to 5.16%, the VIX has eased to 18.1, and oil is higher (WTI ~$89.25, Brent ~$96.75) after Iran said a gas carrier hit a mine in the Strait of Hormuz on Friday. October PPI (+0.3% on the month, +6.5% over the year) has markets pricing a December Fed hike, with a 50-point move now in the conversation, and Bitcoin has slid below $70,000. Today: Fed officials Michelle Bowman and Philip Jefferson speak; Starship Flight 15 lifts off this evening.",
+  "marketsNote": "",
   "space": [
     {
       "tag": "Space",
@@ -400,7 +400,7 @@
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/blood-brain-barrier-discovery-could-lead-new-alzheimers-disease-approach-2026-11-13/"
     }
   ],
-  "version": 17,
+  "version": 18,
   "watchlist": [
     {
       "blurb": "Air Liquide's Paris close Thursday was €192.84 (+0.35%); at the ECB's Nov 12 reference rate of 1.1081 that's $213.69 in dollars. Paris is trading higher Friday, near €194.26, and the Nov 13 ECB rate posts around 4 PM CET (9 AM CT).",
