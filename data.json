@@ -1,13 +1,13 @@
 {
   "apod": {
-    "credit": "NASA Earth Observatory — Michala Garrison, using Landsat data from the U.S. Geological Survey",
+    "credit": "NASA Earth Observatory \u2014 Michala Garrison, using Landsat data from the U.S. Geological Survey",
     "date": "November 13, 2026",
-    "explanation": "After decades of decline, the world's mangrove forests are making a comeback. A study in Science, based on Landsat imagery from 1984 to 2023, found nearly 2,000 square kilometers of new mangrove growth since 2010, led by expansion in Asia, Australia and South America — reversing losses of nearly 3,000 square kilometers in the decades before. The Landsat images compare Palaw Township in Burma's Myeik District in February 2010 and February 2026, where mangroves have spread into abandoned rice fields and regenerated degraded forest.",
+    "explanation": "After decades of decline, the world's mangrove forests are making a comeback. A study in Science, based on Landsat imagery from 1984 to 2023, found nearly 2,000 square kilometers of new mangrove growth since 2010, led by expansion in Asia, Australia and South America \u2014 reversing losses of nearly 3,000 square kilometers in the decades before. The Landsat images compare Palaw Township in Burma's Myeik District in February 2010 and February 2026, where mangroves have spread into abandoned rice fields and regenerated degraded forest.",
     "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_oli2_20260202.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
     "pageUrl": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
     "title": "A Global Rebound for Mangroves"
   },
-  "asOf": "Fri Nov 13, 2026, 9:00 AM CT",
+  "asOf": "Fri Nov 13, 2026, 9:10 AM CT",
   "breaking": [
     {
       "fact": "Bitcoin fell more than 4% in the past 24 hours to about $69,290, its lowest since August, as the slide in risk assets and the prospect of more Fed hikes hit crypto; the drop came with the 10-year Treasury yield holding above 5.1% and gold near a 13-month low.",
@@ -17,7 +17,7 @@
       "url": "https://www.investopedia.com/5-things-to-know-stock-market-november-13-2026-12250347"
     },
     {
-      "fact": "Bank of America warned the Federal Reserve could raise rates by 50 basis points in December after October CPI came in hotter than expected (core +0.3%, headline +0.4%); its base case stays 25 points, but it raised the risk of a January move too. Fed officials are sounding the same note — Chicago's Goolsbee says the Fed is 'not on track' for 2% inflation, and Governor Bowman says there is 'still work to do'.",
+      "fact": "Bank of America warned the Federal Reserve could raise rates by 50 basis points in December after October CPI came in hotter than expected (core +0.3%, headline +0.4%); its base case stays 25 points, but it raised the risk of a January move too. Fed officials are sounding the same note \u2014 Chicago's Goolsbee says the Fed is 'not on track' for 2% inflation, and Governor Bowman says there is 'still work to do'.",
       "headline": "Bank of America warns the Fed could deliver a 50-point hike in December",
       "source": "Investing.com",
       "tag": "US",
@@ -87,12 +87,12 @@
       }
     ],
     "footnote": "",
-    "ratesAsOf": "Schwab Tue, Nov 10, 2026 · eTrade Mon, Nov 9, 2026"
+    "ratesAsOf": "Schwab Tue, Nov 10, 2026 \u00b7 eTrade Mon, Nov 9, 2026"
   },
   "hormuz": {
     "items": [
       {
-        "body": "Iran's Revolutionary Guards claimed Friday that a US early-warning radar in Bahrain was destroyed — its first such claim in months — and said the gas carrier reported hit by a mine in the strait this morning was an LPG tanker that had relied on US fighter-jet cover; neither claim has been independently verified, and satellite heat data show no fires at sea after the reported November 11–12 strikes. The tanker hit Wednesday off Ras Al Khaimah is now named as the Sinokor-run Dominica Prosperity, with all 22 crew evacuated, according to UKMTO. Iran is also said to be weighing letting about 25 tankers through in exchange for a blockade lift, though no meeting is scheduled. Flows keep recovering despite the attacks: Asian crude imports through the strait topped 7.4 million barrels a day in October, up from 1.6 million in April, and LNG shipments hit their highest since February.",
+        "body": "Iran's Revolutionary Guards claimed Friday that a US early-warning radar in Bahrain was destroyed \u2014 its first such claim in months \u2014 and said the gas carrier reported hit by a mine in the strait this morning was an LPG tanker that had relied on US fighter-jet cover; neither claim has been independently verified, and satellite heat data show no fires at sea after the reported November 11\u201312 strikes. The tanker hit Wednesday off Ras Al Khaimah is now named as the Sinokor-run Dominica Prosperity, with all 22 crew evacuated, according to UKMTO. Iran is also said to be weighing letting about 25 tankers through in exchange for a blockade lift, though no meeting is scheduled. Flows keep recovering despite the attacks: Asian crude imports through the strait topped 7.4 million barrels a day in October, up from 1.6 million in April, and LNG shipments hit their highest since February.",
         "headline": "Latest from the Strait"
       }
     ],
@@ -376,7 +376,7 @@
   "marketsNote": "Friday morning, about 15 minutes into the session: the S&P 500 is near 7,583 (-0.1%), the Nasdaq near 25,252 (-0.5%) and the Dow near 52,449 (+0.3%) after Thursday's lower close. The 10-year yield has pushed to 5.16%, the VIX has eased to 18.1, and oil is higher (WTI ~$89.25, Brent ~$96.75) after Iran said a gas carrier hit a mine in the Strait of Hormuz on Friday. October PPI (+0.3% on the month, +6.5% over the year) has markets pricing a December Fed hike, with a 50-point move now in the conversation, and Bitcoin has slid below $70,000. Today: Fed officials Michelle Bowman and Philip Jefferson speak; Starship Flight 15 lifts off this evening.",
   "space": [
     {
-      "body": "United Launch Alliance's Vulcan Centaur returns to flight Friday after nine months grounded, launching 40 Amazon Leo broadband satellites from Cape Canaveral at 12:54 p.m. ET — the first of 38 planned Vulcan launches for Amazon's constellation, a rival to Starlink, and the first Vulcan flight with the maximum six solid rocket boosters. The rocket was grounded after sparks were seen coming off its nosecone in February.",
+      "body": "United Launch Alliance's Vulcan Centaur returns to flight Friday after nine months grounded, launching 40 Amazon Leo broadband satellites from Cape Canaveral at 12:54 p.m. ET \u2014 the first of 38 planned Vulcan launches for Amazon's constellation, a rival to Starlink, and the first Vulcan flight with the maximum six solid rocket boosters. The rocket was grounded after sparks were seen coming off its nosecone in February.",
       "headline": "Vulcan returns to flight Friday with 40 Amazon Leo satellites",
       "tag": "Space",
       "url": "https://www.usatoday.com/story/tech/space/2026/11/13/spacex-ula-starship-vulcan-rocket-launch-friday-13th/92739627007/"
@@ -388,22 +388,22 @@
       "url": "https://douglasmmessier.substack.com/p/launch-triple-header-on-fridaysaturday"
     },
     {
-      "body": "Astronomers sifting Vera C. Rubin Observatory data found 2026 ED138, an object 46 times farther from the Sun than Earth that takes 281 years to orbit — and it may be big enough to qualify as a new dwarf planet, only the sixth known. Estimated 370 to 930 miles across, it orbits on a plane tilted nearly 25 degrees, suggesting Neptune's gravity disturbed it; astronomers still need to pin down its size to classify it.",
+      "body": "Astronomers sifting Vera C. Rubin Observatory data found 2026 ED138, an object 46 times farther from the Sun than Earth that takes 281 years to orbit \u2014 and it may be big enough to qualify as a new dwarf planet, only the sixth known. Estimated 370 to 930 miles across, it orbits on a plane tilted nearly 25 degrees, suggesting Neptune's gravity disturbed it; astronomers still need to pin down its size to classify it.",
       "headline": "Possible new dwarf planet found far beyond Pluto",
       "tag": "Science",
       "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/?itm_source=related-content&itm_medium=parsely-api"
     },
     {
-      "body": "Flinders University scientists found that microscopic cracks in a gallium–carbon nanotube coating boost its antibacterial power: after one minute of stimulation from a standard 9-volt battery, more than 80% of MRSA and Pseudomonas bacteria were dead within three hours. The work, published in Small Structures, could lead to smart wound dressings and wearable devices that fight infection at the source.",
+      "body": "Flinders University scientists found that microscopic cracks in a gallium\u2013carbon nanotube coating boost its antibacterial power: after one minute of stimulation from a standard 9-volt battery, more than 80% of MRSA and Pseudomonas bacteria were dead within three hours. The work, published in Small Structures, could lead to smart wound dressings and wearable devices that fight infection at the source.",
       "headline": "Tiny cracks and a 9-volt battery could help fight deadly superbugs",
       "tag": "Science",
       "url": "https://phys.org/news/2026-11-tiny-volt-battery-deadly-superbugs.html"
     }
   ],
-  "version": 15,
+  "version": 16,
   "watchlist": [
     {
-      "blurb": "Air Liquide's Paris close Thursday was €192.84 (+0.35%); at the ECB's Nov 12 reference rate of 1.1081 that's $213.69 in dollars. Paris is trading higher Friday, near €194.26, and the Nov 13 ECB rate posts around 4 PM CET (9 AM CT).",
+      "blurb": "Air Liquide's Paris close Thursday was \u20ac192.84 (+0.35%); at the ECB's Nov 12 reference rate of 1.1081 that's $213.69 in dollars. Paris is trading higher Friday, near \u20ac194.26, and the Nov 13 ECB rate posts around 4 PM CET (9 AM CT).",
       "change": "-0.06%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/AI.PA",
@@ -419,7 +419,7 @@
         192.16000366210938,
         192.83999633789062
       ],
-      "subTag": "€192.84 × 1.1081 (ECB Nov 12)",
+      "subTag": "\u20ac192.84 \u00d7 1.1081 (ECB Nov 12)",
       "ticker": "AIL.F",
       "yieldTag": null
     },
@@ -445,7 +445,7 @@
       "yieldTag": "Dist. yield 4.04%"
     },
     {
-      "blurb": "Fastenal is trading at $55.75 Friday morning, up 0.4% from Thursday's $55.55 close — still $7.75 above Sean's $48 buy gate.",
+      "blurb": "Fastenal is trading at $55.75 Friday morning, up 0.4% from Thursday's $55.55 close \u2014 still $7.75 above Sean's $48 buy gate.",
       "change": "+0.36%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/FAST",
@@ -592,7 +592,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Rithm is trading at $9.02 Friday morning, up 0.2% from Thursday's $9.00 close, even as the 10-year yield pushes higher to 5.16% — a headwind for mortgage REITs.",
+      "blurb": "Rithm is trading at $9.02 Friday morning, up 0.2% from Thursday's $9.00 close, even as the 10-year yield pushes higher to 5.16% \u2014 a headwind for mortgage REITs.",
       "change": "+0.22%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/RITM",
@@ -739,7 +739,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "S&P 500-anchored estimate ($155.58 when the index closed 7,568.92 on Nov 3); this CIT has no public quote — $155.87 (est.) with the index near 7,583 Friday morning.",
+      "blurb": "S&P 500-anchored estimate ($155.58 when the index closed 7,568.92 on Nov 3); this CIT has no public quote \u2014 $155.87 (est.) with the index near 7,583 Friday morning.",
       "change": "-0.12%",
       "dir": "down",
       "link": null,
@@ -760,7 +760,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Schwab money market fund; stable $1.00 NAV, 7-day SEC yield 3.75% as published Nov 12 — re-verified from Schwab's official page this run; no newer figure.",
+      "blurb": "Schwab money market fund; stable $1.00 NAV, 7-day SEC yield 3.75% as published Nov 12 \u2014 re-verified from Schwab's official page this run; no newer figure.",
       "change": "",
       "dir": "flat",
       "link": "https://finance.yahoo.com/quote/SWVXX",
@@ -773,7 +773,7 @@
       "yieldTag": "7-day yield 3.75%"
     },
     {
-      "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV, 7-day SEC yield 3.98% as published Nov 12 — re-verified from Vanguard's official fund page this run; no newer figure.",
+      "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV, 7-day SEC yield 3.98% as published Nov 12 \u2014 re-verified from Vanguard's official fund page this run; no newer figure.",
       "change": "",
       "dir": "flat",
       "link": "https://finance.yahoo.com/quote/VUSXX",
@@ -794,13 +794,13 @@
       "aqiNote": "PM2.5",
       "conditions": "Sunny",
       "detail": "ZIP 77056",
-      "extra": "Humidity 77% · Wind N 5 mph",
+      "extra": "Humidity 77% \u00b7 Wind N 5 mph",
       "icon": "sun",
       "name": "Houston Winter Condo",
       "tempF": 58,
-      "today": "Sunny, high 74°F",
-      "tomorrow": "Partly sunny, high 66°F",
-      "tonight": "Mostly clear, low 55°F"
+      "today": "Sunny, high 74\u00b0F",
+      "tomorrow": "Partly sunny, high 66\u00b0F",
+      "tonight": "Mostly clear, low 55\u00b0F"
     },
     {
       "alerts": "",
@@ -809,13 +809,13 @@
       "aqiNote": "PM2.5",
       "conditions": "Patchy Fog",
       "detail": "Sanders County",
-      "extra": "Humidity 86% · Wind calm",
+      "extra": "Humidity 86% \u00b7 Wind calm",
       "icon": "fog",
-      "name": "Seiver Ranch — Plains, MT",
+      "name": "Seiver Ranch \u2014 Plains, MT",
       "tempF": 34,
-      "today": "Partly sunny, high 52°F",
-      "tomorrow": "Partly sunny, high 51°F",
-      "tonight": "Mostly cloudy, low 33°F"
+      "today": "Partly sunny, high 52\u00b0F",
+      "tomorrow": "Partly sunny, high 51\u00b0F",
+      "tonight": "Mostly cloudy, low 33\u00b0F"
     },
     {
       "alerts": "",
@@ -824,28 +824,28 @@
       "aqiNote": "PM2.5",
       "conditions": "Patchy Fog",
       "detail": "Pierce County",
-      "extra": "Humidity 100% · Wind SE 9 mph",
+      "extra": "Humidity 100% \u00b7 Wind SE 9 mph",
       "icon": "fog",
-      "name": "Seiver Slough — Rugby, ND",
+      "name": "Seiver Slough \u2014 Rugby, ND",
       "tempF": 21,
-      "today": "Mostly sunny, high 38°F",
-      "tomorrow": "Partly sunny, high 43°F",
-      "tonight": "Mostly cloudy, low 23°F"
+      "today": "Mostly sunny, high 38\u00b0F",
+      "tomorrow": "Partly sunny, high 43\u00b0F",
+      "tonight": "Mostly cloudy, low 23\u00b0F"
     },
     {
-      "alerts": "",
+      "alerts": "Winter Weather Advisory until Fri 12:00 PM EST",
       "aqi": 37,
       "aqiCat": "Good",
       "aqiNote": "O3",
       "conditions": "Chance Snow Showers",
       "detail": "Baraga County",
-      "extra": "Humidity 87% · Wind N 10 mph",
+      "extra": "Humidity 87% \u00b7 Wind N 10 mph",
       "icon": "snow",
-      "name": "Seiver Lodge — L'Anse, MI",
+      "name": "Seiver Lodge \u2014 L'Anse, MI",
       "tempF": 32,
-      "today": "Chance snow showers, high 37°F",
-      "tomorrow": "Mostly cloudy, high 39°F",
-      "tonight": "Cloudy, low 34°F"
+      "today": "Chance snow showers, high 37\u00b0F",
+      "tomorrow": "Mostly cloudy, high 39\u00b0F",
+      "tonight": "Cloudy, low 34\u00b0F"
     }
   ],
   "weekInBrief": [
@@ -855,7 +855,7 @@
       "stamp": "Nov 13, 2026"
     },
     {
-      "body": "From last Friday's close to Thursday's, the S&P 500 rose 2.9%, the Nasdaq 3.2% and the Dow 2.0%, a strong rebound after the previous week's AI-chip rout — even with Nvidia sliding on its CEO's resignation and the 10-year yield back above 5%. The gains came alongside hotter October inflation data and a sharp fall in gold.",
+      "body": "From last Friday's close to Thursday's, the S&P 500 rose 2.9%, the Nasdaq 3.2% and the Dow 2.0%, a strong rebound after the previous week's AI-chip rout \u2014 even with Nvidia sliding on its CEO's resignation and the 10-year yield back above 5%. The gains came alongside hotter October inflation data and a sharp fall in gold.",
       "headline": "Stocks rebound for the week despite the Nvidia rout",
       "stamp": "Nov 13, 2026"
     },
@@ -865,7 +865,7 @@
       "stamp": "Nov 12, 2026"
     },
     {
-      "body": "October's Consumer Price Index rose 0.4% from September, with core prices up 0.3%, energy up 0.7% and shelter up 0.3% — the latest in a run of hotter-than-expected inflation prints that has markets pricing a December Fed hike, with some chance of a 50-point move. The Bureau of Labor Statistics could not publish 12-month rates for most series because it did not collect October 2025 data during the shutdown.",
+      "body": "October's Consumer Price Index rose 0.4% from September, with core prices up 0.3%, energy up 0.7% and shelter up 0.3% \u2014 the latest in a run of hotter-than-expected inflation prints that has markets pricing a December Fed hike, with some chance of a 50-point move. The Bureau of Labor Statistics could not publish 12-month rates for most series because it did not collect October 2025 data during the shutdown.",
       "headline": "October CPI firmer than expected at +0.4%",
       "stamp": "Nov 10, 2026"
     }
