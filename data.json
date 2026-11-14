@@ -1,873 +1,873 @@
 {
-  "version": 23,
-  "asOf": "Sat Nov 14, 2026, 12:04 PM CT",
-  "breaking": [
-    {
-      "headline": "FAA ground-stop fallout: 4,100+ flights canceled Saturday as Duffy demands $50B overhaul",
-      "fact": "More than 2,500 U.S. flights were canceled Saturday, with FlightAware's live tally climbing past 4,100 by late morning, after Friday's 4-hour nationwide ground stop wiped out 6,600+ flights; Transportation Secretary Sean Duffy is calling for $50 billion in emergency funding to modernize air-traffic control, and officials tied the failure to an update on an L3Harris-operated network and aging equipment. The stop, lifted at 8:15 p.m. ET Friday, was the longest nationwide halt in 25 years.",
-      "source": "AP / FlightAware",
-      "tag": "US",
-      "url": "https://headlinesxtra.com/2026/11/14/us-flights-canceled-faa-ground-stop-fallout-november-14-2026/"
-    },
-    {
-      "headline": "Nvidia earnings Tuesday, Anthropic IPO pricing Wednesday: twin tests for the AI trade",
-      "fact": "Nvidia reports fiscal Q3 results Tuesday Nov 17 under interim CEO Colette Kress, with analysts expecting about 90% earnings growth on roughly $109 billion of revenue; Anthropic prices its IPO Wednesday Nov 18 — 825 million shares at $70 to $78, targeting up to a $1.4 trillion valuation and $64.4 billion raised, trading Thursday as ANT. Nvidia's market value has fallen from about $5.8 trillion in early October to $3.9 trillion.",
-      "source": "Reuters",
-      "tag": "US",
-      "url": "https://srnnews.com/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade/"
-    },
-    {
-      "headline": "Tanker capsizes docked riverboat in New Orleans; 32 hospitalized, all aboard safe",
-      "fact": "The 520-foot tanker Atlantic Asphalt lost control and struck the docked American Heritage paddlewheeler about 12:30 p.m. Friday near the Crescent City Connection bridge, capsizing it as passengers were disembarking; roughly 180 to 190 passengers and crew were aboard, all accounted for, and 32 were taken to hospitals with no critical injuries. The Coast Guard closed the river between mile markers 93 and 96 and the NTSB sent a team; a steering failure is suspected and the cause is under investigation.",
-      "source": "Reuters",
-      "tag": "Local",
-      "url": "https://dukecountry.fm/2026/11/13/freighter-collides-with-cruise-ship-in-new-orleans-passengers-in-the-water/"
-    },
-    {
-      "headline": "U.S. loses measles elimination status after 26 years",
-      "fact": "A Pan American Health Organization expert panel determined the U.S. has lost the measles elimination status it held since 2000, after the same strain circulated without a break for more than 12 months; the CDC has counted 5,412 confirmed cases in 2026 across 45 states — more than double 2025's 2,289 and the highest in 35 years. To regain the status, the U.S. must go 12 months without continuous transmission.",
-      "source": "Axios",
-      "tag": "US",
-      "url": "https://topabcnews.com/us-loses-measles-elimination-status-2026/"
-    }
-  ],
-  "markets": [
-    {
-      "label": "S&P 500",
-      "value": "7,561.67",
-      "change": "-30.73",
-      "pct": "-0.40%",
-      "dir": "down",
-      "spark": [
-        7773.95,
-        7818.93,
-        7801.77,
-        7765.36,
-        7811.54,
-        7807.24,
-        7805.45,
-        7718.94,
-        7744.06,
-        7659.44,
-        7690.73,
-        7712.57,
-        7757.17,
-        7663.43,
-        7623.68,
-        7676.77,
-        7722.6,
-        7743.98,
-        7720.39,
-        7580.07,
-        7541.4,
-        7568.92,
-        7688.62,
-        7353.73,
-        7376.86,
-        7549.94,
-        7520.93,
-        7619.38,
-        7592.4,
-        7561.67
-      ]
-    },
-    {
-      "label": "NASDAQ Composite",
-      "value": "25,136.27",
-      "change": "-229.82",
-      "pct": "-0.91%",
-      "dir": "down",
-      "spark": [
-        27477.31,
-        27599.79,
-        27538.69,
-        27193.34,
-        27366.17,
-        27245.9,
-        27204.38,
-        26692.87,
-        26713.03,
-        26140.03,
-        26430.89,
-        26424.82,
-        26702.86,
-        26008.86,
-        25955.34,
-        26169.38,
-        26477.81,
-        26549.85,
-        26184.72,
-        25437.0,
-        25164.31,
-        25372.01,
-        25736.51,
-        24315.0,
-        24579.43,
-        25253.14,
-        25065.87,
-        25466.19,
-        25366.09,
-        25136.27
-      ]
-    },
-    {
-      "label": "Dow Jones",
-      "value": "52,347.55",
-      "change": "+50.46",
-      "pct": "+0.10%",
-      "dir": "up",
-      "spark": [
-        51267.9,
-        51521.28,
-        51179.87,
-        51231.64,
-        51654.95,
-        51850.55,
-        51670.1,
-        51621.48,
-        52177.69,
-        52002.41,
-        51966.03,
-        52495.88,
-        52856.09,
-        52867.98,
-        52215.16,
-        52361.58,
-        52377.57,
-        52475.1,
-        52342.56,
-        51770.31,
-        51983.98,
-        51786.72,
-        53356.12,
-        51523.06,
-        51285.73,
-        52389.75,
-        52231.89,
-        52486.49,
-        52297.09,
-        52347.55
-      ]
-    },
-    {
-      "label": "VIX",
-      "value": "19.30",
-      "change": "+0.60",
-      "pct": "+3.21%",
-      "dir": "up",
-      "spark": [
-        15.52,
-        15.01,
-        15.08,
-        15.41,
-        14.84,
-        15.21,
-        15.27,
-        16.87,
-        16.46,
-        19.99,
-        18.44,
-        17.31,
-        16.68,
-        19.03,
-        19.45,
-        18.39,
-        17.52,
-        16.91,
-        17.2,
-        19.42,
-        21.15,
-        20.83,
-        16.61,
-        28.18,
-        25.64,
-        19.92,
-        19.46,
-        17.49,
-        18.7,
-        19.3
-      ]
-    },
-    {
-      "label": "10-Yr Treasury",
-      "value": "5.15%",
-      "change": "+0.05 pp",
-      "pct": "",
-      "dir": "up",
-      "spark": [
-        5.31,
-        5.27,
-        5.28,
-        5.23,
-        5.24,
-        5.24,
-        5.22,
-        5.19,
-        5.09,
-        5.1,
-        5.14,
-        5.12,
-        5.15,
-        4.95,
-        4.99,
-        4.99,
-        4.99,
-        5.05,
-        4.99,
-        4.93,
-        4.89,
-        4.95,
-        4.89,
-        4.84,
-        4.86,
-        4.86,
-        4.98,
-        5.0,
-        5.1,
-        5.15
-      ]
-    },
-    {
-      "label": "WTI Crude",
-      "value": "$88.56",
-      "change": "-0.18",
-      "pct": "-0.20%",
-      "dir": "down",
-      "spark": [
-        89.43,
-        89.44,
-        88.28,
-        91.49,
-        91.85,
-        93.74,
-        94.14,
-        95.09,
-        97.97,
-        101.41,
-        103.66,
-        101.79,
-        97.15,
-        99.47,
-        103.27,
-        101.76,
-        99.9,
-        102.78,
-        102.0,
-        104.12,
-        96.46,
-        96.09,
-        88.12,
-        90.52,
-        90.83,
-        86.85,
-        86.04,
-        86.53,
-        88.74,
-        88.56
-      ]
-    },
-    {
-      "label": "Brent Crude",
-      "value": "$95.84",
-      "change": "+0.02",
-      "pct": "+0.02%",
-      "dir": "up",
-      "spark": [
-        100.32,
-        100.58,
-        100.2,
-        104.28,
-        104.72,
-        106.65,
-        105.69,
-        106.06,
-        105.92,
-        109.86,
-        109.55,
-        108.79,
-        108.82,
-        113.17,
-        116.72,
-        115.81,
-        113.88,
-        115.32,
-        114.88,
-        117.64,
-        104.77,
-        103.6,
-        94.62,
-        98.29,
-        98.32,
-        92.57,
-        91.49,
-        92.76,
-        95.82,
-        95.84
-      ]
-    }
-  ],
-  "marketsNote": "",
-  "watchlist": [
-    {
-      "blurb": "Air Liquide's Paris close Friday was €193.32, up 0.25% on the day; at the ECB's Nov 13 reference rate of 1.1052 that converts to $213.66 — essentially flat in dollars as the euro eased, with the next Paris session on Monday.",
-      "change": "-0.01%",
-      "dir": "down",
-      "link": "https://finance.yahoo.com/quote/AI.PA",
-      "name": "Air Liquide",
-      "price": "$213.66",
-      "risk": 2,
-      "spark": [
-        189.72,
-        187.78,
-        189.46,
-        190.34,
-        192.16,
-        192.84,
-        193.32
-      ],
-      "subTag": "€193.32 × 1.1052 (ECB Nov 13)",
-      "ticker": "AIL.F",
-      "yieldTag": null
-    },
-    {
-      "blurb": "The T-bill ETF closed the week at $91.53 Friday, up 0.03% on the day; its latest monthly distribution of $0.30849 (ex Nov 2, paid Nov 5) annualizes to a 4.04% yield at that price, with the next distribution due in early December.",
-      "change": "+0.03%",
-      "dir": "up",
-      "link": "https://finance.yahoo.com/quote/BIL",
-      "name": "SPDR 1-3 Month T-Bill ETF",
-      "price": "$91.53",
-      "risk": 0,
-      "spark": [
-        91.43,
-        91.46,
-        91.48,
-        91.49,
-        91.5,
-        91.5,
-        91.53
-      ],
-      "subTag": "$0.30849 dist., ex Nov 2, paid Nov 5",
-      "ticker": "BIL",
-      "yieldTag": "Dist. yield 4.04%"
-    },
-    {
-      "blurb": "Fastenal closed the week at $55.19 Friday, down 0.65% from Thursday's $55.55 — still $7.19 above Sean's $48 buy gate, so the watch stays quiet into next week.",
-      "change": "-0.65%",
-      "dir": "down",
-      "link": "https://finance.yahoo.com/quote/FAST",
-      "name": "Fastenal",
-      "price": "$55.19",
-      "risk": 2,
-      "spark": [
-        52.9,
-        52.99,
-        54.57,
-        54.84,
-        55.49,
-        55.55,
-        55.19
-      ],
-      "subTag": null,
-      "ticker": "FAST",
-      "yieldTag": null
-    },
-    {
-      "blurb": "Alphabet closed Friday at $295.77, down 0.98% on the day and below $300 for a second straight session as the AI trade cooled; Google's new TPU 8tx chip launch and Nvidia's Tuesday earnings are the next catalysts in view.",
-      "change": "-0.98%",
-      "dir": "down",
-      "link": "https://finance.yahoo.com/quote/GOOGL",
-      "name": "Alphabet (Google) Cl A",
-      "price": "$295.77",
-      "risk": 3,
-      "spark": [
-        282.57,
-        284.78,
-        288.15,
-        287.38,
-        293.45,
-        298.7,
-        295.77
-      ],
-      "subTag": null,
-      "ticker": "GOOGL",
-      "yieldTag": null
-    },
-    {
-      "blurb": "Lilly finished the week at $1,443.50 Friday, up 1.14% on the day to claw back Thursday's dip; the FDA's rare vision-loss warning on GLP-1 labels, including Zepbound and Mounjaro, remains the overhang to watch.",
-      "change": "+1.14%",
-      "dir": "up",
-      "link": "https://finance.yahoo.com/quote/LLY",
-      "name": "Eli Lilly",
-      "price": "$1,443.50",
-      "risk": 3,
-      "spark": [
-        1364.73,
-        1354.0,
-        1411.95,
-        1432.29,
-        1437.29,
-        1427.28,
-        1443.5
-      ],
-      "subTag": null,
-      "ticker": "LLY",
-      "yieldTag": null
-    },
-    {
-      "blurb": "Cheniere closed the week at $308.75 Friday, down 0.24% on the day; its $0.625 quarterly dividend is payable Tuesday Nov 17, and RBC's $319 price target sits about 3% above Friday's close.",
-      "change": "-0.24%",
-      "dir": "down",
-      "link": "https://finance.yahoo.com/quote/LNG",
-      "name": "Cheniere Energy",
-      "price": "$308.75",
-      "risk": 3,
-      "spark": [
-        279.57,
-        277.95,
-        284.95,
-        293.49,
-        304.51,
-        309.48,
-        308.75
-      ],
-      "subTag": null,
-      "ticker": "LNG",
-      "yieldTag": null
-    },
-    {
-      "blurb": "Nvidia closed the week at $162.85 Friday, down 2.01% on the day and 12.7% for the week — its sixth straight weekly decline — with the first post-Huang earnings report due Tuesday Nov 17 under interim CEO Colette Kress; the board has reportedly approached Arm chief Rene Haas about the top job.",
-      "change": "-2.01%",
-      "dir": "down",
-      "link": "https://finance.yahoo.com/quote/NVDA",
-      "name": "NVIDIA",
-      "price": "$162.85",
-      "risk": 3,
-      "spark": [
-        181.6,
-        186.64,
-        178.67,
-        168.89,
-        173.73,
-        166.19,
-        162.85
-      ],
-      "subTag": null,
-      "ticker": "NVDA",
-      "yieldTag": null
-    },
-    {
-      "blurb": "Pfizer ended the week at $28.89 Friday, up 0.21% on the day; Bernstein reiterated Market Perform with a $29 target on Nov 12.",
-      "change": "+0.21%",
-      "dir": "up",
-      "link": "https://finance.yahoo.com/quote/PFE",
-      "name": "Pfizer",
-      "price": "$28.89",
-      "risk": 2,
-      "spark": [
-        29.88,
-        29.39,
-        29.23,
-        29.36,
-        29.45,
-        28.83,
-        28.89
-      ],
-      "subTag": null,
-      "ticker": "PFE",
-      "yieldTag": null
-    },
-    {
-      "blurb": "Rocket Lab closed Friday at $61.53, down 3.96% on the day after a week of big gains; its Electron rocket flew its milestone 100th mission overnight, deploying an iQPS radar satellite — the fastest any commercial rocket has reached 100 launches.",
-      "change": "-3.96%",
-      "dir": "down",
-      "link": "https://finance.yahoo.com/quote/RKLB",
-      "name": "Rocket Lab",
-      "price": "$61.53",
-      "risk": 4,
-      "spark": [
-        45.99,
-        53.07,
-        58.86,
-        62.71,
-        66.15,
-        64.07,
-        61.53
-      ],
-      "subTag": null,
-      "ticker": "RKLB",
-      "yieldTag": null
-    },
-    {
-      "blurb": "Rithm ended the week at $8.97 Friday, down 0.33% on the day and below its $9.17 50-day average; with the 10-year Treasury above 5%, mortgage REITs stay under pressure.",
-      "change": "-0.33%",
-      "dir": "down",
-      "link": "https://finance.yahoo.com/quote/RITM",
-      "name": "Rithm Capital",
-      "price": "$8.97",
-      "risk": 4,
-      "spark": [
-        9.45,
-        9.23,
-        9.44,
-        9.27,
-        9.21,
-        9.0,
-        8.97
-      ],
-      "subTag": null,
-      "ticker": "RITM",
-      "yieldTag": null
-    },
-    {
-      "blurb": "The SpaceX ETF ended the week at $139.11 Friday, down 0.59% on the day, easing after Thursday's spike near $147; Starship Flight 15's Ship 42 aims for a first-ever tower catch this afternoon, the next test for the shares.",
-      "change": "-0.59%",
-      "dir": "down",
-      "link": "https://finance.yahoo.com/quote/SPCX",
-      "name": "SpaceX",
-      "price": "$139.11",
-      "risk": 4,
-      "spark": [
-        123.62,
-        134.27,
-        142.07,
-        143.09,
-        139.75,
-        139.94,
-        139.11
-      ],
-      "subTag": null,
-      "ticker": "SPCX",
-      "yieldTag": null
-    },
-    {
-      "blurb": "Truist ended the week at $49.97 Friday, up 0.16% on the day, one of the few financials to buck the broad slide as the Dow eked out a gain.",
-      "change": "+0.16%",
-      "dir": "up",
-      "link": "https://finance.yahoo.com/quote/TFC",
-      "name": "Truist Financial",
-      "price": "$49.97",
-      "risk": 3,
-      "spark": [
-        49.84,
-        49.38,
-        50.33,
-        50.26,
-        50.26,
-        49.89,
-        49.97
-      ],
-      "subTag": null,
-      "ticker": "TFC",
-      "yieldTag": null
-    },
-    {
-      "blurb": "U.S. Antimony bounced to $3.09 Friday, up 6.19% on the day and still under Sean's $4 buy gate; Q3 revenue of $10.1M missed the roughly $16.7M estimate as antimony prices fell about 63%.",
-      "change": "+6.19%",
-      "dir": "up",
-      "link": "https://finance.yahoo.com/quote/UAMY",
-      "name": "United States Antimony",
-      "price": "$3.09",
-      "risk": 5,
-      "spark": [
-        2.59,
-        2.82,
-        3.47,
-        3.21,
-        3.12,
-        2.91,
-        3.09
-      ],
-      "subTag": null,
-      "ticker": "UAMY",
-      "yieldTag": null
-    },
-    {
-      "blurb": "Uranium Energy ended the week at $6.66 Friday, down 2.06% on the day, with uranium names still under pressure even as the IEA sees the oil market swinging back to surplus.",
-      "change": "-2.06%",
-      "dir": "down",
-      "link": "https://finance.yahoo.com/quote/UEC",
-      "name": "Uranium Energy",
-      "price": "$6.66",
-      "risk": 5,
-      "spark": [
-        6.48,
-        6.92,
-        7.62,
-        7.17,
-        7.23,
-        6.8,
-        6.66
-      ],
-      "subTag": null,
-      "ticker": "UEC",
-      "yieldTag": null
-    },
-    {
-      "blurb": "Valero ended the week at $379.83 Friday, up 1.30% on the day, climbing as crude held near $89 — WTI settled $88.56 and Brent $95.84, both down about 2.5% on the week.",
-      "change": "+1.30%",
-      "dir": "up",
-      "link": "https://finance.yahoo.com/quote/VLO",
-      "name": "Valero Energy",
-      "price": "$379.83",
-      "risk": 3,
-      "spark": [
-        351.23,
-        346.45,
-        356.75,
-        350.71,
-        363.71,
-        374.95,
-        379.83
-      ],
-      "subTag": null,
-      "ticker": "VLO",
-      "yieldTag": null
-    },
-    {
-      "blurb": "Target-date fund's latest NAV is $29.31 (Nov 13), down 0.27% from Nov 12's $29.39, tracking the broad market's Friday pullback.",
-      "change": "-0.27%",
-      "dir": "down",
-      "link": "https://finance.yahoo.com/quote/VTTHX",
-      "name": "Vanguard Target Retirement 2035",
-      "price": "$29.31",
-      "risk": 3,
-      "spark": [
-        28.96,
-        29.0,
-        29.5,
-        29.35,
-        29.57,
-        29.39,
-        29.31
-      ],
-      "subTag": "NAV as of Nov 13",
-      "ticker": "VTTHX",
-      "yieldTag": null
-    },
-    {
-      "blurb": "No public quote for this CIT — the S&P 500-anchored estimate stands at $155.43 (est.) after Friday's 0.40% index slide, measured off the $155.58 anchor from the index's 7,568.92 close on Nov 3.",
-      "change": "-0.40%",
-      "dir": "down",
-      "link": null,
-      "name": "Vanguard Institutional 500 Index Trust",
-      "price": "$155.43 (est.)",
-      "risk": 3,
-      "spark": [
-        151.1567,
-        151.6322,
-        155.1899,
-        154.5936,
-        156.6172,
-        156.0626,
-        155.431
-      ],
-      "subTag": "S&P 500-anchored estimate",
-      "ticker": "VI5TC",
-      "yieldTag": null
-    },
-    {
-      "blurb": "Schwab money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.75%, as published Nov 13 and re-verified from Schwab's official money-market page in this run.",
-      "change": "",
-      "dir": "flat",
-      "link": "https://finance.yahoo.com/quote/SWVXX",
-      "name": "Schwab Value Advantage Money Fund",
-      "price": "$1.00",
-      "risk": 1,
-      "spark": null,
-      "subTag": "Yield published Nov 13 (Schwab)",
-      "ticker": "SWVXX",
-      "yieldTag": "7-day yield 3.75%"
-    },
-    {
-      "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.98%, as published Nov 13 and re-verified from Vanguard's official fund page in this run.",
-      "change": "",
-      "dir": "flat",
-      "link": "https://finance.yahoo.com/quote/VUSXX",
-      "name": "Vanguard Treasury Money Market Fund",
-      "price": "$1.00",
-      "risk": 0,
-      "spark": null,
-      "subTag": "Yield published Nov 13 (Vanguard)",
-      "ticker": "VUSXX",
-      "yieldTag": "7-day yield 3.98%"
-    }
-  ],
-  "weekInBrief": [
-    {
-      "headline": "IEA: oil market swings back to surplus as OPEC+ pumps more",
-      "body": "The International Energy Agency said Friday the oil market is expected to return to surplus in the fourth quarter, the first since the Iran war began; OPEC+ output surged 1.96 million barrels a day to 27.16 million in October, U.S. crude production hit a record 14.013 million barrels a day, and EIA inventories rose 4.7 million barrels to 414.4 million. Brent and WTI still fell about 2.5% on the week, their second straight weekly drop.",
-      "stamp": "Nov 13, 2026"
-    },
-    {
-      "headline": "Dollar hits strongest since April 2025; gold slides to near one-year low",
-      "body": "The dollar index rose to 103.41 on Friday, its strongest since April 2025, as the euro fell to 1.1027; gold eased to $3,875.90 an ounce, holding near Thursday's one-year low, and copper fell 1.56% to $6.09, heading for a fifth straight weekly drop.",
-      "stamp": "Nov 13, 2026"
-    },
-    {
-      "headline": "Fed officials push for higher rates as inflation stays hot",
-      "body": "Fed Governor Christopher Waller said he is leaning toward a 25-basis-point hike at the December meeting and would consider 50 basis points if monthly inflation runs 0.3% or higher; Cleveland Fed President Beth Hammack, who dissented in October in favor of a hike, also said policy needs to become more restrictive, with October wholesale inflation running 6.5% year on year.",
-      "stamp": "Nov 14, 2026"
-    },
-    {
-      "headline": "Microsoft outage spans 70+ countries, knocks out Outlook and Teams for 20 hours",
-      "body": "A Microsoft outage spanning more than 70 countries knocked out Outlook, Teams and Copilot for about 20 hours this week, hitting police, pharmacies and banks among others — a reminder of how much daily life runs through a single provider.",
-      "stamp": "Nov 14, 2026"
-    }
-  ],
-  "hormuz": {
-    "items": [
-      {
-        "headline": "Latest from the Strait",
-        "body": "CENTCOM on Saturday dismissed Tehran's claims that three tankers struck Iranian mines in the strait as “false” and “another example of their lies and efforts to intimidate,” after Iran's navy said a third tanker caught fire and was immobilized east of the strait and warned any tanker entering its restricted zone would face the same fate; it is the third straight day of claimed mine strikes, with Tehran claiming the incidents have disabled tankers carrying more than 4 million barrels of oil, a figure with no independent confirmation and no vessel names or flags given. On oil, Kpler's tracking still shows zero Iranian crude loadings since late August — September was the first zero month since tracking began in 2013 — and the floating storage Iran had been selling from is now drained, while at least 4.1 million barrels of Iranian LPG have slipped past the blockade on eight tankers since mid-July; non-Iranian crude keeps moving, at about 7.3 million barrels a day through the strait in the week to October 28."
-      }
-    ],
-    "stats": ""
+ "version": 24,
+ "asOf": "Sat Nov 14, 2026, 12:10 PM CT",
+ "breaking": [
+  {
+   "headline": "FAA ground-stop fallout: 4,100+ flights canceled Saturday as Duffy demands $50B overhaul",
+   "fact": "More than 2,500 U.S. flights were canceled Saturday, with FlightAware's live tally climbing past 4,100 by late morning, after Friday's 4-hour nationwide ground stop wiped out 6,600+ flights; Transportation Secretary Sean Duffy is calling for $50 billion in emergency funding to modernize air-traffic control, and officials tied the failure to an update on an L3Harris-operated network and aging equipment. The stop, lifted at 8:15 p.m. ET Friday, was the longest nationwide halt in 25 years.",
+   "source": "AP / FlightAware",
+   "tag": "US",
+   "url": "https://headlinesxtra.com/2026/11/14/us-flights-canceled-faa-ground-stop-fallout-november-14-2026/"
   },
-  "space": [
-    {
-      "headline": "Ship 42's tower catch is hours away — after the booster waved itself off",
-      "body": "Ship 42 is healthy in orbit after Friday's 4:47 p.m. CT liftoff from Starbase, having deployed all 26 Starlink V3 satellites, and SpaceX still plans the first-ever catch of an upper stage at the tower about 3:19 p.m. CT today, after a deorbit burn at about 2:21 p.m. CT; the booster catch already failed — Booster 22 detected a guidance and navigation problem, called off its own return, and exploded above the Gulf — and Elon Musk puts the odds of catching the ship at “more likely than not,” with three Starlink satellites carrying cameras to photograph the heat shield for the final go/no-go call.",
-      "tag": "Space",
-      "url": "https://mlq.ai/news/spacex-launches-starship-flight-15-today-with-its-first-attempt-to-catch-both-the-booster-and-the-ship/"
-    },
-    {
-      "headline": "One CRISPR infusion kept monkeys' blood fats low for three years",
-      "body": "A single infusion of a CRISPR gene-editing treatment kept triglycerides low in monkeys for three years, researchers at Verve Therapeutics report in Nature; the treatment disables ANGPTL3, a liver gene that slows fat clearance, cutting ANGPTL3 protein about 94% and triglycerides 43% on average, with LDL down 13%. The human version, VERVE-201, is in a phase 1b trial for people whose blood lipids stay high on medication.",
-      "tag": "Science",
-      "url": "https://medicalxpress.com/news/2026-11-crispr-infusion-lowers-blood-fats.html"
-    },
-    {
-      "headline": "Some of the oldest rocks ever found: 3.95 billion years old",
-      "body": "Rocks found in northern China's Shimen Complex date back 3.95 billion years, among the oldest ever discovered, researchers report in Nature; zircon-crystal dating suggests a process similar to modern plate tectonics was already under way in at least one part of Earth nearly 4 billion years ago — scientists have searched for rocks older than 3.8 billion years in China for decades.",
-      "tag": "Science",
-      "url": "https://phys.org/news/2026-11-oldest-earth-early-history.html"
-    },
-    {
-      "headline": "New trick cuts through star glare, revealing a hidden exoplanet",
-      "body": "A Northwestern-led team built a method called FLIP that models a telescope's imperfections to erase star glare, improving the James Webb Space Telescope's sensitivity up to 15 times; applied to two-year-old observations it revealed the giant planet 51 Eridani b, hidden in plain sight, and the approach could uncover smaller, colder, fainter planets without new telescopes.",
-      "tag": "Space",
-      "url": "https://www.technology.org/2026/11/14/hidden-planet-emerges-from-the-glare/"
-    }
-  ],
-  "cdRates": {
-    "boxes": [
-      {
-        "callable": {
-          "etrade": "5.00% Thomasville",
-          "fdicNote": null,
-          "green": "schwab",
-          "schwab": "5.00% Thomasville"
-        },
-        "noncall": {
-          "etrade": "4.80% Forbright Bk",
-          "fdicNote": null,
-          "green": null,
-          "schwab": "4.80% Forbright Bk"
-        },
-        "term": "3-Year CDs"
-      },
-      {
-        "callable": {
-          "etrade": "5.15% Farmers & Merchants Bk",
-          "fdicNote": null,
-          "green": "etrade",
-          "schwab": "5.05% First United Bk"
-        },
-        "noncall": {
-          "etrade": "5.00% UBS Bank USA",
-          "fdicNote": null,
-          "green": "etrade",
-          "schwab": "4.90% Wells Fargo"
-        },
-        "term": "5-Year CDs"
-      },
-      {
-        "callable": {
-          "etrade": null,
-          "fdicNote": null,
-          "green": null,
-          "schwab": null
-        },
-        "noncall": {
-          "etrade": null,
-          "fdicNote": null,
-          "green": null,
-          "schwab": null
-        },
-        "term": "10-Year CDs"
-      }
-    ],
-    "footnote": "",
-    "ratesAsOf": "Schwab Tue, Nov 10, 2026 · eTrade Mon, Nov 9, 2026"
+  {
+   "headline": "Nvidia earnings Tuesday, Anthropic IPO pricing Wednesday: twin tests for the AI trade",
+   "fact": "Nvidia reports fiscal Q3 results Tuesday Nov 17 under interim CEO Colette Kress, with analysts expecting about 90% earnings growth on roughly $109 billion of revenue; Anthropic prices its IPO Wednesday Nov 18 \u2014 825 million shares at $70 to $78, targeting up to a $1.4 trillion valuation and $64.4 billion raised, trading Thursday as ANT. Nvidia's market value has fallen from about $5.8 trillion in early October to $3.9 trillion.",
+   "source": "Reuters",
+   "tag": "US",
+   "url": "https://srnnews.com/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade/"
   },
-  "weather": [
-    {
-      "name": "Houston Winter Condo",
-      "detail": "ZIP 77056",
-      "tempF": 64,
-      "conditions": "Clear",
-      "icon": "sun",
-      "aqi": 53,
-      "aqiCat": "Moderate",
-      "aqiNote": "PM2.5",
-      "alerts": "",
-      "extra": "Humidity 45% · Wind E 15 mph",
-      "today": "Partly sunny, high 68°F",
-      "tonight": "Chance of rain showers after 9pm, mostly cloudy, low 59°F",
-      "tomorrow": "Showers and thunderstorms, high 66°F"
-    },
-    {
-      "name": "Seiver Ranch — Plains, MT",
-      "detail": "Sanders County",
-      "tempF": 37,
-      "conditions": "Partly Sunny",
-      "icon": "partly",
-      "aqi": 63,
-      "aqiCat": "Moderate",
-      "aqiNote": "PM2.5",
-      "alerts": "",
-      "extra": "Humidity 95% · Wind SW 3 mph",
-      "today": "Partly sunny, high 50°F",
-      "tonight": "Areas of fog after midnight, partly cloudy, low 29°F",
-      "tomorrow": "Areas of fog then chance rain, high 53°F"
-    },
-    {
-      "name": "Seiver Slough — Rugby, ND",
-      "detail": "Pierce County",
-      "tempF": 37,
-      "conditions": "Clear and Windy",
-      "icon": "sun",
-      "aqi": 22,
-      "aqiCat": "Good",
-      "aqiNote": "PM2.5",
-      "alerts": "",
-      "extra": "Wind SE 22 mph · Gusts to 33 mph",
-      "today": "Mostly sunny, high 43°F",
-      "tonight": "Partly cloudy, low 29°F",
-      "tomorrow": "Sunny, high 51°F"
-    },
-    {
-      "name": "Seiver Lodge — L'Anse, MI",
-      "detail": "Baraga County",
-      "tempF": 37,
-      "conditions": "Cloudy",
-      "icon": "clouds",
-      "aqi": 33,
-      "aqiCat": "Good",
-      "aqiNote": "O3",
-      "alerts": "",
-      "extra": "Humidity 75% · Wind N 6 mph",
-      "today": "Mostly cloudy, high 40°F",
-      "tonight": "Mostly cloudy, low 26°F",
-      "tomorrow": "Sunny, high 46°F"
-    }
-  ],
-  "apod": {
-    "date": "November 13, 2026",
-    "title": "A Global Rebound for Mangroves",
-    "credit": "NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_oli2_20260202.jpg",
-    "explanation": "After decades of decline, the world's mangrove forests are making a comeback: a global rebound began around 2010, adding nearly 2,000 square kilometers of mangroves — led by expansion in Asia, Australia and South America — according to Landsat analysis published in Science. This Landsat image shows regrowth around Palaw Township in Myanmar, where mangroves have reclaimed abandoned rice fields and spread into new mudflats since 2010.",
-    "pageUrl": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/"
+  {
+   "headline": "Tanker capsizes docked riverboat in New Orleans; 32 hospitalized, all aboard safe",
+   "fact": "The 520-foot tanker Atlantic Asphalt lost control and struck the docked American Heritage paddlewheeler about 12:30 p.m. Friday near the Crescent City Connection bridge, capsizing it as passengers were disembarking; roughly 180 to 190 passengers and crew were aboard, all accounted for, and 32 were taken to hospitals with no critical injuries. The Coast Guard closed the river between mile markers 93 and 96 and the NTSB sent a team; a steering failure is suspected and the cause is under investigation.",
+   "source": "Reuters",
+   "tag": "Local",
+   "url": "https://dukecountry.fm/2026/11/13/freighter-collides-with-cruise-ship-in-new-orleans-passengers-in-the-water/"
+  },
+  {
+   "headline": "U.S. loses measles elimination status after 26 years",
+   "fact": "A Pan American Health Organization expert panel determined the U.S. has lost the measles elimination status it held since 2000, after the same strain circulated without a break for more than 12 months; the CDC has counted 5,412 confirmed cases in 2026 across 45 states \u2014 more than double 2025's 2,289 and the highest in 35 years. To regain the status, the U.S. must go 12 months without continuous transmission.",
+   "source": "Axios",
+   "tag": "US",
+   "url": "https://topabcnews.com/us-loses-measles-elimination-status-2026/"
   }
+ ],
+ "markets": [
+  {
+   "label": "S&P 500",
+   "value": "7,561.67",
+   "change": "-30.73",
+   "pct": "-0.40%",
+   "dir": "down",
+   "spark": [
+    7773.95,
+    7818.93,
+    7801.77,
+    7765.36,
+    7811.54,
+    7807.24,
+    7805.45,
+    7718.94,
+    7744.06,
+    7659.44,
+    7690.73,
+    7712.57,
+    7757.17,
+    7663.43,
+    7623.68,
+    7676.77,
+    7722.6,
+    7743.98,
+    7720.39,
+    7580.07,
+    7541.4,
+    7568.92,
+    7688.62,
+    7353.73,
+    7376.86,
+    7549.94,
+    7520.93,
+    7619.38,
+    7592.4,
+    7561.67
+   ]
+  },
+  {
+   "label": "NASDAQ Composite",
+   "value": "25,136.27",
+   "change": "-229.82",
+   "pct": "-0.91%",
+   "dir": "down",
+   "spark": [
+    27477.31,
+    27599.79,
+    27538.69,
+    27193.34,
+    27366.17,
+    27245.9,
+    27204.38,
+    26692.87,
+    26713.03,
+    26140.03,
+    26430.89,
+    26424.82,
+    26702.86,
+    26008.86,
+    25955.34,
+    26169.38,
+    26477.81,
+    26549.85,
+    26184.72,
+    25437.0,
+    25164.31,
+    25372.01,
+    25736.51,
+    24315.0,
+    24579.43,
+    25253.14,
+    25065.87,
+    25466.19,
+    25366.09,
+    25136.27
+   ]
+  },
+  {
+   "label": "Dow Jones",
+   "value": "52,347.55",
+   "change": "+50.46",
+   "pct": "+0.10%",
+   "dir": "up",
+   "spark": [
+    51267.9,
+    51521.28,
+    51179.87,
+    51231.64,
+    51654.95,
+    51850.55,
+    51670.1,
+    51621.48,
+    52177.69,
+    52002.41,
+    51966.03,
+    52495.88,
+    52856.09,
+    52867.98,
+    52215.16,
+    52361.58,
+    52377.57,
+    52475.1,
+    52342.56,
+    51770.31,
+    51983.98,
+    51786.72,
+    53356.12,
+    51523.06,
+    51285.73,
+    52389.75,
+    52231.89,
+    52486.49,
+    52297.09,
+    52347.55
+   ]
+  },
+  {
+   "label": "VIX",
+   "value": "19.30",
+   "change": "+0.60",
+   "pct": "+3.21%",
+   "dir": "up",
+   "spark": [
+    15.52,
+    15.01,
+    15.08,
+    15.41,
+    14.84,
+    15.21,
+    15.27,
+    16.87,
+    16.46,
+    19.99,
+    18.44,
+    17.31,
+    16.68,
+    19.03,
+    19.45,
+    18.39,
+    17.52,
+    16.91,
+    17.2,
+    19.42,
+    21.15,
+    20.83,
+    16.61,
+    28.18,
+    25.64,
+    19.92,
+    19.46,
+    17.49,
+    18.7,
+    19.3
+   ]
+  },
+  {
+   "label": "10-Yr Treasury",
+   "value": "5.15%",
+   "change": "+0.05 pp",
+   "pct": "",
+   "dir": "up",
+   "spark": [
+    5.31,
+    5.27,
+    5.28,
+    5.23,
+    5.24,
+    5.24,
+    5.22,
+    5.19,
+    5.09,
+    5.1,
+    5.14,
+    5.12,
+    5.15,
+    4.95,
+    4.99,
+    4.99,
+    4.99,
+    5.05,
+    4.99,
+    4.93,
+    4.89,
+    4.95,
+    4.89,
+    4.84,
+    4.86,
+    4.86,
+    4.98,
+    5.0,
+    5.1,
+    5.15
+   ]
+  },
+  {
+   "label": "WTI Crude",
+   "value": "$88.56",
+   "change": "-0.18",
+   "pct": "-0.20%",
+   "dir": "down",
+   "spark": [
+    89.43,
+    89.44,
+    88.28,
+    91.49,
+    91.85,
+    93.74,
+    94.14,
+    95.09,
+    97.97,
+    101.41,
+    103.66,
+    101.79,
+    97.15,
+    99.47,
+    103.27,
+    101.76,
+    99.9,
+    102.78,
+    102.0,
+    104.12,
+    96.46,
+    96.09,
+    88.12,
+    90.52,
+    90.83,
+    86.85,
+    86.04,
+    86.53,
+    88.74,
+    88.56
+   ]
+  },
+  {
+   "label": "Brent Crude",
+   "value": "$95.84",
+   "change": "+0.02",
+   "pct": "+0.02%",
+   "dir": "up",
+   "spark": [
+    100.32,
+    100.58,
+    100.2,
+    104.28,
+    104.72,
+    106.65,
+    105.69,
+    106.06,
+    105.92,
+    109.86,
+    109.55,
+    108.79,
+    108.82,
+    113.17,
+    116.72,
+    115.81,
+    113.88,
+    115.32,
+    114.88,
+    117.64,
+    104.77,
+    103.6,
+    94.62,
+    98.29,
+    98.32,
+    92.57,
+    91.49,
+    92.76,
+    95.82,
+    95.84
+   ]
+  }
+ ],
+ "marketsNote": "",
+ "watchlist": [
+  {
+   "blurb": "Air Liquide's Paris close Friday was \u20ac193.32, up 0.25% on the day; at the ECB's Nov 13 reference rate of 1.1052 that converts to $213.66 \u2014 essentially flat in dollars as the euro eased, with the next Paris session on Monday.",
+   "change": "-0.01%",
+   "dir": "down",
+   "link": "https://finance.yahoo.com/quote/AI.PA",
+   "name": "Air Liquide",
+   "price": "$213.66",
+   "risk": 2,
+   "spark": [
+    189.72,
+    187.78,
+    189.46,
+    190.34,
+    192.16,
+    192.84,
+    193.32
+   ],
+   "subTag": "\u20ac193.32 \u00d7 1.1052 (ECB Nov 13)",
+   "ticker": "AIL.F",
+   "yieldTag": null
+  },
+  {
+   "blurb": "The T-bill ETF closed the week at $91.53 Friday, up 0.03% on the day; its latest monthly distribution of $0.30849 (ex Nov 2, paid Nov 5) annualizes to a 4.04% yield at that price, with the next distribution due in early December.",
+   "change": "+0.03%",
+   "dir": "up",
+   "link": "https://finance.yahoo.com/quote/BIL",
+   "name": "SPDR 1-3 Month T-Bill ETF",
+   "price": "$91.53",
+   "risk": 0,
+   "spark": [
+    91.43,
+    91.46,
+    91.48,
+    91.49,
+    91.5,
+    91.5,
+    91.53
+   ],
+   "subTag": "$0.30849 dist., ex Nov 2, paid Nov 5",
+   "ticker": "BIL",
+   "yieldTag": "Dist. yield 4.04%"
+  },
+  {
+   "blurb": "Fastenal closed the week at $55.19 Friday, down 0.65% from Thursday's $55.55 \u2014 still $7.19 above Sean's $48 buy gate, so the watch stays quiet into next week.",
+   "change": "-0.65%",
+   "dir": "down",
+   "link": "https://finance.yahoo.com/quote/FAST",
+   "name": "Fastenal",
+   "price": "$55.19",
+   "risk": 2,
+   "spark": [
+    52.9,
+    52.99,
+    54.57,
+    54.84,
+    55.49,
+    55.55,
+    55.19
+   ],
+   "subTag": null,
+   "ticker": "FAST",
+   "yieldTag": null
+  },
+  {
+   "blurb": "Alphabet closed Friday at $295.77, down 0.98% on the day and below $300 for a second straight session as the AI trade cooled; Google's new TPU 8tx chip launch and Nvidia's Tuesday earnings are the next catalysts in view.",
+   "change": "-0.98%",
+   "dir": "down",
+   "link": "https://finance.yahoo.com/quote/GOOGL",
+   "name": "Alphabet (Google) Cl A",
+   "price": "$295.77",
+   "risk": 3,
+   "spark": [
+    282.57,
+    284.78,
+    288.15,
+    287.38,
+    293.45,
+    298.7,
+    295.77
+   ],
+   "subTag": null,
+   "ticker": "GOOGL",
+   "yieldTag": null
+  },
+  {
+   "blurb": "Lilly finished the week at $1,443.50 Friday, up 1.14% on the day to claw back Thursday's dip; the FDA's rare vision-loss warning on GLP-1 labels, including Zepbound and Mounjaro, remains the overhang to watch.",
+   "change": "+1.14%",
+   "dir": "up",
+   "link": "https://finance.yahoo.com/quote/LLY",
+   "name": "Eli Lilly",
+   "price": "$1,443.50",
+   "risk": 3,
+   "spark": [
+    1364.73,
+    1354.0,
+    1411.95,
+    1432.29,
+    1437.29,
+    1427.28,
+    1443.5
+   ],
+   "subTag": null,
+   "ticker": "LLY",
+   "yieldTag": null
+  },
+  {
+   "blurb": "Cheniere closed the week at $308.75 Friday, down 0.24% on the day; its $0.625 quarterly dividend is payable Tuesday Nov 17, and RBC's $319 price target sits about 3% above Friday's close.",
+   "change": "-0.24%",
+   "dir": "down",
+   "link": "https://finance.yahoo.com/quote/LNG",
+   "name": "Cheniere Energy",
+   "price": "$308.75",
+   "risk": 3,
+   "spark": [
+    279.57,
+    277.95,
+    284.95,
+    293.49,
+    304.51,
+    309.48,
+    308.75
+   ],
+   "subTag": null,
+   "ticker": "LNG",
+   "yieldTag": null
+  },
+  {
+   "blurb": "Nvidia closed the week at $162.85 Friday, down 2.01% on the day and 12.7% for the week \u2014 its sixth straight weekly decline \u2014 with the first post-Huang earnings report due Tuesday Nov 17 under interim CEO Colette Kress; the board has reportedly approached Arm chief Rene Haas about the top job.",
+   "change": "-2.01%",
+   "dir": "down",
+   "link": "https://finance.yahoo.com/quote/NVDA",
+   "name": "NVIDIA",
+   "price": "$162.85",
+   "risk": 3,
+   "spark": [
+    181.6,
+    186.64,
+    178.67,
+    168.89,
+    173.73,
+    166.19,
+    162.85
+   ],
+   "subTag": null,
+   "ticker": "NVDA",
+   "yieldTag": null
+  },
+  {
+   "blurb": "Pfizer ended the week at $28.89 Friday, up 0.21% on the day; Bernstein reiterated Market Perform with a $29 target on Nov 12.",
+   "change": "+0.21%",
+   "dir": "up",
+   "link": "https://finance.yahoo.com/quote/PFE",
+   "name": "Pfizer",
+   "price": "$28.89",
+   "risk": 2,
+   "spark": [
+    29.88,
+    29.39,
+    29.23,
+    29.36,
+    29.45,
+    28.83,
+    28.89
+   ],
+   "subTag": null,
+   "ticker": "PFE",
+   "yieldTag": null
+  },
+  {
+   "blurb": "Rocket Lab closed Friday at $61.53, down 3.96% on the day after a week of big gains; its Electron rocket flew its milestone 100th mission overnight, deploying an iQPS radar satellite \u2014 the fastest any commercial rocket has reached 100 launches.",
+   "change": "-3.96%",
+   "dir": "down",
+   "link": "https://finance.yahoo.com/quote/RKLB",
+   "name": "Rocket Lab",
+   "price": "$61.53",
+   "risk": 4,
+   "spark": [
+    45.99,
+    53.07,
+    58.86,
+    62.71,
+    66.15,
+    64.07,
+    61.53
+   ],
+   "subTag": null,
+   "ticker": "RKLB",
+   "yieldTag": null
+  },
+  {
+   "blurb": "Rithm ended the week at $8.97 Friday, down 0.33% on the day and below its $9.17 50-day average; with the 10-year Treasury above 5%, mortgage REITs stay under pressure.",
+   "change": "-0.33%",
+   "dir": "down",
+   "link": "https://finance.yahoo.com/quote/RITM",
+   "name": "Rithm Capital",
+   "price": "$8.97",
+   "risk": 4,
+   "spark": [
+    9.45,
+    9.23,
+    9.44,
+    9.27,
+    9.21,
+    9.0,
+    8.97
+   ],
+   "subTag": null,
+   "ticker": "RITM",
+   "yieldTag": null
+  },
+  {
+   "blurb": "The SpaceX ETF ended the week at $139.11 Friday, down 0.59% on the day, easing after Thursday's spike near $147; Starship Flight 15's Ship 42 aims for a first-ever tower catch this afternoon, the next test for the shares.",
+   "change": "-0.59%",
+   "dir": "down",
+   "link": "https://finance.yahoo.com/quote/SPCX",
+   "name": "SpaceX",
+   "price": "$139.11",
+   "risk": 4,
+   "spark": [
+    123.62,
+    134.27,
+    142.07,
+    143.09,
+    139.75,
+    139.94,
+    139.11
+   ],
+   "subTag": null,
+   "ticker": "SPCX",
+   "yieldTag": null
+  },
+  {
+   "blurb": "Truist ended the week at $49.97 Friday, up 0.16% on the day, one of the few financials to buck the broad slide as the Dow eked out a gain.",
+   "change": "+0.16%",
+   "dir": "up",
+   "link": "https://finance.yahoo.com/quote/TFC",
+   "name": "Truist Financial",
+   "price": "$49.97",
+   "risk": 3,
+   "spark": [
+    49.84,
+    49.38,
+    50.33,
+    50.26,
+    50.26,
+    49.89,
+    49.97
+   ],
+   "subTag": null,
+   "ticker": "TFC",
+   "yieldTag": null
+  },
+  {
+   "blurb": "U.S. Antimony bounced to $3.09 Friday, up 6.19% on the day and still under Sean's $4 buy gate; Q3 revenue of $10.1M missed the roughly $16.7M estimate as antimony prices fell about 63%.",
+   "change": "+6.19%",
+   "dir": "up",
+   "link": "https://finance.yahoo.com/quote/UAMY",
+   "name": "United States Antimony",
+   "price": "$3.09",
+   "risk": 5,
+   "spark": [
+    2.59,
+    2.82,
+    3.47,
+    3.21,
+    3.12,
+    2.91,
+    3.09
+   ],
+   "subTag": null,
+   "ticker": "UAMY",
+   "yieldTag": null
+  },
+  {
+   "blurb": "Uranium Energy ended the week at $6.66 Friday, down 2.06% on the day, with uranium names still under pressure even as the IEA sees the oil market swinging back to surplus.",
+   "change": "-2.06%",
+   "dir": "down",
+   "link": "https://finance.yahoo.com/quote/UEC",
+   "name": "Uranium Energy",
+   "price": "$6.66",
+   "risk": 5,
+   "spark": [
+    6.48,
+    6.92,
+    7.62,
+    7.17,
+    7.23,
+    6.8,
+    6.66
+   ],
+   "subTag": null,
+   "ticker": "UEC",
+   "yieldTag": null
+  },
+  {
+   "blurb": "Valero ended the week at $379.83 Friday, up 1.30% on the day, climbing as crude held near $89 \u2014 WTI settled $88.56 and Brent $95.84, both down about 2.5% on the week.",
+   "change": "+1.30%",
+   "dir": "up",
+   "link": "https://finance.yahoo.com/quote/VLO",
+   "name": "Valero Energy",
+   "price": "$379.83",
+   "risk": 3,
+   "spark": [
+    351.23,
+    346.45,
+    356.75,
+    350.71,
+    363.71,
+    374.95,
+    379.83
+   ],
+   "subTag": null,
+   "ticker": "VLO",
+   "yieldTag": null
+  },
+  {
+   "blurb": "Target-date fund's latest NAV is $29.31 (Nov 13), down 0.27% from Nov 12's $29.39, tracking the broad market's Friday pullback.",
+   "change": "-0.27%",
+   "dir": "down",
+   "link": "https://finance.yahoo.com/quote/VTTHX",
+   "name": "Vanguard Target Retirement 2035",
+   "price": "$29.31",
+   "risk": 3,
+   "spark": [
+    28.96,
+    29.0,
+    29.5,
+    29.35,
+    29.57,
+    29.39,
+    29.31
+   ],
+   "subTag": "NAV as of Nov 13",
+   "ticker": "VTTHX",
+   "yieldTag": null
+  },
+  {
+   "blurb": "No public quote for this CIT \u2014 the S&P 500-anchored estimate stands at $155.43 (est.) after Friday's 0.40% index slide, measured off the $155.58 anchor from the index's 7,568.92 close on Nov 3.",
+   "change": "-0.40%",
+   "dir": "down",
+   "link": null,
+   "name": "Vanguard Institutional 500 Index Trust",
+   "price": "$155.43 (est.)",
+   "risk": 3,
+   "spark": [
+    151.1567,
+    151.6322,
+    155.1899,
+    154.5936,
+    156.6172,
+    156.0626,
+    155.431
+   ],
+   "subTag": "S&P 500-anchored estimate",
+   "ticker": "VI5TC",
+   "yieldTag": null
+  },
+  {
+   "blurb": "Schwab money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.75%, as published Nov 13 and re-verified from Schwab's official money-market page in this run.",
+   "change": "",
+   "dir": "flat",
+   "link": "https://finance.yahoo.com/quote/SWVXX",
+   "name": "Schwab Value Advantage Money Fund",
+   "price": "$1.00",
+   "risk": 1,
+   "spark": null,
+   "subTag": "Yield published Nov 13 (Schwab)",
+   "ticker": "SWVXX",
+   "yieldTag": "7-day yield 3.75%"
+  },
+  {
+   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.98%, as published Nov 13 and re-verified from Vanguard's official fund page in this run.",
+   "change": "",
+   "dir": "flat",
+   "link": "https://finance.yahoo.com/quote/VUSXX",
+   "name": "Vanguard Treasury Money Market Fund",
+   "price": "$1.00",
+   "risk": 0,
+   "spark": null,
+   "subTag": "Yield published Nov 13 (Vanguard)",
+   "ticker": "VUSXX",
+   "yieldTag": "7-day yield 3.98%"
+  }
+ ],
+ "weekInBrief": [
+  {
+   "headline": "IEA: oil market swings back to surplus as OPEC+ pumps more",
+   "body": "The International Energy Agency said Friday the oil market is expected to return to surplus in the fourth quarter, the first since the Iran war began; OPEC+ output surged 1.96 million barrels a day to 27.16 million in October, U.S. crude production hit a record 14.013 million barrels a day, and EIA inventories rose 4.7 million barrels to 414.4 million. Brent and WTI still fell about 2.5% on the week, their second straight weekly drop.",
+   "stamp": "Nov 13, 2026"
+  },
+  {
+   "headline": "Dollar hits strongest since April 2025; gold slides to near one-year low",
+   "body": "The dollar index rose to 103.41 on Friday, its strongest since April 2025, as the euro fell to 1.1027; gold eased to $3,875.90 an ounce, holding near Thursday's one-year low, and copper fell 1.56% to $6.09, heading for a fifth straight weekly drop.",
+   "stamp": "Nov 13, 2026"
+  },
+  {
+   "headline": "Fed officials push for higher rates as inflation stays hot",
+   "body": "Fed Governor Christopher Waller said he is leaning toward a 25-basis-point hike at the December meeting and would consider 50 basis points if monthly inflation runs 0.3% or higher; Cleveland Fed President Beth Hammack, who dissented in October in favor of a hike, also said policy needs to become more restrictive, with October wholesale inflation running 6.5% year on year.",
+   "stamp": "Nov 14, 2026"
+  },
+  {
+   "headline": "Microsoft outage spans 70+ countries, knocks out Outlook and Teams for 20 hours",
+   "body": "A Microsoft outage spanning more than 70 countries knocked out Outlook, Teams and Copilot for about 20 hours this week, hitting police, pharmacies and banks among others \u2014 a reminder of how much daily life runs through a single provider.",
+   "stamp": "Nov 14, 2026"
+  }
+ ],
+ "hormuz": {
+  "items": [
+   {
+    "headline": "Latest from the Strait",
+    "body": "CENTCOM on Saturday dismissed Tehran's claims that three tankers struck Iranian mines in the strait as \u201cfalse\u201d and \u201canother example of their lies and efforts to intimidate,\u201d after Iran's navy said a third tanker caught fire and was immobilized east of the strait and warned any tanker entering its restricted zone would face the same fate; it is the third straight day of claimed mine strikes, with Tehran claiming the incidents have disabled tankers carrying more than 4 million barrels of oil, a figure with no independent confirmation and no vessel names or flags given. On oil, Kpler's tracking still shows zero Iranian crude loadings since late August \u2014 September was the first zero month since tracking began in 2013 \u2014 and the floating storage Iran had been selling from is now drained, while at least 4.1 million barrels of Iranian LPG have slipped past the blockade on eight tankers since mid-July; non-Iranian crude keeps moving, at about 7.3 million barrels a day through the strait in the week to October 28."
+   }
+  ],
+  "stats": ""
+ },
+ "space": [
+  {
+   "headline": "Ship 42's tower catch is hours away \u2014 after the booster waved itself off",
+   "body": "Ship 42 is healthy in orbit after Friday's 4:47 p.m. CT liftoff from Starbase, having deployed all 26 Starlink V3 satellites, and SpaceX still plans the first-ever catch of an upper stage at the tower about 3:19 p.m. CT today, after a deorbit burn at about 2:21 p.m. CT; the booster catch already failed \u2014 Booster 22 detected a guidance and navigation problem, called off its own return, and exploded above the Gulf \u2014 and Elon Musk puts the odds of catching the ship at \u201cmore likely than not,\u201d with three Starlink satellites carrying cameras to photograph the heat shield for the final go/no-go call.",
+   "tag": "Space",
+   "url": "https://mlq.ai/news/spacex-launches-starship-flight-15-today-with-its-first-attempt-to-catch-both-the-booster-and-the-ship/"
+  },
+  {
+   "headline": "One CRISPR infusion kept monkeys' blood fats low for three years",
+   "body": "A single infusion of a CRISPR gene-editing treatment kept triglycerides low in monkeys for three years, researchers at Verve Therapeutics report in Nature; the treatment disables ANGPTL3, a liver gene that slows fat clearance, cutting ANGPTL3 protein about 94% and triglycerides 43% on average, with LDL down 13%. The human version, VERVE-201, is in a phase 1b trial for people whose blood lipids stay high on medication.",
+   "tag": "Science",
+   "url": "https://medicalxpress.com/news/2026-11-crispr-infusion-lowers-blood-fats.html"
+  },
+  {
+   "headline": "Some of the oldest rocks ever found: 3.95 billion years old",
+   "body": "Rocks found in northern China's Shimen Complex date back 3.95 billion years, among the oldest ever discovered, researchers report in Nature; zircon-crystal dating suggests a process similar to modern plate tectonics was already under way in at least one part of Earth nearly 4 billion years ago \u2014 scientists have searched for rocks older than 3.8 billion years in China for decades.",
+   "tag": "Science",
+   "url": "https://phys.org/news/2026-11-oldest-earth-early-history.html"
+  },
+  {
+   "headline": "New trick cuts through star glare, revealing a hidden exoplanet",
+   "body": "A Northwestern-led team built a method called FLIP that models a telescope's imperfections to erase star glare, improving the James Webb Space Telescope's sensitivity up to 15 times; applied to two-year-old observations it revealed the giant planet 51 Eridani b, hidden in plain sight, and the approach could uncover smaller, colder, fainter planets without new telescopes.",
+   "tag": "Space",
+   "url": "https://www.technology.org/2026/11/14/hidden-planet-emerges-from-the-glare/"
+  }
+ ],
+ "cdRates": {
+  "boxes": [
+   {
+    "callable": {
+     "etrade": "5.00% Thomasville",
+     "fdicNote": null,
+     "green": "schwab",
+     "schwab": "5.00% Thomasville"
+    },
+    "noncall": {
+     "etrade": "4.80% Forbright Bk",
+     "fdicNote": null,
+     "green": null,
+     "schwab": "4.80% Forbright Bk"
+    },
+    "term": "3-Year CDs"
+   },
+   {
+    "callable": {
+     "etrade": "5.15% Farmers & Merchants Bk",
+     "fdicNote": null,
+     "green": "etrade",
+     "schwab": "5.05% First United Bk"
+    },
+    "noncall": {
+     "etrade": "5.00% UBS Bank USA",
+     "fdicNote": null,
+     "green": "etrade",
+     "schwab": "4.90% Wells Fargo"
+    },
+    "term": "5-Year CDs"
+   },
+   {
+    "callable": {
+     "etrade": null,
+     "fdicNote": null,
+     "green": null,
+     "schwab": null
+    },
+    "noncall": {
+     "etrade": null,
+     "fdicNote": null,
+     "green": null,
+     "schwab": null
+    },
+    "term": "10-Year CDs"
+   }
+  ],
+  "footnote": "",
+  "ratesAsOf": "Schwab Tue, Nov 10, 2026 \u00b7 eTrade Mon, Nov 9, 2026"
+ },
+ "weather": [
+  {
+   "name": "Houston Winter Condo",
+   "detail": "ZIP 77056",
+   "tempF": 64,
+   "conditions": "Clear",
+   "icon": "sun",
+   "aqi": 53,
+   "aqiCat": "Moderate",
+   "aqiNote": "PM2.5",
+   "alerts": "",
+   "extra": "Humidity 45% \u00b7 Wind E 15 mph",
+   "today": "Partly sunny, high 68\u00b0F",
+   "tonight": "Chance of rain showers after 9pm, mostly cloudy, low 59\u00b0F",
+   "tomorrow": "Showers and thunderstorms, high 66\u00b0F"
+  },
+  {
+   "name": "Seiver Ranch \u2014 Plains, MT",
+   "detail": "Sanders County",
+   "tempF": 37,
+   "conditions": "Partly Sunny",
+   "icon": "partly",
+   "aqi": 63,
+   "aqiCat": "Moderate",
+   "aqiNote": "PM2.5",
+   "alerts": "",
+   "extra": "Humidity 95% \u00b7 Wind SW 3 mph",
+   "today": "Partly sunny, high 50\u00b0F",
+   "tonight": "Areas of fog after midnight, partly cloudy, low 29\u00b0F",
+   "tomorrow": "Areas of fog then chance rain, high 53\u00b0F"
+  },
+  {
+   "name": "Seiver Slough \u2014 Rugby, ND",
+   "detail": "Pierce County",
+   "tempF": 37,
+   "conditions": "Clear and Windy",
+   "icon": "sun",
+   "aqi": 22,
+   "aqiCat": "Good",
+   "aqiNote": "PM2.5",
+   "alerts": "",
+   "extra": "Wind SE 22 mph \u00b7 Gusts to 33 mph",
+   "today": "Mostly sunny, high 43\u00b0F",
+   "tonight": "Partly cloudy, low 29\u00b0F",
+   "tomorrow": "Sunny, high 51\u00b0F"
+  },
+  {
+   "name": "Seiver Lodge \u2014 L'Anse, MI",
+   "detail": "Baraga County",
+   "tempF": 37,
+   "conditions": "Cloudy",
+   "icon": "clouds",
+   "aqi": 33,
+   "aqiCat": "Good",
+   "aqiNote": "O3",
+   "alerts": "",
+   "extra": "Humidity 75% \u00b7 Wind N 6 mph",
+   "today": "Mostly cloudy, high 40\u00b0F",
+   "tonight": "Mostly cloudy, low 26\u00b0F",
+   "tomorrow": "Sunny, high 46\u00b0F"
+  }
+ ],
+ "apod": {
+  "date": "October 15, 2026",
+  "title": "Chandra Finds Possible Origin of 'Treble Clef' Waves",
+  "credit": "X-ray: NASA/CXC/INAF-IRA/A. Botteon et al.; Infrared: UKIDSS-GPS; Radio: ASTRON/LOFAR; Image processing: NASA/CXC/SAO/N. Wolk",
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/trebleclef-lg.jpg",
+  "explanation": "A formation of radio waves looks remarkably like a treble clef in this image from NASA's Chandra X-ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision of two galaxy clusters.",
+  "pageUrl": "https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/"
+ }
 }
