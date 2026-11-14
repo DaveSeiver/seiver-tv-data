@@ -1,34 +1,34 @@
 {
-  "version": 21,
-  "asOf": "Fri Nov 13, 2026, 5:09 PM CT",
+  "version": 22,
+  "asOf": "Sat Nov 14, 2026, 8:11 AM CT",
   "breaking": [
     {
-      "headline": "Wholesale inflation jumps 6.5%, highest since 2022",
-      "fact": "October's Producer Price Index rose 0.3% from September, below the 0.4% forecast, but the year-over-year rate climbed to 6.5% — its highest since November 2022 — while core PPI held at 5.0% year over year; the print keeps a December Fed rate hike fully priced.",
-      "source": "TipRanks",
+      "headline": "FAA lifts nationwide ground stop after 4-hour halt; 2,500+ flights canceled Saturday",
+      "fact": "The FAA ordered a rare nationwide ground stop Friday afternoon after a telecommunications failure hit air-traffic-control centers, then lifted it at 8:15 p.m. ET; more than 6,600 flights were canceled Friday and 8,600 delayed, with 2,500+ more canceled Saturday as airlines work through the backlog — the longest nationwide stop since 9/11.",
+      "source": "AFP",
       "tag": "US",
-      "url": "https://www.tipranks.com/news/nasdaq-falls-as-nvidia-selloff-continues-despite-cooler-inflation"
+      "url": "https://techxplore.com/news/2026-11-air-resumption-hours.html"
     },
     {
-      "headline": "Nvidia board approaches Arm's Rene Haas in CEO search",
-      "fact": "The Financial Times reports Nvidia's board has approached Arm CEO Rene Haas — a former Nvidia executive — as a possible successor to Jensen Huang; the board says it is still selecting a search firm and has not formally engaged any candidate, calling speculation “premature.” Arm fell 5.4% Friday; Nvidia reports earnings Tuesday.",
-      "source": "Decrypt",
+      "headline": "Fed: AI is now Wall Street's top financial-stability worry",
+      "fact": "The Fed's Financial Stability Report, released Friday, found 87% of market contacts cite AI as a salient risk — up from 50% in May — pointing to stretched valuations, cyber risks and complex AI financing; debt tied to advanced computing hit $680 billion by October, five times all of 2023.",
+      "source": "Reuters",
       "tag": "US",
-      "url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang"
+      "url": "https://www.kitco.com/news/off-the-wire/2026-11-13/ai-rockets-top-worries-about-financial-system-latest-fed-survey"
     },
     {
-      "headline": "Chip stocks sink as AMD falls nearly 9%",
-      "fact": "AMD plunged 8.75% to $534.06 and the PHLX Semiconductor Index fell 3.43% as chip stocks gave back the week's rally; Broadcom dropped about 7% and Nvidia fell 2%, dragging the Nasdaq down 0.91%.",
-      "source": "TradingKey",
-      "tag": "US",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262305244-us-stock-nasdaq-falls-nvidia-drops-us-october-ppi-tradingkey"
+      "headline": "Trump, Xi and Putin to meet Thursday in Shenzhen on nuclear arms",
+      "fact": "The White House confirmed Friday that Trump will meet Xi Jinping and Vladimir Putin on Thursday on the sidelines of the APEC summit in Shenzhen — the first-ever trilateral of the three leaders — to open talks on nuclear arms control nine months after New START expired; officials say no agreement is expected, and the war in Iran is also on the agenda.",
+      "source": "New York Post",
+      "tag": "World",
+      "url": "https://nypost.com/2026/11/13/us-news/trump-will-have-historic-meeting-with-xi-putin-in-china/"
     },
     {
-      "headline": "Storm alert for Houston on Sunday",
-      "fact": "FOX 26 has a Storm Alert for Sunday: widespread rain and storms are expected across Southeast Texas, with 2 to 4 inches of localized heavy rain, a 1-in-4 street-flooding risk and a 1-in-5 chance of a strong thunderstorm; spotty showers may develop late Saturday.",
-      "source": "FOX 26 Houston",
-      "tag": "Local",
-      "url": "https://fox26houston.com/weather/houston-weather-friday-november-13-2026"
+      "headline": "Bitcoin slides below $67,000 as crypto selloff deepens",
+      "fact": "Bitcoin fell 6.15% to about $66,950 on Friday as crypto joined the risk-off slide, with Ether down 6% and Solana down 7.7%; the token has given back much of its autumn rally as the Nasdaq's slide and a strong dollar pressured risk assets.",
+      "source": "Iboro Finance",
+      "tag": "World",
+      "url": "https://iborowilliam.com/blog/article/ai-sector-turmoil-and-crypto-sell-off-dominate-markets-as-nvidia-slumps"
     }
   ],
   "markets": [
@@ -229,10 +229,10 @@
     },
     {
       "label": "WTI Crude",
-      "value": "$88.92",
-      "change": "+0.18",
-      "pct": "+0.20%",
-      "dir": "up",
+      "value": "$88.56",
+      "change": "-0.18",
+      "pct": "-0.20%",
+      "dir": "down",
       "spark": [
         89.43,
         89.44,
@@ -263,14 +263,14 @@
         86.04,
         86.53,
         88.74,
-        88.92
+        88.56
       ]
     },
     {
       "label": "Brent Crude",
-      "value": "$96.08",
-      "change": "+0.26",
-      "pct": "+0.27%",
+      "value": "$95.84",
+      "change": "+0.02",
+      "pct": "+0.02%",
       "dir": "up",
       "spark": [
         100.32,
@@ -302,14 +302,14 @@
         91.49,
         92.76,
         95.82,
-        96.08
+        95.84
       ]
     }
   ],
   "marketsNote": "",
   "watchlist": [
     {
-      "blurb": "Air Liquide closed in Paris at €193.32 (+0.25%); at the ECB's Nov 13 reference rate of 1.1052 that's $213.66 — a touch below Thursday's $213.69.",
+      "blurb": "Air Liquide's Paris close Friday was €193.32, up 0.25% on the day; converted at the ECB's Nov 13 reference rate of 1.1052, that's $213.66 — a touch below Thursday's $213.69 as the euro eased against the dollar.",
       "change": "-0.01%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/AI.PA",
@@ -330,7 +330,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "T-bill ETF closed Friday at $91.53, up 0.03% from Thursday's $91.50 close; its latest monthly distribution ($0.30849, ex Nov 2, paid Nov 5) annualizes to a 4.04% yield at that price.",
+      "blurb": "The T-bill ETF ended the week at $91.53 Friday, up 0.03% from Thursday's $91.50 close; its latest monthly distribution ($0.30849, ex Nov 2, paid Nov 5) annualizes to a 4.04% yield at that price.",
       "change": "+0.03%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/BIL",
@@ -351,7 +351,7 @@
       "yieldTag": "Dist. yield 4.04%"
     },
     {
-      "blurb": "Fastenal closed Friday at $55.19, down 0.65% from Thursday's $55.55 close — still $7.19 above Sean's $48 buy gate.",
+      "blurb": "Fastenal ended the week at $55.19 Friday, down 0.65% from Thursday's $55.55 close — still $7.19 above Sean's $48 buy gate.",
       "change": "-0.65%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/FAST",
@@ -372,7 +372,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Alphabet closed Friday at $295.77, down 0.98% from Thursday's $298.70 close, giving back the $300 level for a second day as the AI rotation cools; Nvidia's slide into Tuesday's earnings is dragging the sector.",
+      "blurb": "Alphabet closed Friday at $295.77, down 0.98% from Thursday's $298.70 close, giving back the $300 level for a second day as the AI rotation cools; the Fed's new report naming AI the top financial-stability worry added to the pressure, and Nvidia reports earnings Tuesday.",
       "change": "-0.98%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/GOOGL",
@@ -393,7 +393,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Lilly closed Friday at $1,443.50, up 1.14% from Thursday's $1,427.28 close, recovering after Thursday's dip; the FDA's rare vision-loss (NAION) warning on GLP-1 labels, including Zepbound and Mounjaro, remains the overhang.",
+      "blurb": "Lilly ended the week at $1,443.50 Friday, up 1.14% from Thursday's $1,427.28 close, recovering after Thursday's dip; the FDA's rare vision-loss (NAION) warning on GLP-1 labels, including Zepbound and Mounjaro, remains the overhang.",
       "change": "+1.14%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/LLY",
@@ -414,7 +414,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Cheniere closed Friday at $308.75, down 0.24% from Thursday's $309.48 close; RBC raised its price target to $319, and a $0.625 dividend is payable Nov 17 (record date Nov 9).",
+      "blurb": "Cheniere ended the week at $308.75 Friday, down 0.24% from Thursday's $309.48 close; RBC's price target is $319, and a $0.625 dividend is payable Tuesday Nov 17 (record date Nov 9).",
       "change": "-0.24%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/LNG",
@@ -435,7 +435,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Nvidia closed Friday at $162.85, down 2.01% from Thursday's $166.19 close, extending the post-Huang slide — down 12.8% for the week — with earnings due Tuesday Nov 17; the FT reports the board has approached Arm CEO Rene Haas about the top job.",
+      "blurb": "Nvidia ended a brutal week at $162.85 Friday, down 2.01% from Thursday's $166.19 close and 12.7% for the week, with earnings due Tuesday Nov 17; the FT reports the board has approached Arm CEO Rene Haas about the top job.",
       "change": "-2.01%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/NVDA",
@@ -456,7 +456,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Pfizer closed Friday at $28.89, up 0.21% from Thursday's $28.83 close; Bernstein reiterated Market Perform with a $29 target on Nov 12.",
+      "blurb": "Pfizer ended the week at $28.89 Friday, up 0.21% from Thursday's $28.83 close; Bernstein reiterated Market Perform with a $29 target on Nov 12.",
       "change": "+0.21%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/PFE",
@@ -477,7 +477,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Rocket Lab closed Friday at $61.53, down 3.96% from Thursday's $64.07 close, giving back some of this week's big gains; its Electron rocket flies its 100th mission early Saturday.",
+      "blurb": "Rocket Lab closed Friday at $61.53, down 3.96% from Thursday's $64.07 close, giving back some of this week's big gains; its Electron rocket flew its milestone 100th mission overnight, deploying an iQPS radar satellite.",
       "change": "-3.96%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/RKLB",
@@ -498,7 +498,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Rithm closed Friday at $8.97, down 0.33% from Thursday's $9.00 close and below its 50-day moving average of $9.17, as the 10-year yield holds above 5% — a headwind for mortgage REITs.",
+      "blurb": "Rithm ended the week at $8.97 Friday, down 0.33% from Thursday's $9.00 close and below its 50-day moving average of $9.17, as the 10-year yield holds above 5% — a headwind for mortgage REITs.",
       "change": "-0.33%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/RITM",
@@ -519,7 +519,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "The SpaceX ETF closed Friday at $139.11, down 0.59% from Thursday's $139.94 close, easing further after Thursday's spike near $147 on speculation about Jensen Huang joining SpaceX.",
+      "blurb": "The SpaceX ETF ended the week at $139.11 Friday, down 0.59% from Thursday's $139.94 close, easing further after Thursday's spike near $147.",
       "change": "-0.59%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/SPCX",
@@ -540,7 +540,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Truist closed Friday at $49.97, up 0.16% from Thursday's $49.89 close, bucking the broad market's slide.",
+      "blurb": "Truist ended the week at $49.97 Friday, up 0.16% from Thursday's $49.89 close, bucking the broad market's slide.",
       "change": "+0.16%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/TFC",
@@ -561,7 +561,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "U.S. Antimony closed Friday at $3.09, up 6.19% from Thursday's $2.91 close and still under Sean's $4 buy gate; Q3 revenue of $10.1M missed the roughly $16.7M estimate as antimony prices fell about 63%.",
+      "blurb": "U.S. Antimony bounced to $3.09 Friday, up 6.19% from Thursday's $2.91 close and still under Sean's $4 buy gate; Q3 revenue of $10.1M missed the roughly $16.7M estimate as antimony prices fell about 63%.",
       "change": "+6.19%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/UAMY",
@@ -582,7 +582,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Uranium Energy closed Friday at $6.66, down 2.06% from Thursday's $6.80 close, with uranium names still under pressure.",
+      "blurb": "Uranium Energy ended the week at $6.66 Friday, down 2.06% from Thursday's $6.80 close, with uranium names still under pressure.",
       "change": "-2.06%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/UEC",
@@ -603,7 +603,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Valero closed Friday at $379.83, up 1.30% from Thursday's $374.95 close, climbing as crude held near $89.",
+      "blurb": "Valero ended the week at $379.83 Friday, up 1.30% from Thursday's $374.95 close, climbing as crude held near $89 (WTI settled $88.56).",
       "change": "+1.30%",
       "dir": "up",
       "link": "https://finance.yahoo.com/quote/VLO",
@@ -624,28 +624,28 @@
       "yieldTag": null
     },
     {
-      "blurb": "Target-date fund's latest NAV is $29.39 (Nov 12), down 0.61% from Nov 11's $29.57; Friday's NAV had not posted by this build.",
-      "change": "-0.61%",
+      "blurb": "Target-date fund's latest NAV is $29.31 (Nov 13), down 0.27% from Nov 12's $29.39.",
+      "change": "-0.27%",
       "dir": "down",
       "link": "https://finance.yahoo.com/quote/VTTHX",
       "name": "Vanguard Target Retirement 2035",
-      "price": "$29.39",
+      "price": "$29.31",
       "risk": 3,
       "spark": [
-        29.709999084472656,
-        28.959999084472656,
+        28.96,
         29.0,
         29.5,
-        29.350000381469727,
-        29.56999969482422,
-        29.389999389648438
+        29.35,
+        29.57,
+        29.39,
+        29.31
       ],
-      "subTag": "NAV as of Nov 12",
+      "subTag": "NAV as of Nov 13",
       "ticker": "VTTHX",
       "yieldTag": null
     },
     {
-      "blurb": "S&P 500-anchored estimate ($155.58 when the index closed 7,568.92 on Nov 3); this CIT has no public quote — $155.43 (est.) with the index closing at 7,561.67 Friday.",
+      "blurb": "This CIT has no public quote — the S&P 500-anchored estimate is $155.43 (est.), tracking the index's Friday close of 7,561.67 against the $155.58 anchor set when the index closed 7,568.92 on Nov 3.",
       "change": "-0.40%",
       "dir": "down",
       "link": null,
@@ -666,7 +666,7 @@
       "yieldTag": null
     },
     {
-      "blurb": "Schwab money market fund; stable $1.00 NAV, 7-day SEC yield 3.75% as published Nov 12 — re-verified from Schwab's official page this run; no newer figure.",
+      "blurb": "Schwab money market fund; stable $1.00 NAV, 7-day SEC yield 3.75% as published Nov 13 — re-verified from Schwab's official page this run.",
       "change": "",
       "dir": "flat",
       "link": "https://finance.yahoo.com/quote/SWVXX",
@@ -674,12 +674,12 @@
       "price": "$1.00",
       "risk": 1,
       "spark": null,
-      "subTag": "Yield published Nov 12 (Schwab)",
+      "subTag": "Yield published Nov 13 (Schwab)",
       "ticker": "SWVXX",
       "yieldTag": "7-day yield 3.75%"
     },
     {
-      "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV, 7-day SEC yield 3.98% as published Nov 12 — re-verified from Vanguard's official fund page this run; no newer figure.",
+      "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV, 7-day SEC yield 3.98% as published Nov 13 — re-verified from Vanguard's official fund page this run.",
       "change": "",
       "dir": "flat",
       "link": "https://finance.yahoo.com/quote/VUSXX",
@@ -687,30 +687,30 @@
       "price": "$1.00",
       "risk": 0,
       "spark": null,
-      "subTag": "Yield published Nov 12 (Vanguard)",
+      "subTag": "Yield published Nov 13 (Vanguard)",
       "ticker": "VUSXX",
       "yieldTag": "7-day yield 3.98%"
     }
   ],
   "weekInBrief": [
     {
-      "headline": "Stocks end the week higher despite Friday's slide",
-      "body": "The S&P 500 finished the week up 2.5% at 7,561.67, the Nasdaq up 2.3% at 25,136.27 and the Dow up 2.1% at 52,347.55, holding most of the week's gains even after Friday's chip-led slide on hot inflation data and Nvidia's leadership turmoil.",
+      "headline": "Nvidia's brutal week: down 12.7% as the CEO search drags on",
+      "body": "Nvidia fell 12.7% on the week to $162.85 as the post-Huang slide deepened and the board's CEO search — reportedly including an approach to Arm chief Rene Haas — dragged on; the first post-Huang earnings report lands Tuesday Nov 17.",
       "stamp": "Nov 13, 2026"
     },
     {
-      "headline": "Bitcoin slides below $69,000 as risk assets retreat",
-      "body": "Bitcoin dropped to about $68,700 on Friday, down almost 4% in 24 hours, as the Nasdaq's slide and a strong dollar pressured risk assets; the token slipped below its 200-week moving average.",
-      "stamp": "Nov 13, 2026"
+      "headline": "UK economy grows 0.7% in Q3, fastest since early 2024",
+      "body": "Britain's economy grew 0.7% in the third quarter, up from 0.5% in Q2 and the fastest quarterly pace since early 2024, the ONS said Thursday; services rose 0.9%, led by computer programming and AI-related activity, while annual growth picked up to 1.9%.",
+      "stamp": "Nov 12, 2026"
     },
     {
-      "headline": "Copper slides to a four-month low",
-      "body": "Copper fell 1.4% Friday to $6.11 a pound, its weakest since early July, as rising Fed inflation worries weighed on industrial metals; crude has dropped about 20% since mid-September, a move not yet reflected in the backward-looking inflation data.",
-      "stamp": "Nov 13, 2026"
+      "headline": "China's factory-gate prices jump 5.7%, fastest in over four years",
+      "body": "China's producer price index rose 5.7% year on year in October, the fastest since June 2022 and above the 5.3% forecast, the National Bureau of Statistics said Monday; higher energy costs drove the surge while consumer inflation cooled to 0.7%, widening the gap between factory costs and household demand.",
+      "stamp": "Nov 9, 2026"
     },
     {
-      "headline": "Oil ends the week lower despite the Hormuz spike",
-      "body": "Brent crude fell 2.3% on the week and WTI 2.1%, giving back only part of Monday's sharp drop despite a late-week jump on attacks against tankers in the Strait of Hormuz; the early-week slide and the IEA's call for a fourth-quarter surplus kept the rally in check.",
+      "headline": "Treasury yields jump as a December Fed hike stays fully priced",
+      "body": "The 10-year Treasury yield climbed from 4.86% to 5.15% over the week after October wholesale inflation ran hot at 6.5% year on year, keeping a December Fed rate hike fully priced.",
       "stamp": "Nov 13, 2026"
     }
   ],
@@ -718,35 +718,35 @@
     "items": [
       {
         "headline": "Latest from the Strait",
-        "body": "The IEA said Friday the world oil market will be in surplus in the fourth quarter as Gulf exports return and 71 million barrels of emergency stock releases flow through February. CENTCOM says it has redirected more than 100 ships trying to violate the blockade and insists the strait is open, while analysts at ISW note there is no physical evidence Iran has re-mined the strait since CENTCOM cleared it in August — the recent strikes appear aimed at ships' engine rooms by drone and missile, with Tehran calling them mine strikes. The IRGC claimed Friday it destroyed a U.S. early-warning radar in Bahrain, a claim CENTCOM has not confirmed and which followed its dismissal of reports of U.S. war preparations as “pure speculation.” On oil, Kpler's tracking still shows Iranian crude loadings at zero since late August — the first zero month since tracking began in 2013 — while non-Iranian crude keeps moving, at about 7.3 million barrels a day through the strait in the week to October 28."
+        "body": "The U.S. and Iran traded fire in the strait on Friday, the largest threat yet to the pause in fighting, hours after Iran's Revolutionary Guard claimed it seized the tanker Ocean Koi in the Gulf of Oman and CENTCOM said U.S. forces disabled two Iranian-flagged tankers trying to enter Iranian ports; CENTCOM commander Adm. Bradley Cooper said U.S. forces “remain committed to full enforcement of the blockade.” CENTCOM also said it shot down two Iranian one-way attack drones launched against Bahrain, after the Guard claimed it had destroyed a U.S. early-warning radar there. Early Saturday, Iranian state media claimed three tankers — one a supertanker — caught fire after striking mines in the strait, a claim that gave no vessel names or flags and could not be independently verified. Iran also announced a new “Persian Gulf Strait Authority,” saying ships must email Tehran their origin, cargo and destination before transiting. On oil, Kpler's tracking still shows Iranian crude loadings at zero since late August — the first zero month since tracking began in 2013 — while Reuters, citing UANI tracking and SynMax satellite analysis, reports at least 4.1 million barrels of Iranian LPG have slipped past the blockade on eight tankers since mid-July; non-Iranian crude keeps moving, at about 7.3 million barrels a day through the strait in the week to October 28."
       }
     ],
     "stats": ""
   },
   "space": [
     {
-      "headline": "Starship Flight 15 lifts off — but the booster catch is aborted",
-      "body": "SpaceX's Starship Flight 15 lifted off from Starbase at 4:47 p.m. CT Friday after the FAA issued the launch license that same day, but the double-catch bid fell at the first hurdle: one engine failed to relight during the boostback burn and the Super Heavy catch was aborted, with Booster 22 diverted to a Gulf splashdown. Ship 42, named “Don't Panic,” reached space and was set to deploy 26 Starlink V3 satellites before a roughly 22-hour coast; the first-ever ship catch is still targeted for Saturday afternoon around 3:17 p.m. CT, if the ship passes its return checks.",
+      "headline": "Starship's Ship 42 aims for a first-ever catch this afternoon",
+      "body": "Ship 42 is healthy in orbit after Friday's 4:47 p.m. CT liftoff from Starbase, having deployed all 26 Starlink V3 satellites, and SpaceX plans the first-ever catch of an upper stage at the tower around 3:19 p.m. CT today after 14 orbits; the double-catch bid already failed at the first hurdle — one engine failed to relight on the boostback burn, the Super Heavy catch was aborted, and Booster 22 was detonated above the Gulf.",
       "tag": "Space",
       "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
     },
     {
-      "headline": "Evolution found another way to build a primate brain",
-      "body": "Researchers in Taiwan and Japan found a small stretch of DNA that changes which brain-building cells are produced, helping explain how the primate neocortex expanded — evolution opened a new developmental path without creating entirely new genes. The work, led by National Yang Ming Chiao Tung University and Academia Sinica with Kyoto University, was published in Science Advances.",
-      "tag": "Science",
-      "url": "https://phys.org/news/2026-11-evolution-primate-brain.html"
-    },
-    {
-      "headline": "A microbe-made molecule may reverse gut damage by boosting NAD",
-      "body": "Rutgers Health scientists found a molecule made by “good” gut bacteria — N-methylnicotinamide, or N-MNA — that drives stem-cell renewal and repair of the gut lining in mice, flies and human cells, by replenishing NAD, a coenzyme whose decline is linked to inflammatory bowel disease and other chronic gut disorders. The study was published in Science Advances.",
-      "tag": "Science",
-      "url": "https://medicalxpress.com/news/2026-11-microbe-molecule-reverse-gut-boosting.html"
-    },
-    {
-      "headline": "A likely supermassive neutron star may fill the mass gap",
-      "body": "Astronomers found a red giant star with an unseen companion that is likely an unusually massive neutron star — an estimated 2.2 solar masses, between 1.8 and 2.8 — pushing the boundary of how massive neutron stars can get and shedding light on the mass gap between neutron stars and black holes. The binary, J0008+0128, was identified in LAMOST and APOGEE data and reported in Science Advances.",
+      "headline": "Rocket Lab's Electron hits 100 launches — fastest commercial rocket ever",
+      "body": "Rocket Lab's Electron flew its 100th mission overnight, “The Mountain God Rises,” launching from New Zealand at 6:30 p.m. local time and deploying the YAMATSUMI-II radar-imaging satellite to a 575 km orbit for Japan's iQPS; reaching 100 launches in under a decade — since its 2017 debut — is a record for a commercially developed rocket, and iQPS has booked seven more Electron flights through 2030.",
       "tag": "Space",
-      "url": "https://phys.org/news/2026-11-supermassive-neutron-star-mass-gap.html"
+      "url": "https://rss.globenewswire.com/news-release/2026/11/14/3403041/0/en/rocket-lab-hits-100-electron-launches-fastest-commercial-rocket-to-reach-the-milestone.html"
+    },
+    {
+      "headline": "New South African dinosaur was a heavyweight even as a youngster",
+      "body": "Meet Nyana rooiwalensis, a newly identified dinosaur from South Africa that lived more than 200 million years ago and weighed about 400 kilograms (880 pounds) despite still being a youngster; identified from a near-complete skull and other bones, the two-legged sauropodomorph is an early relative of giants like Brachiosaurus, and its Late Triassic age sheds light on how the group diversified.",
+      "tag": "Science",
+      "url": "https://phys.org/news/2026-11-newly-south-african-dinosaur-heavyweight.html"
+    },
+    {
+      "headline": "Hamster hibernation study offers clues to Alzheimer's",
+      "body": "Researchers at VIB and KU Leuven found that hibernation triggers changes in hamster brain cells that partly resemble those seen in Alzheimer's disease, with gene-expression shifts across the hibernation cycle echoing the build-up of amyloid plaques; the findings, published in Science Advances, suggest some early Alzheimer's changes may also occur as a natural adaptive response, opening new ways to study the disease.",
+      "tag": "Science",
+      "url": "https://medicalxpress.com/news/2026-11-hamster-hibernation-clues-alzheimer-disease.html"
     }
   ],
   "cdRates": {
@@ -804,70 +804,70 @@
     {
       "name": "Houston Winter Condo",
       "detail": "ZIP 77056",
-      "tempF": 72,
+      "tempF": 56,
       "conditions": "Sunny",
       "icon": "sun",
-      "aqi": 51,
+      "aqi": 54,
       "aqiCat": "Moderate",
       "aqiNote": "PM2.5",
       "alerts": "",
-      "extra": "Humidity 48% · Wind calm",
-      "today": "Sunny, high 76°F",
-      "tonight": "Mostly clear, low 55°F",
-      "tomorrow": "Mostly sunny, high 68°F"
+      "extra": "Humidity 62% · Wind E 15 mph",
+      "today": "Mostly sunny, high 68°F",
+      "tonight": "Mostly cloudy then chance rain showers, low 58°F",
+      "tomorrow": "Showers and thunderstorms, high 68°F"
     },
     {
       "name": "Seiver Ranch — Plains, MT",
       "detail": "Sanders County",
-      "tempF": 48,
-      "conditions": "Mostly Sunny",
-      "icon": "sun",
-      "aqi": 52,
+      "tempF": 34,
+      "conditions": "Areas Of Fog",
+      "icon": "fog",
+      "aqi": 65,
       "aqiCat": "Moderate",
       "aqiNote": "PM2.5",
       "alerts": "",
-      "extra": "Humidity 58% · Wind E 1 mph",
-      "today": "Mostly sunny, high 52°F",
-      "tonight": "Patchy fog, low 33°F",
-      "tomorrow": "Areas of fog then partly sunny, high 50°F"
+      "extra": "Humidity 97% · Wind SSW 2 mph",
+      "today": "Areas of fog then mostly cloudy, high 50°F",
+      "tonight": "Partly cloudy then areas of fog, low 29°F",
+      "tomorrow": "Areas of fog then chance light rain, high 53°F"
     },
     {
       "name": "Seiver Slough — Rugby, ND",
       "detail": "Pierce County",
-      "tempF": 37,
+      "tempF": 27,
       "conditions": "Mostly Sunny",
       "icon": "sun",
-      "aqi": 37,
+      "aqi": 25,
       "aqiCat": "Good",
       "aqiNote": "PM2.5",
       "alerts": "",
-      "extra": "Humidity 61% · Wind SE 16 mph",
-      "today": "Mostly sunny, high 40°F",
-      "tonight": "Mostly cloudy, low 23°F",
-      "tomorrow": "Partly sunny, high 42°F"
+      "extra": "Humidity 88% · Wind SE 21 mph",
+      "today": "Mostly sunny, high 43°F",
+      "tonight": "Partly cloudy, low 29°F",
+      "tomorrow": "Sunny, high 51°F"
     },
     {
       "name": "Seiver Lodge — L'Anse, MI",
       "detail": "Baraga County",
-      "tempF": 35,
-      "conditions": "Chance Snow Showers",
-      "icon": "snow",
-      "aqi": 34,
+      "tempF": 33,
+      "conditions": "Cloudy",
+      "icon": "clouds",
+      "aqi": 33,
       "aqiCat": "Good",
       "aqiNote": "O3",
       "alerts": "",
-      "extra": "Humidity 85% · Wind N 10 mph",
-      "today": "Chance rain and snow showers, high 37°F",
-      "tonight": "Chance snow showers then cloudy, low 33°F",
-      "tomorrow": "Mostly cloudy, high 39°F"
+      "extra": "Humidity 90% · Wind NW 5 mph",
+      "today": "Mostly cloudy, high 40°F",
+      "tonight": "Mostly cloudy, low 26°F",
+      "tomorrow": "Sunny, high 46°F"
     }
   ],
   "apod": {
-    "date": "November 13, 2026",
-    "title": "A Global Rebound for Mangroves",
-    "credit": "NASA Earth Observatory / Michala Garrison, using Landsat data from the U.S. Geological Survey",
-    "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_oli2_20260202_lrg.jpg",
-    "explanation": "After decades of decline, the world's mangrove forests are making a comeback. Research published in Science, based on Landsat imagery from 1984 to 2023, found mangroves lost nearly 3,000 square kilometres between 1984 and 2010, then gained back nearly 2,000 square kilometres after 2010 — led by Asia, Australia and South America. This Landsat view from February 2026 shows mangrove expansion in Palaw Township, Burma, where trees have regrown in abandoned rice fields and spread into new mudflats. Mangroves store up to four times as much carbon as taller inland tropical forests and shield coasts from erosion and storm surge.",
-    "pageUrl": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/"
+    "date": "November 14, 2026",
+    "title": "Apollo 12 and Surveyor 3",
+    "credit": "Apollo 12 / Alan Bean — stereo image by Kevin Frank (NASA)",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/KF-ApAn48-7133-4.jpg?w=2030&h=2048&fit=clip&crop=faces%2Cfocalpoint",
+    "explanation": "Put on your red/blue glasses and gaze across the western Ocean of Storms on the Moon: this 3D anaglyph shows Apollo 12 astronaut Pete Conrad visiting the Surveyor 3 spacecraft in November 1969. Surveyor 3 had landed on the inside slope of a small crater about 2 1/2 years earlier, in April 1967, and Apollo 12's Lunar Module Intrepid touched down less than 200 meters away. The stereo image was carefully created from two separate pictures captured on the lunar surface, depicting the scene from slightly different viewpoints, approximating the separation between human eyes.",
+    "pageUrl": "https://apod.nasa.gov/apod/ap261114.html"
   }
 }
