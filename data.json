@@ -1,34 +1,34 @@
 {
- "version": 26,
- "asOf": "Sun Nov 15, 2026, 8:05 AM CT",
+ "version": 27,
+ "asOf": "Sun Nov 15, 2026, 12:07 PM CT",
  "breaking": [
   {
-   "headline": "Flights recovering: FAA expects full schedules by late Sunday after ground stop",
-   "fact": "FAA Administrator Bryan Bedford said Saturday that U.S. airline schedules should be largely back to normal by late Sunday, after Friday’s nationwide ground stop — the longest in 25 years — and more than 15,000 cancellations Friday and Saturday. About 1,390 Sunday flights were already canceled Sunday morning, with Dallas-Fort Worth, O’Hare and JFK hit hardest. Officials blame an L3Harris contractor’s router work during a copper-to-fiber upgrade that overloaded communications at 17 of 22 air-traffic control centers; there is no sign of a cyberattack.",
-   "source": "Reuters via PortCalls",
-   "tag": "US",
-   "url": "https://portcalls.com/faa-ground-stop-us-flights-recover-cancellations-ease/"
-  },
-  {
-   "headline": "U.S. loses measles elimination status after 26 years",
-   "fact": "A Pan American Health Organization panel has determined the U.S. no longer qualifies as having eliminated measles, ending a status held since 2000, after the same strain circulated uninterrupted for more than a year. The CDC has tallied 5,412 cases in 2026 — the most since 1991 — with at least 10 deaths, and cases confirmed in 45 states. The formal announcement is expected Tuesday, Nov. 17.",
-   "source": "Reuters / CNN",
-   "tag": "US",
-   "url": "https://wncy.com/2026/11/13/us-loses-measles-free-status-after-continued-spread-of-the-disease-wsj-reports/"
-  },
-  {
-   "headline": "Houthis take control of Bab el-Mandeb as Yemeni forces pull back",
-   "fact": "Yemen’s Southern Armed Forces announced Sunday they are withdrawing from Dhubab Airport and the Bab el-Mandeb area toward Aden, leaving the Iran-aligned Houthis in control of the strait overlooking one of the world’s busiest shipping chokepoints, the Red Sea–Suez route for Asia-to-Europe trade. The move ends a six-week government counteroffensive; no closure has been announced and vessels are still passing through.",
-   "source": "Reuters",
+   "headline": "Ukraine launches nearly 1,200 drones at Russia in one of the war's biggest attacks",
+   "fact": "Ukraine fired almost 1,200 drones at Russian targets overnight Nov. 12-13, one of its biggest aerial attacks since Moscow's full-scale invasion nearly five years ago. Russia says air defenses downed 1,198 drones, including 467 headed for the Moscow region; strikes that got through killed seven people in three Russian regions, including a 12-year-old. Ukraine says it hit an oil refinery in Volgograd, starting a fire, while Russia answered with 117 drones, killing at least two in Ukraine, including a 17-year-old.",
+   "source": "Associated Press",
    "tag": "World",
-   "url": "https://1027wbow.com/2026/11/15/yemen-government-forces-withdraw-from-area-near-bab-el-mandeb-strait-houthis-in-control/"
+   "url": "https://www.tricityrecordnm.com/articles/associated-press-new-mexico/ukraine-fires-nearly-1200-drones-at-russia-as-us-led-talks-consider-wider-european-security/"
   },
   {
-   "headline": "U.S. floated NATO-for-Donbas swap, Zelenskyy says",
-   "fact": "President Volodymyr Zelenskyy said Saturday that U.S. negotiators asked whether Ukraine would withdraw from the Donbas region in exchange for NATO membership — the first time the question has been raised in the talks. Kyiv will not cede territory, he said, but would put a comprehensive security package to a national referendum. The Abu Dhabi round ended Wednesday without a breakthrough, though the sides agreed to swap more than 1,000 prisoners.",
-   "source": "Reuters via TBS News",
+   "headline": "Congo's Ebola outbreak tops 11,000 cases, deadliest in the country's history",
+   "fact": "Congo's Ebola outbreak has passed 11,000 cases — 11,042 infected and 5,387 dead, nearly half of those infected — the deadliest outbreak in Congo's history and the second-largest ever recorded. The Bundibugyo virus has no approved vaccine or treatment and has spread to eight of the country's 26 provinces; six months in, Doctors Without Borders says the outbreak remains out of control, and experts doubt it can be contained within a year.",
+   "source": "Associated Press",
    "tag": "World",
-   "url": "https://www.tbsnews.net/worldbiz/usa/us-floated-idea-ukraine-ceding-donbas-nato-membership-zelenskiy-says-1602636"
+   "url": "https://www.nprillinois.org/2026-11-11/ebola-tops-11-000-cases-in-congos-deadliest-outbreak"
+  },
+  {
+   "headline": "Hamas confirms its Rafah brigade commander was killed in an Israeli strike",
+   "fact": "Hamas confirmed Sunday that its Rafah Brigade commander, Samir Abu Younis, 53, was killed in an Israeli drone strike Saturday in al-Mawasi, Khan Younis. Israel's military and the Shin Bet said they targeted a senior Hamas commander; the strike hit a tent sheltering displaced people, wounding two. Gaza's Health Ministry says 16 people were killed and 68 wounded in the preceding 48 hours, and 1,643 have been killed since the October 2025 ceasefire began.",
+   "source": "Reuters / ThisDay",
+   "tag": "World",
+   "url": "https://thisday.com.ng/israeli-air-strike-kills-top-hamas-commander-in-gaza-two-others-wounded/"
+  },
+  {
+   "headline": "NATO scraps its 2027 leaders' summit in Albania as meetings are scaled back",
+   "fact": "NATO will not hold a leaders' summit in Albania in 2027 as planned, scaling back high-level meetings amid tensions over defense spending, Iran and the war in Ukraine. Defense ministers did not meet last month and none is planned for October 2027, and foreign ministers will meet once next year instead of twice. Albania's Prime Minister Edi Rama said 'for sure not in 2027' and Tirana could host in 2028; Secretary-General Mark Rutte said summits happen 'when we need them.'",
+   "source": "Associated Press",
+   "tag": "World",
+   "url": "https://www.lapost.com/content/nato-to-skip-a-leaders-summit-in-albania-next-year-as-high-level-meetings-are-scaled-back"
   }
  ],
  "markets": [
@@ -309,7 +309,7 @@
  "marketsNote": "",
  "watchlist": [
   {
-   "blurb": "Air Liquide closed Friday at €193.32 in Paris, up 0.25% on the session; at the ECB’s Nov 13 reference rate of 1.1052 the dollar price is $213.66. Paris is closed for the weekend and trading resumes Monday.",
+   "blurb": "Sunday in Paris: Air Liquide's last trade was Friday's €193.32 close, up 0.25% on the day; converted at the ECB's Nov 13 reference rate of 1.1052, the dollar price is $213.66. Euronext Paris reopens Monday.",
    "change": "-0.01%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/AI.PA",
@@ -330,7 +330,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "The T-bill ETF closed the week at $91.53 Friday, up 0.03% on the day; its latest monthly distribution of $0.30849 (ex Nov 2, paid Nov 5) works out to a 4.04% distribution yield at this price. Markets reopen Monday.",
+   "blurb": "Sunday quiet for the T-bill ETF: its last trade was Friday's close of $91.53, up 0.03%; the latest monthly distribution of $0.30849 (ex Nov 2, paid Nov 5) still works out to a 4.04% distribution yield. Trading resumes Monday.",
    "change": "+0.03%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/BIL",
@@ -351,7 +351,7 @@
    "yieldTag": "Dist. yield 4.04%"
   },
   {
-   "blurb": "Fastenal ended the week at $55.19 Friday, down 0.65% on the day; at $7.19 above Sean’s $48 buy gate the watch stays quiet, firing only on a close under $48. Trading resumes Monday.",
+   "blurb": "Sunday: Fastenal last traded Friday at $55.19, down 0.65% on the day — $7.19 above Sean's $48 buy gate, so the watch stays quiet until a close under $48. Markets reopen Monday.",
    "change": "-0.65%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/FAST",
@@ -372,7 +372,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Alphabet ended the week at $295.77 Friday, down 0.98% on the day and nearly 10% below its 50-day average; Gemini 4 Hydrogen is now the default in Search’s AI Mode worldwide, and Tuesday’s Nvidia earnings are the next big test for the AI trade.",
+   "blurb": "Alphabet last traded Friday at $295.77, down 0.98% on the day and nearly 10% below its 50-day average. Gemini 4 Hydrogen is now the default in Search's AI Mode worldwide, and Tuesday's Nvidia earnings are the next big test for the AI trade; markets reopen Monday.",
    "change": "-0.98%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/GOOGL",
@@ -393,7 +393,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Lilly closed the week at $1,443.50 Friday, up 1.14% on the day and about 5.8% for the week, holding near its early-November highs; the metabolic race stays crowded, with Altimmune’s peer-reviewed 48-week MASH data landing the same week.",
+   "blurb": "Lilly last traded Friday at $1,443.50, up 1.14% on the day and about 5.8% for the week, holding near its early-November highs. The metabolic race stays crowded after Altimmune's peer-reviewed 48-week MASH data landed the same week; trading resumes Monday.",
    "change": "+1.14%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/LLY",
@@ -414,7 +414,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Cheniere closed the week at $308.75 Friday, down 0.24% on the day; its $0.625 quarterly dividend is the cash note, and the IEA’s Friday report sees the oil market swinging back to surplus in the fourth quarter as supply recovers.",
+   "blurb": "Cheniere last traded Friday at $308.75, down 0.24% on the day, with its $0.625 quarterly dividend as the cash note. The IEA's Friday report sees the oil market swinging back to surplus in the fourth quarter as supply recovers; markets reopen Monday.",
    "change": "-0.24%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/LNG",
@@ -435,7 +435,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Nvidia closed the week at $162.85 Friday, down 2.01% on the day and about 13% for the week as the post-Huang slide deepened; Tuesday’s Q3 report at about 1:20 p.m. PT is the first under interim CEO Colette Kress, and Congress wants testimony from Huang and Commerce Secretary Lutnick in December on chip exports to China.",
+   "blurb": "Nvidia last traded Friday at $162.85, down 2.01% on the day and about 13% for the week as the post-Huang slide deepened. Tuesday's Q3 report — about 1:20 p.m. PT, the first under interim CEO Colette Kress — is the next test, and Congress wants Huang and Commerce Secretary Lutnick testifying in December on chip exports to China.",
    "change": "-2.01%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/NVDA",
@@ -456,7 +456,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Pfizer ended the week at $28.89 Friday, up 0.21% on the day; the company confirmed Friday it will stop selling the menopause therapy Premarin in Canada, and Sean’s buy gate sits at $32, so the watch stays quiet.",
+   "blurb": "Pfizer last traded Friday at $28.89, up 0.21% on the day. The company confirmed Friday it will stop selling the menopause therapy Premarin in Canada; at $28.89 the stock sits below Sean's $32 buy gate, so the watch stays quiet. Trading resumes Monday.",
    "change": "+0.21%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/PFE",
@@ -477,7 +477,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Rocket Lab closed Friday at $61.53, down 3.96% on the day after a week of big gains; the quiet counterpoint to a loud Starship weekend — Ship 42 was caught at the tower Saturday, the first upper-stage catch ever — while its own reusable Neutron rocket’s first launch has slipped into 2027.",
+   "blurb": "Rocket Lab last traded Friday at $61.53, down 3.96% on the day after a week of big gains. The weekend belonged to Starship — Ship 42 caught at the tower Saturday, the first upper-stage catch ever — while Rocket Lab's own reusable Neutron rocket's first launch has slipped into 2027.",
    "change": "-3.96%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/RKLB",
@@ -498,7 +498,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Rithm closed the week at $8.97 Friday, down 0.33% on the day and under its $9.17 50-day average; with the 10-year yield ending the week at 5.15%, its biggest weekly rise in 19 months, and December-hike bets intact, the mortgage REIT stays range-bound heading into Monday.",
+   "blurb": "Rithm last traded Friday at $8.97, down 0.33% on the day and under its $9.17 50-day average. With the 10-year yield ending the week at 5.15% — its biggest weekly rise in 19 months — plus Friday's hot PPI print (+6.5% YoY) and December-hike bets intact, the mortgage REIT stays range-bound heading into Monday.",
    "change": "-0.33%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/RITM",
@@ -519,7 +519,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "The SpaceX ETF closed the week at $139.11 Friday, down 0.59% on the day, then slipped to $136.25 after hours as the booster was lost; Saturday still delivered the milestone it tracks — Ship 42 caught at the tower, the first upper-stage catch ever — with SpaceX blaming a low-fuel warning for the booster diversion.",
+   "blurb": "The SpaceX ETF last traded Friday at $139.11, down 0.59% on the day, then slipped to $136.25 after hours as the booster was lost. Saturday still delivered the milestone it tracks — Ship 42 caught at the tower, the first upper-stage catch ever — and NASA has now welcomed the catch, with Florida Starship launches eyed within months.",
    "change": "-0.59%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/SPCX",
@@ -540,7 +540,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Truist closed the week at $49.97 Friday, up 0.16% on the day — one of the few financials to gain — as the 10-year yield ended the week at 5.15%, its biggest weekly rise in 19 months, with Fed officials leaning toward a December hike.",
+   "blurb": "Truist last traded Friday at $49.97, up 0.16% on the day — one of the few financials to gain — as the 10-year yield ended the week at 5.15%, its biggest weekly rise in 19 months. Friday's PPI print (+6.5% YoY, fastest since 2022) keeps Fed officials leaning toward a December hike.",
    "change": "+0.16%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/TFC",
@@ -561,7 +561,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "U.S. Antimony ended the week at $3.09 Friday, up 6.19% on the day for a second straight bottom-watch signal, but still below Sean’s $4 buy gate; Q3’s withdrawn guidance and the $9.5M quarterly loss still hang over the name.",
+   "blurb": "U.S. Antimony last traded Friday at $3.09, up 6.19% on the day for a second straight bottom-watch signal, but still below Sean's $4 buy gate. Q3's withdrawn guidance and the $9.5M quarterly loss still hang over the name; trading resumes Monday.",
    "change": "+6.19%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/UAMY",
@@ -582,7 +582,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Uranium Energy closed the week at $6.66 Friday, down 2.06% on the day as uranium names slid again; with U3O8 spot little moved, the widening uranium-to-oil gap is a UEC story, not a uranium story, heading into Monday’s reopen.",
+   "blurb": "Uranium Energy last traded Friday at $6.66, down 2.06% on the day as uranium names slid again. With U3O8 spot little moved, the widening uranium-to-oil gap is a UEC story, not a uranium story, heading into Monday's reopen.",
    "change": "-2.06%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/UEC",
@@ -603,7 +603,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Valero closed the week at $379.83 Friday, up 1.30% on the day, climbing as Brent settled near $96 and refining margins stayed firm; the position is locked in the portfolio, not for trading.",
+   "blurb": "Valero last traded Friday at $379.83, up 1.30% on the day, climbing as Brent settled near $96 and refining margins stayed firm. The position is locked in the portfolio, not for trading; markets reopen Monday.",
    "change": "+1.30%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/VLO",
@@ -624,7 +624,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "The target-date fund’s latest NAV is $29.31 as of Nov 13, down 0.27% from Nov 12’s $29.39, tracking the broad market’s Friday slide; the next NAV posts after Monday’s close.",
+   "blurb": "The target-date fund's latest NAV is $29.31 as of Nov 13, down 0.27% from Nov 12's $29.39, tracking the broad market's Friday slide. The next NAV posts after Monday's close.",
    "change": "-0.27%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/VTTHX",
@@ -645,7 +645,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate is $155.43 (est.) after Friday’s close of 7,561.67; the index slipped 0.40% Friday but still gained 2.5% for its best week since August.",
+   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate stays $155.43 (est.) after Friday's close of 7,561.67; the index slipped 0.40% Friday but still gained 2.5% for its best week since August.",
    "change": "-0.40%",
    "dir": "down",
    "link": null,
@@ -666,7 +666,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Schwab money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.75%, as published Nov 13 on Schwab’s official page — verified again this morning, with no new publication over the weekend; the sweep-and-evaporate plan keeps working the balance down.",
+   "blurb": "Schwab money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.75%, as published Nov 13 on Schwab's official page — no new publication over the weekend, so the figure stands; the sweep-and-evaporate plan keeps working the balance down.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/SWVXX",
@@ -679,7 +679,7 @@
    "yieldTag": "7-day yield 3.75%"
   },
   {
-   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.98%, as published Nov 13 on Vanguard’s official page — verified again this morning, with no new publication over the weekend.",
+   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.98%, as published Nov 13 on Vanguard's official page — no new publication over the weekend, so the figure stands.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/VUSXX",
@@ -694,59 +694,59 @@
  ],
  "weekInBrief": [
   {
-   "headline": "IEA: oil market swings back to surplus in the fourth quarter",
-   "body": "The International Energy Agency’s Nov. 13 Oil Market Report says the global oil market will return to surplus in the final quarter of 2026 as recovering supply outpaces demand — world supply rose 2.3 million barrels a day in October to 105.4 million — even as Washington’s blockade keeps Iranian crude off the market. Brent settled Friday at $95.84 and WTI at $88.56, both down about 2.5% for a second straight week.",
+   "headline": "Wholesale inflation hits 6.5%, fastest since 2022",
+   "body": "The Bureau of Labor Statistics reported Friday that October producer prices rose 0.3% on the month — a touch below the 0.4% expected — but 6.5% over 12 months, the largest annual rise since November 2022. Core producer prices, excluding food and energy, rose 5.0% on the year, while consumer prices run at 4%; the Federal Reserve meets Dec. 8-9, with officials leaning toward another hike.",
    "stamp": "Nov 13, 2026"
   },
   {
-   "headline": "Supreme Court to rule on Trump’s border asylum shutdown",
-   "body": "The justices agreed Friday to decide whether President Trump’s Jan. 20, 2025 proclamation barring asylum at the southern border is lawful, taking up Mullin v. RAICES after two lower courts found the policy illegal. Arguments are expected in spring 2027 with a ruling by the end of June; the shutdown stays in force meanwhile.",
-   "stamp": "Nov 13, 2026"
+   "headline": "Microsoft 365 outage resolved after hours-long global disruption",
+   "body": "Microsoft says a global outage of its Microsoft 365 services, which disrupted email and other apps for hours, has been fully resolved. The outage, which hit businesses and consumers worldwide, underscored how much daily work now depends on a single cloud provider.",
+   "stamp": "Nov 15, 2026"
   },
   {
-   "headline": "Lutnick and Huang agree to testify on Nvidia chip exports",
-   "body": "Commerce Secretary Howard Lutnick has agreed to testify voluntarily before the Senate Banking Committee on Dec. 10 on Nvidia chip exports to China and the Megaspeed investigation; former Nvidia CEO Jensen Huang, who resigned Nov. 11, was asked to appear Dec. 3 and has agreed to testify before House committees before Thanksgiving. The inquiry follows reports that more than $3 billion in Chinese AI projects run on restricted Nvidia chips.",
-   "stamp": "Nov 13, 2026"
+   "headline": "Border crossings fall to lowest level in decades",
+   "body": "Illegal crossings at the U.S.-Mexico border have dropped to the lowest point in decades since President Trump resumed office, according to the New York Times. The White House is not satisfied, pressing for still lower numbers and more deportations even as the flow has collapsed.",
+   "stamp": "Nov 15, 2026"
   },
   {
-   "headline": "COP31 grapples with the loss of the 1.5°C goal",
-   "body": "At the midpoint of the COP31 climate summit in Antalya, negotiators are split over what to do with the Paris Agreement’s 1.5°C target after the UN declared a breach imminent and unavoidable: frontline states want the final deal to reaffirm it and commit to returning below it, while other blocs are pressing to drop it. New UN data puts the best-case warming outcome at 1.7–1.8°C.",
-   "stamp": "Nov 13, 2026"
+   "headline": "Fuel crisis and protests squeeze Chile's president",
+   "body": "Chile's president is on the back foot after just eight months in office, squeezed by a fuel crisis and street protests, with approval at 24%, NPR reports. The ultraconservative leader's early stumble is a reminder that energy shortages bite fast, even for a government elected on a tough-on-crime, pro-market platform.",
+   "stamp": "Nov 15, 2026"
   }
  ],
  "hormuz": {
   "items": [
    {
     "headline": "Latest from the Strait",
-    "body": "CENTCOM said Saturday that more than 1.7 billion barrels of crude have now moved through the strait under U.S. protection, with F-16s flying patrols over the waterway. Iran answered with a fresh round of claims: its navy said another tanker struck a mine east of the strait on Friday, the Revolutionary Guard said it downed a U.S. MQ-1C drone over Qeshm Island, and Iranian state media said six attack drones targeted a U.S. radar site in Bahrain overnight. None of it is independently verified, and the Institute for the Study of War notes there are still no signs Iran has re-mined the southern route, which CENTCOM demined in August. On oil, that flow contrasts with a blockade that CENTCOM says has now prevented more than $25 billion in Iranian crude exports — non-Iranian oil is getting through in volume while Iranian oil is still shut out."
+    "body": "Washington widened the pressure campaign this weekend, standing up Task Force Iron Gate to extend the blockade from sea to land — CENTCOM said Nov. 11 that U.S. forces are now working to deny the Revolutionary Guard use of overland routes and the Caspian Sea for weapons and sanctioned goods. The blockade's toll keeps climbing: CENTCOM now puts denied Iranian crude exports at more than $30 billion, with nearly 150 vessels diverted and five disabled since July. Iran answered with a second claimed drone attack on Bahrain on Sunday, again unverified, as shipping through the strait stays about 65% below pre-conflict levels. On oil, the blockade still holds: Kpler recorded zero Iranian crude exports in September — the first such month since it began tracking in 2013 — while non-Iranian crude kept moving through the strait at about 8.5 million barrels a day in the latest Kpler week, roughly 60% of the pre-war rate, and Vortexa separately put September non-Iranian Gulf flows at 81% of pre-war levels."
    }
   ],
   "stats": ""
  },
  "space": [
   {
-   "headline": "Starship’s booster loss traced to engine trouble; the catch still stands as a first",
-   "body": "SpaceX says preliminary indications point to a low-fuel-mass warning that ended the Super Heavy booster’s boostback burn early, and Elon Musk said slight engine underperformance was the reason Booster 22 diverted and exploded over the Gulf on Friday. The history stands regardless: Ship 42 was caught by the tower’s arms Saturday at 3:20 p.m. CT after 14 orbits and 26 Starlink V3 deployments — the first upper-stage catch ever — and SpaceX shares slipped to $136.25 after hours.",
+   "headline": "NASA hails Starship's first orbital catch; Florida launches eyed within months",
+   "body": "NASA welcomed Saturday's milestone — Administrator Jared Isaacman praised the first tower catch of a Starship returning from orbit — and SpaceX expects to begin launching Starships from Florida's Kennedy Space Center within the next few months. Ship 42 was caught at Starbase on Saturday at 3:20 p.m. CT after 14 orbits, 22.5 hours and 26 Starlink V3 deployments. The Super Heavy booster was lost after its boostback burn ended early on a low-fuel warning — 32 of 33 engines relit — with the root cause still under investigation.",
    "tag": "Space",
-   "url": "https://www.scientificamerican.com/article/can-spacex-catch-its-starship/"
+   "url": "https://www.thehindubusinessline.com/news/science/spacexs-starship-makes-historic-return-caught-by-giant-mechanical-arms/article71703056.ece"
   },
   {
-   "headline": "CERN finds evidence of a one-in-ten-billion particle decay after 40 years",
-   "body": "Physicists at CERN’s LHCb experiment have found the first single-experiment evidence for a neutral B meson decaying into two muons — a process predicted to happen only about once in every 10 billion beauty-particle decays, after a search running since the 1980s. The signal reaches 3.2 sigma, strong enough to call evidence but short of the five-sigma bar for a discovery; the result agrees with the Standard Model and tightens the hunt for new particles.",
+   "headline": "Webb finds ice older than the star it orbits",
+   "body": "The James Webb Space Telescope found water and carbon dioxide ice in the debris disk of Beta Pictoris, a 20-million-year-old star 64 light-years away. The water ice is glassy, not crystalline — less than 7% crystalline — and mixed with carbon dioxide in comet-like proportions, suggesting it formed in the interstellar medium before the star itself existed. The study, in Science, was led by Sarah Betti of the Space Telescope Science Institute.",
    "tag": "Science",
-   "url": "https://scitechdaily.com/after-40-years-scientists-finally-detect-evidence-of-an-almost-impossible-particle-decay/"
+   "url": "https://www.trendwire.news/news/james-webb-telescope-finds-ice-older-than-the-star-it-orbits"
   },
   {
-   "headline": "Europe’s summer heat killed an estimated 50,391 people in its cities",
-   "body": "A study in Nature Health estimates 50,391 heat-related excess deaths across 854 European cities during June–August 2026 — the highest toll on record, nearly double the summers of 2022 and 2003 — with about two-thirds attributable to human-caused climate change. Summer 2026 was the third-hottest on record for Europe and the hottest ever for western Europe; nearly a third of the deaths fell in a June 17–July 1 heat wave.",
+   "headline": "The brain's fear center doubles as a save button for memories",
+   "body": "Cedars-Sinai researchers found amygdala neurons act like a save button for memories: in 112 epilepsy patients with implanted electrodes, neurons tuned to categories such as faces and animals fired more strongly for images the patients later remembered. The study, published Oct. 27 in Nature Neuroscience, suggests the walnut-sized structure filters which everyday experiences become lasting memories — a possible lead on memory disorders including Alzheimer's.",
    "tag": "Science",
-   "url": "https://scienmag.com/human-caused-warming-drove-two-thirds-of-europes-50391-summer-heat-deaths-in-854-cities/"
+   "url": "https://www.sciencenews.org/article/brain-amygdala-neuron-saves-memories"
   },
   {
-   "headline": "Climate change is reshaping brain health, researchers warn",
-   "body": "A report from the Neuro Climate Working Group, built by 50 global experts over two years, finds extreme heat, air pollution and wildfire smoke are harming cognition, mental health and neurodevelopment — and contributing to dementia risk: more than a quarter of dementia deaths in 2023 were attributable to air pollution, now the first environmental risk factor in the WHO’s dementia prevention guidelines. The authors call brain health ‘the blind spot of climate policy.’",
+   "headline": "Giant prehistoric rodent fossils found in Thailand",
+   "body": "Paleontologists found fossils of Yakamys sirindhornae, a rodent that lived about 34 million years ago in southern Thailand and weighed roughly 30 kg (66 lbs) — about twice the size of other known rodents of its era. The teeth, found in a Krabi lignite mine, push the history of rodent gigantism much earlier and wider than thought; the find is published in Scientific Reports.",
    "tag": "Science",
-   "url": "https://www.wesanews.org/environment-energy/2026-11-14/climate-change-impact-mental-brain-health"
+   "url": "https://phys.org/news/2026-11-giant-prehistoric-rodent-fossils-southern.html"
   }
  ],
  "cdRates": {
@@ -804,70 +804,70 @@
   {
    "name": "Houston Winter Condo",
    "detail": "ZIP 77056",
-   "tempF": 53,
-   "conditions": "Rain",
-   "icon": "rain",
-   "aqi": 86,
+   "tempF": 59,
+   "conditions": "Cloudy",
+   "icon": "clouds",
+   "aqi": 67,
    "aqiCat": "Moderate",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 95% · Wind E 16 mph, gusts 30 mph",
-   "today": "Rain and possibly a thunderstorm, high 61°F",
-   "tonight": "Showers likely, low 50°F",
-   "tomorrow": "AM clouds, PM sun, high 61°F"
+   "extra": "Humidity 90% · Wind E 16 mph, gusts 31 mph",
+   "today": "PM light rain, high 59°F",
+   "tonight": "Showers late, low 49°F",
+   "tomorrow": "AM clouds, PM sun, high 62°F"
   },
   {
    "name": "Seiver Ranch — Plains, MT",
    "detail": "Sanders County",
-   "tempF": 32,
+   "tempF": 37,
    "conditions": "Fog",
    "icon": "fog",
-   "aqi": 94,
+   "aqi": 64,
    "aqiCat": "Moderate",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 100% · Wind calm",
-   "today": "Showers, high 50°F",
+   "extra": "Humidity 95% · Wind calm",
+   "today": "PM light rain, high 51°F",
    "tonight": "Showers late, low 41°F",
-   "tomorrow": "Showers, high 43°F"
+   "tomorrow": "Showers, high 44°F"
   },
   {
    "name": "Seiver Slough — Rugby, ND",
    "detail": "Pierce County",
-   "tempF": 33,
-   "conditions": "Fair and Windy",
+   "tempF": 49,
+   "conditions": "Sunny",
    "icon": "sun",
    "aqi": 53,
    "aqiCat": "Moderate",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Wind SSE 11 mph · Gusts to 21 mph",
-   "today": "Sunny, high 53°F",
-   "tonight": "Partly cloudy, low 31°F",
+   "extra": "Humidity 62% · Wind S 12 mph, gusts 19 mph",
+   "today": "Mostly sunny, high 53°F",
+   "tonight": "Partly cloudy, low 30°F",
    "tomorrow": "Partly cloudy, high 56°F"
   },
   {
    "name": "Seiver Lodge — L'Anse, MI",
    "detail": "Baraga County",
-   "tempF": 22,
+   "tempF": 46,
    "conditions": "Sunny",
    "icon": "sun",
-   "aqi": 19,
+   "aqi": 21,
    "aqiCat": "Good",
    "aqiNote": "O3",
-   "alerts": "",
-   "extra": "Humidity 100% · Wind SSW 3 mph",
+   "alerts": "Small Craft Advisory Mon 5:00 AM–1:00 PM EST (Lake Superior)",
+   "extra": "Humidity 56% · Wind W 5 mph",
    "today": "Sunny, high 48°F",
    "tonight": "Partly cloudy, low 32°F",
    "tomorrow": "Partly cloudy, high 55°F"
   }
  ],
  "apod": {
-  "date": "November 15, 2026",
-  "title": "Leonid Meteors Through Orion",
-  "credit": "Luo Hongyang — NASA Astronomy Picture of the Day, November 15, 2026",
-  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Leonids2022_Hongyang_2880.jpg?w=2880&h=3600&fit=clip&crop=faces%2Cfocalpoint",
-  "explanation": "The 2022 Leonids streak across Orion over Hainan, China, looking out over the South China Sea — meteor trails captured over a few hours were layered onto a foreground shot of two stargazers. The Leonids peak in mid-November every year and peak again this week, with Mars glowing red near the top of the frame.",
-  "pageUrl": "https://science.nasa.gov/image-article/apod-2026-november-15-leonid-meteors-through-orion/"
+  "date": "November 14, 2026",
+  "title": "Apollo 12 and Surveyor 3",
+  "credit": "Apollo 12, Alan Bean — Stereo Image Copyright: Kevin Frank — NASA Astronomy Picture of the Day, November 14, 2026",
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/KF-ApAn48-7133-4.jpg?w=2181&h=2200&fit=clip&crop=faces%2Cfocalpoint",
+  "explanation": "Put on your red/blue glasses: this 3D anaglyph shows Apollo 12 astronaut Pete Conrad visiting the Surveyor 3 spacecraft on the Moon's Ocean of Storms in November 1969 — 57 years ago this week. Surveyor 3 had landed there in April 1967, and the Lunar Module Intrepid touched down less than 200 meters away; the stereo view was built from two photos taken on the lunar surface.",
+  "pageUrl": "https://science.nasa.gov/image-article/apod-2026-november-14-apollo-12-and-surveyor-3/"
  }
 }
