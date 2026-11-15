@@ -1,6 +1,6 @@
 {
- "version": 27,
- "asOf": "Sun Nov 15, 2026, 12:07 PM CT",
+ "version": 28,
+ "asOf": "Sun Nov 15, 2026, 12:15 PM CT",
  "breaking": [
   {
    "headline": "Ukraine launches nearly 1,200 drones at Russia in one of the war's biggest attacks",
@@ -11,7 +11,7 @@
   },
   {
    "headline": "Congo's Ebola outbreak tops 11,000 cases, deadliest in the country's history",
-   "fact": "Congo's Ebola outbreak has passed 11,000 cases — 11,042 infected and 5,387 dead, nearly half of those infected — the deadliest outbreak in Congo's history and the second-largest ever recorded. The Bundibugyo virus has no approved vaccine or treatment and has spread to eight of the country's 26 provinces; six months in, Doctors Without Borders says the outbreak remains out of control, and experts doubt it can be contained within a year.",
+   "fact": "Congo's Ebola outbreak has passed 11,000 cases \u2014 11,042 infected and 5,387 dead, nearly half of those infected \u2014 the deadliest outbreak in Congo's history and the second-largest ever recorded. The Bundibugyo virus has no approved vaccine or treatment and has spread to eight of the country's 26 provinces; six months in, Doctors Without Borders says the outbreak remains out of control, and experts doubt it can be contained within a year.",
    "source": "Associated Press",
    "tag": "World",
    "url": "https://www.nprillinois.org/2026-11-11/ebola-tops-11-000-cases-in-congos-deadliest-outbreak"
@@ -309,7 +309,7 @@
  "marketsNote": "",
  "watchlist": [
   {
-   "blurb": "Sunday in Paris: Air Liquide's last trade was Friday's €193.32 close, up 0.25% on the day; converted at the ECB's Nov 13 reference rate of 1.1052, the dollar price is $213.66. Euronext Paris reopens Monday.",
+   "blurb": "Sunday in Paris: Air Liquide's last trade was Friday's \u20ac193.32 close, up 0.25% on the day; converted at the ECB's Nov 13 reference rate of 1.1052, the dollar price is $213.66. Euronext Paris reopens Monday.",
    "change": "-0.01%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/AI.PA",
@@ -325,7 +325,7 @@
     192.84,
     193.32
    ],
-   "subTag": "€193.32 × 1.1052 (ECB Nov 13)",
+   "subTag": "\u20ac193.32 \u00d7 1.1052 (ECB Nov 13)",
    "ticker": "AIL.F",
    "yieldTag": null
   },
@@ -351,7 +351,7 @@
    "yieldTag": "Dist. yield 4.04%"
   },
   {
-   "blurb": "Sunday: Fastenal last traded Friday at $55.19, down 0.65% on the day — $7.19 above Sean's $48 buy gate, so the watch stays quiet until a close under $48. Markets reopen Monday.",
+   "blurb": "Sunday: Fastenal last traded Friday at $55.19, down 0.65% on the day \u2014 $7.19 above Sean's $48 buy gate, so the watch stays quiet until a close under $48. Markets reopen Monday.",
    "change": "-0.65%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/FAST",
@@ -435,7 +435,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Nvidia last traded Friday at $162.85, down 2.01% on the day and about 13% for the week as the post-Huang slide deepened. Tuesday's Q3 report — about 1:20 p.m. PT, the first under interim CEO Colette Kress — is the next test, and Congress wants Huang and Commerce Secretary Lutnick testifying in December on chip exports to China.",
+   "blurb": "Nvidia last traded Friday at $162.85, down 2.01% on the day and about 13% for the week as the post-Huang slide deepened. Tuesday's Q3 report \u2014 about 1:20 p.m. PT, the first under interim CEO Colette Kress \u2014 is the next test, and Congress wants Huang and Commerce Secretary Lutnick testifying in December on chip exports to China.",
    "change": "-2.01%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/NVDA",
@@ -477,7 +477,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Rocket Lab last traded Friday at $61.53, down 3.96% on the day after a week of big gains. The weekend belonged to Starship — Ship 42 caught at the tower Saturday, the first upper-stage catch ever — while Rocket Lab's own reusable Neutron rocket's first launch has slipped into 2027.",
+   "blurb": "Rocket Lab last traded Friday at $61.53, down 3.96% on the day after a week of big gains. The weekend belonged to Starship \u2014 Ship 42 caught at the tower Saturday, the first upper-stage catch ever \u2014 while Rocket Lab's own reusable Neutron rocket's first launch has slipped into 2027.",
    "change": "-3.96%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/RKLB",
@@ -498,7 +498,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Rithm last traded Friday at $8.97, down 0.33% on the day and under its $9.17 50-day average. With the 10-year yield ending the week at 5.15% — its biggest weekly rise in 19 months — plus Friday's hot PPI print (+6.5% YoY) and December-hike bets intact, the mortgage REIT stays range-bound heading into Monday.",
+   "blurb": "Rithm last traded Friday at $8.97, down 0.33% on the day and under its $9.17 50-day average. With the 10-year yield ending the week at 5.15% \u2014 its biggest weekly rise in 19 months \u2014 plus Friday's hot PPI print (+6.5% YoY) and December-hike bets intact, the mortgage REIT stays range-bound heading into Monday.",
    "change": "-0.33%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/RITM",
@@ -519,7 +519,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "The SpaceX ETF last traded Friday at $139.11, down 0.59% on the day, then slipped to $136.25 after hours as the booster was lost. Saturday still delivered the milestone it tracks — Ship 42 caught at the tower, the first upper-stage catch ever — and NASA has now welcomed the catch, with Florida Starship launches eyed within months.",
+   "blurb": "The SpaceX ETF last traded Friday at $139.11, down 0.59% on the day, then slipped to $136.25 after hours as the booster was lost. Saturday still delivered the milestone it tracks \u2014 Ship 42 caught at the tower, the first upper-stage catch ever \u2014 and NASA has now welcomed the catch, with Florida Starship launches eyed within months.",
    "change": "-0.59%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/SPCX",
@@ -540,7 +540,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Truist last traded Friday at $49.97, up 0.16% on the day — one of the few financials to gain — as the 10-year yield ended the week at 5.15%, its biggest weekly rise in 19 months. Friday's PPI print (+6.5% YoY, fastest since 2022) keeps Fed officials leaning toward a December hike.",
+   "blurb": "Truist last traded Friday at $49.97, up 0.16% on the day \u2014 one of the few financials to gain \u2014 as the 10-year yield ended the week at 5.15%, its biggest weekly rise in 19 months. Friday's PPI print (+6.5% YoY, fastest since 2022) keeps Fed officials leaning toward a December hike.",
    "change": "+0.16%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/TFC",
@@ -645,7 +645,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate stays $155.43 (est.) after Friday's close of 7,561.67; the index slipped 0.40% Friday but still gained 2.5% for its best week since August.",
+   "blurb": "No public quote for this CIT \u2014 the S&P 500-anchored estimate stays $155.43 (est.) after Friday's close of 7,561.67; the index slipped 0.40% Friday but still gained 2.5% for its best week since August.",
    "change": "-0.40%",
    "dir": "down",
    "link": null,
@@ -666,7 +666,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Schwab money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.75%, as published Nov 13 on Schwab's official page — no new publication over the weekend, so the figure stands; the sweep-and-evaporate plan keeps working the balance down.",
+   "blurb": "Schwab money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.75%, as published Nov 13 on Schwab's official page \u2014 no new publication over the weekend, so the figure stands; the sweep-and-evaporate plan keeps working the balance down.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/SWVXX",
@@ -679,7 +679,7 @@
    "yieldTag": "7-day yield 3.75%"
   },
   {
-   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.98%, as published Nov 13 on Vanguard's official page — no new publication over the weekend, so the figure stands.",
+   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.98%, as published Nov 13 on Vanguard's official page \u2014 no new publication over the weekend, so the figure stands.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/VUSXX",
@@ -695,7 +695,7 @@
  "weekInBrief": [
   {
    "headline": "Wholesale inflation hits 6.5%, fastest since 2022",
-   "body": "The Bureau of Labor Statistics reported Friday that October producer prices rose 0.3% on the month — a touch below the 0.4% expected — but 6.5% over 12 months, the largest annual rise since November 2022. Core producer prices, excluding food and energy, rose 5.0% on the year, while consumer prices run at 4%; the Federal Reserve meets Dec. 8-9, with officials leaning toward another hike.",
+   "body": "The Bureau of Labor Statistics reported Friday that October producer prices rose 0.3% on the month \u2014 a touch below the 0.4% expected \u2014 but 6.5% over 12 months, the largest annual rise since November 2022. Core producer prices, excluding food and energy, rose 5.0% on the year, while consumer prices run at 4%; the Federal Reserve meets Dec. 8-9, with officials leaning toward another hike.",
    "stamp": "Nov 13, 2026"
   },
   {
@@ -718,7 +718,7 @@
   "items": [
    {
     "headline": "Latest from the Strait",
-    "body": "Washington widened the pressure campaign this weekend, standing up Task Force Iron Gate to extend the blockade from sea to land — CENTCOM said Nov. 11 that U.S. forces are now working to deny the Revolutionary Guard use of overland routes and the Caspian Sea for weapons and sanctioned goods. The blockade's toll keeps climbing: CENTCOM now puts denied Iranian crude exports at more than $30 billion, with nearly 150 vessels diverted and five disabled since July. Iran answered with a second claimed drone attack on Bahrain on Sunday, again unverified, as shipping through the strait stays about 65% below pre-conflict levels. On oil, the blockade still holds: Kpler recorded zero Iranian crude exports in September — the first such month since it began tracking in 2013 — while non-Iranian crude kept moving through the strait at about 8.5 million barrels a day in the latest Kpler week, roughly 60% of the pre-war rate, and Vortexa separately put September non-Iranian Gulf flows at 81% of pre-war levels."
+    "body": "Washington widened the pressure campaign this weekend, standing up Task Force Iron Gate to extend the blockade from sea to land \u2014 CENTCOM said Nov. 11 that U.S. forces are now working to deny the Revolutionary Guard use of overland routes and the Caspian Sea for weapons and sanctioned goods. The blockade's toll keeps climbing: CENTCOM now puts denied Iranian crude exports at more than $30 billion, with nearly 150 vessels diverted and five disabled since July. Iran answered with a second claimed drone attack on Bahrain on Sunday, again unverified, as shipping through the strait stays about 65% below pre-conflict levels. On oil, the blockade still holds: Kpler recorded zero Iranian crude exports in September \u2014 the first such month since it began tracking in 2013 \u2014 while non-Iranian crude kept moving through the strait at about 8.5 million barrels a day in the latest Kpler week, roughly 60% of the pre-war rate, and Vortexa separately put September non-Iranian Gulf flows at 81% of pre-war levels."
    }
   ],
   "stats": ""
@@ -726,25 +726,25 @@
  "space": [
   {
    "headline": "NASA hails Starship's first orbital catch; Florida launches eyed within months",
-   "body": "NASA welcomed Saturday's milestone — Administrator Jared Isaacman praised the first tower catch of a Starship returning from orbit — and SpaceX expects to begin launching Starships from Florida's Kennedy Space Center within the next few months. Ship 42 was caught at Starbase on Saturday at 3:20 p.m. CT after 14 orbits, 22.5 hours and 26 Starlink V3 deployments. The Super Heavy booster was lost after its boostback burn ended early on a low-fuel warning — 32 of 33 engines relit — with the root cause still under investigation.",
+   "body": "NASA welcomed Saturday's milestone \u2014 Administrator Jared Isaacman praised the first tower catch of a Starship returning from orbit \u2014 and SpaceX expects to begin launching Starships from Florida's Kennedy Space Center within the next few months. Ship 42 was caught at Starbase on Saturday at 3:20 p.m. CT after 14 orbits, 22.5 hours and 26 Starlink V3 deployments. The Super Heavy booster was lost after its boostback burn ended early on a low-fuel warning \u2014 32 of 33 engines relit \u2014 with the root cause still under investigation.",
    "tag": "Space",
    "url": "https://www.thehindubusinessline.com/news/science/spacexs-starship-makes-historic-return-caught-by-giant-mechanical-arms/article71703056.ece"
   },
   {
    "headline": "Webb finds ice older than the star it orbits",
-   "body": "The James Webb Space Telescope found water and carbon dioxide ice in the debris disk of Beta Pictoris, a 20-million-year-old star 64 light-years away. The water ice is glassy, not crystalline — less than 7% crystalline — and mixed with carbon dioxide in comet-like proportions, suggesting it formed in the interstellar medium before the star itself existed. The study, in Science, was led by Sarah Betti of the Space Telescope Science Institute.",
+   "body": "The James Webb Space Telescope found water and carbon dioxide ice in the debris disk of Beta Pictoris, a 20-million-year-old star 64 light-years away. The water ice is glassy, not crystalline \u2014 less than 7% crystalline \u2014 and mixed with carbon dioxide in comet-like proportions, suggesting it formed in the interstellar medium before the star itself existed. The study, in Science, was led by Sarah Betti of the Space Telescope Science Institute.",
    "tag": "Science",
    "url": "https://www.trendwire.news/news/james-webb-telescope-finds-ice-older-than-the-star-it-orbits"
   },
   {
    "headline": "The brain's fear center doubles as a save button for memories",
-   "body": "Cedars-Sinai researchers found amygdala neurons act like a save button for memories: in 112 epilepsy patients with implanted electrodes, neurons tuned to categories such as faces and animals fired more strongly for images the patients later remembered. The study, published Oct. 27 in Nature Neuroscience, suggests the walnut-sized structure filters which everyday experiences become lasting memories — a possible lead on memory disorders including Alzheimer's.",
+   "body": "Cedars-Sinai researchers found amygdala neurons act like a save button for memories: in 112 epilepsy patients with implanted electrodes, neurons tuned to categories such as faces and animals fired more strongly for images the patients later remembered. The study, published Oct. 27 in Nature Neuroscience, suggests the walnut-sized structure filters which everyday experiences become lasting memories \u2014 a possible lead on memory disorders including Alzheimer's.",
    "tag": "Science",
    "url": "https://www.sciencenews.org/article/brain-amygdala-neuron-saves-memories"
   },
   {
    "headline": "Giant prehistoric rodent fossils found in Thailand",
-   "body": "Paleontologists found fossils of Yakamys sirindhornae, a rodent that lived about 34 million years ago in southern Thailand and weighed roughly 30 kg (66 lbs) — about twice the size of other known rodents of its era. The teeth, found in a Krabi lignite mine, push the history of rodent gigantism much earlier and wider than thought; the find is published in Scientific Reports.",
+   "body": "Paleontologists found fossils of Yakamys sirindhornae, a rodent that lived about 34 million years ago in southern Thailand and weighed roughly 30 kg (66 lbs) \u2014 about twice the size of other known rodents of its era. The teeth, found in a Krabi lignite mine, push the history of rodent gigantism much earlier and wider than thought; the find is published in Scientific Reports.",
    "tag": "Science",
    "url": "https://phys.org/news/2026-11-giant-prehistoric-rodent-fossils-southern.html"
   }
@@ -798,7 +798,7 @@
    }
   ],
   "footnote": "",
-  "ratesAsOf": "Schwab Tue, Nov 10, 2026 · eTrade Mon, Nov 9, 2026"
+  "ratesAsOf": "Schwab Tue, Nov 10, 2026 \u00b7 eTrade Mon, Nov 9, 2026"
  },
  "weather": [
   {
@@ -811,13 +811,13 @@
    "aqiCat": "Moderate",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 90% · Wind E 16 mph, gusts 31 mph",
-   "today": "PM light rain, high 59°F",
-   "tonight": "Showers late, low 49°F",
-   "tomorrow": "AM clouds, PM sun, high 62°F"
+   "extra": "Humidity 90% \u00b7 Wind E 16 mph, gusts 31 mph",
+   "today": "PM light rain, high 59\u00b0F",
+   "tonight": "Showers late, low 49\u00b0F",
+   "tomorrow": "AM clouds, PM sun, high 62\u00b0F"
   },
   {
-   "name": "Seiver Ranch — Plains, MT",
+   "name": "Seiver Ranch \u2014 Plains, MT",
    "detail": "Sanders County",
    "tempF": 37,
    "conditions": "Fog",
@@ -826,13 +826,13 @@
    "aqiCat": "Moderate",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 95% · Wind calm",
-   "today": "PM light rain, high 51°F",
-   "tonight": "Showers late, low 41°F",
-   "tomorrow": "Showers, high 44°F"
+   "extra": "Humidity 95% \u00b7 Wind calm",
+   "today": "PM light rain, high 51\u00b0F",
+   "tonight": "Showers late, low 41\u00b0F",
+   "tomorrow": "Showers, high 44\u00b0F"
   },
   {
-   "name": "Seiver Slough — Rugby, ND",
+   "name": "Seiver Slough \u2014 Rugby, ND",
    "detail": "Pierce County",
    "tempF": 49,
    "conditions": "Sunny",
@@ -841,13 +841,13 @@
    "aqiCat": "Moderate",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 62% · Wind S 12 mph, gusts 19 mph",
-   "today": "Mostly sunny, high 53°F",
-   "tonight": "Partly cloudy, low 30°F",
-   "tomorrow": "Partly cloudy, high 56°F"
+   "extra": "Humidity 62% \u00b7 Wind S 12 mph, gusts 19 mph",
+   "today": "Mostly sunny, high 53\u00b0F",
+   "tonight": "Partly cloudy, low 30\u00b0F",
+   "tomorrow": "Partly cloudy, high 56\u00b0F"
   },
   {
-   "name": "Seiver Lodge — L'Anse, MI",
+   "name": "Seiver Lodge \u2014 L'Anse, MI",
    "detail": "Baraga County",
    "tempF": 46,
    "conditions": "Sunny",
@@ -855,19 +855,19 @@
    "aqi": 21,
    "aqiCat": "Good",
    "aqiNote": "O3",
-   "alerts": "Small Craft Advisory Mon 5:00 AM–1:00 PM EST (Lake Superior)",
-   "extra": "Humidity 56% · Wind W 5 mph",
-   "today": "Sunny, high 48°F",
-   "tonight": "Partly cloudy, low 32°F",
-   "tomorrow": "Partly cloudy, high 55°F"
+   "alerts": "Small Craft Advisory Mon 5:00 AM\u20131:00 PM EST (Lake Superior)",
+   "extra": "Humidity 56% \u00b7 Wind W 5 mph",
+   "today": "Sunny, high 48\u00b0F",
+   "tonight": "Partly cloudy, low 32\u00b0F",
+   "tomorrow": "Partly cloudy, high 55\u00b0F"
   }
  ],
  "apod": {
-  "date": "November 14, 2026",
-  "title": "Apollo 12 and Surveyor 3",
-  "credit": "Apollo 12, Alan Bean — Stereo Image Copyright: Kevin Frank — NASA Astronomy Picture of the Day, November 14, 2026",
-  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/KF-ApAn48-7133-4.jpg?w=2181&h=2200&fit=clip&crop=faces%2Cfocalpoint",
-  "explanation": "Put on your red/blue glasses: this 3D anaglyph shows Apollo 12 astronaut Pete Conrad visiting the Surveyor 3 spacecraft on the Moon's Ocean of Storms in November 1969 — 57 years ago this week. Surveyor 3 had landed there in April 1967, and the Lunar Module Intrepid touched down less than 200 meters away; the stereo view was built from two photos taken on the lunar surface.",
-  "pageUrl": "https://science.nasa.gov/image-article/apod-2026-november-14-apollo-12-and-surveyor-3/"
+  "date": "December 29, 2025",
+  "title": "A Neighbouring Vista of Stellar Birth",
+  "credit": "ESA/Hubble & NASA, R. Indebetouw",
+  "image": "https://cdn.esahubble.org/archives/images/screen/potw2552a.jpg",
+  "explanation": "This ESA/Hubble Picture of the Week shows a neighbouring region of the N159 star-forming complex in the Large Magellanic Cloud, about 160,000 light-years away. Thick clouds of cold hydrogen gas form ridges, cavities and glowing filaments, lit from within by newly formed stars whose winds and light carve bubble-like structures into the clouds.",
+  "pageUrl": "https://esahubble.org/images/potw2552a/"
  }
 }
