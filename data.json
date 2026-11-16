@@ -1,34 +1,34 @@
 {
- "version": 29,
- "asOf": "Sun Nov 15, 2026, 5:10 PM CT",
+ "version": 30,
+ "asOf": "Mon Nov 16, 2026, 8:07 AM CT",
  "breaking": [
   {
-   "headline": "Nationwide FAA ground stop traced to a single faulty router",
-   "fact": "A routine router swap by contractor L3Harris flooded the FAA's air-traffic network Friday, forcing a nearly five-hour nationwide ground stop — only the second since 9/11. More than 9,200 flights were canceled Friday and 6,200 more Saturday; disruptions stretched into a third day Sunday with 1,900-plus cancellations, though officials expect normal schedules by Monday. No cyberattack is suspected; the FAA has disabled the faulty routers and about 60 similar ones.",
-   "source": "Reuters",
+   "headline": "Anthropic to price its IPO Wednesday; demand reportedly 6x oversubscribed",
+   "fact": "Anthropic is set to price its IPO Wednesday, Nov. 18, and begin trading Thursday on Nasdaq as ANT at $70 to $78 a share for 825 million shares, with demand reportedly about six times the shares on offer. Morningstar put fair value at $92 a share; a concurrent $26 billion private placement goes to strategic partners including Google, Nvidia and Microsoft.",
+   "source": "Wealth Professional",
    "tag": "US",
-   "url": "https://www.reuters.com/world/us/us-air-travel-disruptions-continue-into-third-day-2026-11-15/"
+   "url": "https://www.wealthprofessional.ca/news/industry-news/anthropic-ipo-opens-retail-access-to-ai-at-scale/394020"
   },
   {
-   "headline": "US loses measles elimination status after 26 years",
-   "fact": "The Pan American Health Organization has revoked the United States' measles-elimination status, held since 2000, after the same strain circulated uninterrupted for more than a year. The US has logged 5,412 cases in 2026 — the most since 1991 — with cases confirmed in 45 states; PAHO's formal announcement is expected Tuesday.",
-   "source": "CNN",
-   "tag": "US",
-   "url": "https://www.cnn.com/2026/11/13/health/us-measles-elimination-status"
-  },
-  {
-   "headline": "Zelenskyy: US floated NATO membership for Ukraine in exchange for Donbas",
-   "fact": "President Volodymyr Zelenskyy said US negotiators raised for the first time whether Ukraine would withdraw from the Donbas region it still holds in exchange for NATO membership, during US-brokered talks in Abu Dhabi. He said Kyiv would not surrender territory but would put a comprehensive package — security guarantees, a strong army, rebuilding funds — to a referendum. Washington has not confirmed the account.",
-   "source": "CNN",
+   "headline": "Trump leaves for Asia; first-ever Trump–Xi–Putin summit set for Thursday",
+   "fact": "President Trump departs Washington Monday for Manila, where he attends the ASEAN summit and plans to sign a trade deal with Thailand, then flies to Shenzhen for APEC. On Thursday he holds a bilateral with Xi Jinping, then the first-ever three-way meeting of the U.S., Chinese and Russian leaders, focused on nuclear arms and the Iran war — Ukraine is not on the agenda and no deal is expected.",
+   "source": "AP",
    "tag": "World",
-   "url": "https://www.cnn.com/2026/11/14/europe/us-ukraine-zelensky-nato-intl"
+   "url": "https://www.kxl.com/trumps-asia-reset-deals-in-manila-and-shenzhen-then-a-rare-nuclear-summit-with-xi-and-putin/"
   },
   {
-   "headline": "Lutnick agrees to testify on Nvidia chip exports; Huang summoned for Dec. 3",
-   "fact": "Commerce Secretary Howard Lutnick has agreed to testify voluntarily before the Senate Banking Committee on Dec. 10 over Nvidia chip exports and the Megaspeed investigation; former Nvidia chief Jensen Huang was asked to appear Dec. 3, under threat of subpoena. The probe centers on whether Nvidia chips reached China through Singapore-based Megaspeed, whose executive is suspected of links to Chinese intelligence.",
-   "source": "The Hindu BusinessLine",
+   "headline": "Estonia to shut all Russia border crossings Dec. 1 after GRU-blamed arson plot",
+   "fact": "Estonia will close its three border crossings with Russia — Narva, Luhamaa and Koidula — from Dec. 1, Foreign Minister Margus Tsahkna announced Sunday, after eight people were detained over an attempted arson attack on drone maker Threod Systems that Estonia’s security service blames on Russia’s GRU. The Kremlin called the claims “entirely baseless” Monday; no end date for the closure was given.",
+   "source": "Reuters",
+   "tag": "World",
+   "url": "https://www.reuters.com/world/europe/estonia-close-russian-border-crossings-after-attempted-arson-attack-2026-11-15/"
+  },
+  {
+   "headline": "Chip rout spreads: Taiwan down 6%, Nasdaq futures off 1.5% ahead of Nvidia earnings",
+   "fact": "Taiwan’s Taiex fell 6.03% Monday and TSMC 5.74% as investors cut AI exposure ahead of Nvidia’s results Tuesday. Nasdaq 100 futures were down about 1.5% and S&P 500 futures about 0.7% early Monday, with Nvidia itself down roughly 4% pre-market to about $157 after falling 12% last week.",
+   "source": "Investopedia",
    "tag": "US",
-   "url": "https://www.thehindubusinessline.com/news/world/us-commerce-secretary-lutnick-agrees-to-testify-before-senate-panel-over-nvidia-chip-export-controls/article71700689.ece"
+   "url": "https://www.investopedia.com/5-things-to-know-stock-market-november-16-2026-12252523"
   }
  ],
  "markets": [
@@ -309,7 +309,7 @@
  "marketsNote": "",
  "watchlist": [
   {
-   "blurb": "Sunday evening in Paris: Air Liquide last traded Friday at €193.32, up 0.25% on the day; at the ECB's Nov 13 reference rate of 1.1052 the dollar price is $213.66. Euronext Paris reopens Monday morning.",
+   "blurb": "Air Liquide last closed Friday in Paris at €193.32, up 0.25% on the session; at the ECB’s Nov 13 reference rate of 1.1052 the dollar price is $213.66. Paris is trading Monday while U.S. markets are still in pre-market.",
    "change": "-0.01%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/AI.PA",
@@ -330,7 +330,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Sunday quiet for the T-bill ETF: its last trade was Friday's close of $91.53, up 0.03%; the latest monthly distribution of $0.30849 (ex Nov 2, paid Nov 5) still works out to a 4.04% distribution yield. Trading resumes Monday.",
+   "blurb": "The T-bill ETF ended the week at $91.53 Friday, up 0.03% on the day; its latest monthly distribution of $0.30849 (ex Nov 2, paid Nov 5) works out to a 4.04% distribution yield at this price. Trading resumes Monday.",
    "change": "+0.03%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/BIL",
@@ -351,7 +351,7 @@
    "yieldTag": "Dist. yield 4.04%"
   },
   {
-   "blurb": "Sunday: Fastenal last traded Friday at $55.19, down 0.65% on the day — $7.19 above Sean's $48 buy gate, so the watch stays quiet until a close under $48. Markets reopen Monday.",
+   "blurb": "Fastenal ended the week at $55.19 Friday, down 0.65% on the day; at $7.19 above Sean’s $48 buy gate the watch stays quiet, firing only on a close under $48. Trading resumes Monday.",
    "change": "-0.65%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/FAST",
@@ -372,7 +372,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Alphabet closed Friday at $295.77, down 0.98% on the day and nearly 10% below its 50-day average. Gemini 4 Hydrogen is now the default in Search's AI Mode worldwide, and Tuesday's Nvidia earnings are the next big test for the AI trade. Trading resumes Monday.",
+   "blurb": "Alphabet ended the week at $295.77 Friday, down 0.98% on the day and nearly 10% below its 50-day average; Gemini 4 Hydrogen is now the default in Search’s AI Mode worldwide, and Tuesday’s Nvidia earnings are the next big test for the AI trade.",
    "change": "-0.98%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/GOOGL",
@@ -393,7 +393,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Lilly closed Friday at $1,443.50, up 1.14% on the day and about 5.8% for the week, holding near its early-November highs. Fresh obesity data from Viking Therapeutics' VK2735 program landed Sunday at ObesityWeek; trading resumes Monday.",
+   "blurb": "Lilly closed the week at $1,443.50 Friday, up 1.14% on the day and about 5.8% for the week, holding near its early-November highs as the metabolic race stays crowded.",
    "change": "+1.14%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/LLY",
@@ -414,7 +414,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Cheniere closed Friday at $308.75, down 0.24% on the day, with its $0.625 quarterly dividend as the cash note. The IEA's Friday report sees the oil market swinging back to surplus in the fourth quarter as supply recovers; markets reopen Monday.",
+   "blurb": "Cheniere closed the week at $308.75 Friday, down 0.24% on the day; its $0.625 quarterly dividend is the cash note, and the IEA’s Friday report sees the oil market swinging back to surplus in the fourth quarter as supply recovers.",
    "change": "-0.24%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/LNG",
@@ -435,7 +435,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Nvidia closed Friday at $162.85, down 2.01% on the day and about 13% for the week as the post-Huang slide deepened. Tuesday's Q3 report — about 1:20 p.m. PT, the first under interim CEO Colette Kress — is the next test, and Congress now has dates: Huang is asked to testify Dec. 3 and Commerce Secretary Lutnick has agreed to appear Dec. 10 on chip exports to China.",
+   "blurb": "Nvidia closed Friday at $162.85, down 2.01% on the day and about 13% for the week; Monday pre-market it slid another roughly 3.8% to about $157 as Taiwan’s chip sell-off spread, with Tuesday’s Q3 report — the first under interim CEO Colette Kress — now the week’s main event.",
    "change": "-2.01%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/NVDA",
@@ -456,7 +456,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Pfizer closed Friday at $28.89, up 0.21% on the day. The company confirmed Friday it will stop selling the menopause therapy Premarin in Canada; at $28.89 the stock sits below Sean's $32 buy gate, so the watch stays quiet. Trading resumes Monday.",
+   "blurb": "Pfizer ended the week at $28.89 Friday, up 0.21% on the day; the company confirmed Friday it will stop selling the menopause therapy Premarin in Canada, and Sean’s buy gate sits at $32, so the watch stays quiet.",
    "change": "+0.21%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/PFE",
@@ -477,7 +477,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Rocket Lab closed Friday at $61.53, down 3.96% on the day after a week of big gains. The weekend belonged to Starship — Ship 42 caught at the tower Saturday, the first upper-stage catch ever — while Rocket Lab's own reusable Neutron rocket's first launch has slipped into 2027, and ULA's Vulcan failed Sunday on its Amazon Leo mission.",
+   "blurb": "Rocket Lab closed Friday at $61.53, down 3.96% on the day after a week of big gains; the weekend’s space story was ULA’s Vulcan failure, which destroyed 40 Amazon Leo satellites, while Rocket Lab’s own reusable Neutron rocket’s first launch has slipped into 2027.",
    "change": "-3.96%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/RKLB",
@@ -498,7 +498,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Rithm closed Friday at $8.97, down 0.33% on the day and under its $9.17 50-day average. With the 10-year yield ending the week at 5.15% — its biggest weekly rise in 19 months — plus Friday's hot PPI print (+6.5% YoY) and December-hike bets intact, the mortgage REIT stays range-bound heading into Monday.",
+   "blurb": "Rithm closed the week at $8.97 Friday, down 0.33% on the day and under its $9.17 50-day average; with the 10-year yield ending the week at 5.15%, its biggest weekly rise in 19 months, and December-hike bets intact, the mortgage REIT stays range-bound heading into Monday.",
    "change": "-0.33%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/RITM",
@@ -519,7 +519,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "The SpaceX ETF closed Friday at $139.11, down 0.59% on the day, then slipped to $136.25 after hours as the booster was lost. Saturday still delivered the milestone it tracks — Ship 42 caught at the tower, the first upper-stage catch ever — and NASA has now welcomed the catch, with Florida Starship launches eyed within months. Sunday brought a setback for a rival: ULA's Vulcan failed 10 minutes into its Amazon Leo launch.",
+   "blurb": "The SpaceX ETF closed Friday at $139.11, down 0.59% on the day, then rose nearly 1% overnight after Ship 42’s historic tower catch; late Sunday Musk unveiled a bigger Starship V4 — about 70 m long with nine engines — as the next step toward full reuse.",
    "change": "-0.59%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/SPCX",
@@ -540,7 +540,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Truist closed Friday at $49.97, up 0.16% on the day — one of the few financials to gain — as the 10-year yield ended the week at 5.15%, its biggest weekly rise in 19 months. Friday's PPI print (+6.5% YoY, fastest since 2022) keeps Fed officials leaning toward a December hike.",
+   "blurb": "Truist closed the week at $49.97 Friday, up 0.16% on the day — one of the few financials to gain — as the 10-year yield ended the week at 5.15%, its biggest weekly rise in 19 months, with Fed officials leaning toward a December hike.",
    "change": "+0.16%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/TFC",
@@ -561,7 +561,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "U.S. Antimony closed Friday at $3.09, up 6.19% on the day for a second straight bottom-watch signal, but still below Sean's $4 buy gate. Q3's withdrawn guidance and the $9.5M quarterly loss still hang over the name; trading resumes Monday.",
+   "blurb": "U.S. Antimony ended the week at $3.09 Friday, up 6.19% on the day for a second straight bottom-watch signal, but still below Sean’s $4 buy gate; Monday pre-market it gave back about 4.4% to near $2.96. Q3’s withdrawn guidance and the $9.5M quarterly loss still hang over the name.",
    "change": "+6.19%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/UAMY",
@@ -582,7 +582,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Uranium Energy closed Friday at $6.66, down 2.06% on the day as uranium names slid again. With U3O8 spot little moved, the widening uranium-to-oil gap is a UEC story, not a uranium story, heading into Monday's reopen.",
+   "blurb": "Uranium Energy closed Friday at $6.66, down 2.06% on the day as uranium names slid again; Monday pre-market it slipped a further roughly 2.3% to about $6.51, and with U3O8 spot little moved, the widening uranium-to-oil gap is a UEC story, not a uranium story.",
    "change": "-2.06%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/UEC",
@@ -603,7 +603,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Valero closed Friday at $379.83, up 1.30% on the day, climbing as Brent settled near $96 and refining margins stayed firm. The position is locked in the portfolio, not for trading; markets reopen Monday.",
+   "blurb": "Valero closed the week at $379.83 Friday, up 1.30% on the day, climbing as Brent settled near $96 and refining margins stayed firm; the position is locked in the portfolio, not for trading.",
    "change": "+1.30%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/VLO",
@@ -624,7 +624,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "The target-date fund's latest NAV is $29.31 as of Nov 13, down 0.27% from Nov 12's $29.39, tracking the broad market's Friday slide. The next NAV posts after Monday's close.",
+   "blurb": "The target-date fund’s latest NAV is $29.31 as of Nov 13, down 0.27% from Nov 12’s $29.39, tracking the broad market’s Friday slide; the next NAV posts after Monday’s close.",
    "change": "-0.27%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/VTTHX",
@@ -645,7 +645,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate stays $155.43 (est.) after Friday's close of 7,561.67; the index slipped 0.40% Friday but still gained 2.5% for its best week since August.",
+   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate is $155.43 (est.) after Friday’s close of 7,561.67; futures point lower Monday morning, with the S&P down about 0.6% pre-market ahead of Nvidia’s Tuesday report.",
    "change": "-0.40%",
    "dir": "down",
    "link": null,
@@ -666,7 +666,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Schwab money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.75%, as published Nov 13 on Schwab's official page — no new publication over the weekend, so the figure stands; the sweep-and-evaporate plan keeps working the balance down.",
+   "blurb": "Schwab money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.75%, as published Nov 13 on Schwab’s official page — verified again this morning, with no new publication over the weekend; the sweep-and-evaporate plan keeps working the balance down.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/SWVXX",
@@ -679,7 +679,7 @@
    "yieldTag": "7-day yield 3.75%"
   },
   {
-   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.98%, as published Nov 13 on Vanguard's official page — no new publication over the weekend, so the figure stands.",
+   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.98%, as published Nov 13 on Vanguard’s official page — verified again this morning, with no new publication over the weekend.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/VUSXX",
@@ -694,59 +694,59 @@
  ],
  "weekInBrief": [
   {
-   "headline": "IEA sees first oil surplus since the Iran war began",
-   "body": "The International Energy Agency said Friday the global oil market will move into surplus in the fourth quarter — the first since the Iran war began in late February — with supply averaging 105 million barrels a day, about 1.7 million above forecast demand. Gulf shipments have recovered faster than demand even as tankers in the region keep coming under attack, and the agency called the market 'showing tentative signs of rebalancing.'",
-   "stamp": "Nov 13, 2026"
+   "headline": "COP31 draft urges fossil-fuel phase-out as talks enter final week",
+   "body": "The Australian presidency circulated a draft decision Monday urging countries to speed up a fair phase-out of coal, oil and gas, remove fossil-fuel subsidies as soon as possible, and hold warming to 1.5°C, with adaptation finance to triple by 2035. But ministers arriving in Antalya for the final week remain split over the cover text, climate finance and Europe’s carbon border levy, and officials say the outcome will likely be decided at the last minute.",
+   "stamp": "Nov 16, 2026"
   },
   {
-   "headline": "Bitcoin slides to about $62,100, its lowest since July",
-   "body": "Bitcoin fell to about $62,100 in Asian trading Sunday, its lowest since July and roughly 49% below its October record near $126,000, before bouncing back above $65,000. The slide — about 13% on the week, a sixth straight weekly loss — came with roughly $2 billion in leveraged crypto liquidations and continued outflows from US spot bitcoin ETFs, as traders price in another Fed hike. The Crypto Fear & Greed Index printed 10, deep in 'extreme fear.'",
+   "headline": "Hundreds of thousands rally in Prague against media-funding overhaul",
+   "body": "Organizers put Sunday’s turnout at about 400,000 in Prague — possibly the largest demonstration since the 1989 Velvet Revolution — against Prime Minister Babis’s plan to scrap the household broadcasting fee and fund public media from the state budget, which critics say would dent the broadcasters’ independence. The bill has passed a preliminary vote and awaits further debate.",
    "stamp": "Nov 15, 2026"
   },
   {
-   "headline": "Viking's obesity drug posts strong 13-week data at ObesityWeek",
-   "body": "Viking Therapeutics said Sunday that 74% of participants on weekly subcutaneous VK2735 improved by at least one BMI category after 13 weeks, versus 15% on placebo, with improvements across cardiometabolic markers. The dual GLP-1/GIP agonist, presented at ObesityWeek in Washington, is now in Phase 3 trials — another contender in the metabolic race Lilly dominates.",
+   "headline": "Philippines and Australia sign defence pact with eye on China",
+   "body": "The Philippines and Australia signed a defence cooperation arrangement Sunday in Manila, updating a 1995 pact to cut bureaucratic hurdles to joint military activities under their visiting-forces deal. Manila said it bolsters its “credible deterrence posture” in the South China Sea; the signing came ahead of the ASEAN summit, which President Trump attends Tuesday.",
    "stamp": "Nov 15, 2026"
   },
   {
-   "headline": "Finland rejects reported Russian demand to quit NATO",
-   "body": "Finland's defence minister called 'absolutely outrageous' a reported Russian proposal — published by Germany's Bild from informal Abu Dhabi talks — that Finland leave NATO and the alliance close its Baltic bases as part of a new European security order. Helsinki says NATO membership is not negotiable; the Kremlin denied making any such demand, though Moscow confirmed it wants NATO forces back to their 1997 positions.",
-   "stamp": "Nov 14, 2026"
+   "headline": "Japan-led probe finds 1,000 servers behind AI-driven cyberattacks",
+   "body": "An international investigation led by Japan’s JPCERT/CC has identified about 1,000 servers online since October that hosted AI tools used to scan websites worldwide for vulnerabilities, findings released Nov. 14 showed. Investigators are still tracking 600 to 700 of the servers; one carried traces of a programming tool from Anthropic. The count is suspected attack infrastructure, not confirmed breaches.",
+   "stamp": "Nov 15, 2026"
   }
  ],
  "hormuz": {
   "items": [
    {
     "headline": "Latest from the Strait",
-    "body": "Iran raised the stakes again this weekend: its Revolutionary Guards claimed a second drone attack on a US radar site at Bahrain's Al-Riffa base on Sunday — Bahrain said it intercepted the drones, as it did after a similar attack Friday — and claimed three tankers struck mines near the strait on Saturday, a claim Reuters could not verify. The US Embassy in Bahrain urged Americans to exercise heightened vigilance, and Washington extended its Jones Act waiver for another 90 days, letting foreign-flagged vessels move oil, fuel, LNG and fertilizer between US ports. On oil, the blockade still holds: Iran has been unable to export any meaningful amount of its own crude for more than two months, while non-Iranian Gulf crude kept moving at about 18.4 million barrels a day in October, roughly 74% of pre-war levels, according to the IEA."
+    "body": "The confrontation escalated again overnight: Iran’s navy said Monday a tanker caught fire after striking a mine east of the strait — the sixth tanker Iran has claimed hit a mine in two days, none of the claims independently verified — while the U.S. launched fresh airstrikes Sunday night on Iranian missile launchers at Bandar Lengeh and Sirik after Iranian forces attacked the U.S. base in Bahrain. The aircraft carrier USS Theodore Roosevelt arrived Sunday, the third U.S. carrier in the region, joining two other strike groups and an amphibious ready group carrying some 9,000 to 10,000 troops, and Gulf stock markets dipped Monday as investors weighed the attacks. On oil, the blockade still holds — Iranian crude is not getting out in any meaningful volume, while Reuters reported Monday that shipments of non-Iranian Gulf oil through the strait have nearly returned to pre-war levels."
    }
   ],
   "stats": ""
  },
  "space": [
   {
-   "headline": "ULA's Vulcan fails 10 minutes into flight; 40 Amazon satellites lost",
-   "body": "United Launch Alliance's Vulcan rocket suffered an anomaly about 10 minutes into flight Sunday and failed to deliver 40 Amazon Leo broadband satellites to orbit, on the rocket's return to flight after a February booster anomaly. NASA Administrator Jared Isaacman offered NASA's help with the investigation, saying 'Artemis, Moon Base, and the nation need ULA.' The Leo constellation is planned to grow past 3,000 satellites.",
+   "headline": "Musk unveils a bigger Starship V4 after the historic catch",
+   "body": "Late Sunday, Elon Musk said Starship V4 will be about 70 metres long — roughly 40% longer than V3 — with nine engines, three more Raptor-Vacuums, and more than 60% extra propellant, after Ship 42’s first-ever catch of an orbital upper stage on Saturday. SPCX rose nearly 1% overnight on the milestone, and ARK’s Cathie Wood called the catch the start of a “mind-blowing” beginning; the booster catch remains unproven after Booster 22’s abort.",
    "tag": "Space",
-   "url": "https://www.floridatoday.com/story/tech/science/space/2026/11/15/ula-vulcan-launch-day-heres-information-on-todays-amazon-satellite-launch-at-cape-canaveral-florida--live/92779455007/"
+   "url": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-starship-catch-musk-bezos-boeing-lockheed-martin-trailing-spacex/cNb7aYuR9X4"
   },
   {
-   "headline": "Blood thinner may slow arthritis joint damage",
-   "body": "Yale researchers screened 980 approved medicines and found dabigatran — a blood thinner normally prescribed to prevent clots and strokes — reduced joint damage and improved movement in mice and macaques with osteoarthritis, by calming the inflammation behind joint breakdown. The study, in Science Translational Medicine, is early work: human trials are still needed, and blood thinners carry serious bleeding risks.",
+   "headline": "New tool maps unintended CRISPR edits cell by cell",
+   "body": "Salk scientists have built Superb-seq, a method that reads out all of a CRISPR edit’s on- and off-target changes plus their effects on gene activity at single-cell resolution, published Monday in Nature Methods. In 10,000 human leukemia cells it detected 43 edit sites — 36 of them off-target — and 5,761 edited cells, giving researchers a far sharper picture of what a guide RNA actually does.",
    "tag": "Science",
-   "url": "https://knowridge.com/2026/11/blood-thinner-may-slow-arthritis-joint-damage/"
+   "url": "https://phys.org/news/2026-11-tool-tracks-unintended-crispr-effects.html"
   },
   {
-   "headline": "Daily pill cuts hereditary swelling attacks by 83%",
-   "body": "A once-daily oral tablet, deucrictibant XR, cut monthly swelling attacks by 83% against placebo in a Phase 3 trial of 85 people with hereditary angioedema, results announced Nov. 12 and presented Nov. 14. Benefit appeared within the first week and held for 24 weeks; maker Pharvaris plans to file for approval in the first half of 2027. The drug is investigational, not yet approved.",
+   "headline": "Fossils reveal a 66-pound rodent from 34 million years ago",
+   "body": "Two fossilized teeth from a coal mine in Thailand’s Krabi Province have named a new giant rodent, Yakamys sirindhornae, that lived about 34 million years ago and weighed roughly 30 kilograms (66 pounds) — far larger than other rodents of its time. The find, published Nov. 4 in Scientific Reports, suggests rodent gigantism began earlier and across a wider geography than previously thought.",
    "tag": "Science",
-   "url": "https://njldesignlab.com/progress-brief-2026-11-15/"
+   "url": "https://scitechdaily.com/scientists-discover-a-giant-66-pound-rodent-that-lived-34-million-years-ago/"
   },
   {
-   "headline": "Gravitational waves could reveal hidden exoplanets, NASA studies show",
-   "body": "Two studies led by NASA astrophysicists show the LISA observatory — three spacecraft set to launch in the mid-2030s to detect gravitational waves — could reveal a new population of exoplanets orbiting double white dwarf stars, with masses and orbital periods mapped in detail. The papers, published Tuesday in The Astrophysical Journal, say the James Webb Space Telescope could then confirm the worlds.",
-   "tag": "Space",
-   "url": "https://www.europesays.com/3376719/"
+   "headline": "A single spark can ripple across an ultra-thin energy material",
+   "body": "An international team including Victoria University of Wellington researchers found that a chemical reaction triggered at just one tiny point on an ultra-thin MXene flake can spread across much of the material — connectivity never seen before in this class of materials. Published in Nature Communications, the finding sheds new light on how water, electricity and hydrogen interact inside materials being explored for faster, more sustainable energy storage.",
+   "tag": "Science",
+   "url": "http://www.macdiarmid.ac.nz/news-and-events/news/news-articles/tiny-materials-reveal-big-opportunities-for-future-energy-storage/"
   }
  ],
  "cdRates": {
@@ -804,70 +804,70 @@
   {
    "name": "Houston Winter Condo",
    "detail": "ZIP 77056",
-   "tempF": 54,
-   "conditions": "Showers",
-   "icon": "rain",
-   "aqi": 52,
-   "aqiCat": "Moderate",
+   "tempF": 50,
+   "conditions": "Cloudy",
+   "icon": "clouds",
+   "aqi": 33,
+   "aqiCat": "Good",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 94% · Wind NE 16 mph, gusts 28 mph",
-   "today": "Showers, high 59°F",
-   "tonight": "Showers, low 49°F",
-   "tomorrow": "AM clouds, PM sun, high 64°F"
+   "extra": "Humidity 87% · Wind NE 14 mph, gusts 25 mph",
+   "today": "Partly sunny, high 60°F",
+   "tonight": "Mostly clear, low 46°F",
+   "tomorrow": "Sunny, high 64°F"
   },
   {
    "name": "Seiver Ranch — Plains, MT",
    "detail": "Sanders County",
-   "tempF": 44,
-   "conditions": "Rain",
-   "icon": "rain",
-   "aqi": 71,
-   "aqiCat": "Moderate",
+   "tempF": 41,
+   "conditions": "Overcast",
+   "icon": "clouds",
+   "aqi": 22,
+   "aqiCat": "Good",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 100% · Wind WSW 1 mph",
-   "today": "Rain, high 51°F",
-   "tonight": "Showers, low 41°F",
-   "tomorrow": "Showers, high 44°F"
+   "extra": "Humidity 78% · Wind WSW 2 mph",
+   "today": "Light rain, high 43°F",
+   "tonight": "Light rain likely then patchy fog, low 32°F",
+   "tomorrow": "Patchy fog, high 38°F"
   },
   {
    "name": "Seiver Slough — Rugby, ND",
    "detail": "Pierce County",
-   "tempF": 49,
-   "conditions": "Fair",
-   "icon": "sun",
-   "aqi": 38,
+   "tempF": 27,
+   "conditions": "Haze",
+   "icon": "fog",
+   "aqi": 23,
    "aqiCat": "Good",
    "aqiNote": "PM2.5",
-   "alerts": "",
-   "extra": "Humidity 68% · Wind S 9 mph",
-   "today": "Mostly sunny, high 53°F",
-   "tonight": "Partly cloudy, low 30°F",
-   "tomorrow": "Partly cloudy, high 56°F"
+   "alerts": "Special Weather Statement: patchy fog, visibility 1/4 mile or less until 11:00 AM CST",
+   "extra": "Wind SW 7 mph",
+   "today": "Patchy fog then partly sunny, high 54°F",
+   "tonight": "Mostly cloudy, low 35°F",
+   "tomorrow": "Partly sunny, high 50°F"
   },
   {
    "name": "Seiver Lodge — L'Anse, MI",
    "detail": "Baraga County",
-   "tempF": 38,
+   "tempF": 30,
    "conditions": "Clear",
    "icon": "sun",
-   "aqi": 31,
+   "aqi": 29,
    "aqiCat": "Good",
    "aqiNote": "O3",
-   "alerts": "Small Craft Advisory Mon 5:00 AM–1:00 PM EST (Lake Superior)",
-   "extra": "Humidity 66% · Wind S 3 mph",
-   "today": "Sunny, high 48°F",
-   "tonight": "Partly cloudy, low 32°F",
-   "tomorrow": "Partly cloudy, high 55°F"
+   "alerts": "",
+   "extra": "Humidity 86% · Wind SW 5 mph",
+   "today": "Mostly sunny, high 54°F",
+   "tonight": "Mostly clear, low 38°F",
+   "tomorrow": "Sunny, high 57°F"
   }
  ],
  "apod": {
-  "date": "November 2, 2026",
-  "title": "A Long Cloud on Mars",
-  "credit": "ESA, DLR, FU Berlin; Processing: J. Cowart — NASA Astronomy Picture of the Day, November 2, 2026",
-  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg?w=1920&h=1200&fit=clip&crop=faces%2Cfocalpoint",
-  "explanation": "A water-ice cloud stretches more than 1,500 km downwind of the volcano Arsia Mons on Mars — the Arsia Mons Elongated Cloud, first recorded by NASA's Viking Orbiter 2 in 1977 and imaged here in 2018 by ESA's Mars Express. The cloud forms only in spring and summer mornings, and how it grows in Mars's thin, dust-poor upper air is still an open question.",
-  "pageUrl": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/"
+  "date": "November 16, 2026",
+  "title": "NGC 7129: Star Formation with Jets from Webb",
+  "credit": "NASA, ESA, CSA, STScI, JWST; Processing: A. Pagan (STScI) — NASA Astronomy Picture of the Day, November 16, 2026",
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/weic2620a.jpg?w=1280&h=1194&fit=clip&crop=faces%2Cfocalpoint",
+  "explanation": "NASA’s James Webb Space Telescope took this detailed infrared look at the star-forming region NGC 7129: young stars shine through gold-colored gas on the left, while jets and winds from newborn stars sculpt the red, filamentary gas on the right. Studying stars at different stages of development helps astronomers pin down which physical processes matter most, and when, in star formation.",
+  "pageUrl": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/"
  }
 }
