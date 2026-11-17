@@ -1,45 +1,44 @@
 {
- "version": 33,
- "asOf": "Tue Nov 17, 2026, 8:08 AM CT",
+ "version": 34,
+ "asOf": "Tue Nov 17, 2026, 12:07 PM CT",
  "breaking": [
   {
-   "headline": "Nvidia forms national-security committee hours before earnings",
-   "fact": "Nvidia created a board-level National Security and Export Control Oversight Committee on Tuesday, chaired by director Suzanne Nora Johnson, as fallout continues from Jensen Huang’s resignation over an affair with a woman U.S. officials suspect was recruited by Chinese intelligence; the board has hired Wachtell Lipton to investigate whether Huang shared confidential information. Tonight’s Q3 report — the first under interim CEO Colette Kress, consensus near $2.47 a share on about $109 billion in revenue — is the week’s main event; shares are up about 1% pre-market to near $158 after falling 4.12% Monday.",
-   "source": "Morningstar",
-   "tag": "US",
-   "url": "https://www.morningstar.com/news/dow-jones/202611172032/nvidia-forms-national-security-committee-after-huangs-exit"
-  },
-  {
-   "headline": "Anthropic book closes today, about 7x oversubscribed; pricing tomorrow",
-   "fact": "Orders for Anthropic’s IPO are running close to seven times the 825 million shares on offer, Bloomberg reported, and Goldman Sachs and Morgan Stanley expect to close the order book Tuesday. Pricing is set for Wednesday, Nov. 18, with trading to begin Thursday on Nasdaq as ANT at $70 to $78 a share; bankers are weighing a price above the range, and seven strategic partners including Google, Nvidia and Microsoft have agreed to buy $26 billion of stock in a private placement.",
-   "source": "Sovereign Magazine",
-   "tag": "US",
-   "url": "https://www.sovereignmagazine.com/article/anthropic-ipo-oversubscribed-order-book"
-  },
-  {
-   "headline": "Ukraine collapses Kerch Bridge span; Russia hits Kyiv bridges",
-   "fact": "Ukrainian missiles and drones collapsed a road span of the Kerch Bridge linking Russia to occupied Crimea overnight, and Russia confirmed the damage; Russian ballistic missiles struck Kyiv’s North and South bridges over the Dnipro late Monday, disrupting heating, water and power. U.S. envoy Jared Kushner said progress is being made toward ending the war, but important challenges remain.",
+   "headline": "Iran fires drones at U.S. radar base in Bahrain",
+   "fact": "Iran’s Revolutionary Guards fired drones at a U.S. military radar system at Sheikh Isa Air Base in Bahrain on Tuesday, the third attack on U.S. facilities in Bahrain; Bahrain said it intercepted the attack with no casualties or damage. Qatar announced new talks with Tehran as the Gulf crisis deepens.",
    "source": "Just Security",
    "tag": "World",
    "url": "https://www.justsecurity.org/164914/early-edition-november-17-2026/"
   },
   {
-   "headline": "U.S. intel: Iran drew up dirty-bomb plot aimed at Washington",
-   "fact": "New U.S. intelligence indicates Iran is developing plans to target senior Trump administration officials in Washington with a radioactive “dirty bomb” or a chemical weapon, U.S. officials told CNN on Monday night. President Trump said he takes the report “very seriously”; the White House said there is no credible threat to the homeland right now.",
-   "source": "Candid Dragon",
+   "headline": "Anthropic likely to price IPO above $78, CNBC reports",
+   "fact": "CNBC’s David Faber, citing sources, says Anthropic is likely to price its IPO above the $70–$78 range, with the order book closing at 4 p.m. ET today; the final price is set Wednesday and trading begins Thursday on Nasdaq as ANT. Altimeter Capital’s Brad Gerstner put in a $5 billion order, and demand is running about seven times the 825 million shares on offer.",
+   "source": "TipRanks",
    "tag": "US",
-   "url": "https://candiddragon.com/morning-briefing-2026-11-17/"
+   "url": "https://www.tipranks.com/news/anthropic-could-price-its-ipo-above-78-as-investor-demand-surges"
+  },
+  {
+   "headline": "Wall Street extends its selloff as an NSA network outage rattles traders",
+   "fact": "The Dow is down about 750 points (1.5%) in Tuesday trade, with the S&P 500 and Nasdaq each off about 1.1%, after CNN reported an outage on a classified National Security Agency network; indexes hit their session lows on the report. Nvidia is down ahead of tonight’s earnings, its first under interim CEO Colette Kress.",
+   "source": "Demokratis",
+   "tag": "US",
+   "url": "https://demokratis.co.id/en/dow-tech-stocks-market-decline"
+  },
+  {
+   "headline": "Senate permitting bill clears second hurdle, 70–27",
+   "fact": "The Senate voted 70–27 Monday evening to advance the Bipartisan American Affordability and Jobs Act, clearing the second of three 60-vote hurdles; the final cloture test is expected early Wednesday. The bill would set deadlines for federal environmental reviews under NEPA, the Clean Water Act and the Endangered Species Act and limit lawsuits used to block energy and infrastructure projects.",
+   "source": "US News Pulse",
+   "tag": "US",
+   "url": "https://usnewspulse.com/politics/senate-votes-70-27-to-advance-permitting-bill-in-second-cloture-test-us-news-pulse"
   }
  ],
  "markets": [
   {
    "label": "S&P 500",
-   "value": "7,416.59",
-   "change": "-145.08",
-   "pct": "-1.92%",
+   "value": "7,333.42",
+   "change": "-83.17",
+   "pct": "-1.12%",
    "dir": "down",
    "spark": [
-    7818.93,
     7801.77,
     7765.36,
     7811.54,
@@ -68,17 +67,17 @@
     7619.38,
     7592.4,
     7561.67,
-    7416.59
+    7416.59,
+    7333.42
    ]
   },
   {
    "label": "NASDAQ Composite",
-   "value": "24,509.76",
-   "change": "-626.51",
-   "pct": "-2.49%",
+   "value": "24,246.10",
+   "change": "-263.66",
+   "pct": "-1.08%",
    "dir": "down",
    "spark": [
-    27599.79,
     27538.69,
     27193.34,
     27366.17,
@@ -107,17 +106,17 @@
     25466.19,
     25366.09,
     25136.27,
-    24509.76
+    24509.76,
+    24246.1
    ]
   },
   {
    "label": "Dow Jones",
-   "value": "51,608.17",
-   "change": "-739.38",
-   "pct": "-1.41%",
+   "value": "50,855.41",
+   "change": "-752.76",
+   "pct": "-1.46%",
    "dir": "down",
    "spark": [
-    51521.28,
     51179.87,
     51231.64,
     51654.95,
@@ -146,17 +145,17 @@
     52486.49,
     52297.09,
     52347.55,
-    51608.17
+    51608.17,
+    50855.41
    ]
   },
   {
    "label": "VIX",
-   "value": "22.91",
-   "change": "+3.61",
-   "pct": "+18.70%",
+   "value": "25.76",
+   "change": "+2.85",
+   "pct": "+12.44%",
    "dir": "up",
    "spark": [
-    15.01,
     15.08,
     15.41,
     14.84,
@@ -185,17 +184,17 @@
     17.49,
     18.7,
     19.3,
-    22.91
+    22.91,
+    25.76
    ]
   },
   {
    "label": "10-Yr Treasury",
-   "value": "5.12%",
+   "value": "5.10%",
    "change": "-0.03 pp",
    "pct": "",
    "dir": "down",
    "spark": [
-    5.27,
     5.28,
     5.23,
     5.24,
@@ -224,17 +223,17 @@
     5.0,
     5.1,
     5.15,
-    5.12
+    5.12,
+    5.1
    ]
   },
   {
    "label": "WTI Crude",
-   "value": "$85.72",
-   "change": "-2.84",
-   "pct": "-3.21%",
-   "dir": "down",
+   "value": "$86.34",
+   "change": "+0.62",
+   "pct": "+0.72%",
+   "dir": "up",
    "spark": [
-    89.44,
     88.28,
     91.49,
     91.85,
@@ -263,17 +262,17 @@
     86.53,
     88.74,
     88.56,
-    85.72
+    85.72,
+    86.34
    ]
   },
   {
    "label": "Brent Crude",
-   "value": "$92.44",
-   "change": "-3.40",
-   "pct": "-3.55%",
-   "dir": "down",
+   "value": "$93.18",
+   "change": "+0.74",
+   "pct": "+0.80%",
+   "dir": "up",
    "spark": [
-    100.58,
     100.2,
     104.28,
     104.72,
@@ -302,48 +301,49 @@
     92.76,
     95.82,
     95.84,
-    92.44
+    92.44,
+    93.18
    ]
   }
  ],
  "marketsNote": "",
  "watchlist": [
   {
-   "blurb": "Air Liquide closed in Paris at €193.24 Monday, off 0.04% on the day; converted at the ECB’s Nov 16 reference rate of 1.1014, that’s $212.83. Paris is trading lower Tuesday, near €190.26 in afternoon trade, down about 1.5%.",
-   "change": "-0.39%",
+   "blurb": "Air Liquide closed in Paris at €190.94 Tuesday, down 1.19% on the day; converted at the ECB’s Nov 17 reference rate of 1.0989, that’s $209.82. The stock has now fallen three straight sessions in Paris.",
+   "change": "-1.19%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/AI.PA",
    "name": "Air Liquide",
-   "price": "$212.83",
+   "price": "$209.82",
    "risk": 2,
    "spark": [
-    187.78,
     189.46,
     190.34,
     192.16,
     192.84,
     193.32,
-    193.24
+    193.24,
+    190.94
    ],
-   "subTag": "€193.24 × 1.1014 (ECB Nov 16)",
+   "subTag": "€190.94 × 1.0989 (ECB Nov 17)",
    "ticker": "AIL.F",
    "yieldTag": null
   },
   {
-   "blurb": "The T-bill ETF closed at $91.55 Monday, up 0.02% from Friday’s $91.53; its latest monthly distribution of $0.30849 (ex Nov 2, paid Nov 5) works out to a 4.04% distribution yield at this price.",
-   "change": "+0.02%",
-   "dir": "up",
+   "blurb": "The T-bill ETF is flat at $91.55 in Tuesday trade; its latest monthly distribution of $0.30849 (ex Nov 2, paid Nov 5) works out to a 4.04% distribution yield at this price.",
+   "change": "0.00%",
+   "dir": "flat",
    "link": "https://finance.yahoo.com/quote/BIL",
    "name": "SPDR 1-3 Month T-Bill ETF",
    "price": "$91.55",
    "risk": 0,
    "spark": [
-    91.46,
     91.48,
     91.49,
     91.5,
     91.5,
     91.53,
+    91.55,
     91.55
    ],
    "subTag": "$0.30849 dist., ex Nov 2, paid Nov 5",
@@ -351,273 +351,273 @@
    "yieldTag": "Dist. yield 4.04%"
   },
   {
-   "blurb": "Fastenal closed at $55.11 Monday, down 0.14% from Friday’s $55.19 — still $7.11 above Sean’s $48 buy gate, so the watch stays quiet.",
-   "change": "-0.14%",
+   "blurb": "Fastenal is trading at $54.46 Tuesday, down 1.18% on the day and still $6.46 above Sean’s $48 buy gate, so the watch stays quiet.",
+   "change": "-1.18%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/FAST",
    "name": "Fastenal",
-   "price": "$55.11",
+   "price": "$54.46",
    "risk": 2,
    "spark": [
-    52.99,
     54.57,
     54.84,
     55.49,
     55.55,
     55.19,
-    55.11
+    55.11,
+    54.46
    ],
    "subTag": null,
    "ticker": "FAST",
    "yieldTag": null
   },
   {
-   "blurb": "Alphabet closed at $283.72 Monday, down 4.07% from Friday’s $295.77 and roughly 13% below its 50-day average, as the AI selloff deepened; futures are mixed near flat Tuesday morning, and the Commerce Department’s new rule tightening remote access to U.S. AI chips adds another overhang. Gemini 4 Hydrogen is now the default in Search’s AI Mode worldwide.",
-   "change": "-4.07%",
+   "blurb": "Alphabet is trading at $281.73 Tuesday, down 0.70% as the AI selloff rolls into a fourth day; Gemini 4 Hydrogen is now the default in Search’s AI Mode worldwide, and the Commerce Department’s new rule tightening remote access to U.S. AI chips remains an overhang. All eyes are on Nvidia’s earnings after the close.",
+   "change": "-0.70%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/GOOGL",
    "name": "Alphabet (Google) Cl A",
-   "price": "$283.72",
+   "price": "$281.73",
    "risk": 3,
    "spark": [
-    284.78,
     288.15,
     287.38,
     293.45,
     298.7,
     295.77,
-    283.72
+    283.72,
+    281.73
    ],
    "subTag": null,
    "ticker": "GOOGL",
    "yieldTag": null
   },
   {
-   "blurb": "Lilly closed at $1,431.67 Monday, down 0.82% from Friday’s $1,443.50, giving back part of Friday’s push toward a new 52-week high as the broad market slid.",
-   "change": "-0.82%",
+   "blurb": "Lilly is trading at $1,414.99 Tuesday, down 1.17%, giving back more of Friday’s push toward a new 52-week high as the broad market slides for a fourth straight session.",
+   "change": "-1.17%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/LLY",
    "name": "Eli Lilly",
-   "price": "$1,431.67",
+   "price": "$1,414.99",
    "risk": 3,
    "spark": [
-    1354.0,
     1411.95,
     1432.29,
     1437.29,
     1427.28,
     1443.5,
-    1431.67
+    1431.67,
+    1414.99
    ],
    "subTag": null,
    "ticker": "LLY",
    "yieldTag": null
   },
   {
-   "blurb": "Cheniere closed at $305.20 Monday, down 1.15% from Friday’s $308.75, easing with crude, which settled about 3.2% lower after the IEA said the world oil market swings back to surplus in the fourth quarter; its $0.625 quarterly dividend is payable today, Nov 17.",
-   "change": "-1.15%",
+   "blurb": "Cheniere is trading at $303.27 Tuesday, down 0.63%, easing even as crude ticks higher; its $0.625 quarterly dividend is payable today, Nov 17.",
+   "change": "-0.63%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/LNG",
    "name": "Cheniere Energy",
-   "price": "$305.20",
+   "price": "$303.27",
    "risk": 3,
    "spark": [
-    277.95,
     284.95,
     293.49,
     304.51,
     309.48,
     308.75,
-    305.2
+    305.2,
+    303.27
    ],
    "subTag": null,
    "ticker": "LNG",
    "yieldTag": null
   },
   {
-   "blurb": "Nvidia closed at $156.14 Monday, down 4.12% from Friday’s $162.85 and about 37% below its Oct 6 high; the board formed a national-security and export-control committee Tuesday, chaired by Suzanne Nora Johnson, as fallout from Jensen Huang’s resignation continues. Tonight’s Q3 report — the first under interim CEO Colette Kress, consensus near $2.47 a share on about $109 billion in revenue — is the week’s main event; shares are up about 1% pre-market to near $158.",
-   "change": "-4.12%",
+   "blurb": "Nvidia is trading at $153.76 Tuesday, down 1.52% ahead of tonight’s Q3 report after the close — the first under interim CEO Colette Kress, consensus near $2.47 a share on about $109 billion in revenue, with options pricing an 8.5% move either way. The stock has shed roughly $410 billion in market value since Jensen Huang’s resignation.",
+   "change": "-1.52%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/NVDA",
    "name": "NVIDIA",
-   "price": "$156.14",
+   "price": "$153.76",
    "risk": 3,
    "spark": [
-    186.64,
     178.67,
     168.89,
     173.73,
     166.19,
     162.85,
-    156.14
+    156.14,
+    153.76
    ],
    "subTag": null,
    "ticker": "NVDA",
    "yieldTag": null
   },
   {
-   "blurb": "Pfizer closed at $28.86 Monday, down 0.10% from Friday’s $28.89; the company confirmed Friday it will stop selling the menopause therapy Premarin in Canada, and Sean’s buy gate sits at $32, so the watch stays quiet.",
-   "change": "-0.10%",
+   "blurb": "Pfizer is trading at $28.45 Tuesday, down 1.40%; Sean’s buy gate sits at $32, so the watch stays quiet.",
+   "change": "-1.42%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/PFE",
    "name": "Pfizer",
-   "price": "$28.86",
+   "price": "$28.45",
    "risk": 2,
    "spark": [
-    29.39,
     29.23,
     29.36,
     29.45,
     28.83,
     28.89,
-    28.86
+    28.86,
+    28.45
    ],
    "subTag": null,
    "ticker": "PFE",
    "yieldTag": null
   },
   {
-   "blurb": "Rocket Lab closed at $57.37 Monday, down 6.76% from Friday’s $61.53, giving back more of last week’s big gains in the broad selloff; its reusable Neutron rocket’s first launch has slipped into 2027.",
-   "change": "-6.76%",
+   "blurb": "Rocket Lab is trading at $55.72 Tuesday, down 2.87% in the broad selloff; its reusable Neutron rocket’s first launch has slipped into 2027.",
+   "change": "-2.86%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/RKLB",
    "name": "Rocket Lab",
-   "price": "$57.37",
+   "price": "$55.73",
    "risk": 4,
    "spark": [
-    53.07,
     58.86,
     62.71,
     66.15,
     64.07,
     61.53,
-    57.37
+    57.37,
+    55.73
    ],
    "subTag": null,
    "ticker": "RKLB",
    "yieldTag": null
   },
   {
-   "blurb": "Rithm closed at $8.84 Monday, down 1.45% from Friday’s $8.97 and under its 50-day average; with the 10-year yield easing to 5.12% and December-hike bets intact, the mortgage REIT stays range-bound.",
-   "change": "-1.45%",
+   "blurb": "Rithm is trading at $8.60 Tuesday, down 2.66% and under its 50-day average; with the 10-year yield at 5.10% and a December hike nearly fully priced, the mortgage REIT stays range-bound.",
+   "change": "-2.60%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/RITM",
    "name": "Rithm Capital",
-   "price": "$8.84",
+   "price": "$8.61",
    "risk": 4,
    "spark": [
-    9.23,
     9.44,
     9.27,
     9.21,
     9.0,
     8.97,
-    8.84
+    8.84,
+    8.61
    ],
    "subTag": null,
    "ticker": "RITM",
    "yieldTag": null
   },
   {
-   "blurb": "The SpaceX ETF closed at $137.36 Monday, down 1.26% from Friday’s $139.11, easing with the market after Ship 42’s historic tower catch Saturday; it is up about 1% pre-market after Nvidia added to its SpaceX holding, and SpaceX is still investigating why Booster 22’s catch aborted.",
-   "change": "-1.26%",
-   "dir": "down",
+   "blurb": "The SpaceX ETF is trading at $140.93 Tuesday, up 2.60% against the selloff; SpaceX is still investigating why Booster 22’s catch aborted, and Elon Musk now blames underperforming engines, with a Raptor V3.2 fix in the works.",
+   "change": "+2.60%",
+   "dir": "up",
    "link": "https://finance.yahoo.com/quote/SPCX",
    "name": "SpaceX",
-   "price": "$137.36",
+   "price": "$140.93",
    "risk": 4,
    "spark": [
-    134.27,
     142.07,
     143.09,
     139.75,
     139.94,
     139.11,
-    137.36
+    137.36,
+    140.93
    ],
    "subTag": null,
    "ticker": "SPCX",
    "yieldTag": null
   },
   {
-   "blurb": "Truist closed at $49.58 Monday, down 0.78% from Friday’s $49.97, holding up better than the broad market as the 10-year yield sits at 5.12% with Fed officials leaning toward a December hike.",
-   "change": "-0.78%",
+   "blurb": "Truist is trading at $48.67 Tuesday, down 1.84%, giving back ground with the banks as the 10-year yield sits at 5.10% and traders brace for Nvidia’s earnings.",
+   "change": "-1.84%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/TFC",
    "name": "Truist Financial",
-   "price": "$49.58",
+   "price": "$48.67",
    "risk": 3,
    "spark": [
-    49.38,
     50.33,
     50.26,
     50.26,
     49.89,
     49.97,
-    49.58
+    49.58,
+    48.67
    ],
    "subTag": null,
    "ticker": "TFC",
    "yieldTag": null
   },
   {
-   "blurb": "U.S. Antimony closed at $2.67 Monday, down 13.59% from Friday’s $3.09, giving back Friday’s gain and more; it remains below Sean’s $4 buy gate, with Q3’s withdrawn guidance and the $9.5M quarterly loss still hanging over the name.",
-   "change": "-13.59%",
+   "blurb": "U.S. Antimony is trading at $2.48 Tuesday, down 7.12% and still below Sean’s $4 buy gate, with Q3’s withdrawn guidance and the $9.5M quarterly loss still hanging over the name.",
+   "change": "-7.12%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/UAMY",
    "name": "United States Antimony",
-   "price": "$2.67",
+   "price": "$2.48",
    "risk": 5,
    "spark": [
-    2.82,
     3.47,
     3.21,
     3.12,
     2.91,
     3.09,
-    2.67
+    2.67,
+    2.48
    ],
    "subTag": null,
    "ticker": "UAMY",
    "yieldTag": null
   },
   {
-   "blurb": "Uranium Energy closed at $6.13 Monday, down 7.96% from Friday’s $6.66 and near its 52-week low, sliding with the broader selloff.",
-   "change": "-7.96%",
+   "blurb": "Uranium Energy is trading at $6.06 Tuesday, down 1.14% and near its 52-week low, sliding with the broader selloff.",
+   "change": "-1.14%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/UEC",
    "name": "Uranium Energy",
-   "price": "$6.13",
+   "price": "$6.06",
    "risk": 5,
    "spark": [
-    6.92,
     7.62,
     7.17,
     7.23,
     6.8,
     6.66,
-    6.13
+    6.13,
+    6.06
    ],
    "subTag": null,
    "ticker": "UEC",
    "yieldTag": null
   },
   {
-   "blurb": "Valero closed at $369.73 Monday, down 2.66% from Friday’s $379.83, sliding with crude, which settled about 3.2% lower on the IEA’s surplus call; the position is locked in the portfolio, not for trading.",
-   "change": "-2.66%",
+   "blurb": "Valero is trading at $362.16 Tuesday, down 2.05%, sliding even as crude ticks higher; the position is locked in the portfolio, not for trading.",
+   "change": "-2.05%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/VLO",
    "name": "Valero Energy",
-   "price": "$369.73",
+   "price": "$362.16",
    "risk": 3,
    "spark": [
-    346.45,
     356.75,
     350.71,
     363.71,
     374.95,
     379.83,
-    369.73
+    369.73,
+    362.16
    ],
    "subTag": null,
    "ticker": "VLO",
@@ -645,28 +645,28 @@
    "yieldTag": null
   },
   {
-   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate is $152.45 (est.) with the index at 7,416.59 at Monday’s close, down from $155.43 (est.) at Friday’s close; futures point to a mixed open Tuesday ahead of Nvidia’s earnings.",
-   "change": "-1.92%",
+   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate is $150.74 (est.) with the index at 7,333.42 in Tuesday trade, down from $152.45 (est.) at Monday’s close; Nvidia reports after the bell.",
+   "change": "-1.12%",
    "dir": "down",
    "link": null,
    "name": "Vanguard Institutional 500 Index Trust",
-   "price": "$152.45 (est.)",
+   "price": "$150.74 (est.)",
    "risk": 3,
    "spark": [
-    151.6322,
     155.1899,
     154.5936,
     156.6172,
     156.0626,
     155.431,
-    152.4488
+    152.4488,
+    150.7393
    ],
    "subTag": "S&P 500-anchored estimate",
    "ticker": "VI5TC",
    "yieldTag": null
   },
   {
-   "blurb": "Schwab money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.76%, as published Nov 16 on Schwab’s official page — up a touch from 3.75% on Nov 13; the sweep-and-evaporate plan keeps working the balance down.",
+   "blurb": "Schwab money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.76%, as published Nov 16 on Schwab’s official page — unchanged; the sweep-and-evaporate plan keeps working the balance down.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/SWVXX",
@@ -679,7 +679,7 @@
    "yieldTag": "7-day yield 3.76%"
   },
   {
-   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.98%, as published Nov 16 on Vanguard’s official page — unchanged from Nov 13.",
+   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.98%, as published Nov 16 on Vanguard’s official page — unchanged.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/VUSXX",
@@ -694,23 +694,23 @@
  ],
  "weekInBrief": [
   {
-   "headline": "Pentagon fails its financial audit for a ninth straight year",
-   "body": "Independent auditors again issued a disclaimer of opinion on the Pentagon’s fiscal 2026 books, saying the department could not provide enough reliable evidence to verify accounts covering more than $4.8 trillion in assets — the ninth consecutive year the world’s largest military has failed its audit.",
+   "headline": "Trump, Xi and Putin to meet Thursday in Shenzhen in a first-ever three-way summit",
+   "body": "The leaders of the U.S., China and Russia will sit down together Thursday in Shenzhen, the first three-way meeting of the world’s three largest nuclear powers, on the sidelines of the APEC summit. The White House says nuclear arms reduction tops the agenda and the Iran war will also be discussed, while Russia’s war in Ukraine is excluded; officials say no agreement is expected from this first meeting, nine months after the New START treaty expired.",
    "stamp": "Nov 17, 2026"
   },
   {
-   "headline": "Commerce moves to close the AI-chip remote-access loophole",
-   "body": "The Commerce Department’s Bureau of Industry and Security issued an interim final rule on Nov. 16 further restricting companies in controlled countries from remotely using advanced U.S. AI chips and servers via third-country data centers — closing a workaround Nvidia had warned could expose it and its customers to U.S. penalties, as the White House tightens chip controls ahead of Trump’s talks with Xi Jinping.",
-   "stamp": "Nov 16, 2026"
-  },
-  {
-   "headline": "Japan scrambles jets after suspected Russian airspace violation",
-   "body": "Japan said it launched fighter jets and “strongly” protested after two suspected Russian aircraft violated Japanese airspace early Tuesday morning — the latest in a run of Russian airspace incidents around U.S. allies in Asia and Europe.",
+   "headline": "Chase software bug disrupted banking and Zelle payments at major banks",
+   "body": "A software bug in JPMorgan Chase’s on-premise hardware systems disrupted online banking and Zelle payments Monday, with nearly 5,000 Downdetector complaints for Chase alone and customers at Bank of America, Wells Fargo, U.S. Bank and Truist also affected. Chase said it was a technical failure, not a cyberattack, and transactions were processing normally again by Monday evening.",
    "stamp": "Nov 17, 2026"
   },
   {
-   "headline": "Xi and Carney agree tariff cuts as Canada-China ties thaw",
-   "body": "Xi Jinping and Canadian Prime Minister Mark Carney agreed on additional tariff cuts between their nations and pledged deeper ties, a notable thaw in a relationship frozen for years, as President Trump travels to Asia for Thursday’s first-ever three-way summit with Xi and Vladimir Putin.",
+   "headline": "December Fed hike now nearly fully priced as minutes land Wednesday",
+   "body": "Markets are pricing a near-certain December rate hike, and the Federal Reserve releases the minutes of its Oct. 27–28 meeting Wednesday afternoon. Fed Chair Kevin Warsh warned Monday that if the AI trade disappoints, stock prices could fall sharply and trigger an economic slowdown, adding to the pressure ahead of Nvidia’s earnings.",
+   "stamp": "Nov 17, 2026"
+  },
+  {
+   "headline": "U.K. sanctions eight Israeli firms building West Bank settlements",
+   "body": "The U.K. government announced sanctions on eight Israeli construction companies involved in building settlements in the occupied West Bank and an activist group that blocks aid deliveries to Gaza, after Israeli settlers killed a 72-year-old Palestinian woman in Jericho overnight. The EU separately sanctioned a Gaza outlet over alleged Hamas fundraising.",
    "stamp": "Nov 17, 2026"
   }
  ],
@@ -718,35 +718,35 @@
   "items": [
    {
     "headline": "Latest from the Strait",
-    "body": "UK Maritime Trade Operations reported two attacks on commercial tankers in the strait on Monday — one struck by an unknown projectile while leaving the strait, starting an engine-room fire, with the crew all accounted for; maritime security firm Vanguard Tech identified the ship as the Panama-flagged On Phoenix, hit about seven nautical miles north of Khasab, Oman. Iran’s Revolutionary Guards claimed two tankers caught fire after striking naval mines and that a supertanker carrying more than two million barrels of crude sank — none of the claims has been independently verified, and Reuters could not verify the mine claims. Etihad cancelled all passenger and cargo flights between Abu Dhabi and Riyadh and Dammam through Thursday, Nov. 19, and Europe’s aviation safety agency extended its Gulf conflict-zone advisory through Jan. 31, 2027. On oil, the blockade still holds — Kpler’s latest figures put oil and product flows through the strait at about 8.3 million barrels a day in the week to Nov. 11, roughly 48% of pre-war volumes, with Iranian-origin cargoes still excluded throughout, and Kpler data cited in reporting still puts Iranian shipments at zero since Aug. 25."
+    "body": "UK Maritime Trade Operations said the Panama-flagged tanker On Phoenix, first struck by an unknown projectile on Monday, was hit a second time off Oman’s coast on Tuesday, starting a fire, with its crew now unaccounted for. Iran’s Revolutionary Guards claimed Tuesday that a supertanker carrying more than two million barrels and a liquefied gas carrier struck naval mines and caught fire — none of those claims has been independently verified. The USS Theodore Roosevelt has arrived in the region, bringing the number of American carrier strike groups there to three, and Qatar announced new talks with Tehran. On oil, the blockade still holds — UANI’s Nov. 16 update says no Iranian crude tanker has evaded the blockade since July 14, and Kpler’s latest figures still put oil and product flows through the strait at about 8.3 million barrels a day in the week to Nov. 11, roughly 48% of pre-war volumes, with Iranian-origin cargoes still excluded throughout."
    }
   ],
   "stats": ""
  },
  "space": [
   {
-   "headline": "Starship booster abort under investigation as NASA hails the historic catch",
-   "body": "SpaceX is still investigating why Booster 22’s catch aborted minutes after liftoff — the company first pointed to a guidance problem, then said its systems detected a fuel-system alarm and triggered the abort, and the booster was destroyed offshore. NASA Administrator Jared Isaacman called Ship 42’s first-ever orbital catch “almost magic,” and SpaceX plans to begin launching Starships from Kennedy Space Center in Florida within the next few months.",
+   "headline": "Musk names the Starship booster fix: Raptor V3.2 and an earlier engine cutoff",
+   "body": "Elon Musk said Booster 22 was “slightly low on fuel” because its engines underperformed, after SpaceX’s account of the aborted catch shifted from a guidance fault to a low-fuel-mass alarm that cut the boostback burn short. The fixes are the Raptor V3.2 engine and a flight-software change that shuts the engines down about one second earlier, and Musk said Flight 16 would aim to reuse both a booster and a ship.",
    "tag": "Space",
-   "url": "https://phys.org/news/2026-11-baby-spacex-starship-orbit.html"
+   "url": "https://www.techtimes.com/articles/330764/20261115/spacex-starship-tower-catch-succeeds-after-14-orbits-booster-lost-fuel-shortfall.htm"
   },
   {
-   "headline": "Voyager 1 reaches one light-day from Earth on Wednesday",
-   "body": "NASA’s Voyager 1 becomes the first human-made object to sit one full light-day from Earth — 16.094 billion miles — at 5:16 a.m. ET Wednesday, 49 years, two months and 11 days after launch. NASA is marking the night with its “Shine Bright for Voyager’s Light-Day” event, inviting people to flash V-G-R in Morse code skyward after sunset Tuesday.",
+   "headline": "NASA aircraft dust points to a hidden water reservoir beyond Neptune",
+   "body": "Twelve tiny dust grains collected from Earth’s stratosphere by high-altitude NASA aircraft carry about 100 times more radiation tracks than dust from the asteroid belt or Jupiter-family comets, and contain clays that form only when liquid water reacts with rock, a team led by NASA’s Johnson Space Center reports in Science Advances. The ancient water’s isotopic signature differs from carbonaceous meteorites, pointing to a separate reservoir in the outer solar system that stayed isolated for billions of years.",
    "tag": "Space",
-   "url": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/"
+   "url": "https://dailygalaxy.com/2026/11/cosmic-dust-hidden-water-reservoir/"
   },
   {
-   "headline": "Neanderthal DNA linked to lower schizophrenia risk",
-   "body": "A specific segment of Neanderthal DNA helps shape the modern human brain and is associated with a nearly 10% lower risk of schizophrenia in people carrying two copies, a study in PNAS found, based on UK Biobank data. The variant, near a gene involved in early brain development, was not linked to depression, bipolar disorder, ADHD or intelligence.",
+   "headline": "Genetic ‘dimmer switch’ found that can boost sepsis resistance",
+   "body": "A long noncoding RNA molecule called Gaplinc acts as a genetic dimmer switch in macrophages, the immune cells that drive runaway inflammation, UC Santa Cruz researchers report in the Proceedings of the National Academy of Sciences. In mice, the level of Gaplinc determined survival during endotoxic shock, pointing to a new strategy for treating sepsis, which kills at least 20% of adults who develop it.",
    "tag": "Science",
-   "url": "https://www.scientificamerican.com/article/neanderthal-dna-linked-to-lower-risk-of-schizophrenia-in-modern-humans/"
+   "url": "https://medicalxpress.com/news/2026-11-genetic-dimmer-boost-sepsis-resistance.html"
   },
   {
-   "headline": "Humpback whale ‘snot’ yields whole genomes without touching the whales",
-   "body": "Researchers sequenced whole humpback whale genomes from samples of the whales’ blow — the mist they exhale at the surface — without darts, biopsies or close boat approaches. Fifty-eight blow samples from 26 whales yielded a population-level genome dataset for North Pacific humpbacks, published Nov. 17 in Molecular Ecology Resources.",
+   "headline": "Vitamin B12 reverses Verheij syndrome defects in worms",
+   "body": "Vitamin B12 largely reversed developmental abnormalities in laboratory worms carrying a genetic mutation linked to Verheij syndrome, a rare disorder that causes growth problems and developmental delays, researchers found. Similar metabolic changes were identified in human patients, raising the possibility that the common vitamin could inspire new treatments for rare genetic diseases, though it has not yet been shown to help people with the syndrome.",
    "tag": "Science",
-   "url": "https://phys.org/news/2026-11-humpback-whale-snot-genome-sequencing.html"
+   "url": "https://www.thehindubusinessline.com/news/science/could-vitamin-b12-help-treat-verheij-syndrome-study-finds-promising-clues/article71709565.ece/amp/"
   }
  ],
  "cdRates": {
@@ -804,70 +804,70 @@
   {
    "name": "Houston Winter Condo",
    "detail": "ZIP 77056",
-   "tempF": 50,
+   "tempF": 58,
    "conditions": "Sunny",
    "icon": "sun",
    "aqi": 34,
    "aqiCat": "Good",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 83% · Wind NE 5 mph",
-   "today": "Sunny, high 66°F",
+   "extra": "Humidity 64% · Wind NE 10 mph",
+   "today": "Sunny, high 67°F",
    "tonight": "Mostly clear, low 53°F",
-   "tomorrow": "Mostly sunny, high 71°F"
+   "tomorrow": "Mostly sunny, high 72°F"
   },
   {
    "name": "Seiver Ranch — Plains, MT",
    "detail": "Sanders County",
-   "tempF": 33,
-   "conditions": "Patchy Fog",
-   "icon": "fog",
-   "aqi": 31,
+   "tempF": 36,
+   "conditions": "Rain and Snow",
+   "icon": "rain",
+   "aqi": 30,
    "aqiCat": "Good",
    "aqiNote": "O3",
    "alerts": "",
-   "extra": "Humidity 100% · Wind S 1 mph",
-   "today": "Patchy fog, rain and snow, high 37°F",
+   "extra": "Humidity 100% · Wind WSW 2 mph",
+   "today": "Rain and snow, high 36°F",
    "tonight": "Chance rain and snow, then patchy fog, low 29°F",
-   "tomorrow": "Areas of fog, mostly sunny, high 39°F"
+   "tomorrow": "Patchy fog, then mostly sunny, high 38°F"
   },
   {
    "name": "Seiver Slough — Rugby, ND",
    "detail": "Pierce County",
-   "tempF": 40,
+   "tempF": 45,
    "conditions": "Mostly Cloudy",
    "icon": "clouds",
-   "aqi": 16,
+   "aqi": 15,
    "aqiCat": "Good",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 96% · Wind SE 8 mph",
-   "today": "Mostly cloudy, high 50°F",
-   "tonight": "Mostly cloudy, low 36°F",
-   "tomorrow": "Partly sunny, then chance of light rain, high 48°F"
+   "extra": "Humidity 89% · Wind SE 6 mph",
+   "today": "Mostly cloudy, high 51°F",
+   "tonight": "Mostly cloudy, low 37°F",
+   "tomorrow": "Mostly cloudy, then chance light rain, high 48°F"
   },
   {
    "name": "Seiver Lodge — L'Anse, MI",
    "detail": "Baraga County",
-   "tempF": 45,
+   "tempF": 55,
    "conditions": "Sunny",
    "icon": "sun",
-   "aqi": 29,
+   "aqi": 28,
    "aqiCat": "Good",
    "aqiNote": "O3",
    "alerts": "",
-   "extra": "Humidity 64% · Wind SW 10 mph",
-   "today": "Mostly sunny, high 56°F",
+   "extra": "Humidity 46% · Wind SW 10 mph",
+   "today": "Sunny, high 60°F",
    "tonight": "Mostly cloudy, low 39°F",
    "tomorrow": "Partly sunny, high 56°F"
   }
  ],
  "apod": {
   "date": "November 17, 2026",
-  "title": "Milky Way versus Aurora",
-  "credit": "Guillaume Scheib — NASA Astronomy Picture of the Day, November 17, 2026",
-  "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-  "explanation": "Are these two giant arches battling for control of the sky? No, but it sure looks like it. The arch on the left is the central band of our Milky Way Galaxy, an ancient system of stars, gas and dust that predates Earth. The arch on the right is an auroral ribbon only hours old, made of energized atoms and molecules in Earth’s upper atmosphere. Far behind the auroral arch is the Big Dipper, and farther still the Andromeda galaxy — the bright spot near the top of the frame, just left of center. The image was taken about a month ago from Kvaløya in northern Norway.",
-  "pageUrl": "https://apod.nasa.gov/apod/ap261117.html"
+  "title": "Tossing Fireworks from Cloud to Cloud",
+  "credit": "Expedition 75 crew — NASA Earth Observatory Image of the Day, November 17, 2026",
+  "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/tossing-fireworks-from-cloud-to-cloud/ISS075-E-250951.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+  "explanation": "From the International Space Station, lightning looks nothing like it does from the ground: bolts are diffused by the clouds into bursting balls of light, and when a storm stretches for hundreds of miles it looks, as Sally Ride put it, like a transcontinental brigade tossing fireworks from cloud to cloud. This frame, taken over the South China Sea near Borneo on October 28, 2026, also catches the lights of Singapore on the left and clusters of blue fishing-boat lights like the Pleiades.",
+  "pageUrl": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/"
  }
 }
