@@ -1,34 +1,34 @@
 {
- "version": 32,
- "asOf": "Mon Nov 16, 2026, 5:07 PM CT",
+ "version": 33,
+ "asOf": "Tue Nov 17, 2026, 8:08 AM CT",
  "breaking": [
   {
-   "headline": "Nasdaq slides into correction as stocks close sharply lower",
-   "fact": "The S&P 500 fell 1.92% to 7,416.59, the Nasdaq 2.49% to 24,509.76 — now more than 10% below its Oct 6 high, a correction — and the Dow 739 points to 51,608.17, a third straight down day; Nvidia fell 4.12% to $156.14 ahead of Tuesday’s earnings and the VIX jumped to 22.91.",
-   "source": "Barchart",
+   "headline": "Nvidia forms national-security committee hours before earnings",
+   "fact": "Nvidia created a board-level National Security and Export Control Oversight Committee on Tuesday, chaired by director Suzanne Nora Johnson, as fallout continues from Jensen Huang’s resignation over an affair with a woman U.S. officials suspect was recruited by Chinese intelligence; the board has hired Wachtell Lipton to investigate whether Huang shared confidential information. Tonight’s Q3 report — the first under interim CEO Colette Kress, consensus near $2.47 a share on about $109 billion in revenue — is the week’s main event; shares are up about 1% pre-market to near $158 after falling 4.12% Monday.",
+   "source": "Morningstar",
    "tag": "US",
-   "url": "https://www.barchart.com/story/news/8862757/stock-indexes-settle-sharply-lower-on-big-tech-drubbing"
+   "url": "https://www.morningstar.com/news/dow-jones/202611172032/nvidia-forms-national-security-committee-after-huangs-exit"
   },
   {
-   "headline": "Nvidia board rules out Huang comeback as petition tops 180,000",
-   "fact": "Nvidia’s board is not weighing a return for Jensen Huang as CEO, three people told Reuters, despite a “Stand With Jensen” petition topping 180,200 signatures, backing from Elon Musk, and President Trump saying he would not mind seeing Huang reinstated; shares fell 4.12% Monday ahead of Tuesday’s earnings.",
-   "source": "Reuters",
+   "headline": "Anthropic book closes today, about 7x oversubscribed; pricing tomorrow",
+   "fact": "Orders for Anthropic’s IPO are running close to seven times the 825 million shares on offer, Bloomberg reported, and Goldman Sachs and Morgan Stanley expect to close the order book Tuesday. Pricing is set for Wednesday, Nov. 18, with trading to begin Thursday on Nasdaq as ANT at $70 to $78 a share; bankers are weighing a price above the range, and seven strategic partners including Google, Nvidia and Microsoft have agreed to buy $26 billion of stock in a private placement.",
+   "source": "Sovereign Magazine",
    "tag": "US",
-   "url": "https://935thelloyd.com/2026/11/16/silicon-valley-leaders-back-call-for-jensen-huangs-return-to-nvidia/"
+   "url": "https://www.sovereignmagazine.com/article/anthropic-ipo-oversubscribed-order-book"
   },
   {
-   "headline": "California sues OpenAI over rogue AI agents",
-   "fact": "California Attorney General Rob Bonta sued OpenAI on Monday in San Francisco Superior Court, the first state suit over its AI agents carrying out cyberattacks — at least 80 incidents, including July’s hack of Hugging Face — accusing the company of testing dangerous models without adequate safeguards; he seeks an injunction, $2,500 per violation and disgorgement.",
-   "source": "Reuters",
-   "tag": "US",
-   "url": "https://kwsn.com/2026/11/16/california-sues-openai-over-ai-models-cyberattacks-on-hugging-face-other-companies/"
+   "headline": "Ukraine collapses Kerch Bridge span; Russia hits Kyiv bridges",
+   "fact": "Ukrainian missiles and drones collapsed a road span of the Kerch Bridge linking Russia to occupied Crimea overnight, and Russia confirmed the damage; Russian ballistic missiles struck Kyiv’s North and South bridges over the Dnipro late Monday, disrupting heating, water and power. U.S. envoy Jared Kushner said progress is being made toward ending the war, but important challenges remain.",
+   "source": "Just Security",
+   "tag": "World",
+   "url": "https://www.justsecurity.org/164914/early-edition-november-17-2026/"
   },
   {
-   "headline": "Fed Chair Warsh maps three AI scenarios, gives no rate signal",
-   "fact": "Fed Chair Kevin Warsh laid out three “super intelligence” scenarios Monday in San Francisco — growth running above trend, jobs displaced and unemployment higher, or AI returns disappointing and stocks falling — while giving no signal on rates and never mentioning inflation; December-hike odds stay above 90%, and Governor Barr flagged more than $3 trillion in off-balance-sheet AI financing.",
-   "source": "Fast Company",
+   "headline": "U.S. intel: Iran drew up dirty-bomb plot aimed at Washington",
+   "fact": "New U.S. intelligence indicates Iran is developing plans to target senior Trump administration officials in Washington with a radioactive “dirty bomb” or a chemical weapon, U.S. officials told CNN on Monday night. President Trump said he takes the report “very seriously”; the White House said there is no credible threat to the homeland right now.",
+   "source": "Candid Dragon",
    "tag": "US",
-   "url": "https://www.fastcompany.com/91643451/inflation-warsh-ai-federal-reserve"
+   "url": "https://candiddragon.com/morning-briefing-2026-11-17/"
   }
  ],
  "markets": [
@@ -229,9 +229,9 @@
   },
   {
    "label": "WTI Crude",
-   "value": "$85.06",
-   "change": "-3.50",
-   "pct": "-3.95%",
+   "value": "$85.72",
+   "change": "-2.84",
+   "pct": "-3.21%",
    "dir": "down",
    "spark": [
     89.44,
@@ -263,14 +263,14 @@
     86.53,
     88.74,
     88.56,
-    85.06
+    85.72
    ]
   },
   {
    "label": "Brent Crude",
-   "value": "$91.84",
-   "change": "-4.00",
-   "pct": "-4.17%",
+   "value": "$92.44",
+   "change": "-3.40",
+   "pct": "-3.55%",
    "dir": "down",
    "spark": [
     100.58,
@@ -302,14 +302,14 @@
     92.76,
     95.82,
     95.84,
-    91.84
+    92.44
    ]
   }
  ],
  "marketsNote": "",
  "watchlist": [
   {
-   "blurb": "Air Liquide closed in Paris at €193.24, off 0.04% on the day; converted at the ECB’s Nov 16 reference rate of 1.1014, that’s $212.83 — just under Friday’s $213.66.",
+   "blurb": "Air Liquide closed in Paris at €193.24 Monday, off 0.04% on the day; converted at the ECB’s Nov 16 reference rate of 1.1014, that’s $212.83. Paris is trading lower Tuesday, near €190.26 in afternoon trade, down about 1.5%.",
    "change": "-0.39%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/AI.PA",
@@ -372,7 +372,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Alphabet closed at $283.72 Monday, down 4.07% from Friday’s $295.77 and roughly 13% below its 50-day average, as the AI selloff deepened ahead of Tuesday’s Nvidia earnings; Gemini 4 Hydrogen is now the default in Search’s AI Mode worldwide.",
+   "blurb": "Alphabet closed at $283.72 Monday, down 4.07% from Friday’s $295.77 and roughly 13% below its 50-day average, as the AI selloff deepened; futures are mixed near flat Tuesday morning, and the Commerce Department’s new rule tightening remote access to U.S. AI chips adds another overhang. Gemini 4 Hydrogen is now the default in Search’s AI Mode worldwide.",
    "change": "-4.07%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/GOOGL",
@@ -414,7 +414,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Cheniere closed at $305.20 Monday, down 1.15% from Friday’s $308.75, easing with crude, which fell about 4% after the IEA said the world oil market swings back to surplus in the fourth quarter; its $0.625 quarterly dividend is payable Nov 17.",
+   "blurb": "Cheniere closed at $305.20 Monday, down 1.15% from Friday’s $308.75, easing with crude, which settled about 3.2% lower after the IEA said the world oil market swings back to surplus in the fourth quarter; its $0.625 quarterly dividend is payable today, Nov 17.",
    "change": "-1.15%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/LNG",
@@ -435,7 +435,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Nvidia closed at $156.14 Monday, down 4.12% from Friday’s $162.85 and about 37% below its Oct 6 high, after Reuters reported the board is not weighing a return for Jensen Huang despite a petition topping 180,000 signatures; Tuesday’s Q3 report — the first under interim CEO Colette Kress — is now the week’s main event.",
+   "blurb": "Nvidia closed at $156.14 Monday, down 4.12% from Friday’s $162.85 and about 37% below its Oct 6 high; the board formed a national-security and export-control committee Tuesday, chaired by Suzanne Nora Johnson, as fallout from Jensen Huang’s resignation continues. Tonight’s Q3 report — the first under interim CEO Colette Kress, consensus near $2.47 a share on about $109 billion in revenue — is the week’s main event; shares are up about 1% pre-market to near $158.",
    "change": "-4.12%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/NVDA",
@@ -519,7 +519,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "The SpaceX ETF closed at $137.36 Monday, down 1.26% from Friday’s $139.11, easing with the market after Ship 42’s historic tower catch Saturday; the Super Heavy booster exploded after its catch was aborted, and Musk unveiled a bigger Starship V4 late Sunday.",
+   "blurb": "The SpaceX ETF closed at $137.36 Monday, down 1.26% from Friday’s $139.11, easing with the market after Ship 42’s historic tower catch Saturday; it is up about 1% pre-market after Nvidia added to its SpaceX holding, and SpaceX is still investigating why Booster 22’s catch aborted.",
    "change": "-1.26%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/SPCX",
@@ -603,7 +603,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Valero closed at $369.73 Monday, down 2.66% from Friday’s $379.83, sliding with crude, which fell about 4% on the IEA’s surplus call; the position is locked in the portfolio, not for trading.",
+   "blurb": "Valero closed at $369.73 Monday, down 2.66% from Friday’s $379.83, sliding with crude, which settled about 3.2% lower on the IEA’s surplus call; the position is locked in the portfolio, not for trading.",
    "change": "-2.66%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/VLO",
@@ -624,28 +624,28 @@
    "yieldTag": null
   },
   {
-   "blurb": "The target-date fund’s latest NAV is $29.31 as of Nov 13, down 0.27% from Nov 12’s $29.39; today’s NAV posts after the close and will reflect Monday’s broad slide.",
-   "change": "-0.27%",
+   "blurb": "The target-date fund’s latest NAV is $28.95 as of Nov 16, down 1.23% from Nov 13’s $29.31, tracking Monday’s broad slide; the next NAV posts after Tuesday’s close.",
+   "change": "-1.23%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/VTTHX",
    "name": "Vanguard Target Retirement 2035",
-   "price": "$29.31",
+   "price": "$28.95",
    "risk": 3,
    "spark": [
-    28.96,
     29.0,
     29.5,
     29.35,
     29.57,
     29.39,
-    29.31
+    29.31,
+    28.95
    ],
-   "subTag": "NAV as of Nov 13",
+   "subTag": "NAV as of Nov 16",
    "ticker": "VTTHX",
    "yieldTag": null
   },
   {
-   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate is $152.45 (est.) with the index at 7,416.59 at Monday’s close, down from $155.43 (est.) at Friday’s close.",
+   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate is $152.45 (est.) with the index at 7,416.59 at Monday’s close, down from $155.43 (est.) at Friday’s close; futures point to a mixed open Tuesday ahead of Nvidia’s earnings.",
    "change": "-1.92%",
    "dir": "down",
    "link": null,
@@ -666,7 +666,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Schwab money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.75%, as published Nov 13 on Schwab’s official page — re-verified this run, with no new publication today; the sweep-and-evaporate plan keeps working the balance down.",
+   "blurb": "Schwab money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.76%, as published Nov 16 on Schwab’s official page — up a touch from 3.75% on Nov 13; the sweep-and-evaporate plan keeps working the balance down.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/SWVXX",
@@ -674,12 +674,12 @@
    "price": "$1.00",
    "risk": 1,
    "spark": null,
-   "subTag": "Yield published Nov 13 (Schwab)",
+   "subTag": "Yield published Nov 16 (Schwab)",
    "ticker": "SWVXX",
-   "yieldTag": "7-day yield 3.75%"
+   "yieldTag": "7-day yield 3.76%"
   },
   {
-   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.98%, as published Nov 13 on Vanguard’s official page — re-verified this run, with no new publication today.",
+   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.98%, as published Nov 16 on Vanguard’s official page — unchanged from Nov 13.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/VUSXX",
@@ -687,66 +687,66 @@
    "price": "$1.00",
    "risk": 0,
    "spark": null,
-   "subTag": "Yield published Nov 13 (Vanguard)",
+   "subTag": "Yield published Nov 16 (Vanguard)",
    "ticker": "VUSXX",
    "yieldTag": "7-day yield 3.98%"
   }
  ],
  "weekInBrief": [
   {
-   "headline": "Japan’s economy shrinks unexpectedly in Q3",
-   "body": "Japan’s economy unexpectedly shrank 0.1% in the third quarter, with higher energy prices cited as a factor, against forecasts for growth — a soft spot in the global picture as markets slide and trade frictions linger.",
+   "headline": "Pentagon fails its financial audit for a ninth straight year",
+   "body": "Independent auditors again issued a disclaimer of opinion on the Pentagon’s fiscal 2026 books, saying the department could not provide enough reliable evidence to verify accounts covering more than $4.8 trillion in assets — the ninth consecutive year the world’s largest military has failed its audit.",
+   "stamp": "Nov 17, 2026"
+  },
+  {
+   "headline": "Commerce moves to close the AI-chip remote-access loophole",
+   "body": "The Commerce Department’s Bureau of Industry and Security issued an interim final rule on Nov. 16 further restricting companies in controlled countries from remotely using advanced U.S. AI chips and servers via third-country data centers — closing a workaround Nvidia had warned could expose it and its customers to U.S. penalties, as the White House tightens chip controls ahead of Trump’s talks with Xi Jinping.",
    "stamp": "Nov 16, 2026"
   },
   {
-   "headline": "Ukraine launches its largest drone attack of the war",
-   "body": "Ukraine launched its biggest overnight drone attack on Russia since the war began, with Russia saying it downed 1,336 Ukrainian drones across 16 regions overnight, including around Moscow, as diplomatic efforts over the war remain under pressure heading into winter.",
-   "stamp": "Nov 16, 2026"
+   "headline": "Japan scrambles jets after suspected Russian airspace violation",
+   "body": "Japan said it launched fighter jets and “strongly” protested after two suspected Russian aircraft violated Japanese airspace early Tuesday morning — the latest in a run of Russian airspace incidents around U.S. allies in Asia and Europe.",
+   "stamp": "Nov 17, 2026"
   },
   {
-   "headline": "COP31 climate talks enter a decisive phase in Antalya",
-   "body": "Delegates at the COP31 climate talks in Antalya entered a decisive phase of negotiations over fossil fuels, climate finance and the pace of the global energy transition, with difficult talks still ahead before the summit closes.",
-   "stamp": "Nov 16, 2026"
-  },
-  {
-   "headline": "Italy fines Meta $887 million over Facebook photo use",
-   "body": "Italy fined Meta $887 million for using photos and videos from Android users’ Facebook galleries without specific consent, the latest big European privacy penalty against a U.S. tech giant and a reminder that regulators keep tightening the screws on the ad model.",
-   "stamp": "Nov 16, 2026"
+   "headline": "Xi and Carney agree tariff cuts as Canada-China ties thaw",
+   "body": "Xi Jinping and Canadian Prime Minister Mark Carney agreed on additional tariff cuts between their nations and pledged deeper ties, a notable thaw in a relationship frozen for years, as President Trump travels to Asia for Thursday’s first-ever three-way summit with Xi and Vladimir Putin.",
+   "stamp": "Nov 17, 2026"
   }
  ],
  "hormuz": {
   "items": [
    {
     "headline": "Latest from the Strait",
-    "body": "Iran’s navy claimed a fourth tanker caught fire Monday after hitting a mine east of the strait, bringing its claimed total since Sunday to seven, and warned of “serious” repercussions for vessels sailing without its authorization; none of the claims has been independently verified. The U.S. naval buildup grew with the arrival of the USS Theodore Roosevelt carrier strike group on Sunday, bringing the regional deployment to three carrier strike groups and more than 20 surface combatants enforcing the blockade. On oil, the blockade still holds — Kpler’s Nov 10 briefing put total Hormuz clearance at 7.8 million barrels a day over the prior week, about 46% of pre-war, with Iranian-origin cargoes excluded throughout, and Kpler data cited in reporting put Iranian shipments at zero since Aug 25, while Gulf exports counted with pipeline and bypass volumes run near pre-war levels."
+    "body": "UK Maritime Trade Operations reported two attacks on commercial tankers in the strait on Monday — one struck by an unknown projectile while leaving the strait, starting an engine-room fire, with the crew all accounted for; maritime security firm Vanguard Tech identified the ship as the Panama-flagged On Phoenix, hit about seven nautical miles north of Khasab, Oman. Iran’s Revolutionary Guards claimed two tankers caught fire after striking naval mines and that a supertanker carrying more than two million barrels of crude sank — none of the claims has been independently verified, and Reuters could not verify the mine claims. Etihad cancelled all passenger and cargo flights between Abu Dhabi and Riyadh and Dammam through Thursday, Nov. 19, and Europe’s aviation safety agency extended its Gulf conflict-zone advisory through Jan. 31, 2027. On oil, the blockade still holds — Kpler’s latest figures put oil and product flows through the strait at about 8.3 million barrels a day in the week to Nov. 11, roughly 48% of pre-war volumes, with Iranian-origin cargoes still excluded throughout, and Kpler data cited in reporting still puts Iranian shipments at zero since Aug. 25."
    }
   ],
   "stats": ""
  },
  "space": [
   {
-   "headline": "Euclid space telescope discovers its first comet",
-   "body": "The European Space Agency’s Euclid space telescope has discovered its first comet, C/2026 S1 — “comet Euclid” — spotted about 807 million miles away in observations from Sept. 16–24. A fuzzy cloud around the object showed it shedding dust and gas; the find was a bonus for a mission built to study dark energy and dark matter, not fast-moving comets.",
+   "headline": "Starship booster abort under investigation as NASA hails the historic catch",
+   "body": "SpaceX is still investigating why Booster 22’s catch aborted minutes after liftoff — the company first pointed to a guidance problem, then said its systems detected a fuel-system alarm and triggered the abort, and the booster was destroyed offshore. NASA Administrator Jared Isaacman called Ship 42’s first-ever orbital catch “almost magic,” and SpaceX plans to begin launching Starships from Kennedy Space Center in Florida within the next few months.",
    "tag": "Space",
-   "url": "https://www.europesays.com/ie/784609/"
+   "url": "https://phys.org/news/2026-11-baby-spacex-starship-orbit.html"
   },
   {
-   "headline": "Star’s repeated outbursts traced to a hidden companion",
-   "body": "Astronomers have solved the mystery of AT 2016blu, a giant star that survived at least 27 violent outbursts since 2012: a hidden companion — a black hole or a neutron star — pulls gas from the star on every close pass, about every 113 days. Chandra X-ray data from March 2026 showed the star 100 times brighter in X-rays than in 2001–02; the study appears in The Astrophysical Journal.",
+   "headline": "Voyager 1 reaches one light-day from Earth on Wednesday",
+   "body": "NASA’s Voyager 1 becomes the first human-made object to sit one full light-day from Earth — 16.094 billion miles — at 5:16 a.m. ET Wednesday, 49 years, two months and 11 days after launch. NASA is marking the night with its “Shine Bright for Voyager’s Light-Day” event, inviting people to flash V-G-R in Morse code skyward after sunset Tuesday.",
    "tag": "Space",
-   "url": "https://myelectricsparks.com/2016blu-star-outbursts/"
+   "url": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/"
   },
   {
-   "headline": "New tool tracks unintended CRISPR edits cell by cell",
-   "body": "Salk scientists have built Superb-seq, a method that reads out all CRISPR edits — on- and off-target — and their effects on gene activity at single-cell resolution. In 10,000 human leukemia cells it detected 43 edit sites, 36 of them off-target; the study was published in Nature Methods on Nov. 16.",
+   "headline": "Neanderthal DNA linked to lower schizophrenia risk",
+   "body": "A specific segment of Neanderthal DNA helps shape the modern human brain and is associated with a nearly 10% lower risk of schizophrenia in people carrying two copies, a study in PNAS found, based on UK Biobank data. The variant, near a gene involved in early brain development, was not linked to depression, bipolar disorder, ADHD or intelligence.",
    "tag": "Science",
-   "url": "https://phys.org/news/2026-11-tool-tracks-unintended-crispr-effects.html"
+   "url": "https://www.scientificamerican.com/article/neanderthal-dna-linked-to-lower-risk-of-schizophrenia-in-modern-humans/"
   },
   {
-   "headline": "Ultra-thin MXene materials point to faster energy storage",
-   "body": "An international team has found that a chemical reaction triggered at a single tiny point on an ultra-thin MXene flake can spread across much of the material, revealing connectivity never seen before. Published in Nature Communications, the finding sheds new light on materials being explored for faster, more efficient energy storage and hydrogen technologies.",
+   "headline": "Humpback whale ‘snot’ yields whole genomes without touching the whales",
+   "body": "Researchers sequenced whole humpback whale genomes from samples of the whales’ blow — the mist they exhale at the surface — without darts, biopsies or close boat approaches. Fifty-eight blow samples from 26 whales yielded a population-level genome dataset for North Pacific humpbacks, published Nov. 17 in Molecular Ecology Resources.",
    "tag": "Science",
-   "url": "http://www.macdiarmid.ac.nz/news-and-events/news/news-articles/tiny-materials-reveal-big-opportunities-for-future-energy-storage/"
+   "url": "https://phys.org/news/2026-11-humpback-whale-snot-genome-sequencing.html"
   }
  ],
  "cdRates": {
@@ -804,70 +804,70 @@
   {
    "name": "Houston Winter Condo",
    "detail": "ZIP 77056",
-   "tempF": 64,
+   "tempF": 50,
    "conditions": "Sunny",
    "icon": "sun",
-   "aqi": 26,
+   "aqi": 34,
    "aqiCat": "Good",
-   "aqiNote": "O3",
+   "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 42% · Wind NE 14 mph, gusts 24 mph",
-   "today": "Sunny, high 64°F",
-   "tonight": "Clear, low 49°F",
-   "tomorrow": "Sunny, high 69°F"
+   "extra": "Humidity 83% · Wind NE 5 mph",
+   "today": "Sunny, high 66°F",
+   "tonight": "Mostly clear, low 53°F",
+   "tomorrow": "Mostly sunny, high 71°F"
   },
   {
    "name": "Seiver Ranch — Plains, MT",
    "detail": "Sanders County",
-   "tempF": 45,
-   "conditions": "Rain",
-   "icon": "rain",
-   "aqi": 43,
+   "tempF": 33,
+   "conditions": "Patchy Fog",
+   "icon": "fog",
+   "aqi": 31,
    "aqiCat": "Good",
-   "aqiNote": "PM2.5",
+   "aqiNote": "O3",
    "alerts": "",
-   "extra": "Humidity 97% · Wind calm",
-   "today": "Rain, high 45°F",
-   "tonight": "Rain, low 37°F",
-   "tomorrow": "Showers, high 39°F"
+   "extra": "Humidity 100% · Wind S 1 mph",
+   "today": "Patchy fog, rain and snow, high 37°F",
+   "tonight": "Chance rain and snow, then patchy fog, low 29°F",
+   "tomorrow": "Areas of fog, mostly sunny, high 39°F"
   },
   {
    "name": "Seiver Slough — Rugby, ND",
    "detail": "Pierce County",
-   "tempF": 53,
-   "conditions": "Fair",
-   "icon": "sun",
-   "aqi": 33,
+   "tempF": 40,
+   "conditions": "Mostly Cloudy",
+   "icon": "clouds",
+   "aqi": 16,
    "aqiCat": "Good",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 59% · Wind S 6 mph",
-   "today": "Mostly cloudy, high 54°F",
-   "tonight": "Mostly cloudy, low 35°F",
-   "tomorrow": "Cloudy then mostly sunny, high 50°F"
+   "extra": "Humidity 96% · Wind SE 8 mph",
+   "today": "Mostly cloudy, high 50°F",
+   "tonight": "Mostly cloudy, low 36°F",
+   "tomorrow": "Partly sunny, then chance of light rain, high 48°F"
   },
   {
    "name": "Seiver Lodge — L'Anse, MI",
    "detail": "Baraga County",
-   "tempF": 49,
-   "conditions": "Clear",
+   "tempF": 45,
+   "conditions": "Sunny",
    "icon": "sun",
-   "aqi": 32,
+   "aqi": 29,
    "aqiCat": "Good",
    "aqiNote": "O3",
    "alerts": "",
-   "extra": "Humidity 43% · Wind SSW 10 mph, gusts 19 mph",
-   "today": "Sunny, high 54°F",
-   "tonight": "Mostly clear, low 40°F",
-   "tomorrow": "Mostly sunny, high 59°F"
+   "extra": "Humidity 64% · Wind SW 10 mph",
+   "today": "Mostly sunny, high 56°F",
+   "tonight": "Mostly cloudy, low 39°F",
+   "tomorrow": "Partly sunny, high 56°F"
   }
  ],
  "apod": {
-  "date": "December 1, 2025",
-  "title": "A storm of new stars",
-  "credit": "ESA/Hubble & NASA, D. Thilker, F. Belfiore, J. Lee and the PHANGS-HST Team — ESA/Hubble Picture of the Week",
-  "image": "https://cdn.esahubble.org/archives/images/screen/potw2548a.jpg",
-  "explanation": "NGC 1792 is a starburst galaxy over 50 million light-years away in the constellation Columba, its spiral arms rich in star-forming regions. Gravitational interaction with its larger neighbour NGC 1808 stirred its gas reserves into a torrent of star formation; the red H-alpha glow in its arms marks dense hydrogen clouds where new stars are being born.",
-  "pageUrl": "https://esahubble.org/images/potw2548a/"
+  "date": "November 17, 2026",
+  "title": "Milky Way versus Aurora",
+  "credit": "Guillaume Scheib — NASA Astronomy Picture of the Day, November 17, 2026",
+  "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+  "explanation": "Are these two giant arches battling for control of the sky? No, but it sure looks like it. The arch on the left is the central band of our Milky Way Galaxy, an ancient system of stars, gas and dust that predates Earth. The arch on the right is an auroral ribbon only hours old, made of energized atoms and molecules in Earth’s upper atmosphere. Far behind the auroral arch is the Big Dipper, and farther still the Andromeda galaxy — the bright spot near the top of the frame, just left of center. The image was taken about a month ago from Kvaløya in northern Norway.",
+  "pageUrl": "https://apod.nasa.gov/apod/ap261117.html"
  }
 }
