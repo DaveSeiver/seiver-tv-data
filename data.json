@@ -1,34 +1,34 @@
 {
- "version": 35,
- "asOf": "Tue Nov 17, 2026, 5:14 PM CT",
+ "version": 36,
+ "asOf": "Wed Nov 18, 2026, 8:18 AM CT",
  "breaking": [
   {
-   "headline": "Nvidia beats big and guides to $130 billion; shares jump after hours",
-   "fact": "Nvidia reported fiscal Q3 revenue of $115.8 billion, up 103% from a year ago and about $6.7 billion above consensus, with adjusted EPS of $2.68 against $2.47 expected and data-center revenue of $107.6 billion. It guided Q4 revenue to $130 billion, plus or minus 3%, above the roughly $125 billion analysts expected, assuming no data-center chip sales to China. Shares rose about 3% after hours in the first report under interim CEO Colette Kress, ahead of the 5 p.m. ET call.",
-   "source": "Market Unclouded",
+   "headline": "Nvidia board rejects Huang’s return as earnings beat big",
+   "fact": "Jensen Huang said Tuesday he would be “honored” to return as Nvidia CEO, five days after resigning over extramarital affairs including one with a woman U.S. officials suspect was recruited by Chinese intelligence. Hours later, board chair Harvey Jones opened the earnings call by saying the board unanimously accepted Huang’s resignation and does not intend to reinstate him, and that the permanent-CEO search continues under interim CEO Colette Kress. Huang has agreed to closed-door testimony before three House committees on Dec. 1. Nvidia reported fiscal Q3 revenue of $115.8 billion, up 103% year over year, with adjusted EPS of $2.68 against $2.47 expected, and guided Q4 revenue to $130 billion; shares rose nearly 4% after hours.",
+   "source": "Men's Journal",
    "tag": "US",
-   "url": "https://marketunclouded.com/article-nvidia-earnings-q3-fy2027"
+   "url": "https://www.mensjournal.com/news/jensen-huang-offers-to-return-as-nvidia-ceo-just-days-after-quitting-but-the-board-says-no"
   },
   {
-   "headline": "NSA says outage was routine-maintenance glitch, not a cyberattack",
-   "fact": "The NSA said Tuesday its classified internal network, NSA Net, suffered “temporary degradation” during scheduled routine maintenance, with mission-critical capabilities fully operational. Director of National Intelligence Jay Clayton said the outage stemmed from patching PHP software vulnerabilities discovered last month, and there is no sign any of the recent tech outages, including the NSA’s, was a cyberattack. Restoration was still under way Tuesday afternoon.",
-   "source": "Reuters",
-   "tag": "US",
-   "url": "https://www.reuters.com/world/us/national-security-agency-says-network-hit-by-temporary-degradation-during-2026-11-17/"
+   "headline": "Trump lands in China as Xi and Putin greet him; three-way talks Thursday",
+   "fact": "President Trump landed in Shenzhen on Wednesday, where Xi Jinping greeted him on the tarmac — believed to be the first time Xi has personally greeted an arriving leader — and Trump shook hands with Vladimir Putin ahead of Thursday’s first-ever three-way meeting of the U.S., Chinese and Russian leaders at the APEC summit. Trump left the Philippines claiming a “very big trade deal” without giving details.",
+   "source": "Candid Dragon",
+   "tag": "World",
+   "url": "https://candiddragon.com/morning-briefing-2026-11-18/"
   },
   {
-   "headline": "Disney beats Q4 estimates, hikes dividend 33%, plans $3 billion in savings",
-   "fact": "Disney reported fiscal Q4 adjusted EPS of $1.77, up 59% from a year ago and above the $1.68 analysts expected, on revenue of $25.95 billion, up 16%. Streaming operating income doubled to $824 million and parks revenue rose 15% to $10.1 billion. The company raised its annual dividend 33% to $2.00 a share and outlined $3 billion in run-rate savings by fiscal 2029.",
-   "source": "TipRanks",
+   "headline": "Anthropic set to price IPO tonight, likely above $80 a share",
+   "fact": "The Wall Street Journal reported Tuesday that Anthropic expects to price its IPO above its $70–$78 range, at more than $80 a share, after orders ran about six to seven times the 825 million shares on offer — a price that would value the Claude maker at roughly $1.5–$1.6 trillion. Final pricing is expected Wednesday evening, with trading to begin Thursday on Nasdaq under the ticker ANT, alongside a $26 billion private placement from Google, Nvidia, Microsoft and other strategic partners.",
+   "source": "AJU Press",
    "tag": "US",
-   "url": "https://www.tipranks.com/news/disney-beats-q4-estimates-announces-33-dividend-hike-and-3b-cost-saving-plan"
+   "url": "https://www.ajupress.com/view/20261118093609259"
   },
   {
-   "headline": "Anthropic order book closes; IPO to price Wednesday, trade Thursday",
-   "fact": "Anthropic’s order book closed at 4 p.m. ET Tuesday; CNBC’s David Faber, citing sources, says the IPO is likely to price above the $70–$78 range. The final price is set Wednesday and trading begins Thursday on Nasdaq as ANT. Altimeter Capital’s Brad Gerstner put in a $5 billion order, and demand is running about seven times the 825 million shares on offer.",
-   "source": "TipRanks",
+   "headline": "Peltola wins Alaska, giving Democrats a 56–44 Senate majority",
+   "fact": "The Associated Press called Alaska’s Senate race for Democrat Mary Peltola on Tuesday night, the last undecided Senate contest in the country, after all 401 precincts reported. Peltola took 50.12% of first-choice votes to Sen. Dan Sullivan’s 45.80%, winning outright under Alaska’s ranked-choice system without elimination rounds. She becomes the first Alaska Native elected to the Senate, and her win — the ninth Democratic flip of the midterms — gives the party a 56–44 majority, its largest since 2009.",
+   "source": "TML News",
    "tag": "US",
-   "url": "https://www.tipranks.com/news/anthropic-could-price-its-ipo-above-78-as-investor-demand-surges"
+   "url": "https://tml.news/stories/peltola-beats-sullivan-alaska-senate-call/"
   }
  ],
  "markets": [
@@ -229,10 +229,10 @@
   },
   {
    "label": "WTI Crude",
-   "value": "$85.61",
-   "change": "-0.11",
-   "pct": "-0.13%",
-   "dir": "down",
+   "value": "$86.01",
+   "change": "+0.29",
+   "pct": "+0.34%",
+   "dir": "up",
    "spark": [
     88.28,
     91.49,
@@ -263,14 +263,14 @@
     88.74,
     88.56,
     85.72,
-    85.61
+    86.01
    ]
   },
   {
    "label": "Brent Crude",
-   "value": "$93.07",
-   "change": "+0.63",
-   "pct": "+0.68%",
+   "value": "$93.14",
+   "change": "+0.70",
+   "pct": "+0.76%",
    "dir": "up",
    "spark": [
     100.2,
@@ -302,14 +302,14 @@
     95.82,
     95.84,
     92.44,
-    93.07
+    93.14
    ]
   }
  ],
  "marketsNote": "",
  "watchlist": [
   {
-   "blurb": "Air Liquide closed in Paris at €190.94 Tuesday, down 1.19% on the day; converted at the ECB’s Nov 17 reference rate of 1.0989, that’s $209.82.",
+   "blurb": "Air Liquide closed in Paris at €190.94 Tuesday, down 1.19% on the day; converted at the ECB’s Nov 17 reference rate of 1.0989, that’s $209.82. Paris is trading slightly higher Wednesday morning, near €191.22.",
    "change": "-1.19%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/AI.PA",
@@ -330,7 +330,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "The T-bill ETF closed flat at $91.55 Tuesday; its latest monthly distribution of $0.30849 (ex Nov 2, paid Nov 5) works out to a 4.04% distribution yield at this price.",
+   "blurb": "The T-bill ETF held at $91.55 Tuesday, unchanged on the day; its latest monthly distribution of $0.30849 (ex Nov 2, paid Nov 5) works out to a 4.04% distribution yield at this price.",
    "change": "0.00%",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/BIL",
@@ -372,7 +372,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Alphabet closed at $280.20 Tuesday, down 1.24% as the AI selloff stretched into a fourth straight session; Gemini 4 Hydrogen is now the default in Search’s AI Mode worldwide, and the Commerce Department’s new rule tightening remote access to U.S. AI chips remains an overhang. Nvidia beat after the close.",
+   "blurb": "Alphabet closed at $280.20 Tuesday, down 1.24% as the AI selloff stretched into a fourth straight session; Gemini 4 Hydrogen is now the default in Search’s AI Mode worldwide, and the Commerce Department’s new rule tightening remote access to U.S. AI chips remains an overhang. Futures point to a firmer open Wednesday after Nvidia’s big beat.",
    "change": "-1.24%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/GOOGL",
@@ -414,7 +414,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Cheniere closed at $301.97 Tuesday, down 1.06%, easing even as Brent crude rose; its $0.625 quarterly dividend is payable today, Nov 17.",
+   "blurb": "Cheniere closed at $301.97 Tuesday, down 1.06%, easing even as Brent crude settled higher; its $0.625 quarterly dividend was payable Nov 17.",
    "change": "-1.06%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/LNG",
@@ -435,7 +435,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Nvidia closed at $155.46 Tuesday, down 0.44% — then beat after the close: fiscal Q3 revenue of $115.8 billion, up 103% year over year, with adjusted EPS of $2.68 against $2.47 expected, and Q4 revenue guided to $130 billion, above the roughly $125 billion consensus. Shares rose about 3% after hours in the first report under interim CEO Colette Kress.",
+   "blurb": "Nvidia closed at $155.46 Tuesday, down 0.44% — then beat after the close: fiscal Q3 revenue of $115.8 billion, up 103% year over year, with adjusted EPS of $2.68 against $2.47 expected, and Q4 revenue guided to $130 billion, above the roughly $125 billion consensus. Shares rose nearly 4% after hours, though the board used the earnings call to shut the door on Jensen Huang’s return — chair Harvey Jones said the board unanimously accepted his resignation and does not intend to reinstate him.",
    "change": "-0.44%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/NVDA",
@@ -519,7 +519,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "The SpaceX ETF closed at $141.70 Tuesday, up 3.16% against the selloff; SpaceX is still investigating why Booster 22’s catch aborted, and Elon Musk now blames underperforming engines, with a Raptor V3.2 fix in the works.",
+   "blurb": "The SpaceX ETF closed at $141.70 Tuesday, up 3.16% against the selloff; Musk just unveiled a much bigger Starship V4 — a roughly 70-metre upper stage with nine Raptor engines and a 200-ton-plus payload target — while SpaceX still investigates why Booster 22’s catch aborted, with Musk blaming underperforming engines and a Raptor V3.2 fix in the works.",
    "change": "+3.16%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/SPCX",
@@ -603,7 +603,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Valero closed at $363.77 Tuesday, down 1.61%, sliding even as Brent crude rose; the position is locked in the portfolio, not for trading.",
+   "blurb": "Valero closed at $363.77 Tuesday, down 1.61%, sliding even as Brent crude settled higher; the position is locked in the portfolio, not for trading.",
    "change": "-1.61%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/VLO",
@@ -624,28 +624,28 @@
    "yieldTag": null
   },
   {
-   "blurb": "The target-date fund’s latest NAV is $28.95 as of Nov 16, down 1.23% from Nov 13’s $29.31, tracking the broad slide; the next NAV posts after Tuesday’s close.",
-   "change": "-1.23%",
+   "blurb": "The target-date fund’s latest NAV is $28.75 as of Nov 17, down 0.69% from Nov 16’s $28.95, tracking the broad slide; the next NAV posts after Wednesday’s close.",
+   "change": "-0.69%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/VTTHX",
    "name": "Vanguard Target Retirement 2035",
-   "price": "$28.95",
+   "price": "$28.75",
    "risk": 3,
    "spark": [
-    29.0,
     29.5,
     29.35,
     29.57,
     29.39,
     29.31,
-    28.95
+    28.95,
+    28.75
    ],
-   "subTag": "NAV as of Nov 16",
+   "subTag": "NAV as of Nov 17",
    "ticker": "VTTHX",
    "yieldTag": null
   },
   {
-   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate is $150.89 (est.) with the index closing at 7,340.53 Tuesday, down from $152.45 (est.) at Monday’s close.",
+   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate is $150.89 (est.) with the index closing at 7,340.53 Tuesday, down from $152.45 (est.) at Monday’s close; futures point to a firmer open Wednesday after Nvidia’s beat.",
    "change": "-1.02%",
    "dir": "down",
    "link": null,
@@ -666,7 +666,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Schwab money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.76%, as published Nov 16 on Schwab’s official page — unchanged; the sweep-and-evaporate plan keeps working the balance down.",
+   "blurb": "Schwab money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.76%, as published Nov 17 on Schwab’s official page — unchanged; the sweep-and-evaporate plan keeps working the balance down.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/SWVXX",
@@ -674,12 +674,12 @@
    "price": "$1.00",
    "risk": 1,
    "spark": null,
-   "subTag": "Yield published Nov 16 (Schwab)",
+   "subTag": "Yield published Nov 17 (Schwab)",
    "ticker": "SWVXX",
    "yieldTag": "7-day yield 3.76%"
   },
   {
-   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.98%, as published Nov 16 on Vanguard’s official page — unchanged.",
+   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.99%, as published Nov 17 on Vanguard’s official page — up a touch from 3.98% on Nov 16.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/VUSXX",
@@ -687,30 +687,30 @@
    "price": "$1.00",
    "risk": 0,
    "spark": null,
-   "subTag": "Yield published Nov 16 (Vanguard)",
+   "subTag": "Yield published Nov 17 (Vanguard)",
    "ticker": "VUSXX",
-   "yieldTag": "7-day yield 3.98%"
+   "yieldTag": "7-day yield 3.99%"
   }
  ],
  "weekInBrief": [
   {
-   "headline": "Retail sales rise 0.2% in October; Home Depot beats and lifts outlook",
-   "body": "U.S. retail sales rose 0.2% in October, matching expectations, in a sign the consumer is holding up. Home Depot reported third-quarter sales of $43.4 billion, up 4.9%, with comparable sales up 2.2% and adjusted EPS of $3.86, and raised its full-year sales growth outlook to 4.5%.",
+   "headline": "Fed minutes due at 2 p.m. ET as a December hike is nearly fully priced",
+   "body": "Minutes of the Fed’s Oct. 27–28 meeting arrive at 2 p.m. ET Wednesday; the Fed held its target range at 3.75%–4.00% on a 10–2 vote, with Lisa Cook and Beth Hammack dissenting in favor of a hike. Traders now price a 25-basis-point December hike at roughly 92%–96%, with Governor Christopher Waller floating 50 basis points, and the 10-year Treasury yield sits at 5.10%.",
+   "stamp": "Nov 18, 2026"
+  },
+  {
+   "headline": "Congo Ebola outbreak passes 11,000 cases, still not under control",
+   "body": "The Ebola outbreak in the Democratic Republic of Congo has passed 11,000 cases and 5,500 deaths since it was declared May 15, the second-largest outbreak on record, and Africa CDC says it is still not under control six months on. The WHO says 400–500 new cases are still reported each week, with children paying a terrible price — more than a quarter of confirmed cases — and cases have spread beyond the DRC to Kenya and Nigeria.",
    "stamp": "Nov 17, 2026"
   },
   {
-   "headline": "Extended half-life RSV antibody shows broad activity, high barrier to resistance",
-   "body": "An extended half-life RSV monoclonal antibody, RSM01, showed broad neutralizing activity against circulating RSV strains with a high barrier to resistance in lab tests, researchers report in Nature Communications. The findings support RSM01 as an alternative should resistance emerge to current licensed anti-RSV antibodies.",
+   "headline": "El Niño-driven waves batter California coast as atmospheric rivers arrive",
+   "body": "Waves topped 30 feet along the California coast, with a NOAA buoy off Monterey recording a 34.1-foot wave — its highest in 30 years — and waves above 50 feet reported in San Mateo County on Saturday. Forecasters warn of more dangerous surf and two storms this week, with flood risk from the Bay Area to San Diego, heavy Sierra snow and Thanksgiving travel disruption, as a strong El Niño keeps aiming atmospheric rivers at the West Coast.",
    "stamp": "Nov 17, 2026"
   },
   {
-   "headline": "China’s thermal power falls for a fourth straight month as wind and solar grow",
-   "body": "China’s thermal power generation fell year on year for a fourth straight month in October as wind and solar generation grew, extending the shift in the world’s largest power system away from coal-fired output.",
-   "stamp": "Nov 17, 2026"
-  },
-  {
-   "headline": "Wind farms and clouds shape each other, Dutch study finds",
-   "body": "Researchers in the Netherlands found that offshore wind farms and clouds influence each other, with the interaction depending on weather conditions, particularly cloud height — a finding that matters for forecasting power output as wind farms scale up. The work was presented by the American Institute of Physics.",
+   "headline": "U.S. loses measles elimination status after 26 years",
+   "body": "The Pan American Health Organization announced Tuesday that the United States has lost its measles elimination status, held since 2000, after the virus circulated uninterrupted for more than a year. The CDC has confirmed 5,412 measles cases in 2026 — the highest annual total since 1991 — with 96% of cases in people unvaccinated or of unknown status; Mexico and Bolivia lost their status too.",
    "stamp": "Nov 17, 2026"
   }
  ],
@@ -718,35 +718,35 @@
   "items": [
    {
     "headline": "Latest from the Strait",
-    "body": "Iranian state media claimed Tuesday that four tankers struck naval mines in the strait over the past two days — none of those claims has been independently verified. Iran’s foreign minister held closed-door talks in Islamabad on Tuesday with Pakistan’s army chief as Tehran presses its conditions for reopening the strait. On oil, the blockade still holds — UANI’s Nov. 16 update says no Iranian crude tanker has evaded it since July 14, while CENTCOM said Nov. 14 that Gulf partners have moved more than 1.7 billion barrels of non-Iranian crude through the strait under U.S. protection."
+    "body": "U.S. jets struck an IRGC missile site on Qeshm Island on Tuesday, answering Iranian drone attacks on a U.S. radar at Bahrain’s Sheikh Isa air base; overnight, Iran hit back with drones at Kuwait’s Ali Al Salem air base, which hosts U.S. forces, and at Bahrain for a fourth time in six days, with air defenses in both countries reporting interceptions and Tehran claiming hits on Patriot batteries. An ADNOC Logistics & Services vessel was attacked in the strait on Tuesday evening, leaving one crew member missing and 11 injured, and the LPG carrier Tara Gas caught fire off Oman’s Musandam peninsula after being struck; Iran’s state media now claims six tankers caught fire after striking naval mines in the past 48 hours, a claim no independent source has verified, and Iraq resumed pumping oil through its pipeline to Turkey to bypass the strait. On oil, the blockade still holds — UANI’s Nov. 16 update says no Iranian crude tanker has evaded it since July 14, while flows through the strait itself averaged about 8.6 million barrels a day in the week to Nov. 17, down from about 13.5 million in early November, per the independent Hormuz Strait Tracker, and Kpler puts total Gulf exports at about 11 million barrels a day as of Nov. 16."
    }
   ],
   "stats": ""
  },
  "space": [
   {
-   "headline": "Perseverance finds water-linked rocks beyond Jezero crater",
-   "body": "NASA’s Perseverance rover found a cluster of unusually bright rocks rich in hydrated silica in an area called Idubi, outside Jezero crater. The mineral forms in watery environments and can preserve microscopic fossils on Earth, making the rocks a prime target for studying Mars’s water history and past habitability. A close-up science campaign is already under way.",
+   "headline": "Musk unveils a much bigger Starship V4: 70 metres, nine engines, 200-ton payload",
+   "body": "Elon Musk posted Nov. 15–16 that Starship V4’s upper stage will be about 70 metres long — roughly 40% longer than the current ship — carrying more than 60% more propellant, with nine higher-thrust Raptor engines, three more Raptor Vacuums. He projects propellant cost below $500,000 per flight and payload above 200 tons, with a first flight targeted in 2027; it follows Flight 15’s first-ever tower catch of Ship 42, which Musk says could fly again after weeks of refurbishment, while SpaceX still investigates why Booster 22’s catch aborted.",
    "tag": "Space",
-   "url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/"
+   "url": "https://www.thedefensenews.com/SpaceX-Plans-Major-Starship-V4-Upgrade-with-70-Metre-Upper-Stage-and-Nine-Raptor-Engines/"
   },
   {
-   "headline": "Webb: galaxy outflows quench star formation at ‘cosmic noon’",
-   "body": "James Webb Space Telescope observations show massive galaxies drive large-scale gaseous outflows that shut down their star production, researchers report. The study links outflows from a massive galaxy’s central core to the quenching of star formation at so-called cosmic noon, roughly 8–12 billion years ago, when star formation across the universe peaked.",
+   "headline": "Voyager 1 crosses one light-day from Earth",
+   "body": "At 5:16 a.m. ET today, NASA’s Voyager 1 became the first human-made object to sit one full light-day — about 16.1 billion miles — from Earth, 49 years, two months and 11 days after launch. Radio signals now take a full day to reach it and another day to return; NASA marked the night with its “Shine Bright for Voyager’s Light-Day” event, asking people to flash V-G-R in Morse code skyward, and holds a JPL panel Thursday. Voyager 2, travelling more slowly, will not reach the mark until 2035.",
    "tag": "Space",
-   "url": "https://phys.org/news/2026-11-galaxy-outflows-star-formation-cosmic.html"
+   "url": "https://www.sciencealert.com/voyager-1-has-traveled-through-space-at-38000-mph-since-1977-and-this-wednesday-will-finally-reach-1-light-day"
   },
   {
-   "headline": "Diamond maser amplifies quantum signals 1,000-fold",
-   "body": "Researchers at the Okinawa Institute of Science and Technology built a diamond-based microwave amplifier — a maser — that operates near absolute zero and boosts weak signals more than 1,000-fold while adding noise close to the minimum quantum mechanics allows. The device, described in Nature Communications, is a tool for quantum-computer readout, sensing and dark-matter searches.",
+   "headline": "Genetic ‘dimmer switch’ boosts sepsis resistance",
+   "body": "UC Santa Cruz researchers found that a long noncoding RNA called Gaplinc acts as a genetic dimmer switch in macrophages, swaying whether the body survives severe, life-threatening inflammation; mice with higher Gaplinc levels survived endotoxic shock better. The work, published in the Proceedings of the National Academy of Sciences, points to a new strategy for treating sepsis, which kills at least 20% of adults who develop it, according to the CDC.",
    "tag": "Science",
-   "url": "https://phys.org/news/2026-11-ultracold-diamond-microwave-laser-amplifies.html"
+   "url": "https://medicalxpress.com/news/2026-11-genetic-dimmer-boost-sepsis-resistance.html"
   },
   {
-   "headline": "Melanoma protein patterns predict immunotherapy response",
-   "body": "Researchers at Mount Sinai and the National Cancer Institute identified three protein patterns in skin melanoma linked to treatment response after combination immunotherapy. The immune-rich pattern had the most favorable progression-free survival, and the team built a classifier to assign tumors to the groups. The companion studies appear in Clinical Cancer Research and Cancer Discovery.",
+   "headline": "A toxin helps African lungfish survive on land",
+   "body": "University of New Mexico researchers found that African lungfish use a naturally occurring pore-forming toxin to remodel their skin from an aquatic to a terrestrial configuration as droughts drive them onto land each year. The discovery, published in the journal Cell, reveals how a toxin was evolutionarily repurposed to drive the epithelial remodeling behind the lungfish’s move from water to land.",
    "tag": "Science",
-   "url": "https://medicalxpress.com/news/2026-11-melanoma-protein-patterns-immunotherapy-response.html"
+   "url": "https://phys.org/news/2026-11-toxin-african-lungfish-survive.html"
   }
  ],
  "cdRates": {
@@ -804,70 +804,70 @@
   {
    "name": "Houston Winter Condo",
    "detail": "ZIP 77056",
-   "tempF": 68,
-   "conditions": "Sunny",
-   "icon": "sun",
-   "aqi": 27,
-   "aqiCat": "Good",
-   "aqiNote": "PM2.5",
-   "alerts": "",
-   "extra": "Humidity 31% · Wind NE 7 mph",
-   "today": "Sunny, high 68°F",
-   "tonight": "Mostly clear, low 54°F",
-   "tomorrow": "Partly cloudy, high 73°F"
-  },
-  {
-   "name": "Seiver Ranch — Plains, MT",
-   "detail": "Sanders County",
-   "tempF": 40,
-   "conditions": "Showers in the Vicinity",
-   "icon": "rain",
-   "aqi": 71,
-   "aqiCat": "Moderate",
-   "aqiNote": "PM2.5",
-   "alerts": "",
-   "extra": "Humidity 90% · Wind WSW 2 mph",
-   "today": "Showers in the vicinity, high 40°F",
-   "tonight": "Showers early, low 31°F",
-   "tomorrow": "Partly cloudy, high 40°F"
-  },
-  {
-   "name": "Seiver Slough — Rugby, ND",
-   "detail": "Pierce County",
-   "tempF": 46,
-   "conditions": "Cloudy",
-   "icon": "clouds",
+   "tempF": 57,
+   "conditions": "Partly Sunny",
+   "icon": "partly",
    "aqi": 51,
    "aqiCat": "Moderate",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 87% · Wind ESE 11 mph",
-   "today": "Cloudy, high 51°F",
-   "tonight": "Cloudy, low 39°F",
-   "tomorrow": "Cloudy, high 50°F"
+   "extra": "Humidity 79% · Wind ENE 5 mph",
+   "today": "Partly Sunny, high 72°F",
+   "tonight": "Mostly Cloudy, low 57°F",
+   "tomorrow": "Mostly Sunny, high 75°F"
+  },
+  {
+   "name": "Seiver Ranch — Plains, MT",
+   "detail": "Sanders County",
+   "tempF": 36,
+   "conditions": "Patchy Fog",
+   "icon": "fog",
+   "aqi": 26,
+   "aqiCat": "Good",
+   "aqiNote": "O3",
+   "alerts": "",
+   "extra": "Humidity 66% · Wind WSW 1 mph",
+   "today": "Patchy Fog then Mostly Sunny, high 36°F",
+   "tonight": "Mostly Cloudy, low 25°F",
+   "tomorrow": "Chance Light Snow, high 34°F"
+  },
+  {
+   "name": "Seiver Slough — Rugby, ND",
+   "detail": "Pierce County",
+   "tempF": 42,
+   "conditions": "Patchy Fog",
+   "icon": "fog",
+   "aqi": 52,
+   "aqiCat": "Moderate",
+   "aqiNote": "PM2.5",
+   "alerts": "Dense Fog Advisory until 11:00 AM CST",
+   "extra": "Humidity 96% · Wind ESE 9 mph",
+   "today": "Patchy Fog then Mostly Cloudy, high 51°F",
+   "tonight": "Chance Light Rain, low 35°F",
+   "tomorrow": "Mostly Cloudy, high 41°F"
   },
   {
    "name": "Seiver Lodge — L'Anse, MI",
    "detail": "Baraga County",
-   "tempF": 53,
-   "conditions": "Clear",
-   "icon": "sun",
-   "aqi": 33,
+   "tempF": 47,
+   "conditions": "Partly Sunny",
+   "icon": "partly",
+   "aqi": 29,
    "aqiCat": "Good",
    "aqiNote": "O3",
-   "alerts": "Gale Watch Thu 4:00 AM–7:00 PM EST",
-   "extra": "Humidity 52% · Wind SSW 7 mph",
-   "today": "Clear, high 60°F",
-   "tonight": "Partly cloudy, low 42°F",
-   "tomorrow": "Partly cloudy, high 60°F"
+   "alerts": "",
+   "extra": "Humidity 47% · Wind SSW 12 mph",
+   "today": "Partly Sunny, high 58°F",
+   "tonight": "Partly Cloudy, low 44°F",
+   "tomorrow": "Mostly Sunny, high 57°F"
   }
  ],
  "apod": {
-  "date": "November 8, 2026",
-  "title": "Major Fireball Meteor",
-  "credit": "Ollie Taylor — NASA Astronomy Picture of the Day, November 8, 2026",
-  "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-  "explanation": "A bright fireball meteor flashes east to west under the Big Dipper over the Dolomite Alps above La Villa, Italy, captured by chance during a camera exposure on a subfreezing November night in 2017. Sightings were widely reported across European skies, making it one of the most reported fireball events ever; its track over Germany matches the Northern Taurid meteor shower, dust from Comet Encke.",
-  "pageUrl": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/"
+  "date": "November 18, 2026",
+  "title": "A Medium-Sized Solar Flare",
+  "credit": "Mario Cogo — NASA Astronomy Picture of the Day, November 18, 2026",
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg?w=1200&h=1200&fit=clip",
+  "explanation": "What a flare for the chromatic! Today’s image captures a piece of the Sun’s chromosphere, the layer of the Sun’s atmosphere above its surface where the temperature rises. Why would the Sun become hotter farther away from its core? This is potentially due to energy from the swirling magnetic fields extending up through the Sun’s atmosphere. Those same magnetic fields can twist and snap, releasing light and energetic particles as a solar flare. The H-alpha filter used for today’s image captures light from energized hydrogen atoms as they travel off the Sun’s surface during a flare on May 14, 2025. This flare was classified as an M1 based on GOES observations, meaning it was moderately bright in X-rays. M-class flares can cause radio blackouts at Earth’s poles and minor radiation storms that can harm astronauts. They aren’t even the most powerful flares! NASA, NOAA, and other agencies monitor the Sun to predict and identify such storms so we can protect humans on Earth and in space.",
+  "pageUrl": "https://apod.nasa.gov/apod/ap261118.html"
  }
 }
