@@ -1,45 +1,44 @@
 {
- "version": 39,
- "asOf": "Thu Nov 19, 2026, 8:07 AM CT",
+ "version": 40,
+ "asOf": "Thu Nov 19, 2026, 10:39 AM CT",
  "breaking": [
   {
-   "headline": "Anthropic debuts on Nasdaq today as ANT after record $81B IPO",
-   "fact": "Anthropic’s shares start trading on the Nasdaq today under the ticker ANT after pricing at $83 a share — above its $70–$78 range — in a record $81.3 billion offering upsized to 980 million shares; the deal was about six times oversubscribed and early indications pointed to a first trade well above the IPO price.",
-   "source": "Investor's Business Daily",
+   "headline": "Anthropic’s first trade still pending as indications point near $100",
+   "fact": "Anthropic’s shares began trading on the Nasdaq today under the ticker ANT after pricing at $83 a share, but the first trade had still not printed by late morning as the opening auction ran — indications pointed to roughly $100–$107, about 20–24% above the IPO price, with the first trade expected around noon to 1 p.m. ET. The $81.3 billion offering is the largest IPO on record.",
+   "source": "The Tech Portal",
    "tag": "US",
-   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-walmart-earnings-anthropic-ipo/"
+   "url": "https://thetechportal.com/2026/11/19/anthropic-begins-trading-on-nasdaq-as-ant-after-pricing-record-107-3bn-ipo-at-83-a-share/"
   },
   {
-   "headline": "Gold sinks to a 14-month low as December hike bets surge",
-   "fact": "Gold fell nearly 3% on Wednesday to about $3,729 an ounce, its lowest in 14 months, as the dollar hit a 19-month high and traders priced a roughly 95% chance of a December Fed rate hike; it steadied near that level this morning.",
-   "source": "TradingNerve",
-   "tag": "World",
-   "url": "https://www.tradingnerve.com/en/market/fed-rate-hike-odds-sp500-gold-2026-11-19"
+   "headline": "Stocks reverse: Nasdaq gives up a 2% opening pop",
+   "fact": "The Nasdaq 100 opened up nearly 2% on Anthropic’s debut but reversed to trade down on the day by mid-session, while the S&P 500 turned negative and the Dow fell about 1% — a fourth straight 1%+ Dow drop to start the week would have happened only twice since 1952. Fed Vice Chair Philip Jefferson said Thursday the AI buildout is adding to inflation.",
+   "source": "GlobalEye24",
+   "tag": "US",
+   "url": "https://globaleye24.com/news/tech-stocks-rally-on-anthropic-listing-as-feds-jefferson-flags-ai-inflation-2997"
   },
   {
-   "headline": "Moody’s cuts Nvidia’s outlook to stable after Huang’s exit",
-   "fact": "Moody’s lowered Nvidia’s credit outlook to stable from positive on Wednesday, keeping its Aa1 rating but saying an upgrade is unlikely for 12 to 18 months, citing uncertainty over strategy and financial policy after Jensen Huang’s abrupt resignation without a succession plan.",
-   "source": "Morningstar",
+   "headline": "Philly Fed factory gauge plunges to 6.3, a six-month low",
+   "fact": "Manufacturing activity in the Philadelphia region fell sharply in November: the Philly Fed’s current-activity index dropped to 6.3 from 20.9 in October, far below the roughly 20 economists expected, with new orders slipping into contraction at -0.4. Prices paid jumped to 58.2, its highest since April — weaker activity with higher prices, a tough mix for the Fed.",
+   "source": "TradingView",
    "tag": "US",
-   "url": "https://www.morningstar.com/news/dow-jones/202611189420/moodys-lowers-nvidia-rating-outlook-following-huang-departure"
+   "url": "https://www.tradingview.com/news/DJN_DN20261119005793:0-philadelphia-area-manufacturing-activity-fell-in-november/"
   },
   {
-   "headline": "Walmart beats and raises its outlook as shoppers keep spending",
-   "fact": "Walmart reported third-quarter revenue of $188.8 billion, up 5.2%, and adjusted earnings of $0.65 a share, beating estimates, and raised full-year guidance to $2.84–$2.89 a share; U.S. comparable sales rose 2.9% and e-commerce grew 23%.",
-   "source": "Morningstar",
+   "headline": "Housing starts jump, but permits hit a 6½-year low",
+   "fact": "U.S. housing starts jumped 9.9% in October to 1.309 million, beating expectations of 1.250 million, but building permits — a proxy for future construction — slumped 7.4% to 1.295 million, a 6½-year low and well below the 1.380 million expected. Pending home sales had already fallen to a record low in October.",
+   "source": "Barchart",
    "tag": "US",
-   "url": "https://www.morningstar.com/news/dow-jones/202611194370/walmart-raises-fiscal-year-guidance-amid-3q-earnings-beat"
+   "url": "https://www.barchart.com/story/news/8912708/u-s-stock-futures-rally-as-anthropic-boosts-ai-optimism"
   }
  ],
  "markets": [
   {
    "label": "S&P 500",
-   "value": "7,323.63",
-   "change": "-16.90",
-   "pct": "-0.23%",
+   "value": "7,303.99",
+   "change": "-19.64",
+   "pct": "-0.27%",
    "dir": "down",
    "spark": [
-    7765.36,
     7811.54,
     7807.24,
     7805.45,
@@ -68,17 +67,17 @@
     7561.67,
     7416.59,
     7340.53,
-    7323.63
+    7323.63,
+    7303.99
    ]
   },
   {
    "label": "NASDAQ Composite",
-   "value": "24,429.88",
-   "change": "+101.50",
-   "pct": "+0.42%",
+   "value": "24,486.74",
+   "change": "+56.86",
+   "pct": "+0.23%",
    "dir": "up",
    "spark": [
-    27193.34,
     27366.17,
     27245.9,
     27204.38,
@@ -107,17 +106,17 @@
     25136.27,
     24509.76,
     24328.38,
-    24429.88
+    24429.88,
+    24486.74
    ]
   },
   {
    "label": "Dow Jones",
-   "value": "50,198.17",
-   "change": "-561.25",
-   "pct": "-1.11%",
+   "value": "49,680.39",
+   "change": "-517.78",
+   "pct": "-1.03%",
    "dir": "down",
    "spark": [
-    51231.64,
     51654.95,
     51850.55,
     51670.1,
@@ -146,17 +145,17 @@
     52347.55,
     51608.17,
     50759.42,
-    50198.17
+    50198.17,
+    49680.39
    ]
   },
   {
    "label": "VIX",
-   "value": "24.56",
-   "change": "-0.90",
-   "pct": "-3.53%",
-   "dir": "down",
+   "value": "25.49",
+   "change": "+0.93",
+   "pct": "+3.79%",
+   "dir": "up",
    "spark": [
-    15.41,
     14.84,
     15.21,
     15.27,
@@ -185,17 +184,17 @@
     19.3,
     22.91,
     25.46,
-    24.56
+    24.56,
+    25.49
    ]
   },
   {
    "label": "10-Yr Treasury",
    "value": "5.07%",
-   "change": "-0.04 pp",
+   "change": "+0.00 pp",
    "pct": "",
-   "dir": "down",
+   "dir": "flat",
    "spark": [
-    5.23,
     5.24,
     5.24,
     5.22,
@@ -224,17 +223,17 @@
     5.15,
     5.12,
     5.1,
+    5.07,
     5.07
    ]
   },
   {
    "label": "WTI Crude",
-   "value": "$83.26",
-   "change": "-2.75",
-   "pct": "-3.20%",
-   "dir": "down",
+   "value": "$83.46",
+   "change": "+0.20",
+   "pct": "+0.24%",
+   "dir": "up",
    "spark": [
-    91.49,
     91.85,
     93.74,
     94.14,
@@ -263,17 +262,17 @@
     88.56,
     85.72,
     86.01,
-    83.26
+    83.26,
+    83.46
    ]
   },
   {
    "label": "Brent Crude",
-   "value": "$91.95",
-   "change": "-1.19",
-   "pct": "-1.28%",
+   "value": "$90.09",
+   "change": "-1.86",
+   "pct": "-2.02%",
    "dir": "down",
    "spark": [
-    104.28,
     104.72,
     106.65,
     105.69,
@@ -302,322 +301,344 @@
     95.84,
     92.44,
     93.14,
-    91.95
+    91.95,
+    90.09
    ]
   }
  ],
  "marketsNote": "",
  "watchlist": [
   {
-   "blurb": "Air Liquide closed in Paris at €189.74 on Wednesday, down 0.63% — its third straight decline — converting to $208.11 at the ECB’s Nov 18 reference rate of 1.0968, as European shares slid with December Fed hike odds near 95%.",
-   "change": "-0.63%",
+   "blurb": "Air Liquide is trading at €189.44 in Paris midday Thursday, down 0.16% from Wednesday’s close — converting to $208.23 at the ECB’s Nov 19 reference rate of 1.0992 — as European shares give back ground with December Fed hike odds near 100%.",
+   "change": "-0.16%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/AI.PA",
    "name": "Air Liquide",
-   "price": "$208.11",
+   "price": "$208.23",
    "risk": 2,
    "spark": [
-    190.34,
     192.16,
     192.84,
     193.32,
     193.24,
     190.94,
-    189.74
+    189.74,
+    189.44
    ],
-   "subTag": "€189.74 × 1.0968 (ECB Nov 18)",
+   "subTag": "€189.44 × 1.0992 (ECB Nov 19)",
    "ticker": "AIL.F",
    "yieldTag": null
   },
   {
-   "blurb": "The T-bill ETF closed at $91.56 Wednesday, up a hair on the day; its latest monthly distribution of $0.30849 (ex Nov 2, paid Nov 5) still works out to a 4.04% distribution yield at this price.",
+   "ticker": "ANT",
+   "name": "Anthropic",
+   "link": "https://finance.yahoo.com/quote/ANT",
+   "risk": 4,
+   "price": "$83.00",
+   "change": "+0.00%",
+   "dir": "flat",
+   "blurb": "Anthropic debuts on the Nasdaq today under the ticker ANT after pricing its record $81.3 billion IPO at $83 a share — above its $70–$78 range. The first trade had not printed by late morning as the opening auction ran, with indications pointing to roughly $100–$107, about 20–24% above the IPO price; Sean was allocated 66 shares at $83.00.",
+   "spark": [
+    83.0,
+    83.0,
+    83.0,
+    83.0,
+    83.0,
+    83.0,
+    83.0
+   ],
+   "subTag": "IPO price $83.00 · first trade pending",
+   "yieldTag": null
+  },
+  {
+   "blurb": "The T-bill ETF is trading at $91.57 midday Thursday, flat on the day; its latest monthly distribution of $0.30849 (ex Nov 2, paid Nov 5) still works out to a 4.04% distribution yield at this price.",
    "change": "+0.01%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/BIL",
    "name": "SPDR 1-3 Month T-Bill ETF",
-   "price": "$91.56",
+   "price": "$91.57",
    "risk": 0,
    "spark": [
-    91.49,
     91.5,
     91.5,
     91.53,
     91.55,
     91.55,
-    91.56
+    91.56,
+    91.57
    ],
    "subTag": "$0.30849 dist., ex Nov 2, paid Nov 5",
    "ticker": "BIL",
    "yieldTag": "Dist. yield 4.04%"
   },
   {
-   "blurb": "Fastenal ended Wednesday at $53.96, down 0.72% in the broad selloff — still $5.96 above Sean’s $48 buy gate, so the watch stays quiet.",
-   "change": "-0.72%",
+   "blurb": "Fastenal is trading at $53.17 midday Thursday, down 1.46% in the broad selloff — still $5.17 above Sean’s $48 buy gate, so the watch stays quiet.",
+   "change": "-1.46%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/FAST",
    "name": "Fastenal",
-   "price": "$53.96",
+   "price": "$53.17",
    "risk": 2,
    "spark": [
-    54.84,
     55.49,
     55.55,
     55.19,
     55.11,
     54.35,
-    53.96
+    53.96,
+    53.17
    ],
    "subTag": null,
    "ticker": "FAST",
    "yieldTag": null
   },
   {
-   "blurb": "Alphabet closed at $282.44 Wednesday, up 0.80% as the Nasdaq bounced; Anthropic — in which Google holds about 13.7% — debuts on the Nasdaq today as ANT after pricing at $83, and Gemini 4 Hydrogen is now the default in Search’s AI Mode worldwide.",
-   "change": "+0.80%",
+   "blurb": "Alphabet is trading at $288.50 midday Thursday, up 2.15% as the Nasdaq bounced on Anthropic’s debut — Google holds about 13.7% of Anthropic, which priced its IPO at $83 and starts trading today as ANT; Gemini 4 Hydrogen is now the default in Search’s AI Mode worldwide.",
+   "change": "+2.15%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/GOOGL",
    "name": "Alphabet (Google) Cl A",
-   "price": "$282.44",
+   "price": "$288.50",
    "risk": 3,
    "spark": [
-    287.38,
     293.45,
     298.7,
     295.77,
     283.72,
     280.2,
-    282.44
+    282.44,
+    288.5
    ],
    "subTag": null,
    "ticker": "GOOGL",
    "yieldTag": null
   },
   {
-   "blurb": "Lilly closed at $1,382.75 Wednesday, down 2.32%, giving back more of last week’s push toward a new 52-week high as the market slid for a fifth straight session.",
-   "change": "-2.32%",
+   "blurb": "Lilly is trading at $1,354.74 midday Thursday, down 2.03%, giving back more of last week’s push toward a new 52-week high as the market slides for a sixth straight session.",
+   "change": "-2.03%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/LLY",
    "name": "Eli Lilly",
-   "price": "$1,382.75",
+   "price": "$1,354.74",
    "risk": 3,
    "spark": [
-    1432.29,
     1437.29,
     1427.28,
     1443.5,
     1431.67,
     1415.55,
-    1382.75
+    1382.75,
+    1354.74
    ],
    "subTag": null,
    "ticker": "LLY",
    "yieldTag": null
   },
   {
-   "blurb": "Cheniere closed at $296.49 Wednesday, down 1.81%, sliding with the energy complex as WTI settled at $83.26 — its lowest since late August — on the big U.S. inventory build.",
-   "change": "-1.81%",
+   "blurb": "Cheniere is trading at $295.55 midday Thursday, down 0.32%, holding up better than the energy complex as Brent slips below $91.",
+   "change": "-0.32%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/LNG",
    "name": "Cheniere Energy",
-   "price": "$296.49",
+   "price": "$295.55",
    "risk": 3,
    "spark": [
-    293.49,
     304.51,
     309.48,
     308.75,
     305.2,
     301.97,
-    296.49
+    296.49,
+    295.55
    ],
    "subTag": null,
    "ticker": "LNG",
    "yieldTag": null
   },
   {
-   "blurb": "Nvidia closed at $150.96 Wednesday, down 2.89% — the post-earnings pop has fully fizzled, and Moody’s cut the company’s outlook to stable from positive the same day, citing uncertainty after Jensen Huang’s exit; the permanent-CEO search continues under interim CEO Colette Kress.",
-   "change": "-2.89%",
-   "dir": "down",
+   "blurb": "Nvidia is trading at $153.01 midday Thursday, up 1.36% with the Nasdaq’s early pop on Anthropic’s debut; Moody’s cut the company’s outlook to stable from positive Wednesday, citing uncertainty after Jensen Huang’s exit, and the permanent-CEO search continues under interim CEO Colette Kress.",
+   "change": "+1.36%",
+   "dir": "up",
    "link": "https://finance.yahoo.com/quote/NVDA",
    "name": "NVIDIA",
-   "price": "$150.96",
+   "price": "$153.01",
    "risk": 3,
    "spark": [
-    168.89,
     173.73,
     166.19,
     162.85,
     156.14,
     155.46,
-    150.96
+    150.96,
+    153.01
    ],
    "subTag": null,
    "ticker": "NVDA",
    "yieldTag": null
   },
   {
-   "blurb": "Pfizer closed at $28.06 Wednesday, down 1.44% in the broad selloff; Sean’s buy gate sits at $32, so the watch stays quiet.",
-   "change": "-1.44%",
+   "blurb": "Pfizer is trading at $27.68 midday Thursday, down 1.35% in the broad selloff; Sean’s buy gate sits at $32, so the watch stays quiet.",
+   "change": "-1.35%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/PFE",
    "name": "Pfizer",
-   "price": "$28.06",
+   "price": "$27.68",
    "risk": 2,
    "spark": [
-    29.36,
     29.45,
     28.83,
     28.89,
     28.86,
     28.47,
-    28.06
+    28.06,
+    27.68
    ],
    "subTag": null,
    "ticker": "PFE",
    "yieldTag": null
   },
   {
-   "blurb": "Rocket Lab closed at $53.07 Wednesday, down 3.60% in the broad selloff; its reusable Neutron rocket’s first launch has slipped into 2027, while SpaceX’s Starship Flight 16 is targeted for December.",
-   "change": "-3.60%",
+   "blurb": "Rocket Lab is trading at $52.58 midday Thursday, down 0.92% in the broad selloff; its reusable Neutron rocket’s first launch has slipped into 2027, while SpaceX’s Starship Flight 16 is targeted for December.",
+   "change": "-0.92%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/RKLB",
    "name": "Rocket Lab",
-   "price": "$53.07",
+   "price": "$52.58",
    "risk": 4,
    "spark": [
-    62.71,
     66.15,
     64.07,
     61.53,
     57.37,
     55.05,
-    53.07
+    53.07,
+    52.58
    ],
    "subTag": null,
    "ticker": "RKLB",
    "yieldTag": null
   },
   {
-   "blurb": "Rithm closed at $8.31 Wednesday, down 2.00% and under its 50-day average; with the 10-year yield at 5.07% and a December hike nearly fully priced, the mortgage REIT stays range-bound.",
-   "change": "-2.00%",
+   "blurb": "Rithm is trading at $8.17 midday Thursday, down 1.68% and under its 50-day average; with the 10-year yield at 5.07% and a December hike nearly fully priced, the mortgage REIT stays range-bound.",
+   "change": "-1.68%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/RITM",
    "name": "Rithm Capital",
-   "price": "$8.31",
+   "price": "$8.17",
    "risk": 4,
    "spark": [
-    9.27,
     9.21,
     9.0,
     8.97,
     8.84,
     8.48,
-    8.31
+    8.31,
+    8.17
    ],
    "subTag": null,
    "ticker": "RITM",
    "yieldTag": null
   },
   {
-   "blurb": "The SpaceX ETF closed at $143.50 Wednesday, up 1.27% against the selloff; Starship’s first orbital catch is now in the books from Flight 15, and Flight 16 is targeted for December from Kennedy Space Center’s LC-39A.",
-   "change": "+1.27%",
-   "dir": "up",
+   "blurb": "The SpaceX ETF is trading at $140.01 midday Thursday, down 2.43% with the market’s reversal; Starship’s first orbital catch is now in the books from Flight 15, and Flight 16 is targeted for December from Kennedy Space Center’s LC-39A.",
+   "change": "-2.43%",
+   "dir": "down",
    "link": "https://finance.yahoo.com/quote/SPCX",
    "name": "SpaceX",
-   "price": "$143.50",
+   "price": "$140.01",
    "risk": 4,
    "spark": [
-    143.09,
     139.75,
     139.94,
     139.11,
     137.36,
     141.7,
-    143.5
+    143.5,
+    140.01
    ],
    "subTag": null,
    "ticker": "SPCX",
    "yieldTag": null
   },
   {
-   "blurb": "Truist closed at $47.74 Wednesday, down 1.47%, giving back ground with the banks as the 10-year yield sits at 5.07% and the market slid for a fifth straight session.",
-   "change": "-1.47%",
+   "blurb": "Truist is trading at $46.99 midday Thursday, down 1.57%, giving back ground with the banks as the 10-year yield sits at 5.07% and the market slides for a sixth straight session.",
+   "change": "-1.57%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/TFC",
    "name": "Truist Financial",
-   "price": "$47.74",
+   "price": "$46.99",
    "risk": 3,
    "spark": [
-    50.26,
     50.26,
     49.89,
     49.97,
     49.58,
     48.45,
-    47.74
+    47.74,
+    46.99
    ],
    "subTag": null,
    "ticker": "TFC",
    "yieldTag": null
   },
   {
-   "blurb": "U.S. Antimony closed at $2.52 Wednesday, up 1.61% and still below Sean’s $4 buy gate, with Q3’s withdrawn guidance and the $9.5M quarterly loss still hanging over the name.",
-   "change": "+1.61%",
-   "dir": "up",
+   "blurb": "U.S. Antimony is trading at $2.48 midday Thursday, down 1.59% and still below Sean’s $4 buy gate, with Q3’s withdrawn guidance and the $9.5M quarterly loss still hanging over the name.",
+   "change": "-1.59%",
+   "dir": "down",
    "link": "https://finance.yahoo.com/quote/UAMY",
    "name": "United States Antimony",
-   "price": "$2.52",
+   "price": "$2.48",
    "risk": 5,
    "spark": [
-    3.21,
     3.12,
     2.91,
     3.09,
     2.67,
     2.48,
-    2.52
+    2.52,
+    2.48
    ],
    "subTag": null,
    "ticker": "UAMY",
    "yieldTag": null
   },
   {
-   "blurb": "Uranium Energy closed at $5.92 Wednesday, down 2.47% and near its 52-week low, sliding with the broader selloff.",
-   "change": "-2.47%",
-   "dir": "down",
+   "blurb": "Uranium Energy is trading at $5.99 midday Thursday, up 1.18% against the selloff, holding just above its 52-week low while U3O8 spot sits near $90.59/lb.",
+   "change": "+1.18%",
+   "dir": "up",
    "link": "https://finance.yahoo.com/quote/UEC",
    "name": "Uranium Energy",
-   "price": "$5.92",
+   "price": "$5.99",
    "risk": 5,
    "spark": [
-    7.17,
     7.23,
     6.8,
     6.66,
     6.13,
     6.07,
-    5.92
+    5.92,
+    5.99
    ],
    "subTag": null,
    "ticker": "UEC",
    "yieldTag": null
   },
   {
-   "blurb": "Valero closed at $343.70 Wednesday, down 5.52% as crude fell on the big U.S. inventory build; the position is locked in the portfolio, not for trading.",
-   "change": "-5.52%",
-   "dir": "down",
+   "blurb": "Valero is trading at $344.80 midday Thursday, up 0.32% even as crude slips; the position is locked in the portfolio, not for trading.",
+   "change": "+0.32%",
+   "dir": "up",
    "link": "https://finance.yahoo.com/quote/VLO",
    "name": "Valero Energy",
-   "price": "$343.70",
+   "price": "$344.80",
    "risk": 3,
    "spark": [
-    350.71,
     363.71,
     374.95,
     379.83,
     369.73,
     363.77,
-    343.7
+    343.7,
+    344.8
    ],
    "subTag": null,
    "ticker": "VLO",
@@ -645,21 +666,21 @@
    "yieldTag": null
   },
   {
-   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate is $150.54 (est.) with the index closing at 7,323.63 Wednesday, down from $150.89 (est.) at Tuesday’s close.",
-   "change": "-0.23%",
+   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate is $150.13 (est.) with the index trading at 7,303.99 midday Thursday, down from $150.54 (est.) at Wednesday’s close.",
+   "change": "-0.27%",
    "dir": "down",
    "link": null,
    "name": "Vanguard Institutional 500 Index Trust",
-   "price": "$150.54 (est.)",
+   "price": "$150.13 (est.)",
    "risk": 3,
    "spark": [
-    154.59,
     156.62,
     156.06,
     155.43,
     152.45,
     150.89,
-    150.54
+    150.54,
+    150.13
    ],
    "subTag": "S&P 500-anchored estimate",
    "ticker": "VI5TC",
@@ -679,7 +700,7 @@
    "yieldTag": "7-day yield 3.76%"
   },
   {
-   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 4.02%, as published Nov 18 on Vanguard’s official page — up from 3.99% and still the higher of the two cash yields.",
+   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 4.02%, as published Nov 18 on Vanguard’s official page — unchanged and still the higher of the two cash yields.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/VUSXX",
@@ -694,23 +715,23 @@
  ],
  "weekInBrief": [
   {
-   "headline": "Dollar hits a 19-month high as hike bets build",
-   "body": "The dollar index pushed to about 103.9, its highest since April 2025, as traders priced a December Fed hike at roughly 95% and the euro slipped toward 1.097 — a tailwind for U.S. buyers of foreign assets and a headwind for multinationals’ overseas earnings.",
+   "headline": "Leading indicators fall 0.3% in October",
+   "body": "The Conference Board’s Leading Economic Index fell 0.3% to 99.3 in October, a fresh sign of cooling momentum alongside Thursday’s weak Philly Fed survey and jobless claims of 203,000 — above the 197,000 economists expected.",
    "stamp": "Nov 19, 2026"
   },
   {
-   "headline": "Oil slides to its lowest since August on a big U.S. stock build",
-   "body": "WTI settled at $83.26 a barrel, down 3.2% and its lowest since August 26, while Brent settled at $91.95, after the EIA reported U.S. crude inventories rose 3.4 million barrels last week against forecasts of almost no change; both benchmarks are down roughly 20% in November.",
+   "headline": "December hike now seen as near-certain, with a small chance of 50bp",
+   "body": "Minutes from the Fed’s October meeting showed nearly all participants favored a rate hike in December, and a couple said a move of more than 25 basis points could warrant consideration. Rate futures now price roughly a 95% chance of a quarter-point hike and about 5% for a half-point move, after Governor Christopher Waller said Wednesday the Fed may need 50bp to remind markets that 3% is not the inflation target.",
    "stamp": "Nov 19, 2026"
   },
   {
-   "headline": "Small caps flash a ‘death cross’ as the selloff broadens",
-   "body": "Small-cap stocks printed a classic death-cross chart pattern, confirming deep weakness in the Russell 2000, as the market’s slide spread beyond the AI names that led it — the S&P 500 has now fallen five sessions running.",
+   "headline": "Shoppers show up, homebuyers hold back",
+   "body": "Target said comparable transactions rose 5% from a year earlier — shoppers came more often, with a much smaller increase in spending per trip — while housing stays weak: October permits fell 7.4% to a 6½-year low and signed contracts for existing homes fell 4.7% to a record low.",
    "stamp": "Nov 19, 2026"
   },
   {
-   "headline": "Jobless claims edge up to 203,000, above forecasts",
-   "body": "Initial claims for unemployment benefits rose 1,000 to a seasonally adjusted 203,000 last week, above the 197,000 economists expected, while continuing claims jumped 70,000 to 1.763 million — a stable labor market, but with laid-off workers taking longer to find new jobs.",
+   "headline": "Yen slides toward 160 per dollar as the dollar holds its high",
+   "body": "The dollar held near its 19-month high around 103.9 while the yen slid toward the key 160-per-dollar level, trading in the upper 159s in London, as resilient U.S. inflation data and hawkish Fed comments keep the dollar bid and traders price a near-certain December hike.",
    "stamp": "Nov 19, 2026"
   }
  ],
@@ -718,35 +739,35 @@
   "items": [
    {
     "headline": "Latest from the Strait",
-    "body": "The week’s attacks on shipping escalated on Wednesday: a tanker was struck by a projectile in its engine room about six nautical miles north of Khasab, Oman, in the evening, with its crew safe, a day after an ADNOC tanker was hit in the same area, leaving one seafarer missing and 11 injured. Iran launched drone attacks against American military facilities in Kuwait and Bahrain on Wednesday after U.S. strikes hit a Revolutionary Guards missile installation on Qeshm Island, overlooking the strait; U.S. Central Command said no American personnel were hurt. On oil, Washington widened the blockade on Wednesday to cover Iranian crude moved through ship-to-ship transfers — not just cargo loaded at Iranian ports — while CENTCOM says U.S.-escorted non-Iranian crude keeps flowing through the strait."
+    "body": "Iran’s military claimed on Wednesday that three commercial oil tankers caught fire and stopped dead in the water after striking naval mines east of the Strait of Hormuz — an Iranian state-media claim, uncorroborated so far. U.S. Central Command’s Wednesday advisory added a new enforcement detail: a ship that takes Iranian cargo in a ship-to-ship transfer may be ordered to proceed to the Iranian port where the cargo originated, and refusal to comply with boarding could bring enforcement action. On oil, Iranian crude exports have remained near a standstill for months, shipping sources told Reuters — but Tehran has still managed to export liquefied petroleum gas and jet fuel since July through the very ship-to-ship transfers Wednesday’s advisory now targets — while CENTCOM says U.S.-escorted non-Iranian crude keeps flowing through the strait."
    }
   ],
   "stats": ""
  },
  "space": [
   {
-   "headline": "Voyager 1 reaches one light-day from Earth",
-   "body": "NASA’s Voyager 1, launched in 1977 and the most distant human-made object, reached one light-day from Earth — about 26 billion kilometers — on Wednesday, nearly 50 years into a mission that continues to study magnetic fields in interstellar space.",
+   "headline": "NASA reshapes Artemis: Starship to dock with Orion in Earth orbit first",
+   "body": "NASA has restructured its Artemis lunar-landing approach: Starship will first dock with the Orion crew vehicle while both are still in Earth orbit, and only then will the combined stack travel to the Moon. The change eases trajectory constraints on the landers — SpaceX’s Starship and Blue Origin’s Blue Moon — but shifts extra responsibilities onto Orion, built by Lockheed Martin. NASA is targeting as soon as 2028 for Artemis IV, the first crewed Moon landing since Apollo.",
    "tag": "Space",
-   "url": "https://phys.org/news/2026-11-voyager-spacecraft-day-milestone.html"
+   "url": "https://gazewire.com/science-space/aerospace-and-satellites/nasa-reshapes-artemis-lander-strategy-adds-workload-to-orion"
   },
   {
-   "headline": "NASA finds clues to ancient ice beyond Neptune",
-   "body": "Twelve microscopic dust grains collected from Earth’s stratosphere by NASA’s ER-2 aircraft carry chemical traces of ancient water from the Kuiper Belt, the strongest evidence yet for a vast, isolated reservoir of heavy water beyond Neptune, published in Science Advances.",
-   "tag": "Science",
-   "url": "https://science.nasa.gov/blogs/science-news/2026/11/18/nasa-scientists-find-clues-to-ancient-ice-beyond-neptune/"
+   "headline": "ULA points to fuel starvation in the Vulcan failure that cost Amazon 40 satellites",
+   "body": "United Launch Alliance said Wednesday that preliminary findings point to an inadequate fuel supply to the BE-4 engines — not the engines themselves — as the cause of low thrust that doomed Sunday’s Vulcan launch, its first total mission failure since the joint venture formed in 2006. The rocket failed about 10 minutes into flight, losing 40 Amazon Leo internet satellites; the FAA will oversee the investigation and the rocket is grounded until fixes are approved. Amazon’s next Leo launch is an Ariane 6 mission targeted for Nov. 23 at the earliest.",
+   "tag": "Space",
+   "url": "https://www.geekwire.com/2026/early-data-points-to-vulcans-first-stage-in-launch-failure-that-cost-amazon-40-leo-satellites/"
   },
   {
-   "headline": "Webb confirms a first-of-its-kind stellar merger",
-   "body": "The James Webb Space Telescope clinched the first confirmed case of a sun-like star spiraling into and merging with a puffy supergiant — nicknamed Bao — on the outskirts of the Andromeda galaxy, with Webb observing just 47 days after the eruption peaked; the work is published in Nature.",
+   "headline": "New spin effect switches antiferromagnets at room temperature",
+   "body": "Northwestern researchers have discovered an effect they call octupole-driven spin-transfer torque, letting an electric current flip the magnetic state of noncollinear antiferromagnets at room temperature — a class of materials prized for fast, dense memory because they barely interact with outside magnetic fields. The team demonstrated it in nanoscale all-antiferromagnetic tunnel junctions; the work is published in Nature.",
    "tag": "Science",
-   "url": "https://phys.org/news/2026-11-webb-kind-merger-supergiant-smaller.html"
+   "url": "https://phys.org/news/2026-11-unexpected-effect-electric-currents-antiferromagnets.html"
   },
   {
-   "headline": "Quantum physics can now verify where a person is",
-   "body": "NIST researchers ran the first complete demonstration of quantum position verification, using entangled photons and a loophole-free Bell test across two stations 195 meters apart in Boulder to prove a person’s location without trusting their device; practical use is still a decade or more away. Published in Nature.",
+   "headline": "Homo erectus survived in China’s rainforests far later than thought",
+   "body": "Homo erectus was still surviving in southern China between 324,000 and 184,000 years ago — much later than previously accepted — and had adapted to dense tropical rainforest, an environment long thought to be the domain of only Homo sapiens. Teeth and thousands of fossils from two sister caves in Guangxi, dated with five independent techniques, show the species ranged farther and lived later than the textbooks said; the findings appear in two papers in Nature.",
    "tag": "Science",
-   "url": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show"
+   "url": "https://www.scimex.org/newsfeed/news-briefing-the-surprising-last-chapter-of-homo-erectus-in-china"
   }
  ],
  "cdRates": {
@@ -804,70 +825,70 @@
   {
    "name": "Houston Winter Condo",
    "detail": "ZIP 77056",
-   "tempF": 60,
-   "conditions": "Sunny",
-   "icon": "sun",
-   "aqi": 92,
+   "tempF": 67,
+   "conditions": "Partly Sunny",
+   "icon": "partly",
+   "aqi": 62,
    "aqiCat": "Moderate",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 91% · Wind NE 8 mph",
-   "today": "Partly Cloudy, high 75°F",
-   "tonight": "Partly Cloudy, low 59°F",
-   "tomorrow": "Mostly Sunny, high 77°F"
+   "extra": "Humidity 70% · Wind NE 5 mph",
+   "today": "Partly Sunny, high 76°F",
+   "tonight": "Partly Cloudy, low 57°F",
+   "tomorrow": "Patchy Fog then Sunny, high 77°F"
   },
   {
    "name": "Seiver Ranch — Plains, MT",
    "detail": "Sanders County",
-   "tempF": 32,
-   "conditions": "Cloudy",
-   "icon": "clouds",
-   "aqi": 118,
-   "aqiCat": "Unhealthy for Sensitive Groups",
+   "tempF": 36,
+   "conditions": "Areas Of Fog",
+   "icon": "fog",
+   "aqi": 16,
+   "aqiCat": "Good",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 100% · Wind ENE 3 mph",
-   "today": "AM Snow Showers, high 38°F",
-   "tonight": "Cloudy, low 31°F",
-   "tomorrow": "Cloudy, high 38°F"
+   "extra": "Humidity 100% · Wind Calm",
+   "today": "Areas Of Fog, high 44°F",
+   "tonight": "Mostly Cloudy, low 29°F",
+   "tomorrow": "Mostly Cloudy then Slight Chance Rain And Snow, high 41°F"
   },
   {
    "name": "Seiver Slough — Rugby, ND",
    "detail": "Pierce County",
-   "tempF": 37,
-   "conditions": "Cloudy",
-   "icon": "clouds",
-   "aqi": 27,
+   "tempF": 39,
+   "conditions": "Patchy Fog",
+   "icon": "fog",
+   "aqi": 25,
    "aqiCat": "Good",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 100% · Wind NW 15 mph",
-   "today": "Cloudy, high 40°F",
-   "tonight": "Cloudy, low 35°F",
-   "tomorrow": "Cloudy, high 42°F"
+   "extra": "Humidity 96% · Wind NW 15 mph",
+   "today": "Patchy Fog then Cloudy, high 42°F",
+   "tonight": "Cloudy, low 32°F",
+   "tomorrow": "Chance Light Rain, high 41°F"
   },
   {
    "name": "Seiver Lodge — L'Anse, MI",
    "detail": "Baraga County",
-   "tempF": 50,
+   "tempF": 57,
    "conditions": "Sunny",
    "icon": "sun",
-   "aqi": 43,
+   "aqi": 32,
    "aqiCat": "Good",
    "aqiNote": "PM2.5",
-   "alerts": "Gale Warning until 7:00 PM EST; Small Craft Advisory until 1:00 AM EST",
-   "extra": "Humidity 58% · Wind SW 12 mph",
-   "today": "Partly Cloudy/Wind, high 57°F",
-   "tonight": "Cloudy, low 42°F",
-   "tomorrow": "Mostly Cloudy, high 59°F"
+   "alerts": "",
+   "extra": "Humidity 43% · Wind SW 20 mph",
+   "today": "Partly Sunny, high 60°F",
+   "tonight": "Cloudy, low 38°F",
+   "tomorrow": "Mostly Cloudy, high 58°F"
   }
  ],
  "apod": {
   "date": "November 19, 2026",
-  "title": "The Horsehead and Flame Nebulas",
-  "credit": "Mark E. Killion — NASA Astronomy Picture of the Day, November 19, 2026",
-  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg?w=6000&h=4800&fit=clip",
-  "explanation": "Today's image could have been a painting. But what do these colors mean? The brightest star, left of the center, is blue Alnitak (the Girdle): a triple star system best known for being the easternmost star in Orion's Belt. The instantly recognizable shape of a dark horse's head at the center is the aptly named Horsehead Nebula. It is about five light-years tall and lies approximately 1,500 light-years away. It is made of dust and gas that obscure the red glow behind it, which is caused by hydrogen gas being ionized by the bright star Sigma Orionis at the top. The orange nebula with dark filaments on the left is the Flame Nebula. Closer to the Horsehead, the blue reflection nebula NGC 2023 is actively forming stars. The data for this 'painting' were collected for almost six hours at the Utah Desert Remote Observatories, but the equipment was remotely controlled by the astrophotographer from his home, over 2,000 km away in Illinois.",
-  "pageUrl": "https://apod.nasa.gov/apod/ap261119.html"
+  "title": "Lake Pelku",
+  "credit": "NASA — NASA Image of the Day, November 19, 2026",
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg",
+  "explanation": "Lake Pelku (near center), on the Chinese side of the snow-capped Himalayas with Nepal on the adjacent side, is pictured from the International Space Station as it orbited above Asia.",
+  "pageUrl": "https://www.nasa.gov/image-detail/iss075e0267074/"
  }
 }
