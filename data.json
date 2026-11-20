@@ -1,45 +1,44 @@
 {
- "version": 43,
- "asOf": "Fri Nov 20, 2026, 9:39 AM CT",
+ "version": 44,
+ "asOf": "Fri Nov 20, 2026, 11:05 AM CT",
  "breaking": [
   {
-   "headline": "Stock futures point to steep declines; S&P faces worst week since April 2025",
-   "fact": "Nasdaq 100 futures were down 2.2% and S&P 500 futures down 1.5% ahead of Friday's open, with the Dow down 0.5%, after Thursday's 2% slide put the S&P 500 on a six-day losing streak; the indexes are on track for their worst week since April 2025, the Dow down 6.2% for the week. The 10-year yield eased to 4.98%, WTI slipped to $82.30 a barrel, gold fell to a 14-month low near $3,575 an ounce and bitcoin traded near $61,400.",
-   "source": "Investopedia",
    "tag": "US",
-   "url": "https://www.investopedia.com/5-things-investors-need-to-know-about-friday-s-markets-12266953"
+   "headline": "S&P 500 heads for seventh straight loss; Nasdaq briefly negative for 2026",
+   "fact": "The S&P 500 was down about 1.9% Friday morning, on track for a seventh straight loss and its worst week since April 2025, while the Nasdaq fell more than 3% and briefly slipped into negative territory for 2026; the Dow held near flat. Chip stocks sank again, with Nvidia down about 6-7% and AMD down 10%.",
+   "source": "Investopedia",
+   "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11202026-12266027"
   },
   {
-   "headline": "Asian equities tumble as AI selloff deepens; Nikkei falls 4.5%",
-   "fact": "Japan's Nikkei 225 tumbled 4.54% and South Korea's Kospi fell 4.74% on Friday as the AI selloff spread across Asia, with MSCI's Asia Pacific index down for a seventh straight session; Japan's core consumer prices rose 2.2% in October, reinforcing expectations of another Bank of Japan rate hike.",
-   "source": "Morningstar",
+   "tag": "US",
+   "headline": "Anthropic sinks about 12% in second day of trading after record debut",
+   "fact": "Anthropic shares fell more than 10% Friday morning, trading near $85 after closing their debut at $97.17, up 17% from the $83 IPO price; the stock had opened Thursday at $111.50 and touched $115.10 before paring gains.",
+   "source": "Investor's Business Daily",
+   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-anthropic-stock-ant/"
+  },
+  {
    "tag": "World",
-   "url": "https://www.morningstar.com/news/dow-jones/202611202094/dow-jones-top-markets-headlines-at-3-am-et-asian-equities-tumble-as-ai-stock-selloff-deepens-japan"
+   "headline": "Global stocks retreat as AI trade unwinds; S&P hits 6.5-month low",
+   "fact": "The S&P 500 fell to a 6.5-month low and the Nasdaq 100 to a 7-month low Friday as investors liquidated AI-linked stocks worldwide; MSCI's world index fell for a seventh straight session, its longest losing streak since 2023.",
+   "source": "Barchart",
+   "url": "https://www.barchart.com/story/news/8936782/global-stocks-retreat-on-unwind-of-the-ai-trade"
   },
   {
-   "headline": "California subpoenas Nvidia over chips, China and investor disclosure",
-   "fact": "California Attorney General Rob Bonta served an investigative subpoena on Nvidia on Thursday, asking whether its advanced chips or confidential information reached China and whether it misled investors, tied to reports about former CEO Jensen Huang and an alleged Chinese spy. The release states no finding and names no statute or deadline; Nvidia had published no response by early Friday. House committees have Huang and Nvidia general counsel Tim Teter set for transcribed interviews on Dec. 1 and 2.",
-   "source": "The Edge",
-   "tag": "US",
-   "url": "https://edgeconsultancykw.com/california-attorney-general-subpoena-nvidia-china-chips-investors/"
-  },
-  {
-   "headline": "Anthropic shares fall about 12% premarket after record debut",
-   "fact": "Anthropic shares were down about 12% in premarket trading Friday after closing Thursday at $97.17, up 17.07% from the $83 IPO price; the stock opened at $111.50, touched $115.10 and mostly traded under $100. Sean's 66 shares at $83 were worth $6,413.22 at Thursday's close; the $81.3 billion offering is the largest IPO on record.",
-   "source": "Investopedia",
-   "tag": "US",
-   "url": "https://www.investopedia.com/5-things-investors-need-to-know-about-friday-s-markets-12266953"
+   "tag": "World",
+   "headline": "Asian shares head for worst week since 2020 as AI rout spreads",
+   "fact": "Asian shares tumbled Friday, with Japan's Nikkei down more than 5% and South Korea's Kospi down 5.2%, putting the region on course for its worst week since the COVID pandemic in March 2020; Europe's STOXX 600 fell 1.5%, down 5% from its November 12 record.",
+   "source": "Reuters",
+   "url": "https://live.euronext.com/en/financial-news/stocks-slide-ai-selloff-deepens-asia-set-worst-week-2020"
   }
  ],
  "markets": [
   {
    "label": "S&P 500",
-   "value": "7,175.83",
-   "change": "-147.80",
-   "pct": "-2.02%",
+   "value": "7,040.42",
+   "change": "-135.41",
+   "pct": "-1.89%",
    "dir": "down",
    "spark": [
-    7811.54,
     7807.24,
     7805.45,
     7718.94,
@@ -68,17 +67,17 @@
     7416.59,
     7340.53,
     7323.63,
-    7175.83
+    7175.83,
+    7040.42
    ]
   },
   {
    "label": "NASDAQ Composite",
-   "value": "23,879.20",
-   "change": "-550.68",
-   "pct": "-2.25%",
+   "value": "23,098.67",
+   "change": "-780.53",
+   "pct": "-3.27%",
    "dir": "down",
    "spark": [
-    27366.17,
     27245.9,
     27204.38,
     26692.87,
@@ -107,17 +106,17 @@
     24509.76,
     24328.38,
     24429.88,
-    23879.2
+    23879.2,
+    23098.67
    ]
   },
   {
    "label": "Dow Jones",
-   "value": "49,097.06",
-   "change": "-1,101.11",
-   "pct": "-2.19%",
+   "value": "48,880.09",
+   "change": "-216.97",
+   "pct": "-0.44%",
    "dir": "down",
    "spark": [
-    51654.95,
     51850.55,
     51670.1,
     51621.48,
@@ -146,17 +145,17 @@
     51608.17,
     50759.42,
     50198.17,
-    49097.06
+    49097.06,
+    48880.09
    ]
   },
   {
    "label": "VIX",
-   "value": "28.44",
-   "change": "+3.88",
-   "pct": "+15.80%",
+   "value": "30.99",
+   "change": "+2.55",
+   "pct": "+8.97%",
    "dir": "up",
    "spark": [
-    14.84,
     15.21,
     15.27,
     16.87,
@@ -185,17 +184,17 @@
     22.91,
     25.46,
     24.56,
-    28.44
+    28.44,
+    30.99
    ]
   },
   {
    "label": "10-Yr Treasury",
-   "value": "5.05%",
-   "change": "-0.02 pp",
+   "value": "4.95%",
+   "change": "-0.11 pp",
    "pct": "",
    "dir": "down",
    "spark": [
-    5.24,
     5.24,
     5.22,
     5.19,
@@ -224,17 +223,17 @@
     5.12,
     5.1,
     5.07,
-    5.05
+    5.05,
+    4.95
    ]
   },
   {
    "label": "WTI Crude",
-   "value": "$83.21",
-   "change": "-0.05",
-   "pct": "-0.06%",
+   "value": "$82.10",
+   "change": "-1.11",
+   "pct": "-1.33%",
    "dir": "down",
    "spark": [
-    91.85,
     93.74,
     94.14,
     95.09,
@@ -263,17 +262,17 @@
     85.72,
     86.01,
     83.26,
-    83.21
+    83.21,
+    82.1
    ]
   },
   {
    "label": "Brent Crude",
-   "value": "$91.98",
-   "change": "+0.03",
-   "pct": "+0.03%",
-   "dir": "up",
+   "value": "$88.89",
+   "change": "-3.09",
+   "pct": "-3.36%",
+   "dir": "down",
    "spark": [
-    104.72,
     106.65,
     105.69,
     106.06,
@@ -302,30 +301,31 @@
     92.44,
     93.14,
     91.95,
-    91.98
+    91.98,
+    88.89
    ]
   }
  ],
  "marketsNote": "",
  "watchlist": [
   {
-   "blurb": "Air Liquide closed in Paris at €189.14 Thursday, down 0.32%; at the ECB's Nov 19 reference rate of 1.0992, that's $207.90, with European shares opening lower Friday as the AI selloff spreads.",
-   "change": "-0.32%",
+   "blurb": "Air Liquide closed in Paris at €187.58 Friday, down 0.82%; at the ECB's Nov 20 reference rate of 1.0990, that's $206.15, as European shares fell with the global AI selloff.",
+   "change": "-0.82%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/AI.PA",
    "name": "Air Liquide",
-   "price": "$207.90",
+   "price": "$206.15",
    "risk": 2,
    "spark": [
-    192.16,
     192.84,
     193.32,
     193.24,
     190.94,
     189.74,
-    189.14
+    189.14,
+    187.58
    ],
-   "subTag": "€189.14 × 1.0992 (ECB Nov 19)",
+   "subTag": "€187.58 × 1.0990 (ECB Nov 20)",
    "ticker": "AIL.F",
    "yieldTag": null
   },
@@ -334,318 +334,318 @@
    "name": "Anthropic",
    "link": "https://finance.yahoo.com/quote/ANT",
    "risk": 4,
-   "price": "$97.17",
-   "change": "+17.07%",
-   "dir": "up",
-   "blurb": "Anthropic closed its first day at $97.17 Thursday, up 17.07% from the $83 IPO price after opening at $111.50 and touching $115.10; shares were down about 12% in premarket trading Friday. Sean's 66 shares at $83 were worth $6,413.22 at Thursday's close.",
+   "price": "$85.34",
+   "change": "-12.17%",
+   "dir": "down",
+   "blurb": "Anthropic is down about 12% in its second day of trading Friday, near $85.34 after closing its debut at $97.17, up 17.07% from the $83 IPO price; Sean's 66 shares at $83 were worth $5,632.44 at the latest quote.",
    "spark": [
     83.0,
     83.0,
     83.0,
     83.0,
     83.0,
-    83.0,
-    97.17
+    97.17,
+    85.34
    ],
-   "subTag": "Closed $97.17 (+17.07% vs $83 IPO)",
+   "subTag": "$85.34 intraday, -12.17% vs Thu close",
    "yieldTag": null
   },
   {
-   "blurb": "The T-bill ETF closed at $91.57 Thursday, essentially flat on the day; its latest monthly distribution of $0.30849 (ex Nov 2, paid Nov 5) still works out to a 4.04% distribution yield at this price.",
-   "change": "+0.01%",
+   "blurb": "The T-bill ETF is near $91.59 Friday, essentially flat on the day; its latest monthly distribution of $0.30849 (ex Nov 2, paid Nov 5) still works out to a 0.04% distribution yield at this price.",
+   "change": "+0.02%",
    "dir": "up",
    "link": "https://finance.yahoo.com/quote/BIL",
    "name": "SPDR 1-3 Month T-Bill ETF",
-   "price": "$91.57",
+   "price": "$91.59",
    "risk": 0,
    "spark": [
-    91.5,
     91.5,
     91.53,
     91.55,
     91.55,
     91.56,
-    91.57
+    91.57,
+    91.5922
    ],
    "subTag": "$0.30849 dist., ex Nov 2, paid Nov 5",
    "ticker": "BIL",
-   "yieldTag": "Dist. yield 4.04%"
+   "yieldTag": "Dist. yield 0.04%"
   },
   {
-   "blurb": "Fastenal closed at $52.68 Thursday, down 2.37%, and still $4.68 above Sean's $48 buy gate, so the watch stays quiet; futures point to another lower open Friday.",
-   "change": "-2.37%",
+   "blurb": "Fastenal is near $51.98 Friday, down 1.33% in the selloff, and still $3.98 above Sean's $48 buy gate, so the watch stays quiet.",
+   "change": "-1.33%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/FAST",
    "name": "Fastenal",
-   "price": "$52.68",
+   "price": "$51.98",
    "risk": 2,
    "spark": [
-    55.49,
     55.55,
     55.19,
     55.11,
     54.35,
     53.96,
-    52.68
+    52.68,
+    51.98
    ],
    "subTag": null,
    "ticker": "FAST",
    "yieldTag": null
   },
   {
-   "blurb": "Alphabet closed at $272.66 Thursday, down 3.46%, as the AI selloff deepened around Anthropic's debut; California subpoenaed Nvidia late Thursday over chips, China and investor disclosure, and futures point lower again Friday.",
-   "change": "-3.46%",
-   "dir": "down",
+   "blurb": "Alphabet is near $275.50 Friday, up 1.04% and bucking the rout after closing at $272.66 Thursday, down 3.46%, as the AI selloff deepened; California's subpoena of Nvidia over its China chip business is still hanging over the sector.",
+   "change": "+1.04%",
+   "dir": "up",
    "link": "https://finance.yahoo.com/quote/GOOGL",
    "name": "Alphabet (Google) Cl A",
-   "price": "$272.66",
+   "price": "$275.50",
    "risk": 3,
    "spark": [
-    293.45,
     298.7,
     295.77,
     283.72,
     280.2,
     282.44,
-    272.66
+    272.66,
+    275.5045
    ],
    "subTag": null,
    "ticker": "GOOGL",
    "yieldTag": null
   },
   {
-   "blurb": "Lilly closed at $1,351.12 Thursday, down 2.29%, giving back ground with the market as the S&P 500 logged its sixth straight loss; it is down about 6% over the past five sessions.",
-   "change": "-2.29%",
-   "dir": "down",
+   "blurb": "Lilly is near $1,354.29 Friday, up 0.23%, steadying after closing at $1,351.12 Thursday, down 2.29%, with the market.",
+   "change": "+0.23%",
+   "dir": "up",
    "link": "https://finance.yahoo.com/quote/LLY",
    "name": "Eli Lilly",
-   "price": "$1,351.12",
+   "price": "$1,354.29",
    "risk": 3,
    "spark": [
-    1437.29,
     1427.28,
     1443.5,
     1431.67,
     1415.55,
     1382.75,
-    1351.12
+    1351.12,
+    1354.285
    ],
    "subTag": null,
    "ticker": "LLY",
    "yieldTag": null
   },
   {
-   "blurb": "Cheniere closed at $295.37 Thursday, down 0.38%, holding up better than the broad market as Brent settled near $92 a barrel; the first Iranian oil movement since July — a small ship-to-ship transfer — was reported Friday.",
-   "change": "-0.38%",
-   "dir": "down",
+   "blurb": "Cheniere is near $295.40 Friday, up 0.01%, holding up as Brent slid to $88.89 and the AI rout hit equities harder than energy.",
+   "change": "+0.01%",
+   "dir": "up",
    "link": "https://finance.yahoo.com/quote/LNG",
    "name": "Cheniere Energy",
-   "price": "$295.37",
+   "price": "$295.40",
    "risk": 3,
    "spark": [
-    304.51,
     309.48,
     308.75,
     305.2,
     301.97,
     296.49,
-    295.37
+    295.37,
+    295.4
    ],
    "subTag": null,
    "ticker": "LNG",
    "yieldTag": null
   },
   {
-   "blurb": "Nvidia closed at $145.98 Thursday, down 3.30%, as the post-earnings fade deepened; California's attorney general subpoenaed the company Thursday over whether advanced chips reached China and whether investors were misled, and shares were down about 3.7% premarket Friday.",
-   "change": "-3.30%",
+   "blurb": "Nvidia is near $135.91 Friday, down 6.90% for a sixth straight losing session, as the chip selloff deepened; the stock has lost more than a quarter of its value in two weeks since Jensen Huang's departure.",
+   "change": "-6.90%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/NVDA",
    "name": "NVIDIA",
-   "price": "$145.98",
+   "price": "$135.91",
    "risk": 3,
    "spark": [
-    173.73,
     166.19,
     162.85,
     156.14,
     155.46,
     150.96,
-    145.98
+    145.98,
+    135.91
    ],
    "subTag": null,
    "ticker": "NVDA",
    "yieldTag": null
   },
   {
-   "blurb": "Pfizer closed at $27.54 Thursday, down 1.85%; Sean's buy gate sits at $32, so the watch stays quiet.",
-   "change": "-1.85%",
-   "dir": "down",
+   "blurb": "Pfizer is near $27.57 Friday, up 0.13%; Sean's buy gate sits at $32, so the watch stays quiet.",
+   "change": "+0.13%",
+   "dir": "up",
    "link": "https://finance.yahoo.com/quote/PFE",
    "name": "Pfizer",
-   "price": "$27.54",
+   "price": "$27.57",
    "risk": 2,
    "spark": [
-    29.45,
     28.83,
     28.89,
     28.86,
     28.47,
     28.06,
-    27.54
+    27.54,
+    27.575
    ],
    "subTag": null,
    "ticker": "PFE",
    "yieldTag": null
   },
   {
-   "blurb": "Rocket Lab closed at $50.99 Thursday, down 3.92%, in the broad selloff; SpaceX is already preparing its next Starship flight, with Flight 17 hardware in cryo testing.",
-   "change": "-3.92%",
+   "blurb": "Rocket Lab is near $46.84 Friday, down 8.15% in the broad selloff; SpaceX's Flight 17 hardware — Ship 44 and Booster 24 — is in cryo testing at Starbase ahead of a possible first launch from Kennedy's Pad 39A.",
+   "change": "-8.15%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/RKLB",
    "name": "Rocket Lab",
-   "price": "$50.99",
+   "price": "$46.84",
    "risk": 4,
    "spark": [
-    66.15,
     64.07,
     61.53,
     57.37,
     55.05,
     53.07,
-    50.99
+    50.99,
+    46.835
    ],
    "subTag": null,
    "ticker": "RKLB",
    "yieldTag": null
   },
   {
-   "blurb": "Rithm closed at $8.24 Thursday, down 0.84%, and under its 50-day average; with the 10-year yield at 5.05% and a December hike nearly fully priced, the mortgage REIT stays range-bound.",
-   "change": "-0.84%",
+   "blurb": "Rithm is near $8.15 Friday, down 1.03%, and under its 50-day average; with the 10-year yield at 4.95% the mortgage REIT stays under pressure.",
+   "change": "-1.03%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/RITM",
    "name": "Rithm Capital",
-   "price": "$8.24",
+   "price": "$8.15",
    "risk": 4,
    "spark": [
-    9.21,
     9.0,
     8.97,
     8.84,
     8.48,
     8.31,
-    8.24
+    8.24,
+    8.155
    ],
    "subTag": null,
    "ticker": "RITM",
    "yieldTag": null
   },
   {
-   "blurb": "The SpaceX ETF closed at $138.43 Thursday, down 3.53%, in the AI selloff; SpaceX's Flight 17 hardware — Ship 44 and Booster 24 — rolled to the Massey's test site for cryo testing Thursday, and shares were down about 7% premarket Friday.",
-   "change": "-3.53%",
+   "blurb": "The SpaceX ETF is near $128.80 Friday, down 6.96% in the AI selloff; SpaceX's Flight 17 hardware — Ship 44 and Booster 24 — rolled to Massey's for cryo testing Thursday.",
+   "change": "-6.96%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/SPCX",
    "name": "SpaceX",
-   "price": "$138.43",
+   "price": "$128.80",
    "risk": 4,
    "spark": [
-    139.75,
     139.94,
     139.11,
     137.36,
     141.7,
     143.5,
-    138.43
+    138.43,
+    128.8
    ],
    "subTag": null,
    "ticker": "SPCX",
    "yieldTag": null
   },
   {
-   "blurb": "Truist closed at $46.67 Thursday, down 2.24%, giving back ground with the banks as the 10-year yield sits at 5.05% and the market slid for a sixth straight session.",
-   "change": "-2.24%",
+   "blurb": "Truist is near $46.59 Friday, down 0.17%, giving back ground with the banks as the 10-year yield eased to 4.95%.",
+   "change": "-0.17%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/TFC",
    "name": "Truist Financial",
-   "price": "$46.67",
+   "price": "$46.59",
    "risk": 3,
    "spark": [
-    50.26,
     49.89,
     49.97,
     49.58,
     48.45,
     47.74,
-    46.67
+    46.67,
+    46.59
    ],
    "subTag": null,
    "ticker": "TFC",
    "yieldTag": null
   },
   {
-   "blurb": "U.S. Antimony closed at $2.38 Thursday, down 5.56%, and still below Sean's $4 buy gate, with Q3's withdrawn guidance and the $9.5M quarterly loss still hanging over the name; it has fallen about 24% over the past five sessions.",
-   "change": "-5.56%",
+   "blurb": "U.S. Antimony is near $2.23 Friday, down 6.09%, and still below Sean's $4 buy gate, with Q3's withdrawn guidance still hanging over the stock.",
+   "change": "-6.09%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/UAMY",
    "name": "United States Antimony",
-   "price": "$2.38",
+   "price": "$2.23",
    "risk": 5,
    "spark": [
-    3.12,
     2.91,
     3.09,
     2.67,
     2.48,
     2.52,
-    2.38
+    2.38,
+    2.235
    ],
    "subTag": null,
    "ticker": "UAMY",
    "yieldTag": null
   },
   {
-   "blurb": "Uranium Energy closed at $5.76 Thursday, down 2.70%, holding near its 52-week low as uranium spot stays around $90 a pound; it is down about 20% over the past five sessions and was down about 3.5% premarket Friday.",
-   "change": "-2.70%",
+   "blurb": "Uranium Energy is near $5.44 Friday, down 5.56% to a fresh 52-week low, as uranium spot stays around $90.59/lb and the gap to the metal keeps widening.",
+   "change": "-5.56%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/UEC",
    "name": "Uranium Energy",
-   "price": "$5.76",
+   "price": "$5.44",
    "risk": 5,
    "spark": [
-    7.23,
     6.8,
     6.66,
     6.13,
     6.07,
     5.92,
-    5.76
+    5.76,
+    5.44
    ],
    "subTag": null,
    "ticker": "UEC",
    "yieldTag": null
   },
   {
-   "blurb": "Valero closed at $338.46 Thursday, down 1.52%, as crude eased; the position is locked in the portfolio, not for trading.",
-   "change": "-1.52%",
-   "dir": "down",
+   "blurb": "Valero is near $339.94 Friday, up 0.44% as crude eased; the position is locked in the portfolio, not for trading.",
+   "change": "+0.44%",
+   "dir": "up",
    "link": "https://finance.yahoo.com/quote/VLO",
    "name": "Valero Energy",
-   "price": "$338.46",
+   "price": "$339.94",
    "risk": 3,
    "spark": [
-    363.71,
     374.95,
     379.83,
     369.73,
     363.77,
     343.7,
-    338.46
+    338.46,
+    339.935
    ],
    "subTag": null,
    "ticker": "VLO",
    "yieldTag": null
   },
   {
-   "blurb": "The target-date fund's latest NAV is $28.34 as of Nov 19, down 1.19% from Nov 18's $28.68, tracking the broad slide.",
+   "blurb": "The target-date fund's latest NAV is $28.34 as of Nov 19, down 1.19% from Nov 18's $28.68, tracking the broad selloff; today's NAV posts after the close.",
    "change": "-1.19%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/VTTHX",
@@ -666,28 +666,28 @@
    "yieldTag": null
   },
   {
-   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate is $147.50 (est.) with the index closing at 7,175.83 Thursday, down 2.02% on the day and 5.1% for the week so far.",
-   "change": "-2.02%",
+   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate is $144.72 (est.) with the index near 7,040.42 intraday Friday, down from Thursday's close.",
+   "change": "-1.89%",
    "dir": "down",
    "link": null,
    "name": "Vanguard Institutional 500 Index Trust",
-   "price": "$147.50 (est.)",
+   "price": "$144.72 (est.)",
    "risk": 3,
    "spark": [
-    156.6172,
-    156.0626,
-    155.431,
-    152.4488,
-    150.8854,
-    150.538,
-    147.5
+    156.06,
+    155.43,
+    152.45,
+    150.89,
+    150.54,
+    147.5,
+    144.72
    ],
    "subTag": "S&P 500-anchored estimate",
    "ticker": "VI5TC",
    "yieldTag": null
   },
   {
-   "blurb": "Schwab money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.77%, as published Nov 19 on Schwab's official page — the sweep-and-evaporate plan keeps working the balance down.",
+   "blurb": "Schwab money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.77%, as published Nov 19 on Schwab's official money market funds page.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/SWVXX",
@@ -700,7 +700,7 @@
    "yieldTag": "7-day yield 3.77%"
   },
   {
-   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 4.02%, as published Nov 19 on Vanguard's official page — still the higher of the two cash yields.",
+   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 4.02%, as published Nov 19 on Vanguard's official fund page.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/VUSXX",
@@ -715,59 +715,59 @@
  ],
  "weekInBrief": [
   {
-   "headline": "Intuit to sell Mailchimp for $3.68 billion, a third of what it paid",
-   "body": "Intuit said it will sell Mailchimp to Bending Spoons for about $3.68 billion — roughly a third of the $12 billion it paid for the marketing platform in 2021. Intuit shares fell nearly 10% on the news even though its quarterly results beat expectations on the top and bottom lines.",
+   "headline": "Nvidia extends losing streak to six sessions as AI rout deepens",
+   "body": "Nvidia shares fell again Friday, a sixth straight losing session, after closing Thursday down 3.3%; the chip giant has lost more than a quarter of its value in two weeks as investors weigh Jensen Huang's departure and the AI spending outlook, even after a blowout earnings report earlier in the week.",
    "stamp": "Nov 20, 2026"
   },
   {
-   "headline": "Walmart raises outlook as third-quarter revenue climbs 5.2% to $188.8 billion",
-   "body": "Walmart reported fiscal third-quarter revenue of $188.8 billion, up 5.2% from a year earlier, and raised its full-year outlook, with net sales now expected to grow 4.9% to 5.2%. Operating income rose 16.0% to $7.77 billion, but diluted earnings per share fell 19.5% to $0.62 as a $2.4 billion swing from investment gains to losses outweighed the operating gain; U.S. eCommerce grew 23%.",
-   "stamp": "Nov 19, 2026"
+   "headline": "October jobs report beats expectations, but long-term joblessness hits five-year high",
+   "body": "Employers added 165,000 jobs in October, nearly triple the roughly 59,000 economists expected, and unemployment slipped to 4.1%, but the average stretch of unemployment jumped to 27.1 weeks — the longest outside the pandemic since 2016 — with nearly 2 million people out of work for more than six months.",
+   "stamp": "Nov 2026"
   },
   {
-   "headline": "Jobless claims edge up to 203,000; Labor Department finalizes contractor rule",
-   "body": "Initial jobless claims rose 1,000 to 203,000 in the week ended Nov. 14, still 8.6% below a year earlier, while the number of people staying on benefits rose 70,000 to 1,763,000. The Labor Department also finalized a rule returning independent-contractor classification to a test substantially similar to its 2021 version, taking effect 60 days after publication in the Federal Register.",
-   "stamp": "Nov 19, 2026"
-  },
-  {
-   "headline": "Senate passes measure to speed up energy projects, lower consumer costs",
-   "body": "The Senate passed a bipartisan measure designed to streamline federal permitting for energy projects and lower consumer costs. The effort split Democrats over environmental concerns, and backers say faster permitting should bring energy projects online sooner.",
+   "headline": "Fed rate-hike odds hit 97% as gold slides to a 14-month low",
+   "body": "Gold slipped below $3,650 an ounce to a 14-month low as traders raised the odds of a Federal Reserve rate hike to 97.3%, with the 10-year Treasury yield near 5% and the dollar firming; WTI crude steadied near $82.75 as Hormuz supply risks offset an inventory surplus.",
    "stamp": "Nov 20, 2026"
+  },
+  {
+   "headline": "AMD slides on China export-control and financing concerns",
+   "body": "Shares of AMD plunged nearly 8% in a single session this week on concerns over China export controls and financing practices, adding to the chip sector's rout; AMD had already fallen 7.7% on Thursday as the AI selloff spread through semiconductors.",
+   "stamp": "Nov 17, 2026"
   }
  ],
  "hormuz": {
   "items": [
    {
     "headline": "Latest from the Strait",
-    "body": "A cargo of Iranian crude moved ship-to-ship in the Persian Gulf this week — the first such movement since the U.S. reinstated its blockade of Iranian ports in mid-July. The U.S.-sanctioned Suezmax Olym transferred about 200,000 barrels to the medium-range tanker Hao Fan on Tuesday just south of Iran's Kharg Island terminal, with both vessels' transponders off, according to United Against Nuclear Iran and tracker Kpler, with TankerTrackers.com reporting the same transfer. The U.S. military warned Wednesday, in JMIC Advisory 017-26, that any vessel receiving Iranian cargo at sea is now a blockade evader subject to being stopped, boarded or seized. Iranian media affiliated with the Revolutionary Guards floated sending a convoy of tankers loaded with crude to China in defiance of the blockade. On oil, a small amount of Iranian crude is moving again — about 200,000 barrels changed hands ship-to-ship on Tuesday, the first such movement since July — but it has not left the Gulf as an export, while about 8.3 million barrels a day of oil and products, effectively all non-Iranian with Iranian exports near a standstill, kept flowing through the strait in the week to November 11, about 48% of pre-war levels."
+    "body": "A projectile struck a tanker's engine room about 6 nautical miles north of Khasab at 16:45 UTC on Wednesday, November 18 — the third strike near Khasab since November 16, with the crew reported safe, according to UKMTO via Windward. Windward also found five LNG carriers left the strait with their transponders off in the week to November 17, against as few as two in AIS-only counts. President Trump said he is in no hurry to decide on Iran and will see what happens after January 1. Iranian media claimed three tankers struck mines on November 19, a claim that has not been independently verified. On oil, a small amount of Iranian crude is moving again — about 200,000 barrels changed hands ship-to-ship on Tuesday, the first such movement since July — but it has not left the Gulf as an export, while about 8.3 million barrels a day of oil and products, effectively all non-Iranian with Iranian exports near a standstill, kept flowing through the strait in the week to November 11, about 48% of pre-war levels."
    }
   ],
   "stats": ""
  },
  "space": [
   {
-   "headline": "Starship Flight 17 hardware rolls to Massey's for cryo testing",
-   "body": "SpaceX is already preparing its next Starship flights: Ship 44 and Booster 24 — the vehicles for Flight 17 — rolled to the Massey's test site at Starbase, Texas, for cryogenic proof testing on Thursday, less than a week after Flight 15's historic orbital catch of the upper stage. Ship 43 and Booster 23, the Flight 16 pair, did their cryo tests last month, and Flight 16 could launch as soon as next month, possibly from Starbase, with Flight 17 then taking the first Starship launch from Kennedy Space Center's Launch Complex 39A. SpaceX has released no mission design or date for either flight. Musk said the recovered Ship 42 will go on public display rather than fly again.",
    "tag": "Space",
-   "url": "https://starlust.org/starship-flight-17-upper-stage-and-super-heavy-roll-out-to-masseys-for-cryo-testing/"
+   "headline": "Voyager 1 phones home from one light-day away",
+   "body": "NASA's Voyager 1 has phoned home from one light-day away — humanity's first emissary to cross that threshold in interstellar space. Flight controllers received the spacecraft's call Thursday, exactly 24 hours after it was sent, confirming the milestone reached November 18 at 10:16:07 UTC, nearly 50 years after launch in 1977. The data stream briefly halted over the weekend, but the carrier signal stayed strong and flight-path calculations confirmed the distance of more than 16 billion miles.",
+   "url": "https://www.thehindubusinessline.com/news/science/nasas-voyager-1-phones-home-from-awe-inspiring-one-light-day-away/article71721975.ece"
   },
   {
-   "headline": "SpaceX disputes Starship debris claims on Mexican beaches",
-   "body": "SpaceX has rejected claims that debris from the failed Starship booster on Nov. 13 polluted beaches on Mexico's northern Gulf coast, saying its partners found very little material and the origin of what was collected is unclear. The environmental group Conibio Global has counted more than 1,500 pieces, and Mexico's federal environmental prosecutor, Profepa, has inspected the sites, is collecting fragments of the booster's lining and is demanding SpaceX take responsibility.",
-   "tag": "Space",
-   "url": "https://scienceofficial.org/space/spacex-denies-starship-debris-littered-mexican-beaches-after-explosion/"
-  },
-  {
-   "headline": "'Game changer' blood test for CTE may be coming",
-   "body": "Traces of a brain protein in blood could soon lead to a test that diagnoses chronic traumatic encephalopathy — the degenerative brain disease best known for affecting football players — during a person's lifetime. In two studies published in JAMA, blood tests for the protein eMTBR-tau spotted later-stage CTE in former players, 18 of 21 of whom were confirmed to have the disease after death. The test is not yet FDA-approved, and the researchers stress it is still in the discovery phase with a small sample.",
    "tag": "Science",
-   "url": "https://medicalxpress.com/news/2026-11-game-changer-blood-cte.html"
+   "headline": "Venus-like conditions reveal how minerals could preserve traces of ancient water",
+   "body": "Experiments in NASA Glenn's extreme-environment chamber exposed six rock-forming minerals to simulated Venus surface conditions for 60 days and found hydrogen fluoride in the atmosphere can transform water-bearing minerals into fluorine-bearing micas that stay stable under Venus' intense heat and pressure — a possible mineralogical clue to the planet's ancient water. The findings give NASA's DAVINCI and VERITAS missions and ESA's EnVision specific targets to look for.",
+   "url": "https://phys.org/news/2026-11-venus-conditions-reveal-minerals-ancient.html"
   },
   {
-   "headline": "Adaptive AI agent plans and runs lab experiments on its own",
-   "body": "Researchers at University College London, HKUST (Guangzhou) and partner institutions have built an embodied science agent that autonomously plans and conducts experiments, pairing a digital agent that learns from past results with a robotic agent that controls lab instruments. In a wastewater-treatment test it picked conditions from more than 200 million combinations and, over 15 rounds, cut residual dye by 98.5%, a step toward self-driving laboratories. The work is posted on arXiv.",
    "tag": "Science",
-   "url": "https://techxplore.com/news/2026-11-ai-agent-experimental-robotic-wastewater.html"
+   "headline": "Low-viscosity lavas reveal a key to Mars's past",
+   "body": "A new study in Communications Earth & Environment uses Perseverance rover geochemistry to show the nearly 4-billion-year-old Séïtah formation in Jezero Crater formed from a low-viscosity lava lake that flowed about 200 kilometres from its vent — explaining the large interlocking olivine crystals the rover found and sharpening the picture of Mars' early geology and its capacity to host ancient life.",
+   "url": "https://phys.org/news/2026-11-viscosity-lavas-reveal-key-mars.html"
+  },
+  {
+   "tag": "Science",
+   "headline": "Space travel changes the brain's immune cells, but not behavior",
+   "body": "University of Rochester researchers exposed mice to simulated galactic cosmic radiation at NASA's Space Radiation Laboratory and found single-cell sequencing of nearly 16,000 microglia showed clear molecular changes — and different responses in male and female brains — yet no widespread inflammation and no measurable behavioral or cognitive impairment, a reassuring result for long-duration Moon and Mars missions.",
+   "url": "https://phys.org/news/2026-11-space-brain-immune-cells-behavior.html"
   }
  ],
  "cdRates": {
@@ -825,70 +825,70 @@
   {
    "name": "Houston Winter Condo",
    "detail": "ZIP 77056",
-   "tempF": 62,
-   "conditions": "Partly Cloudy",
-   "icon": "partly",
-   "aqi": 81,
+   "tempF": 67,
+   "conditions": "Overcast",
+   "icon": "clouds",
+   "aqi": 64,
    "aqiCat": "Moderate",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 89% · Wind NE 5 mph",
-   "today": "Mostly Cloudy, high 76°F",
-   "tonight": "Partly Cloudy, low 61°F",
-   "tomorrow": "Partly Cloudy, high 78°F"
+   "extra": "Humidity 84% · Wind 5 mph",
+   "today": "Mostly Sunny, high 76°F",
+   "tonight": "Partly Cloudy then Areas Of Fog, low 59°F",
+   "tomorrow": "Areas Of Fog then Partly Sunny, high 77°F"
   },
   {
    "name": "Seiver Ranch — Plains, MT",
    "detail": "Sanders County",
-   "tempF": 35,
-   "conditions": "Cloudy",
+   "tempF": 36,
+   "conditions": "Overcast",
    "icon": "clouds",
-   "aqi": 134,
-   "aqiCat": "Unhealthy for Sensitive Groups",
+   "aqi": 25,
+   "aqiCat": "Good",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 92% · Wind WSW 1 mph",
-   "today": "PM Showers, high 36°F",
-   "tonight": "Mostly Cloudy, low 30°F",
-   "tomorrow": "Partly Cloudy, high 35°F"
+   "extra": "Humidity 89% · Wind 1 mph",
+   "today": "Patchy Fog then Chance Light Snow, high 39°F",
+   "tonight": "Chance Light Snow then Patchy Fog, low 26°F",
+   "tomorrow": "Areas Of Fog then Partly Sunny, high 32°F"
   },
   {
    "name": "Seiver Slough — Rugby, ND",
    "detail": "Pierce County",
-   "tempF": 38,
-   "conditions": "Cloudy",
+   "tempF": 40,
+   "conditions": "Overcast",
    "icon": "clouds",
-   "aqi": 59,
-   "aqiCat": "Moderate",
+   "aqi": 19,
+   "aqiCat": "Good",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 98% · Wind E 5 mph",
-   "today": "Cloudy, high 42°F",
-   "tonight": "Cloudy, low 31°F",
-   "tomorrow": "AM Clouds/PM Sun, high 35°F"
+   "extra": "Humidity 92% · Wind 9 mph",
+   "today": "Mostly Cloudy then Patchy Fog, high 43°F",
+   "tonight": "Patchy Fog, low 28°F",
+   "tomorrow": "Partly Sunny, high 33°F"
   },
   {
    "name": "Seiver Lodge — L'Anse, MI",
    "detail": "Baraga County",
-   "tempF": 34,
-   "conditions": "Sunny",
-   "icon": "sun",
-   "aqi": 12,
+   "tempF": 55,
+   "conditions": "Partly Cloudy",
+   "icon": "partly",
+   "aqi": 21,
    "aqiCat": "Good",
    "aqiNote": "PM2.5",
    "alerts": "Small Craft Advisory from Fri 5:00 PM EST until Sat 1:00 PM EST",
-   "extra": "Humidity 100% · Wind SSE 4 mph",
-   "today": "Partly Cloudy, high 60°F",
-   "tonight": "Cloudy, low 55°F",
-   "tomorrow": "PM Light Rain, high 62°F"
+   "extra": "Humidity 45% · Wind 9 mph",
+   "today": "Partly Sunny, high 61°F",
+   "tonight": "Mostly Cloudy, low 54°F",
+   "tomorrow": "Mostly Cloudy then Chance Rain Showers, high 63°F"
   }
  ],
  "apod": {
   "date": "November 20, 2026",
-  "title": "V-G-R",
-  "credit": "Apostolos Kyriazis — NASA Astronomy Picture of the Day, November 20, 2026",
-  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/IMG_4364N_Kyriazis.jpg?w=2048&h=2048&fit=clip",
-  "explanation": "On November 17, fans of interstellar spaceflight around planet Earth were invited to shine a message into the night sky. Traced by a flashlight beam switched on and off, the dashes and dots of a Morse code message captured in this time exposure from the Emirates Astronomical Observatory read V-G-R — the call sign for the Voyager 1 spacecraft, now in interstellar space some 26 billion kilometres away. Travelling at the speed of light, the message would take one day to reach humanity's most distant spacecraft; Voyager 1 was confirmed to reach its one light-day distance milestone on November 18, nearly 50 years after launch in 1977.",
-  "pageUrl": "https://apod.nasa.gov/apod/ap261120.html"
+  "title": "The Stormy Southwest Pacific",
+  "credit": "Lauren Dauphin, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview — NASA Earth Observatory Image of the Day, November 20, 2026",
+  "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/the-stormy-southwest-pacific--/cyclonexavier_amo_20261116_lrg.jpg",
+  "explanation": "Tropical Cyclone Xavier, captured by the MODIS instrument on NASA's Aqua satellite on November 17, 2026, became one of the most intense November tropical cyclones the Southwest Pacific has seen in decades, peaking at 220 km/h (140 mph) — the strongest November storm east of the international date line on record. The system damaged homes and cut power in the northern Cook Islands before weakening as it pushed west; Fiji's seasonal outlook projects 11 to 15 named cyclones in the region this season.",
+  "pageUrl": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/"
  }
 }
