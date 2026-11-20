@@ -1,34 +1,34 @@
 {
- "version": 42,
- "asOf": "Thu Nov 19, 2026, 7:50 PM CT",
+ "version": 43,
+ "asOf": "Fri Nov 20, 2026, 9:39 AM CT",
  "breaking": [
   {
-   "headline": "Anthropic closes first day at $97.17, still 17% above its IPO price",
-   "fact": "Anthropic closed its first day on the Nasdaq at $97.17 Thursday — up 17.07% from its $83 IPO price, but 12.9% below its $111.50 opening trade after touching $115.10. The $81.3 billion offering is the largest IPO on record, and the fully diluted value closed near $1.75 trillion on volume of more than 846 million shares. Sean’s 66 shares at $83 are now worth $6,413.22.",
-   "source": "Reuters",
+   "headline": "Stock futures point to steep declines; S&P faces worst week since April 2025",
+   "fact": "Nasdaq 100 futures were down 2.2% and S&P 500 futures down 1.5% ahead of Friday's open, with the Dow down 0.5%, after Thursday's 2% slide put the S&P 500 on a six-day losing streak; the indexes are on track for their worst week since April 2025, the Dow down 6.2% for the week. The 10-year yield eased to 4.98%, WTI slipped to $82.30 a barrel, gold fell to a 14-month low near $3,575 an ounce and bitcoin traded near $61,400.",
+   "source": "Investopedia",
    "tag": "US",
-   "url": "https://thewallstreetrepublic.substack.com/p/anthropic-closes-at-9717-s-and-p"
+   "url": "https://www.investopedia.com/5-things-investors-need-to-know-about-friday-s-markets-12266953"
   },
   {
-   "headline": "Stocks close sharply lower; Dow falls below 50,000, S&P logs sixth straight loss",
-   "fact": "The Dow fell 1,101.11 points, or 2.19%, to 49,097.06 — its first close below 50,000 since June — while the S&P 500 dropped 2.02% to 7,175.83 for a sixth straight loss, its longest slide in about two and a half years, and the Nasdaq fell 2.25% to 23,879.20. All seven Magnificent Seven stocks finished lower, the S&P is on course for its steepest weekly decline since April 2025, and the VIX closed at 28.44.",
-   "source": "Reuters",
-   "tag": "US",
-   "url": "https://q106fm.com/2026/11/19/wall-street-ends-sharply-lower-as-anthropics-debut-fails-to-revive-ai-fervor/"
-  },
-  {
-   "headline": "Williams-Sonoma plunges 15% after sales miss — worst in the S&P 500",
-   "fact": "Williams-Sonoma fell 15.16% to $220.66, the worst performer in the S&P 500, after third-quarter revenue of $1.99 billion came in just short of the $2 billion consensus, even though adjusted earnings of $2.19 a share matched estimates. The company only reiterated its full-year outlook rather than raising it, and flagged fourth-quarter cost pressure from oil-driven freight costs.",
-   "source": "Finimize",
-   "tag": "US",
-   "url": "https://finimize.com/content/williams-sonoma-slid-after-sales-missed-by-a-hair"
-  },
-  {
-   "headline": "Fed minutes point to more hikes; December increase now nearly certain",
-   "fact": "Minutes of the Fed’s October 27–28 meeting, released Wednesday, show ‘almost all’ officials judged further rate increases ‘would likely be appropriate,’ with a couple floating a larger-than-25-basis-point move in December if inflation data stay hot. Traders price a quarter-point December hike at about 92–95%, with roughly an 8% chance of a half-point move; JPMorgan expects three more hikes — December, January and March — taking the target range to 4.50%–4.75%, and the dollar index hit a 19-month high near 104.",
+   "headline": "Asian equities tumble as AI selloff deepens; Nikkei falls 4.5%",
+   "fact": "Japan's Nikkei 225 tumbled 4.54% and South Korea's Kospi fell 4.74% on Friday as the AI selloff spread across Asia, with MSCI's Asia Pacific index down for a seventh straight session; Japan's core consumer prices rose 2.2% in October, reinforcing expectations of another Bank of Japan rate hike.",
    "source": "Morningstar",
+   "tag": "World",
+   "url": "https://www.morningstar.com/news/dow-jones/202611202094/dow-jones-top-markets-headlines-at-3-am-et-asian-equities-tumble-as-ai-stock-selloff-deepens-japan"
+  },
+  {
+   "headline": "California subpoenas Nvidia over chips, China and investor disclosure",
+   "fact": "California Attorney General Rob Bonta served an investigative subpoena on Nvidia on Thursday, asking whether its advanced chips or confidential information reached China and whether it misled investors, tied to reports about former CEO Jensen Huang and an alleged Chinese spy. The release states no finding and names no statute or deadline; Nvidia had published no response by early Friday. House committees have Huang and Nvidia general counsel Tim Teter set for transcribed interviews on Dec. 1 and 2.",
+   "source": "The Edge",
    "tag": "US",
-   "url": "https://www.morningstar.com/news/dow-jones/202611193032/treasury-eurozone-bond-yields-edge-higher-update"
+   "url": "https://edgeconsultancykw.com/california-attorney-general-subpoena-nvidia-china-chips-investors/"
+  },
+  {
+   "headline": "Anthropic shares fall about 12% premarket after record debut",
+   "fact": "Anthropic shares were down about 12% in premarket trading Friday after closing Thursday at $97.17, up 17.07% from the $83 IPO price; the stock opened at $111.50, touched $115.10 and mostly traded under $100. Sean's 66 shares at $83 were worth $6,413.22 at Thursday's close; the $81.3 billion offering is the largest IPO on record.",
+   "source": "Investopedia",
+   "tag": "US",
+   "url": "https://www.investopedia.com/5-things-investors-need-to-know-about-friday-s-markets-12266953"
   }
  ],
  "markets": [
@@ -229,9 +229,9 @@
   },
   {
    "label": "WTI Crude",
-   "value": "$83.16",
-   "change": "-0.10",
-   "pct": "-0.12%",
+   "value": "$83.21",
+   "change": "-0.05",
+   "pct": "-0.06%",
    "dir": "down",
    "spark": [
     91.85,
@@ -263,15 +263,15 @@
     85.72,
     86.01,
     83.26,
-    83.16
+    83.21
    ]
   },
   {
    "label": "Brent Crude",
-   "value": "$90.05",
-   "change": "-1.90",
-   "pct": "-2.07%",
-   "dir": "down",
+   "value": "$91.98",
+   "change": "+0.03",
+   "pct": "+0.03%",
+   "dir": "up",
    "spark": [
     104.72,
     106.65,
@@ -302,14 +302,14 @@
     92.44,
     93.14,
     91.95,
-    90.05
+    91.98
    ]
   }
  ],
  "marketsNote": "",
  "watchlist": [
   {
-   "blurb": "Air Liquide closed in Paris at €189.14 Thursday, down 0.32% on the day; converted at the ECB’s Nov 19 reference rate of 1.0992, that’s $207.90.",
+   "blurb": "Air Liquide closed in Paris at €189.14 Thursday, down 0.32%; at the ECB's Nov 19 reference rate of 1.0992, that's $207.90, with European shares opening lower Friday as the AI selloff spreads.",
    "change": "-0.32%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/AI.PA",
@@ -337,7 +337,7 @@
    "price": "$97.17",
    "change": "+17.07%",
    "dir": "up",
-   "blurb": "Anthropic closed its first day at $97.17 Thursday, up 17.07% from the $83 IPO price after opening at $111.50 and touching $115.10; Sean’s 66 shares at $83 are now worth $6,413.22.",
+   "blurb": "Anthropic closed its first day at $97.17 Thursday, up 17.07% from the $83 IPO price after opening at $111.50 and touching $115.10; shares were down about 12% in premarket trading Friday. Sean's 66 shares at $83 were worth $6,413.22 at Thursday's close.",
    "spark": [
     83.0,
     83.0,
@@ -372,7 +372,7 @@
    "yieldTag": "Dist. yield 4.04%"
   },
   {
-   "blurb": "Fastenal closed at $52.68 Thursday, down 2.37%, and still $4.68 above Sean’s $48 buy gate, so the watch stays quiet.",
+   "blurb": "Fastenal closed at $52.68 Thursday, down 2.37%, and still $4.68 above Sean's $48 buy gate, so the watch stays quiet; futures point to another lower open Friday.",
    "change": "-2.37%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/FAST",
@@ -393,7 +393,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Alphabet closed at $272.66 Thursday, down 3.46%, as the AI selloff deepened around Anthropic’s debut; Gemini 4 Hydrogen is now the default in Search’s AI Mode worldwide, while the Fed’s hawkish October minutes keep the December-hike overhang in place.",
+   "blurb": "Alphabet closed at $272.66 Thursday, down 3.46%, as the AI selloff deepened around Anthropic's debut; California subpoenaed Nvidia late Thursday over chips, China and investor disclosure, and futures point lower again Friday.",
    "change": "-3.46%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/GOOGL",
@@ -414,7 +414,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Lilly closed at $1,351.12 Thursday, down 2.29%, giving back ground with the market as the S&P 500 logged its sixth straight loss.",
+   "blurb": "Lilly closed at $1,351.12 Thursday, down 2.29%, giving back ground with the market as the S&P 500 logged its sixth straight loss; it is down about 6% over the past five sessions.",
    "change": "-2.29%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/LLY",
@@ -435,7 +435,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Cheniere closed at $295.37 Thursday, down 0.38%, easing as Brent crude slid another 2% to about $90 a barrel.",
+   "blurb": "Cheniere closed at $295.37 Thursday, down 0.38%, holding up better than the broad market as Brent settled near $92 a barrel; the first Iranian oil movement since July — a small ship-to-ship transfer — was reported Friday.",
    "change": "-0.38%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/LNG",
@@ -456,7 +456,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Nvidia closed at $145.98 Thursday, down 3.30%, as the post-earnings fade deepened into a second day; the board has shut the door on Jensen Huang’s return, and the permanent-CEO search continues under interim CEO Colette Kress.",
+   "blurb": "Nvidia closed at $145.98 Thursday, down 3.30%, as the post-earnings fade deepened; California's attorney general subpoenaed the company Thursday over whether advanced chips reached China and whether investors were misled, and shares were down about 3.7% premarket Friday.",
    "change": "-3.30%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/NVDA",
@@ -477,7 +477,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Pfizer closed at $27.54 Thursday, down 1.85%; Sean’s buy gate sits at $32, so the watch stays quiet.",
+   "blurb": "Pfizer closed at $27.54 Thursday, down 1.85%; Sean's buy gate sits at $32, so the watch stays quiet.",
    "change": "-1.85%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/PFE",
@@ -498,7 +498,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Rocket Lab closed at $50.99 Thursday, down 3.92%, in the broad selloff; the company just flew its 100th Electron launch, a milestone for the small-launch business.",
+   "blurb": "Rocket Lab closed at $50.99 Thursday, down 3.92%, in the broad selloff; SpaceX is already preparing its next Starship flight, with Flight 17 hardware in cryo testing.",
    "change": "-3.92%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/RKLB",
@@ -540,7 +540,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "The SpaceX ETF closed at $138.43 Thursday, down 3.53%, in the AI selloff; Elon Musk outlined a bigger Starship V4 on Thursday — about 70 metres long with over 60% more propellant — after Saturday’s first orbital catch of the upper stage.",
+   "blurb": "The SpaceX ETF closed at $138.43 Thursday, down 3.53%, in the AI selloff; SpaceX's Flight 17 hardware — Ship 44 and Booster 24 — rolled to the Massey's test site for cryo testing Thursday, and shares were down about 7% premarket Friday.",
    "change": "-3.53%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/SPCX",
@@ -582,7 +582,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "U.S. Antimony closed at $2.38 Thursday, down 5.56%, and still below Sean’s $4 buy gate, with Q3’s withdrawn guidance and the $9.5M quarterly loss still hanging over the name.",
+   "blurb": "U.S. Antimony closed at $2.38 Thursday, down 5.56%, and still below Sean's $4 buy gate, with Q3's withdrawn guidance and the $9.5M quarterly loss still hanging over the name; it has fallen about 24% over the past five sessions.",
    "change": "-5.56%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/UAMY",
@@ -603,7 +603,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Uranium Energy closed at $5.76 Thursday, down 2.70%, holding near its 52-week low as uranium spot stays around $90 a pound.",
+   "blurb": "Uranium Energy closed at $5.76 Thursday, down 2.70%, holding near its 52-week low as uranium spot stays around $90 a pound; it is down about 20% over the past five sessions and was down about 3.5% premarket Friday.",
    "change": "-2.70%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/UEC",
@@ -645,29 +645,29 @@
    "yieldTag": null
   },
   {
-   "blurb": "The target-date fund’s latest NAV is $28.68 as of Nov 18, down 0.24% from Nov 17’s $28.75, tracking the broad slide; the next NAV posts after Thursday’s close.",
-   "change": "-0.24%",
+   "blurb": "The target-date fund's latest NAV is $28.34 as of Nov 19, down 1.19% from Nov 18's $28.68, tracking the broad slide.",
+   "change": "-1.19%",
    "dir": "down",
    "link": "https://finance.yahoo.com/quote/VTTHX",
    "name": "Vanguard Target Retirement 2035",
-   "price": "$28.68",
+   "price": "$28.34",
    "risk": 3,
    "spark": [
-    29.35,
     29.57,
     29.39,
     29.31,
     28.95,
     28.75,
-    28.68
+    28.68,
+    28.34
    ],
-   "subTag": "NAV as of Nov 18",
+   "subTag": "NAV as of Nov 19",
    "ticker": "VTTHX",
    "yieldTag": null
   },
   {
-   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate is $147.50 (est.) with the index closing at 7,175.83 Thursday, down from $150.13 (est.) at Wednesday’s close.",
-   "change": "-1.75%",
+   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate is $147.50 (est.) with the index closing at 7,175.83 Thursday, down 2.02% on the day and 5.1% for the week so far.",
+   "change": "-2.02%",
    "dir": "down",
    "link": null,
    "name": "Vanguard Institutional 500 Index Trust",
@@ -687,7 +687,7 @@
    "yieldTag": null
   },
   {
-   "blurb": "Schwab money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.76%, as published Nov 18 on Schwab’s official page — the sweep-and-evaporate plan keeps working the balance down.",
+   "blurb": "Schwab money market fund; stable $1.00 NAV with a 7-day SEC yield of 3.77%, as published Nov 19 on Schwab's official page — the sweep-and-evaporate plan keeps working the balance down.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/SWVXX",
@@ -695,12 +695,12 @@
    "price": "$1.00",
    "risk": 1,
    "spark": null,
-   "subTag": "Yield published Nov 18 (Schwab)",
+   "subTag": "Yield published Nov 19 (Schwab)",
    "ticker": "SWVXX",
-   "yieldTag": "7-day yield 3.76%"
+   "yieldTag": "7-day yield 3.77%"
   },
   {
-   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 4.02%, as published Nov 18 on Vanguard’s official page — still the higher of the two cash yields.",
+   "blurb": "Vanguard Treasury money market fund; stable $1.00 NAV with a 7-day SEC yield of 4.02%, as published Nov 19 on Vanguard's official page — still the higher of the two cash yields.",
    "change": "",
    "dir": "flat",
    "link": "https://finance.yahoo.com/quote/VUSXX",
@@ -708,66 +708,66 @@
    "price": "$1.00",
    "risk": 0,
    "spark": null,
-   "subTag": "Yield published Nov 18 (Vanguard)",
+   "subTag": "Yield published Nov 19 (Vanguard)",
    "ticker": "VUSXX",
    "yieldTag": "7-day yield 4.02%"
   }
  ],
  "weekInBrief": [
   {
-   "headline": "IEA: Hormuz crisis is the largest energy supply shock on record",
-   "body": "The International Energy Agency’s World Energy Outlook 2026, published Thursday, puts the oil and gas lost to the Hormuz crisis at 2.8 billion barrels and 60 billion cubic metres by end-October — the largest supply shock the world has faced. In its ‘Low Hormuz’ case, oil flows through the strait fall from 20 million barrels a day before the crisis to 8.5 million by 2030 and under 2 million by 2035 as bypass pipelines and alternative supplies take over, though the Middle East would remain the world’s largest oil exporter. Executive Director Fatih Birol said he sees ‘no credible pathway’ for the energy world to return to the way it was before.",
+   "headline": "Intuit to sell Mailchimp for $3.68 billion, a third of what it paid",
+   "body": "Intuit said it will sell Mailchimp to Bending Spoons for about $3.68 billion — roughly a third of the $12 billion it paid for the marketing platform in 2021. Intuit shares fell nearly 10% on the news even though its quarterly results beat expectations on the top and bottom lines.",
+   "stamp": "Nov 20, 2026"
+  },
+  {
+   "headline": "Walmart raises outlook as third-quarter revenue climbs 5.2% to $188.8 billion",
+   "body": "Walmart reported fiscal third-quarter revenue of $188.8 billion, up 5.2% from a year earlier, and raised its full-year outlook, with net sales now expected to grow 4.9% to 5.2%. Operating income rose 16.0% to $7.77 billion, but diluted earnings per share fell 19.5% to $0.62 as a $2.4 billion swing from investment gains to losses outweighed the operating gain; U.S. eCommerce grew 23%.",
    "stamp": "Nov 19, 2026"
   },
   {
-   "headline": "Alibaba’s AI cloud jumps 53%, but cash burn deepens and earnings miss",
-   "body": "Alibaba reported September-quarter revenue of 271.5 billion yuan ($40.5 billion), up 10% and just ahead of estimates, with AI cloud and compute revenue up 53% to 61 billion yuan and AI-related product revenue growing triple digits for a 13th straight quarter. Reported profit more than tripled to 64.5 billion yuan on investment gains, but adjusted earnings of 8.10 yuan per ADS missed the 10.75 yuan analysts expected, free cash flow was a 34.5 billion yuan outflow as capital spending jumped 60%, and CEO Eddie Wu said new U.S. chip rules may force a cut to the company’s 20-gigawatt data-center goal.",
+   "headline": "Jobless claims edge up to 203,000; Labor Department finalizes contractor rule",
+   "body": "Initial jobless claims rose 1,000 to 203,000 in the week ended Nov. 14, still 8.6% below a year earlier, while the number of people staying on benefits rose 70,000 to 1,763,000. The Labor Department also finalized a rule returning independent-contractor classification to a test substantially similar to its 2021 version, taking effect 60 days after publication in the Federal Register.",
    "stamp": "Nov 19, 2026"
   },
   {
-   "headline": "Mortgage rates jump to 7.28%, ending a four-week slide",
-   "body": "The average 30-year fixed mortgage rate rose to 7.28% in Freddie Mac’s weekly survey released Thursday, up 17 basis points from 7.11% last week and from 6.26% a year ago — the first weekly increase since early October, ending a four-week streak of declines. The 15-year fixed rose to 6.66%. The jump follows the Fed’s hawkish October minutes, which have traders pricing a December rate hike as nearly certain; daily measures put the 30-year near 7.45%.",
-   "stamp": "Nov 19, 2026"
-  },
-  {
-   "headline": "APEC summit opens in Shenzhen with Xi, Trump and Putin in attendance",
-   "body": "The 33rd APEC Economic Leaders’ Meeting opened Thursday in Shenzhen, China, with Presidents Xi Jinping, Donald Trump and Vladimir Putin addressing leaders from 21 member economies amid concerns over global trade, energy security and rising geopolitical tensions. Xi called for stronger regional trade ties and announced $20 million in support for Asia-Pacific cooperation, while Trump highlighted U.S. economic strength and AI leadership and opposed global AI regulation.",
-   "stamp": "Nov 19, 2026"
+   "headline": "Senate passes measure to speed up energy projects, lower consumer costs",
+   "body": "The Senate passed a bipartisan measure designed to streamline federal permitting for energy projects and lower consumer costs. The effort split Democrats over environmental concerns, and backers say faster permitting should bring energy projects online sooner.",
+   "stamp": "Nov 20, 2026"
   }
  ],
  "hormuz": {
   "items": [
    {
     "headline": "Latest from the Strait",
-    "body": "Iran’s army claimed on Wednesday evening that three more oil tankers struck naval mines and caught fire east of the Strait of Hormuz after switching off their navigation systems in a declared exclusion zone — but it named no vessels, and Reuters could not independently verify the claim; the Revolutionary Guards separately claim six tankers have been mined since Sunday. A confirmed attack on an ADNOC vessel on Tuesday evening left 11 crew injured and one missing, according to UKMTO. The U.S. blockade’s tightened enforcement rules, circulated to shipowners as JMIC Advisory 017-26, now treat any vessel receiving Iranian cargo in a ship-to-ship transfer as a blockade evader, subject to being stopped, boarded or seized. On oil, the blockade still holds — Iranian crude exports have remained near a standstill for months, shipping sources told Reuters, while Kpler puts total oil and product flows through the strait at about 8.3 million barrels a day in the week to November 11, roughly 48% of pre-war levels."
+    "body": "A cargo of Iranian crude moved ship-to-ship in the Persian Gulf this week — the first such movement since the U.S. reinstated its blockade of Iranian ports in mid-July. The U.S.-sanctioned Suezmax Olym transferred about 200,000 barrels to the medium-range tanker Hao Fan on Tuesday just south of Iran's Kharg Island terminal, with both vessels' transponders off, according to United Against Nuclear Iran and tracker Kpler, with TankerTrackers.com reporting the same transfer. The U.S. military warned Wednesday, in JMIC Advisory 017-26, that any vessel receiving Iranian cargo at sea is now a blockade evader subject to being stopped, boarded or seized. Iranian media affiliated with the Revolutionary Guards floated sending a convoy of tankers loaded with crude to China in defiance of the blockade. On oil, a small amount of Iranian crude is moving again — about 200,000 barrels changed hands ship-to-ship on Tuesday, the first such movement since July — but it has not left the Gulf as an export, while about 8.3 million barrels a day of oil and products, effectively all non-Iranian with Iranian exports near a standstill, kept flowing through the strait in the week to November 11, about 48% of pre-war levels."
    }
   ],
   "stats": ""
  },
  "space": [
   {
-   "headline": "Musk outlines a bigger Starship V4 after Saturday’s first orbital catch",
-   "body": "Elon Musk said Thursday that Starship V4 will be about 70 metres long — roughly 40% bigger than V3 — with more than 60% additional propellant and higher-thrust Raptor engines, after SpaceX’s Starship upper stage was caught by the launch tower’s arms on Saturday following a 22-hour orbital flight, the first such catch after a trip to orbit. Musk said a reusable Starship could carry 200 metric tons to orbit and that refuelling costs could fall to $500,000. The booster was lost on the same flight, and SpaceX expects to begin Starship launches from Florida’s Kennedy Space Center within the next few months.",
+   "headline": "Starship Flight 17 hardware rolls to Massey's for cryo testing",
+   "body": "SpaceX is already preparing its next Starship flights: Ship 44 and Booster 24 — the vehicles for Flight 17 — rolled to the Massey's test site at Starbase, Texas, for cryogenic proof testing on Thursday, less than a week after Flight 15's historic orbital catch of the upper stage. Ship 43 and Booster 23, the Flight 16 pair, did their cryo tests last month, and Flight 16 could launch as soon as next month, possibly from Starbase, with Flight 17 then taking the first Starship launch from Kennedy Space Center's Launch Complex 39A. SpaceX has released no mission design or date for either flight. Musk said the recovered Ship 42 will go on public display rather than fly again.",
    "tag": "Space",
-   "url": "https://www.ad-hoc-news.de/boerse/corporate-news/spacex-stock-musk-outlines-bigger-starship-v4-after-ship-catch/70536149"
+   "url": "https://starlust.org/starship-flight-17-upper-stage-and-super-heavy-roll-out-to-masseys-for-cryo-testing/"
   },
   {
-   "headline": "ULA’s Vulcan fails to reach orbit with 40 Amazon satellites",
-   "body": "United Launch Alliance’s Vulcan rocket failed to reach orbit on Sunday carrying 40 Amazon Leo communications satellites, a setback for the Boeing-Lockheed Martin joint venture’s new heavy launcher. The Planetary Society’s analysis Thursday contrasts the failure with SpaceX’s Starship triumph a day earlier: the world’s largest rocket hit a historic milestone while the more conventional approach fell short, underscoring how lopsided the U.S. launch industry has become, with government and commercial customers functionally dependent on a single company.",
+   "headline": "SpaceX disputes Starship debris claims on Mexican beaches",
+   "body": "SpaceX has rejected claims that debris from the failed Starship booster on Nov. 13 polluted beaches on Mexico's northern Gulf coast, saying its partners found very little material and the origin of what was collected is unclear. The environmental group Conibio Global has counted more than 1,500 pieces, and Mexico's federal environmental prosecutor, Profepa, has inspected the sites, is collecting fragments of the booster's lining and is demanding SpaceX take responsibility.",
    "tag": "Space",
-   "url": "https://www.planetary.org/articles/starships-triumph-and-vulcans-failure"
+   "url": "https://scienceofficial.org/space/spacex-denies-starship-debris-littered-mexican-beaches-after-explosion/"
   },
   {
-   "headline": "Electric currents switch antiferromagnets at room temperature",
-   "body": "Researchers led by Northwestern Engineering have discovered an effect — octupole-driven spin-transfer torque — that lets an electric current manipulate the magnetic state of noncollinear antiferromagnets at room temperature, in nanoscale devices built from two antiferromagnetic layers separated by a thin insulating barrier. The work, published in Nature, could open a path to faster, more robust magnetic memory that is immune to stray magnetic fields.",
+   "headline": "'Game changer' blood test for CTE may be coming",
+   "body": "Traces of a brain protein in blood could soon lead to a test that diagnoses chronic traumatic encephalopathy — the degenerative brain disease best known for affecting football players — during a person's lifetime. In two studies published in JAMA, blood tests for the protein eMTBR-tau spotted later-stage CTE in former players, 18 of 21 of whom were confirmed to have the disease after death. The test is not yet FDA-approved, and the researchers stress it is still in the discovery phase with a small sample.",
    "tag": "Science",
-   "url": "https://phys.org/news/2026-11-unexpected-effect-electric-currents-antiferromagnets.html"
+   "url": "https://medicalxpress.com/news/2026-11-game-changer-blood-cte.html"
   },
   {
-   "headline": "Neutron scans reveal a tiny horned reptile from 156 million years ago",
-   "body": "Neutron imaging at the Paul Scherrer Institute has revealed a previously unknown species of horned reptile from a fossil found in a Wyoming quarry in 2022. Named Meilynodraco amonamarthi, the 156-million-year-old animal is the most complete early-branching choristodere known and the oldest record of the group in North America. The findings are published in Royal Society Open Science, and the little ‘dragon’ will feature in a travelling exhibition at the Aathal Dinosaur Museum in early 2027.",
+   "headline": "Adaptive AI agent plans and runs lab experiments on its own",
+   "body": "Researchers at University College London, HKUST (Guangzhou) and partner institutions have built an embodied science agent that autonomously plans and conducts experiments, pairing a digital agent that learns from past results with a robotic agent that controls lab instruments. In a wastewater-treatment test it picked conditions from more than 200 million combinations and, over 15 rounds, cut residual dye by 98.5%, a step toward self-driving laboratories. The work is posted on arXiv.",
    "tag": "Science",
-   "url": "https://phys.org/news/2026-11-neutrons-death-metal-tiny-prehistoric.html"
+   "url": "https://techxplore.com/news/2026-11-ai-agent-experimental-robotic-wastewater.html"
   }
  ],
  "cdRates": {
@@ -825,70 +825,70 @@
   {
    "name": "Houston Winter Condo",
    "detail": "ZIP 77056",
-   "tempF": 73,
-   "conditions": "Clear",
-   "icon": "sun",
-   "aqi": 65,
+   "tempF": 62,
+   "conditions": "Partly Cloudy",
+   "icon": "partly",
+   "aqi": 81,
    "aqiCat": "Moderate",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 50% · Wind ENE 10 mph",
-   "today": "Mostly Sunny, high 75°F",
-   "tonight": "Patchy Fog, low 59°F",
-   "tomorrow": "Patchy Fog then Sunny, high 76°F"
+   "extra": "Humidity 89% · Wind NE 5 mph",
+   "today": "Mostly Cloudy, high 76°F",
+   "tonight": "Partly Cloudy, low 61°F",
+   "tomorrow": "Partly Cloudy, high 78°F"
   },
   {
    "name": "Seiver Ranch — Plains, MT",
    "detail": "Sanders County",
-   "tempF": 39,
-   "conditions": "Mostly Cloudy",
+   "tempF": 35,
+   "conditions": "Cloudy",
    "icon": "clouds",
-   "aqi": 15,
-   "aqiCat": "Good",
+   "aqi": 134,
+   "aqiCat": "Unhealthy for Sensitive Groups",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 86% · Wind W 0 mph",
-   "today": "Mostly Cloudy, high 41°F",
-   "tonight": "Mostly Cloudy, low 25°F",
-   "tomorrow": "Mostly Cloudy then Slight Chance Rain And Snow, high 39°F"
+   "extra": "Humidity 92% · Wind WSW 1 mph",
+   "today": "PM Showers, high 36°F",
+   "tonight": "Mostly Cloudy, low 30°F",
+   "tomorrow": "Partly Cloudy, high 35°F"
   },
   {
    "name": "Seiver Slough — Rugby, ND",
    "detail": "Pierce County",
-   "tempF": 41,
+   "tempF": 38,
    "conditions": "Cloudy",
    "icon": "clouds",
-   "aqi": 15,
-   "aqiCat": "Good",
+   "aqi": 59,
+   "aqiCat": "Moderate",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Wind N 0 mph",
-   "today": "Mostly Cloudy, high 41°F",
-   "tonight": "Cloudy, low 36°F",
-   "tomorrow": "Chance Light Rain, high 42°F"
+   "extra": "Humidity 98% · Wind E 5 mph",
+   "today": "Cloudy, high 42°F",
+   "tonight": "Cloudy, low 31°F",
+   "tomorrow": "AM Clouds/PM Sun, high 35°F"
   },
   {
    "name": "Seiver Lodge — L'Anse, MI",
    "detail": "Baraga County",
-   "tempF": 46,
-   "conditions": "Cloudy",
-   "icon": "clouds",
-   "aqi": 29,
+   "tempF": 34,
+   "conditions": "Sunny",
+   "icon": "sun",
+   "aqi": 12,
    "aqiCat": "Good",
    "aqiNote": "PM2.5",
-   "alerts": "",
-   "extra": "Humidity 71% · Wind  0 mph",
-   "today": "Mostly Cloudy, high 60°F",
-   "tonight": "Cloudy, low 39°F",
-   "tomorrow": "Mostly Cloudy, high 59°F"
+   "alerts": "Small Craft Advisory from Fri 5:00 PM EST until Sat 1:00 PM EST",
+   "extra": "Humidity 100% · Wind SSE 4 mph",
+   "today": "Partly Cloudy, high 60°F",
+   "tonight": "Cloudy, low 55°F",
+   "tomorrow": "PM Light Rain, high 62°F"
   }
  ],
  "apod": {
-  "date": "November 18, 2026",
-  "title": "Empire State Building Goes Gold for Voyager",
-  "credit": "NASA/Bill Ingalls — NASA Image of the Day, November 18, 2026",
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/55658604092-c6f0765cc5-o.jpg",
-  "explanation": "The Empire State Building is seen illuminated in gold to celebrate NASA’s Voyager 1 spacecraft as it was about to pass one light-day away from Earth — a distance reached by no other human-made object — on November 17, 2026. The gold honours the gold-plated copper phonograph record flying aboard Voyager, the Golden Record carrying sounds and images chosen to portray the diversity of life and culture on Earth.",
-  "pageUrl": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/"
+  "date": "November 20, 2026",
+  "title": "V-G-R",
+  "credit": "Apostolos Kyriazis — NASA Astronomy Picture of the Day, November 20, 2026",
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/IMG_4364N_Kyriazis.jpg?w=2048&h=2048&fit=clip",
+  "explanation": "On November 17, fans of interstellar spaceflight around planet Earth were invited to shine a message into the night sky. Traced by a flashlight beam switched on and off, the dashes and dots of a Morse code message captured in this time exposure from the Emirates Astronomical Observatory read V-G-R — the call sign for the Voyager 1 spacecraft, now in interstellar space some 26 billion kilometres away. Travelling at the speed of light, the message would take one day to reach humanity's most distant spacecraft; Voyager 1 was confirmed to reach its one light-day distance milestone on November 18, nearly 50 years after launch in 1977.",
+  "pageUrl": "https://apod.nasa.gov/apod/ap261120.html"
  }
 }
