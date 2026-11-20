@@ -777,13 +777,13 @@
      "etrade": "5.00% Thomasville",
      "fdicNote": null,
      "green": "schwab",
-     "schwab": "5.00% Thomasville"
+     "schwab": "5.20%* Morgan Stanley (semi-annual)"
     },
     "noncall": {
      "etrade": "4.80% Forbright Bk",
      "fdicNote": null,
-     "green": null,
-     "schwab": "4.80% Forbright Bk"
+     "green": "schwab",
+     "schwab": "5.00% Wells Fargo"
     },
     "term": "3-Year CDs"
    },
@@ -791,14 +791,14 @@
     "callable": {
      "etrade": "5.15% Farmers & Merchants Bk",
      "fdicNote": null,
-     "green": "etrade",
-     "schwab": "5.05% First United Bk"
+     "green": "schwab",
+     "schwab": "5.40%* Morgan Stanley (semi-annual)"
     },
     "noncall": {
      "etrade": "5.00% UBS Bank USA",
      "fdicNote": null,
-     "green": "etrade",
-     "schwab": "4.90% Wells Fargo"
+     "green": "schwab",
+     "schwab": "5.05% Wells Fargo"
     },
     "term": "5-Year CDs"
    },
@@ -806,8 +806,8 @@
     "callable": {
      "etrade": null,
      "fdicNote": null,
-     "green": null,
-     "schwab": null
+     "green": "schwab",
+     "schwab": "5.50% Jonesboro State Bk"
     },
     "noncall": {
      "etrade": null,
@@ -819,7 +819,7 @@
    }
   ],
   "footnote": "",
-  "ratesAsOf": "Schwab Tue, Nov 10, 2026 · eTrade Mon, Nov 9, 2026"
+  "ratesAsOf": "Schwab Thu, Nov 19, 2026 · eTrade Mon, Nov 9, 2026"
  },
  "weather": [
   {
