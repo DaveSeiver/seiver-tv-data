@@ -1,6 +1,6 @@
 {
-  "version": 54,
-  "asOf": "Sat Nov 21, 2026, 5:18 PM CT",
+  "version": 55,
+  "asOf": "Sat Nov 21, 2026, 5:26 PM CT",
   "edition": "weekend",
   "breaking": [
     {
@@ -799,6 +799,12 @@
   },
   "space": [
     {
+      "tag": "Science",
+      "headline": "Claude helps prove the Riemann Hypothesis — and the proof checks out",
+      "body": "Anthropic mathematician Levent Alpöge announced Friday that, working with Claude, he had produced a formal proof of the Riemann Hypothesis — the 167-year-old Millennium Prize problem about how the prime numbers are distributed — published not as a paper but as some 17 million lines of machine-checkable Lean code. On Saturday the Lean and Mathlib communities said they had independently verified it: the code proves the right statement, and multiple independent checkers accept it. The Clay Institute still lists the problem as unsolved and mathematicians are only beginning to digest the ideas — but a machine-verified proof of a Millennium problem is a first in mathematics.",
+      "url": "https://www.usatoday.com/story/tech/2026/11/21/ai-claude-riemann-hypothesis-math-mystery/92901494007/"
+    },
+    {
       "tag": "Space",
       "headline": "SpaceX Dragon splashes down packed with science and cargo",
       "body": "SpaceX's unpiloted Dragon splashed down in the Pacific near Los Angeles on Saturday, closing NASA's 35th commercial resupply mission to the space station. It brought home a 3D-bioprinted blood vessel construct for vascular-aging research, frozen tumor organoids for cancer studies, and microbial samples to probe antibiotic resistance in space.",
@@ -809,12 +815,6 @@
       "headline": "ALMA catches a dying Sun-like star in its final act",
       "body": "Astronomers using the ALMA telescope have captured a rare stage in the death of a Sun-like star 12,000 light-years away in Monoceros: a vast gas shell blown off about 6,500 years ago, now half a light-year wide, with an hourglass-shaped nebula forming inside it. The JPL-led team says the shell preserves evidence of the star's last great nuclear pulse — a real-time snapshot of how stars like our Sun end their lives.",
       "url": "https://dailygalaxy.com/2026/11/a-star-12000-light-years-away-final-act/"
-    },
-    {
-      "tag": "Science",
-      "headline": "Fermi's 14-year map closes astronomy's elusive 'MeV gap'",
-      "body": "A new catalog from NASA's Fermi telescope identifies 450 gamma-ray sources in the hard-to-observe 20-200 MeV range, the clearest low-energy gamma-ray view ever, with counterparts found for 377 of them - mostly blazars outside the Milky Way. Sixty appear to be brand-new gamma-ray discoveries, including one mystery source shining across nine orders of magnitude in energy.",
-      "url": "https://phys.org/news/2026-11-fermi-year-sky-bridges-astronomy.html"
     },
     {
       "tag": "Science",
