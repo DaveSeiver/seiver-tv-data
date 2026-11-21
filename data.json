@@ -1,6 +1,6 @@
 {
- "version": 46,
- "asOf": "Fri Nov 20, 2026, 5:04 PM CT",
+ "version": 47,
+ "asOf": "Fri Nov 20, 2026, 7:55 PM CT",
  "breaking": [
   {
    "tag": "US",
@@ -12,21 +12,21 @@
   {
    "tag": "US",
    "headline": "Nvidia plunges 14% as SEC accounting probe reported",
-   "fact": "Nvidia fell 14.01% Friday to $125.53, its worst day in nearly two years and its lowest close since May 2025, after Reuters reported the SEC is investigating its accounting; the stock lost 23% for the week \u2014 its worst since 2008 \u2014 and is 47% below its Oct 6 record, wiping out nearly $500 billion of market value in a day.",
+   "fact": "Nvidia fell 14.01% Friday to $125.53, its worst day in nearly two years and its lowest close since May 2025, after Reuters reported the SEC is investigating its accounting; the stock lost 23% for the week — its worst since 2008 — and is 47% below its Oct 6 record, wiping out nearly $500 billion of market value in a day.",
    "source": "Motley Fool",
    "url": "https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/"
   },
   {
    "tag": "US",
    "headline": "Anthropic slides 8.5% on day two, nearly touching its $83 IPO price",
-   "fact": "Anthropic closed Friday at $88.91, down 8.50% from its $97.17 debut close, after touching $83.05 intraday \u2014 five cents above its $83 IPO price \u2014 with its valuation down to about $1.16 trillion from $1.29 trillion. Morgan Stanley closed its stabilization position after exercising the full 147-million-share greenshoe, closing the IPO at $93.5 billion.",
+   "fact": "Anthropic closed Friday at $88.91, down 8.50% from its $97.17 debut close, after touching $83.05 intraday — five cents above its $83 IPO price — with its valuation down to about $1.16 trillion from $1.29 trillion. Morgan Stanley closed its stabilization position after exercising the full 147-million-share greenshoe, closing the IPO at $93.5 billion.",
    "source": "Reuters",
    "url": "https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20/"
   },
   {
    "tag": "US",
    "headline": "Gold breaks below $3,600 to a 14-month low as Fed hike bets firm",
-   "fact": "Spot gold fell below $3,600 an ounce Friday to near $3,532\u2013$3,570, its lowest since September 2025 and down about 9% on the week \u2014 its worst since March \u2014 as traders priced a near-certain December Fed rate hike and the dollar strengthened; silver and platinum fell harder.",
+   "fact": "Spot gold fell below $3,600 an ounce Friday to near $3,532–$3,570, its lowest since September 2025 and down about 9% on the week — its worst since March — as traders priced a near-certain December Fed rate hike and the dollar strengthened; silver and platinum fell harder.",
    "source": "APMEX",
    "url": "https://learn.apmex.com/news/fed-rate-hike-talk-sends-gold-to-a-14-month-low-as-silver-and-platinum-fall-harder/"
   }
@@ -316,7 +316,7 @@
    "price": "$206.15",
    "change": "-0.82%",
    "dir": "down",
-   "blurb": "Air Liquide closed Friday in Paris at \u20ac187.58, down 0.82% on the day; at the ECB's Nov 20 reference rate of 1.0990 that converts to $206.15, with European shares sliding alongside the global AI selloff.",
+   "blurb": "Air Liquide closed Friday in Paris at €187.58, down 0.82% on the day; at the ECB's Nov 20 reference rate of 1.0990 that converts to $206.15, with European shares sliding alongside the global AI selloff.",
    "spark": [
     193.32,
     193.24,
@@ -326,7 +326,7 @@
     187.58,
     187.5800018310547
    ],
-   "subTag": "\u20ac187.58 \u00d7 1.0990 (ECB Nov 20)",
+   "subTag": "€187.58 × 1.0990 (ECB Nov 20)",
    "yieldTag": null
   },
   {
@@ -463,7 +463,7 @@
    "price": "$125.53",
    "change": "-14.01%",
    "dir": "down",
-   "blurb": "Nvidia closed Friday at $125.53, down 14.01% \u2014 its worst day in nearly two years \u2014 after Reuters reported the SEC is investigating its accounting; the stock has lost about a third of its value in two weeks since Jensen Huang's departure and sits 47% below its Oct 6 record.",
+   "blurb": "Nvidia closed Friday at $125.53, down 14.01% — its worst day in nearly two years — after Reuters reported the SEC is investigating its accounting; the stock has lost about a third of its value in two weeks since Jensen Huang's departure and sits 47% below its Oct 6 record.",
    "spark": [
     156.14,
     155.46,
@@ -673,7 +673,7 @@
    "price": "$142.04 (est.)",
    "change": "-3.70%",
    "dir": "down",
-   "blurb": "No public quote for this CIT \u2014 the S&P 500-anchored estimate is $142.04 (est.) with the index closing at 6,910.39 Friday, down 3.70% on the day.",
+   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate is $142.04 (est.) with the index closing at 6,910.39 Friday, down 3.70% on the day.",
    "spark": [
     152.45,
     150.89,
@@ -716,7 +716,7 @@
  "weekInBrief": [
   {
    "headline": "December Fed hike now seen as near-certain; Bessent pushes back on a bigger move",
-   "body": "The CME FedWatch tool shows a 100% chance of at least a quarter-point Fed hike at the Dec 8\u20139 meeting \u2014 about 94% for a quarter point and 6% for a half point \u2014 and minutes from the October meeting showed nearly all officials expect a quarter-point hike. Treasury Secretary Scott Bessent said Friday he would encourage the Fed not to embrace a half-point increase.",
+   "body": "The CME FedWatch tool shows a 100% chance of at least a quarter-point Fed hike at the Dec 8–9 meeting — about 94% for a quarter point and 6% for a half point — and minutes from the October meeting showed nearly all officials expect a quarter-point hike. Treasury Secretary Scott Bessent said Friday he would encourage the Fed not to embrace a half-point increase.",
    "stamp": "Nov 20, 2026"
   },
   {
@@ -754,19 +754,19 @@
   {
    "tag": "Science",
    "headline": "Ancient bison jump site in Texas rewrites hunting history",
-   "body": "Rice University-led research at the Nighthawk site in Caprock Canyons State Park found evidence of at least seven bison jumps spanning about 3,000 years \u2014 only the second scientifically verified bison jump in Texas \u2014 showing Indigenous hunters repeatedly drove bison off a cliff in a technique once thought confined to the northern Great Plains. Published in American Antiquity.",
+   "body": "Rice University-led research at the Nighthawk site in Caprock Canyons State Park found evidence of at least seven bison jumps spanning about 3,000 years — only the second scientifically verified bison jump in Texas — showing Indigenous hunters repeatedly drove bison off a cliff in a technique once thought confined to the northern Great Plains. Published in American Antiquity.",
    "url": "https://phys.org/news/2026-11-ancient-bison-site-texas-held.html"
   },
   {
    "tag": "Science",
    "headline": "Experimental anesthetic blunts pain without sedation",
-   "body": "Researchers screened 12,000 compounds in zebrafish larvae and found a new anesthetic, nidradine, that produces surgical anesthesia and reduces pain responses at nonsedating doses in mice \u2014 unlike etomidate, it did not suppress cortisol production. The study appeared in Nature Communications.",
+   "body": "Researchers screened 12,000 compounds in zebrafish larvae and found a new anesthetic, nidradine, that produces surgical anesthesia and reduces pain responses at nonsedating doses in mice — unlike etomidate, it did not suppress cortisol production. The study appeared in Nature Communications.",
    "url": "https://medicalxpress.com/news/2026-11-experimental-anesthetic-blunt-pain-nonsedating.html"
   },
   {
    "tag": "Science",
    "headline": "Parasite protein does double duty building mitochondria's ribosomes",
-   "body": "A research team studying Trypanosoma brucei, the parasite that causes African sleeping sickness, found that a protein called p22 is essential both for RNA editing and for assembling mitochondrial ribosomes \u2014 a second, previously unknown function. The findings appeared in Nucleic Acids Research.",
+   "body": "A research team studying Trypanosoma brucei, the parasite that causes African sleeping sickness, found that a protein called p22 is essential both for RNA editing and for assembling mitochondrial ribosomes — a second, previously unknown function. The findings appeared in Nucleic Acids Research.",
    "url": "https://phys.org/news/2026-11-parasite-protein-mitochondria-ribosomes.html"
   }
  ],
@@ -819,7 +819,7 @@
    }
   ],
   "footnote": "",
-  "ratesAsOf": "Schwab Thu, Nov 19, 2026 \u00b7 eTrade Mon, Nov 9, 2026"
+  "ratesAsOf": "Schwab Thu, Nov 19, 2026 · eTrade Mon, Nov 9, 2026"
  },
  "weather": [
   {
@@ -832,13 +832,13 @@
    "aqiCat": "Moderate",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 61% \u00b7 Wind NNE 7 mph",
-   "today": "Partly Sunny, high 76\u00b0F",
-   "tonight": "Partly Cloudy then Areas Of Fog, low 60\u00b0F",
-   "tomorrow": "Areas Of Fog then Sunny, high 78\u00b0F"
+   "extra": "Humidity 61% · Wind NNE 7 mph",
+   "today": "Partly Sunny, high 76°F",
+   "tonight": "Partly Cloudy then Areas Of Fog, low 60°F",
+   "tomorrow": "Areas Of Fog then Sunny, high 78°F"
   },
   {
-   "name": "Seiver Ranch \u2014 Plains, MT",
+   "name": "Seiver Ranch — Plains, MT",
    "detail": "Sanders County",
    "tempF": 39,
    "conditions": "Chance Light Snow",
@@ -847,13 +847,13 @@
    "aqiCat": "Good",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 83% \u00b7 Wind NE 0 mph",
-   "today": "Chance Light Snow, high 39\u00b0F",
-   "tonight": "Chance Light Snow then Patchy Fog, low 26\u00b0F",
-   "tomorrow": "Areas Of Fog then Partly Sunny, high 32\u00b0F"
+   "extra": "Humidity 83% · Wind NE 0 mph",
+   "today": "Chance Light Snow, high 39°F",
+   "tonight": "Chance Light Snow then Patchy Fog, low 26°F",
+   "tomorrow": "Areas Of Fog then Partly Sunny, high 32°F"
   },
   {
-   "name": "Seiver Slough \u2014 Rugby, ND",
+   "name": "Seiver Slough — Rugby, ND",
    "detail": "Pierce County",
    "tempF": 41,
    "conditions": "Haze",
@@ -863,12 +863,12 @@
    "aqiNote": "PM2.5",
    "alerts": "",
    "extra": "Wind NW 7 mph",
-   "today": "Patchy Fog, high 44\u00b0F",
-   "tonight": "Patchy Fog, low 28\u00b0F",
-   "tomorrow": "Partly Sunny, high 33\u00b0F"
+   "today": "Patchy Fog, high 44°F",
+   "tonight": "Patchy Fog, low 28°F",
+   "tomorrow": "Partly Sunny, high 33°F"
   },
   {
-   "name": "Seiver Lodge \u2014 L'Anse, MI",
+   "name": "Seiver Lodge — L'Anse, MI",
    "detail": "Baraga County",
    "tempF": 48,
    "conditions": "Clear",
@@ -877,17 +877,17 @@
    "aqiCat": "Good",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 76% \u00b7 Wind E 8 mph",
-   "today": "Partly Sunny, high 62\u00b0F",
-   "tonight": "Mostly Cloudy, low 53\u00b0F",
-   "tomorrow": "Mostly Cloudy then Chance Rain Showers, high 63\u00b0F"
+   "extra": "Humidity 76% · Wind E 8 mph",
+   "today": "Partly Sunny, high 62°F",
+   "tonight": "Mostly Cloudy, low 53°F",
+   "tomorrow": "Mostly Cloudy then Chance Rain Showers, high 63°F"
   }
  ],
  "apod": {
   "date": "November 20, 2026",
   "title": "NASA's Curiosity Mars Rover Collects Samples",
-  "credit": "NASA/JPL-Caltech/MSSS \u2014 NASA Image of the Day, November 20, 2026",
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/55641408105-cd488491d8-k.jpg",
+  "credit": "NASA/JPL-Caltech/MSSS — NASA Image of the Day, November 20, 2026",
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/pia26804.jpg?resize=2048,1536",
   "explanation": "This Nov. 16 collage shows 49 drill holes captured by NASA's Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity's drill, on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition.",
   "pageUrl": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/"
  }
