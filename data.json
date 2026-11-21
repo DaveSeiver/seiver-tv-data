@@ -1,6 +1,6 @@
 {
-  "version": 55,
-  "asOf": "Sat Nov 21, 2026, 5:26 PM CT",
+  "version": 56,
+  "asOf": "Sat Nov 21, 2026, 5:30 PM CT",
   "edition": "weekend",
   "breaking": [
     {
@@ -943,5 +943,177 @@
     "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/10/STScI-01M4C1BGFARJ4S0MQHZHD0TPFT.jpg?w=900&h=900&fit=clip",
     "explanation": "The James Webb Space Telescope's mid-infrared view of the Cat's Head Nebula, a dust pillar in the Carina Nebula about 7,500 light-years away. Ultraviolet radiation and winds from massive stars sculpted the feline shape - its glowing white eye is likely a young star still embedded in dust - while warm dust and carbon molecules trace intricate structures through the pillar.",
     "pageUrl": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/"
-  }
+  },
+  "aiModels": [
+    {
+      "maker": "Alibaba — Qwen",
+      "model": "Qwen4-Max",
+      "kind": "Closed-source",
+      "date": "Mon Nov 16, 2026",
+      "url": "https://www.online-tech-tips.com/qwen4-max-generally-available-compared-claude-opus-5-5/",
+      "highlights": [
+        "New flagship on the Qwen4 architecture: a 2.4-trillion-parameter MoE with 71B active per token",
+        "Native vision and image/video understanding; 1M-token context window",
+        "$1.50 in / $4.50 out per 1M tokens, with deep thinking on by default"
+      ]
+    },
+    {
+      "maker": "Microsoft",
+      "model": "MAI family — seven models at Ignite",
+      "kind": "Closed-source",
+      "date": "Tue Nov 17, 2026",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "highlights": [
+        "MAI Code 2: near-flagship coding quality at a fraction of flagship prices (Microsoft's benchmarks) — live in GitHub Copilot",
+        "MAI Image 2.7 tops the Artificial Analysis image-editing chart; MAI Realtime 1 is Microsoft's first voice-to-voice model",
+        "Plus MAI Cyber 2 Flash (security), MAI Transcribe 2, and Decision 1.1 for routing"
+      ]
+    },
+    {
+      "maker": "OpenAI",
+      "model": "GPT-6.2 Astra & GPT-6.2 Sol",
+      "kind": "Closed-source",
+      "date": "Tue Nov 17, 2026",
+      "url": "https://9to5google.com/2026/11/17/openai-releases-gpt-6-2-astra-and-sol-for-complex-projects-a-week-after-claude-5-2/",
+      "highlights": [
+        "Astra: the new quality flagship for documents, slides and coding — $8/$40 per 1M tokens, 20% cheaper than GPT-6 Astra",
+        "Sol: the everyday-work model at $2/$10 per 1M",
+        "~1.05M-token context; rolling out in ChatGPT Work and Codex"
+      ]
+    },
+    {
+      "maker": "Google DeepMind",
+      "model": "Gemini 4 Neon",
+      "kind": "Closed-source",
+      "date": "Wed Nov 18, 2026",
+      "url": "https://deepmind.google/models/model-cards/gemini-4-neon/",
+      "highlights": [
+        "Mid-tier Gemini 4 built for complex coding, analytical reasoning and enterprise agent workflows",
+        "#3 overall on the Artificial Analysis Intelligence Index and #1 on its Coding Agent Index, in Google's comparison",
+        "1M-token context with text, image, audio and video input; $3/$15 per 1M tokens"
+      ]
+    },
+    {
+      "maker": "OpenAI",
+      "model": "GPT-Live-1.1 (API release)",
+      "kind": "Closed-source",
+      "date": "Thu Nov 19, 2026",
+      "url": "https://siloadout.com/releases/week-of-2026-11-16/",
+      "highlights": [
+        "Full-duplex voice model for real-time voice agents, now available to developers through the API",
+        "Improved multilingual accents and transcription over GPT-Live-1",
+        "New standby mode cuts idle-call billing to $0.02/min"
+      ]
+    },
+    {
+      "maker": "Google",
+      "model": "Genie 4 (general availability)",
+      "kind": "Closed-source",
+      "date": "Thu Nov 19, 2026",
+      "url": "https://siloadout.com/releases/week-of-2026-11-16/",
+      "highlights": [
+        "Google's world model, now generally available to developers",
+        "Ships on the paid tier of the Gemini API (Interactions API) and in Google AI Studio"
+      ]
+    },
+    {
+      "maker": "Ideogram",
+      "model": "Ideogram 4.6",
+      "kind": "Closed-source",
+      "date": "Thu Nov 19, 2026",
+      "url": "https://siloadout.com/releases/week-of-2026-11-16/",
+      "highlights": [
+        "Image generation and editing model with precise multi-step edits",
+        "Native output up to 4K"
+      ]
+    },
+    {
+      "maker": "Tencent",
+      "model": "Hy4 Flash (open weights)",
+      "kind": "Open-weight",
+      "date": "Tue Nov 17, 2026",
+      "url": "https://gpujournal.ai/story/tencent-hy4-flash-open-weights-nov-18",
+      "highlights": [
+        "220B-parameter multimodal MoE (about 11B active per token) with a 1M-token context",
+        "Weights published ungated under the Tencent Hy License — free to download and run locally",
+        "Hosted price runs about a twelfth of the flagship Hy4"
+      ],
+      "local": "No fit for your project: even Tencent's official 4-bit build is ~157GB, over a 128GB box — and as a Chinese lab it is reference-only under your US-lab rule."
+    },
+    {
+      "maker": "NVIDIA",
+      "model": "Nemotron-Labs-Sigma 3B / 8B",
+      "kind": "Open-weight",
+      "date": "Nov 20, 2026 (model cards dated Nov 12)",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-8B",
+      "highlights": [
+        "A new kind of model: continuous diffusion language models that generate text by denoising rather than token-by-token",
+        "Distilled variants decode up to 4.2x faster (NVIDIA-reported); small 4-8K context, research-oriented"
+      ],
+      "local": "Fits easily (the 8B is ~18GB) and NVIDIA is a US lab with a commercial-use license — but inference requires a CUDA GPU, there is no CPU path, and the tiny context makes it a research curiosity rather than an agent brain for now."
+    },
+    {
+      "maker": "Microsoft",
+      "model": "Aion Instruct 2.3B",
+      "kind": "Open-weight",
+      "date": "Thu Nov 19, 2026",
+      "url": "https://siloadout.com/releases/week-of-2026-11-16/",
+      "highlights": [
+        "2.3B on-device small language model from Microsoft's Windows group (its blog preview was Nov 13; open weights landed this week)",
+        "Now ships as Microsoft Edge's built-in language model, replacing Phi-4-mini; 32K context",
+        "MIT license"
+      ],
+      "local": "Trivial fit (~1.5GB at 4-bit), US lab, MIT license. An on-device helper class of model — good for learning, not an agent brain."
+    },
+    {
+      "maker": "Tencent",
+      "model": "Hy4 flagship (open weights)",
+      "kind": "Open-weight",
+      "date": "Fri Nov 20, 2026",
+      "url": "https://gpujournal.ai/story/tencent-hy4-open-weights-nov-20",
+      "highlights": [
+        "770B-parameter multimodal MoE (49B active) with 1M-token context and computer use",
+        "Joint-best open-weight score on Plotly's data-analytics exam in launch-week testing"
+      ],
+      "local": "Server-class only — roughly 790GB even at FP8, and Tencent's reference setup is 16 data-center GPUs. Chinese lab: reference only."
+    },
+    {
+      "maker": "Thinking Machines Lab",
+      "model": "Inkling 2 Mini",
+      "kind": "Open-weight",
+      "date": "Fri Nov 20, 2026",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "highlights": [
+        "'Looped' MoE: 26.4B total parameters, 3.4B active — its middle layers run three times per token, buying big-model compute from a small checkpoint",
+        "Vendor-reported class-leading agentic coding for sub-100B open models (SWE-bench Verified 79.2%)",
+        "Text + image input, context up to 1M tokens; Apache 2.0 license"
+      ],
+      "local": "The week's standout for your project: US lab, Apache 2.0, and a ~20GB checkpoint designed for local inference on 32GB-class machines and DGX Spark. On a 128GB box it fits with headroom to spare."
+    },
+    {
+      "maker": "Baseten",
+      "model": "Bison-1 & Groundhog-1",
+      "kind": "Open-weight",
+      "date": "Fri Nov 20, 2026",
+      "url": "https://www.marktechpost.com/category/editors-pick/new-releases/page/2/",
+      "highlights": [
+        "Open-weight decision models — scoring and ranking fixed options — built on Google's Gemma 4",
+        "Bison-1 tops the Artificial Analysis Decision Index; 128K context with image input"
+      ],
+      "local": "Unverified: no published size or license found yet. Decision models are usually small, but treat the local fit as unconfirmed."
+    },
+    {
+      "maker": "Also shipped",
+      "model": "Smaller open-weight releases",
+      "kind": "Open-weight",
+      "date": "Nov 17-21, 2026",
+      "url": "https://www.marktechpost.com/category/editors-pick/new-releases/page/2/",
+      "highlights": [
+        "RadixArk DaisyRose-27B (Nov 20) — Apache 2.0 agentic-coding model from Singapore; ~16GB at 4-bit would fit a 128GB box",
+        "SenseTime SenseNova-Loop-9B (Nov 17) — layer-reuse 9B from China; fits easily by size",
+        "OVHcloud Olala-v1.0-mini (Nov 19) — 7B/1B-active, Apache 2.0, from France",
+        "Apple FastFrames-S (Nov 21) — 1.3B open-weight text-to-video model from a US lab"
+      ]
+    }
+  ]
 }
