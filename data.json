@@ -1,34 +1,35 @@
 {
- "version": 47,
- "asOf": "Fri Nov 20, 2026, 7:55 PM CT",
+ "version": 48,
+ "asOf": "Fri Nov 20, 2026, 8:59 PM CT",
+ "edition": "weekend",
  "breaking": [
   {
    "tag": "US",
-   "headline": "S&P 500 closes down 3.7% and enters correction; Nasdaq goes negative for the year",
-   "fact": "The S&P 500 closed Friday at 6,910.39, down 265.44 points (-3.70%), its worst week since April 2025 (-8.61%) and a seventh straight loss, the longest streak since February 2020; the index is now 11.62% below its Oct 6 record. The Nasdaq fell 5.28% to 22,617.73, erasing its 2026 gains, and the Dow dropped 949.73 points to 48,147.33.",
-   "source": "AP (KNKX)",
-   "url": "https://www.knkx.org/2026-11-20/s-p-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year"
+   "headline": "California subpoenas Nvidia over China chip fears as probes pile up",
+   "fact": "Attorney General Rob Bonta served an investigative subpoena on Nvidia Thursday, asking whether its advanced chips or confidential information reached China and whether the company misled investors about the risk. The state probe lands on top of the SEC's accounting investigation, with Jensen Huang due before three House committees on Dec. 1.",
+   "source": "California Attorney General (press release)",
+   "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-serves-investigative-subpoena-nvidia"
   },
   {
    "tag": "US",
-   "headline": "Nvidia plunges 14% as SEC accounting probe reported",
-   "fact": "Nvidia fell 14.01% Friday to $125.53, its worst day in nearly two years and its lowest close since May 2025, after Reuters reported the SEC is investigating its accounting; the stock lost 23% for the week — its worst since 2008 — and is 47% below its Oct 6 record, wiping out nearly $500 billion of market value in a day.",
-   "source": "Motley Fool",
-   "url": "https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/"
+   "headline": "Fed's Cook doubles down: policy 'isn't restrictive enough' to curb inflation",
+   "fact": "Governor Lisa Cook said Friday that September's rate hike did too little and warned that waiting could make inflation — above target for 67 months — harder to dislodge, standing by her October dissent for a hike. Her remarks kept December hike pricing near certain even as stocks slid into the close.",
+   "source": "InvestingLive",
+   "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-20-nov-stocks-get-hammered-as-nasdaq-plunges-5-28/"
   },
   {
    "tag": "US",
-   "headline": "Anthropic slides 8.5% on day two, nearly touching its $83 IPO price",
-   "fact": "Anthropic closed Friday at $88.91, down 8.50% from its $97.17 debut close, after touching $83.05 intraday — five cents above its $83 IPO price — with its valuation down to about $1.16 trillion from $1.29 trillion. Morgan Stanley closed its stabilization position after exercising the full 147-million-share greenshoe, closing the IPO at $93.5 billion.",
-   "source": "Reuters",
-   "url": "https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20/"
+   "headline": "Flight to safety pulls the 10-year Treasury yield back below 5%",
+   "fact": "Treasuries rallied hard Friday as investors fled the equity rout, dragging the 10-year yield down to about 4.92% — roughly 23 basis points lower over five sessions — even as Fed officials talked tough on inflation. The 2-year yield fell 13 basis points on the day as the curve steepened.",
+   "source": "T. Rowe Price Global Markets Weekly (Reuters data)",
+   "url": "https://www.troweprice.com/institutional/us/en/insights/articles/resources/global-markets-weekly-update.html?placementGUID=SM_LinkedIn-EMP-883426&hss_meta=eyJvcmdhbml6YXRpb25faWQiOiA5MjgsICJncm91cF9pZCI6IDg4MzQyNiwgImFzc2V0X2lkIjogMTk4MjAxMSwgImdyb3VwX2NvbnRlbnRfaWQiOiAxMjM4NzQwMzMsICJncm91cF9uZXR3b3JrX2NvbnRlbnRfaWQiOiAxOTE5MTA2NDN9"
   },
   {
    "tag": "US",
-   "headline": "Gold breaks below $3,600 to a 14-month low as Fed hike bets firm",
-   "fact": "Spot gold fell below $3,600 an ounce Friday to near $3,532–$3,570, its lowest since September 2025 and down about 9% on the week — its worst since March — as traders priced a near-certain December Fed rate hike and the dollar strengthened; silver and platinum fell harder.",
-   "source": "APMEX",
-   "url": "https://learn.apmex.com/news/fed-rate-hike-talk-sends-gold-to-a-14-month-low-as-silver-and-platinum-fall-harder/"
+   "headline": "Gold's rout deepens: the metal closes a brutal week at $3,535, down 9%",
+   "fact": "Gold settled Friday at $3,535.20 an ounce, capping a 9.03% weekly plunge, while silver cratered 16.27% to $41.06 and copper slid 10.12%. Hawkish Fed talk and a firm dollar left the week's 'sell everything' trade with few hiding places, precious metals included.",
+   "source": "Weekly market report (Yahoo Finance / exchange settlements)",
+   "url": "https://lovinglifeofpeter.substack.com/p/lovinglife-weekly-market-report-d31"
   }
  ],
  "markets": [
@@ -715,24 +716,75 @@
  ],
  "weekInBrief": [
   {
-   "headline": "December Fed hike now seen as near-certain; Bessent pushes back on a bigger move",
-   "body": "The CME FedWatch tool shows a 100% chance of at least a quarter-point Fed hike at the Dec 8–9 meeting — about 94% for a quarter point and 6% for a half point — and minutes from the October meeting showed nearly all officials expect a quarter-point hike. Treasury Secretary Scott Bessent said Friday he would encourage the Fed not to embrace a half-point increase.",
+   "headline": "Nasdaq 100 posts its worst week since March 2020",
+   "body": "The tech-heavy Nasdaq 100 fell 5.6% Friday and 10.4% for the week — its deepest weekly drop since the pandemic crash — as the AI trade unwound. The Nasdaq Composite turned negative for 2026 and slipped into bear-market territory, more than 20% below its Oct. 6 record close.",
    "stamp": "Nov 20, 2026"
   },
   {
-   "headline": "Bitcoin breaks below $60,000, lowest since September 2024",
-   "body": "Bitcoin ended Friday near $58,317, its lowest since September 2024, after breaking below $60,000 for the first time since July. The cryptocurrency is down more than 20% in November and over 50% below its record near $126,000 from October 2025, as the risk selloff spread from stocks to crypto.",
+   "headline": "Trump weighs renewed strikes on Iran as military warns of strain, FT reports",
+   "body": "President Trump is weighing renewed strikes on Iran, the Financial Times reported, even as U.S. military officials warn that months of operations have strained forces and munitions stockpiles. The deliberations come with Gulf export flows back near prewar levels and crude posting its third straight weekly decline.",
    "stamp": "Nov 20, 2026"
   },
   {
-   "headline": "Consumer sentiment ticks up; inflation expectations cool",
-   "body": "The University of Michigan's final consumer sentiment reading rose to 51.5 in November, up from 48.0 in October and above the 51.0 preliminary reading. Year-ahead inflation expectations fell to 3.7% from 4.7% in October, the lowest since February.",
+   "headline": "Dollar index climbs toward multi-month highs near 104",
+   "body": "The dollar rallied through the week as traders priced in near-certain further Fed tightening, pushing the DXY toward 104 — around its strongest levels in months. The firm greenback added to the pressure on gold, silver and industrial metals, which all posted steep weekly losses.",
    "stamp": "Nov 20, 2026"
   },
   {
-   "headline": "Citi undercounted $35 billion of risky assets at UK unit",
-   "body": "Citigroup underestimated risk-weighted assets by about $35 billion at its London trading subsidiary after using an internal capital model regulators had not approved for those trades, according to people familiar with the matter. The bank injected capital into the unit over the summer and says it stayed above regulatory minimums; its shares fell 3.3%.",
+   "headline": "Natural gas jumps 17% on the week as early cold arrives",
+   "body": "U.S. natural gas futures settled Friday at $3.79 per MMBtu, up about 17% for the week — a rare gainer in a 'sell everything' market — as early-season cold across the Midwest and Northeast lifted heating demand. The move stood out against crude oil's third straight weekly decline.",
    "stamp": "Nov 20, 2026"
+  }
+ ],
+ "weekendStories": [
+  {
+   "tag": "Houston",
+   "headline": "Houston Restaurant Weeks serves up a $2 million check for the Food Bank",
+   "body": "Houston's restaurants — and the diners who packed them — turned a season of prix-fixe meals into a $2,012,076 donation to the Houston Food Bank, enough for more than six million meals. It was the biggest year in the event's history, pushing the 23-year total past $25 million raised for neighbors facing food insecurity.",
+   "source": "Hello Woodlands",
+   "url": "https://hellowoodlands.com/dined-out-did-good-houston-restaurant-weeks-presents-2012076-check-to-houston-food-bank/"
+  },
+  {
+   "tag": "Houston",
+   "headline": "Houston volunteers bring 2,500 pounds of food — and thanks — to veterans at Camp Hope",
+   "body": "Fifth graders from DAV Montessori joined Sewa International volunteers on Nov. 18 to deliver roughly 2,500 pounds of food to Camp Hope, the PTSD Foundation of America's Houston recovery home for veterans. The kids carried a handmade 'Thank You' poster, and the visit capped a Sewa Diwali drive that has gathered more than 30,000 pounds of food across Greater Houston this season.",
+   "source": "Medium (Sewa International)",
+   "url": "https://medium.com/@amanayush/sewa-in-action-2-500-pounds-of-food-one-community-and-a-heartfelt-tribute-to-americas-veterans-508749da484c"
+  },
+  {
+   "tag": "Montana",
+   "headline": "Plains students honor Sanders County veterans with ceremony and luncheon",
+   "body": "On a foggy Veterans Day morning, ten veterans from Plains VFW Post 3596 gathered at Plains Cemetery while local students led the remembrance — then National Honor Society members served 18 veterans a luncheon at the high school. It's the fifth year Plains teacher Charity Jermyn has paired her students with the county's veterans for the day.",
+   "source": "Valley Press / Mineral Independent",
+   "url": "https://vp-mi.com/news/2026/nov/18/plains-students-hold-veterans-day-ceremony-and-luncheon/"
+  },
+  {
+   "tag": "North Dakota",
+   "headline": "Bison keep rolling: NDSU beats Hawai'i 21-13 for its eighth win",
+   "body": "North Dakota State improved to 8-2 with a 21-13 road win over the Hawai'i Rainbow Warriors on Saturday night, its second straight victory. The Bison sit second in the Mountain West and are a perfect 5-0 at home heading into this Saturday's matchup with Northern Illinois.",
+   "source": "Yardbarker",
+   "url": "https://www.yardbarker.com/college_football/articles/bison_beat_rainbow_warriors_21_13/s1_17668_44563461"
+  },
+  {
+   "tag": "Michigan",
+   "headline": "Pow wow at the Soo honors Native culture and Indigenous veterans",
+   "body": "Tribal communities gathered at Kewadin Casinos in Sault Ste. Marie on Nov. 14 for a Native American Heritage Month pow wow co-hosted by Bay Mills Community College and the Sault Ste. Marie Tribe of Chippewa Indians. With grand entries, drum groups and dance specials, the free celebration put a special focus on honoring Indigenous veterans just days after Veterans Day.",
+   "source": "Detroit Free Press",
+   "url": "https://www.freep.com/story/news/local/michigan/2026/11/13/indigenous-heritage-veterans-pow-wow-soo-sault-ste-marie-kewadin/92739040007/"
+  },
+  {
+   "tag": "Animals",
+   "headline": "Isaac the cat, found hiding in the rubble, is back with his girl",
+   "body": "Days after a Brooklyn building collapse killed eight people, 13-year-old Zariah Coleman pleaded at a news conference for help finding her cat. A Flatbush Cats rescuer searched the damaged apartment three times before hearing a soft meow from a cabinet under the kitchen sink — Isaac, hungry and frightened but alive, is recovering and reunited with his family.",
+   "source": "USA Today",
+   "url": "https://www.usatoday.com/story/news/nation/2026/11/16/missing-cat-rescued-brooklyn-building-collapse/92807741007/"
+  },
+  {
+   "tag": "Good News",
+   "headline": "Four cousins turn a family Thanksgiving game into gifts for sick kids",
+   "body": "Two Houston cousins and their two Scarsdale, N.Y. cousins built 'Thoughtful Turkey' — a plush toy, storybook and gratitude-card kit — out of their family's longtime Thanksgiving tradition. Since launching Oct. 1 they have sold more than 200 kits and donated over 150, including 20 to children in the bone marrow transplant unit at Texas Children's Hospital.",
+   "source": "The Journal News (lohud)",
+   "url": "https://www.lohud.com/story/life/food/restaurants/2026/11/16/westchester-teens-start-new-thanksgiving-tradition-centered-on-community/92646055007/"
   }
  ],
  "hormuz": {
@@ -744,30 +796,38 @@
   ],
   "stats": ""
  },
+ "comic": {
+  "title": "Plate Maintenance",
+  "image": "https://imgs.xkcd.com/comics/plate_maintenance.png",
+  "alt": "First we're going to have to relieve the built-up strain, but we'll do it one hemisphere at a time, so you'll just need to briefly move all your fragile stuff like buildings over to the other hemisphere while we work.",
+  "url": "https://xkcd.com/3327/",
+  "credit": "xkcd by Randall Munroe — licensed CC BY-NC 2.5; xkcd.com",
+  "note": "First we're going to have to relieve the built-up strain, but we'll do it one hemisphere at a time, so you'll just need to briefly move all your fragile stuff like buildings over to the other hemisphere while we work."
+ },
  "space": [
   {
    "tag": "Space",
-   "headline": "Starship Flight 17 hardware advances as Booster 24 rolls to cryo testing",
-   "body": "Super Heavy Booster 24 rolled to Massey's for cryo testing Friday, putting both Flight 17 vehicles together at the test site, while Ship 46's nosecone section was lifted at Mega Bay 2 this morning. SpaceX still hopes to fly Starship from Kennedy Space Center's Pad 39A by the end of 2026, attempting a booster catch at the Florida tower.",
-   "url": "https://serobinsonjr.substack.com/p/elon-chron-20th-of-november-2026"
+   "headline": "Flight 17's Ship 44 and Booster 24 reunite at Massey's for cryo testing",
+   "body": "Less than a week after Flight 15's historic orbital catch, both of Flight 17's vehicles — Ship 44 and Booster 24 — are together at SpaceX's Massey's test site in Texas for cryogenic proof testing. Elon Musk says the caught Ship 42 may go on public display rather than fly again, and speculation is building over whether Flight 16 or Flight 17 takes the first Starship launch from Kennedy's Pad 39A.",
+   "url": "https://starlust.org/starship-flight-17-upper-stage-and-super-heavy-roll-out-to-masseys-for-cryo-testing/"
+  },
+  {
+   "tag": "Space",
+   "headline": "Astronomers watch a puffy dying star swallow its companion whole",
+   "body": "For the first time, astronomers have directly watched a giant star engulf a smaller companion: a supergiant seven times the sun's mass and 18,000 times brighter ballooned to 350 times the sun's width before the pair merged in an eruption a million times brighter than the sun. The merged star, nicknamed 'Bao,' may have been rejuvenated by the meal, the researchers report in Nature.",
+   "url": "https://www.reuters.com/science/astronomers-observe-huge-puffy-star-merge-with-smaller-companion-2026-11-20/"
   },
   {
    "tag": "Science",
-   "headline": "Ancient bison jump site in Texas rewrites hunting history",
-   "body": "Rice University-led research at the Nighthawk site in Caprock Canyons State Park found evidence of at least seven bison jumps spanning about 3,000 years — only the second scientifically verified bison jump in Texas — showing Indigenous hunters repeatedly drove bison off a cliff in a technique once thought confined to the northern Great Plains. Published in American Antiquity.",
-   "url": "https://phys.org/news/2026-11-ancient-bison-site-texas-held.html"
+   "headline": "Runny ancient lava rewrites the story of Mars's Jezero Crater floor",
+   "body": "Perseverance rover data show the Séítah formation at the bottom of Jezero Crater formed from an unusually low-viscosity lava that flowed some 124 miles from its vent and pooled like a lava lake nearly 4 billion years ago. The finding, published in Communications Earth & Environment, sharpens the picture of early Mars — and of the very terrain the rover is sampling for signs of ancient life.",
+   "url": "https://phys.org/news/2026-11-viscosity-lavas-reveal-key-mars.html"
   },
   {
    "tag": "Science",
-   "headline": "Experimental anesthetic blunts pain without sedation",
-   "body": "Researchers screened 12,000 compounds in zebrafish larvae and found a new anesthetic, nidradine, that produces surgical anesthesia and reduces pain responses at nonsedating doses in mice — unlike etomidate, it did not suppress cortisol production. The study appeared in Nature Communications.",
-   "url": "https://medicalxpress.com/news/2026-11-experimental-anesthetic-blunt-pain-nonsedating.html"
-  },
-  {
-   "tag": "Science",
-   "headline": "Parasite protein does double duty building mitochondria's ribosomes",
-   "body": "A research team studying Trypanosoma brucei, the parasite that causes African sleeping sickness, found that a protein called p22 is essential both for RNA editing and for assembling mitochondrial ribosomes — a second, previously unknown function. The findings appeared in Nucleic Acids Research.",
-   "url": "https://phys.org/news/2026-11-parasite-protein-mitochondria-ribosomes.html"
+   "headline": "New satellite dataset extends NASA's ozone record into a new era",
+   "body": "NASA Goddard researchers have built a global ozone dataset from the NOAA-20 satellite that matches the existing record to within about half a Dobson unit, extending decades of ozone monitoring into the JPSS era. That continuity is how scientists track the stratospheric ozone layer's slow recovery year by year.",
+   "url": "https://scienmag.com/new-noaa-20-dataset-extends-nasa-ozone-record/"
   }
  ],
  "cdRates": {
@@ -825,70 +885,70 @@
   {
    "name": "Houston Winter Condo",
    "detail": "ZIP 77056",
-   "tempF": 73,
-   "conditions": "Mostly Cloudy",
-   "icon": "partly",
-   "aqi": 66,
+   "tempF": 68,
+   "conditions": "Cloudy",
+   "icon": "clouds",
+   "aqi": 57,
    "aqiCat": "Moderate",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 61% · Wind NNE 7 mph",
+   "extra": "Humidity 77% · Wind SE 5 mph",
    "today": "Partly Sunny, high 76°F",
-   "tonight": "Partly Cloudy then Areas Of Fog, low 60°F",
-   "tomorrow": "Areas Of Fog then Sunny, high 78°F"
+   "tonight": "Clouds Early, Clearing Late, low 61°F",
+   "tomorrow": "Partly Cloudy, high 78°F"
   },
   {
    "name": "Seiver Ranch — Plains, MT",
    "detail": "Sanders County",
-   "tempF": 39,
-   "conditions": "Chance Light Snow",
-   "icon": "snow",
-   "aqi": 8,
-   "aqiCat": "Good",
+   "tempF": 36,
+   "conditions": "Cloudy",
+   "icon": "clouds",
+   "aqi": 82,
+   "aqiCat": "Moderate",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Humidity 83% · Wind NE 0 mph",
+   "extra": "Humidity 100% · Wind SW 5 mph",
    "today": "Chance Light Snow, high 39°F",
-   "tonight": "Chance Light Snow then Patchy Fog, low 26°F",
-   "tomorrow": "Areas Of Fog then Partly Sunny, high 32°F"
+   "tonight": "Cloudy, low 29°F",
+   "tomorrow": "AM Clouds/PM Sun, high 36°F"
   },
   {
    "name": "Seiver Slough — Rugby, ND",
    "detail": "Pierce County",
-   "tempF": 41,
-   "conditions": "Haze",
-   "icon": "fog",
-   "aqi": 24,
-   "aqiCat": "Good",
+   "tempF": 38,
+   "conditions": "Cloudy",
+   "icon": "clouds",
+   "aqi": 56,
+   "aqiCat": "Moderate",
    "aqiNote": "PM2.5",
    "alerts": "",
-   "extra": "Wind NW 7 mph",
+   "extra": "Humidity 100% · Wind WNW 10 mph",
    "today": "Patchy Fog, high 44°F",
-   "tonight": "Patchy Fog, low 28°F",
-   "tomorrow": "Partly Sunny, high 33°F"
+   "tonight": "Cloudy, low 30°F",
+   "tomorrow": "Partly Cloudy, high 34°F"
   },
   {
    "name": "Seiver Lodge — L'Anse, MI",
    "detail": "Baraga County",
-   "tempF": 48,
-   "conditions": "Clear",
-   "icon": "sun",
-   "aqi": 17,
+   "tempF": 58,
+   "conditions": "Partly Cloudy",
+   "icon": "partly",
+   "aqi": 31,
    "aqiCat": "Good",
    "aqiNote": "PM2.5",
-   "alerts": "",
-   "extra": "Humidity 76% · Wind E 8 mph",
+   "alerts": "Small Craft Advisory until 1:00 PM EST Saturday",
+   "extra": "Humidity 64% · Wind S 19 mph, gusts 35 mph",
    "today": "Partly Sunny, high 62°F",
-   "tonight": "Mostly Cloudy, low 53°F",
-   "tomorrow": "Mostly Cloudy then Chance Rain Showers, high 63°F"
+   "tonight": "Mostly Cloudy, low 56°F",
+   "tomorrow": "PM Showers, high 62°F"
   }
  ],
  "apod": {
-  "date": "November 20, 2026",
-  "title": "NASA's Curiosity Mars Rover Collects Samples",
-  "credit": "NASA/JPL-Caltech/MSSS — NASA Image of the Day, November 20, 2026",
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/pia26804.jpg?resize=2048,1536",
-  "explanation": "This Nov. 16 collage shows 49 drill holes captured by NASA's Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity's drill, on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition.",
-  "pageUrl": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/"
+  "date": "November 12, 2026",
+  "title": "Scotland's Flow Country",
+  "credit": "NASA Earth Observatory image by Michala Garrison, using Landsat data from the U.S. Geological Survey — NASA Earth Observatory Image of the Day, November 12, 2026",
+  "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/scotland’s-flow-country-/scotland_flowcountry_oli2_20240304_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+  "explanation": "The blanket bogs of northern Scotland look unassuming — soggy, treeless country of moss, grass and heather — but they are carbon vaults: waterlogged soils keep dead plants from fully decaying, so peat has piled up for more than 9,000 years, in places over eight meters thick. This Landsat 8 view centers on Europe's largest blanket bog, the first peatland ever named a UNESCO World Heritage Site; worldwide, peatlands cover just 3 percent of land yet store more carbon than all the world's forests combined.",
+  "pageUrl": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/"
  }
 }
