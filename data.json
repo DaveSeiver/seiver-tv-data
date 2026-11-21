@@ -1,6 +1,6 @@
 {
-  "version": 53,
-  "asOf": "Sat Nov 21, 2026, 5:16 PM CT",
+  "version": 54,
+  "asOf": "Sat Nov 21, 2026, 5:18 PM CT",
   "edition": "weekend",
   "breaking": [
     {
@@ -790,12 +790,12 @@
     "stats": ""
   },
   "comic": {
-    "title": "Plate Maintenance",
-    "image": "https://imgs.xkcd.com/comics/plate_maintenance.png",
-    "alt": "First we're going to have to relieve the built-up strain, but we'll do it one hemisphere at a time, so you'll just need to briefly move all your fragile stuff like buildings over to the other hemisphere while we work.",
-    "url": "https://xkcd.com/3327/",
+    "title": "Ten Thousand",
+    "image": "https://imgs.xkcd.com/comics/ten_thousand.png",
+    "alt": "Saying 'what kind of an idiot doesn't know about the Yellowstone supervolcano' is so much more boring than telling someone about the Yellowstone supervolcano for the first time.",
+    "url": "https://xkcd.com/1053/",
     "credit": "xkcd by Randall Munroe — licensed CC BY-NC 2.5; xkcd.com",
-    "note": "First we're going to have to relieve the built-up strain, but we'll do it one hemisphere at a time, so you'll just need to briefly move all your fragile stuff like buildings over to the other hemisphere while we work."
+    "note": "Saying 'what kind of an idiot doesn't know about the Yellowstone supervolcano' is so much more boring than telling someone about the Yellowstone supervolcano for the first time."
   },
   "space": [
     {
