@@ -1,6 +1,6 @@
 {
-  "version": 56,
-  "asOf": "Sat Nov 21, 2026, 5:30 PM CT",
+  "version": 57,
+  "asOf": "Sat Nov 21, 2026, 5:39 PM CT",
   "edition": "weekend",
   "breaking": [
     {
@@ -955,7 +955,8 @@
         "New flagship on the Qwen4 architecture: a 2.4-trillion-parameter MoE with 71B active per token",
         "Native vision and image/video understanding; 1M-token context window",
         "$1.50 in / $4.50 out per 1M tokens, with deep thinking on by default"
-      ]
+      ],
+      "context": "1M tokens"
     },
     {
       "maker": "Microsoft",
@@ -979,7 +980,8 @@
         "Astra: the new quality flagship for documents, slides and coding — $8/$40 per 1M tokens, 20% cheaper than GPT-6 Astra",
         "Sol: the everyday-work model at $2/$10 per 1M",
         "~1.05M-token context; rolling out in ChatGPT Work and Codex"
-      ]
+      ],
+      "context": "~1.05M tokens"
     },
     {
       "maker": "Google DeepMind",
@@ -991,7 +993,8 @@
         "Mid-tier Gemini 4 built for complex coding, analytical reasoning and enterprise agent workflows",
         "#3 overall on the Artificial Analysis Intelligence Index and #1 on its Coding Agent Index, in Google's comparison",
         "1M-token context with text, image, audio and video input; $3/$15 per 1M tokens"
-      ]
+      ],
+      "context": "1M tokens"
     },
     {
       "maker": "OpenAI",
@@ -1028,19 +1031,6 @@
       ]
     },
     {
-      "maker": "Tencent",
-      "model": "Hy4 Flash (open weights)",
-      "kind": "Open-weight",
-      "date": "Tue Nov 17, 2026",
-      "url": "https://gpujournal.ai/story/tencent-hy4-flash-open-weights-nov-18",
-      "highlights": [
-        "220B-parameter multimodal MoE (about 11B active per token) with a 1M-token context",
-        "Weights published ungated under the Tencent Hy License — free to download and run locally",
-        "Hosted price runs about a twelfth of the flagship Hy4"
-      ],
-      "local": "No fit for your project: even Tencent's official 4-bit build is ~157GB, over a 128GB box — and as a Chinese lab it is reference-only under your US-lab rule."
-    },
-    {
       "maker": "NVIDIA",
       "model": "Nemotron-Labs-Sigma 3B / 8B",
       "kind": "Open-weight",
@@ -1050,7 +1040,9 @@
         "A new kind of model: continuous diffusion language models that generate text by denoising rather than token-by-token",
         "Distilled variants decode up to 4.2x faster (NVIDIA-reported); small 4-8K context, research-oriented"
       ],
-      "local": "Fits easily (the 8B is ~18GB) and NVIDIA is a US lab with a commercial-use license — but inference requires a CUDA GPU, there is no CPU path, and the tiny context makes it a research curiosity rather than an agent brain for now."
+      "local": "Fits easily (the 8B is ~18GB) and the license allows commercial use — but the context is far below your 128K floor, inference needs a CUDA GPU with no CPU path, and it is a research experiment, not an agent brain.",
+      "context": "4K tokens (base) / 8K (instruct)",
+      "score": 2
     },
     {
       "maker": "Microsoft",
@@ -1063,19 +1055,9 @@
         "Now ships as Microsoft Edge's built-in language model, replacing Phi-4-mini; 32K context",
         "MIT license"
       ],
-      "local": "Trivial fit (~1.5GB at 4-bit), US lab, MIT license. An on-device helper class of model — good for learning, not an agent brain."
-    },
-    {
-      "maker": "Tencent",
-      "model": "Hy4 flagship (open weights)",
-      "kind": "Open-weight",
-      "date": "Fri Nov 20, 2026",
-      "url": "https://gpujournal.ai/story/tencent-hy4-open-weights-nov-20",
-      "highlights": [
-        "770B-parameter multimodal MoE (49B active) with 1M-token context and computer use",
-        "Joint-best open-weight score on Plotly's data-analytics exam in launch-week testing"
-      ],
-      "local": "Server-class only — roughly 790GB even at FP8, and Tencent's reference setup is 16 data-center GPUs. Chinese lab: reference only."
+      "local": "Trivial fit (~1.5GB at 4-bit) and a clean MIT license — but at 2.3B it is an on-device helper, not an agent brain, and its 32K context sits below your 128K floor.",
+      "context": "32K tokens",
+      "score": 3
     },
     {
       "maker": "Thinking Machines Lab",
@@ -1088,7 +1070,9 @@
         "Vendor-reported class-leading agentic coding for sub-100B open models (SWE-bench Verified 79.2%)",
         "Text + image input, context up to 1M tokens; Apache 2.0 license"
       ],
-      "local": "The week's standout for your project: US lab, Apache 2.0, and a ~20GB checkpoint designed for local inference on 32GB-class machines and DGX Spark. On a 128GB box it fits with headroom to spare."
+      "local": "The week's standout: Apache 2.0, a ~20GB checkpoint designed for local inference on 32GB-class machines and DGX Spark, with frontier-class agent benchmarks. Held back from a 9-10 only because those benchmarks are vendor-reported, its effective context is untested, and Windows serving runs through vLLM/GGUF rather than Ollama for now.",
+      "context": "Up to 1M tokens (advertised)",
+      "score": 8
     },
     {
       "maker": "Baseten",
@@ -1100,20 +1084,9 @@
         "Open-weight decision models — scoring and ranking fixed options — built on Google's Gemma 4",
         "Bison-1 tops the Artificial Analysis Decision Index; 128K context with image input"
       ],
-      "local": "Unverified: no published size or license found yet. Decision models are usually small, but treat the local fit as unconfirmed."
-    },
-    {
-      "maker": "Also shipped",
-      "model": "Smaller open-weight releases",
-      "kind": "Open-weight",
-      "date": "Nov 17-21, 2026",
-      "url": "https://www.marktechpost.com/category/editors-pick/new-releases/page/2/",
-      "highlights": [
-        "RadixArk DaisyRose-27B (Nov 20) — Apache 2.0 agentic-coding model from Singapore; ~16GB at 4-bit would fit a 128GB box",
-        "SenseTime SenseNova-Loop-9B (Nov 17) — layer-reuse 9B from China; fits easily by size",
-        "OVHcloud Olala-v1.0-mini (Nov 19) — 7B/1B-active, Apache 2.0, from France",
-        "Apple FastFrames-S (Nov 21) — 1.3B open-weight text-to-video model from a US lab"
-      ]
+      "local": "A narrow specialist — it scores and ranks fixed options rather than acting as a general agent — and its size and license are not yet published, so the fit is unverified.",
+      "context": "128K tokens",
+      "score": 2
     }
   ]
 }
