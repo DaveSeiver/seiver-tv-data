@@ -714,36 +714,36 @@
          fit score, the running favorite first (flagged fav).
          Columns: model, project fit, context, released, license,
          best-on hardware, run via, notes. Scores are x.x/10,
-         graded against Sean's locally hosted AI agent criteria. */
+         graded against Sean's locally hosted AI agent criteria.
+         NOTE: table elements are built with createElement — the
+         el() helper parses via a div, where the HTML parser drops
+         thead/tr/td elements and the render dies. */
       (function(){
         var host = document.getElementById("aiMatrix");
         if (!host) return;
+        function ce(tag, cls, text){ var n = document.createElement(tag); if (cls) n.setAttribute("class", cls); if (text != null) n.textContent = text; return n; }
         var cols = [["Model","model","model"],["Project Fit","score","score"],
           ["Context","ctx","context"],["Released","rel","release"],
           ["License","lic","license"],["Best on","hw","hw"],
           ["Run via","run","run"],["Notes","notes","notes"]];
-        var thead = el('<thead></thead>'), trh = el('<tr></tr>');
-        cols.forEach(function(c){ var th = el('<th></th>'); th.textContent = c[0]; trh.appendChild(th); });
+        var thead = ce("thead"), trh = ce("tr");
+        cols.forEach(function(c){ trh.appendChild(ce("th", null, c[0])); });
         thead.appendChild(trh); host.appendChild(thead);
-        var tbody = el('<tbody></tbody>');
+        var tbody = ce("tbody");
         (D.aiModels || []).forEach(function(m){
-          var tr = el('<tr></tr>');
-          if (m.fav) tr.setAttribute("class","fav");
+          var tr = ce("tr", m.fav ? "fav" : null);
           cols.forEach(function(c){
-            var td = el('<td></td>');
-            td.setAttribute("class", c[1]);
+            var td = ce("td", c[1]);
             var key = c[2];
             if (key === "model") {
               if (m.url) {
-                var a = el('<a target="_blank" rel="noopener"></a>');
-                a.setAttribute("href", m.url);
-                a.textContent = m.model;
+                var a = ce("a"); a.setAttribute("href", m.url); a.setAttribute("target","_blank"); a.setAttribute("rel","noopener"); a.textContent = m.model;
                 td.appendChild(a);
               } else {
                 td.textContent = m.model;
               }
-              if (m.maker) { var mk = el('<span class="maker"></span>'); mk.textContent = m.maker; td.appendChild(mk); }
-              if (m.fav) { var ft = el('<span class="favtag">\u2605 RUNNING FAVORITE</span>'); td.appendChild(ft); }
+              if (m.maker) td.appendChild(ce("span","maker",m.maker));
+              if (m.fav) td.appendChild(ce("span","favtag","\u2605 RUNNING FAVORITE"));
             } else if (key === "score") {
               td.textContent = (m.score != null) ? Number(m.score).toFixed(1)+"/10" : "\u2014";
             } else {
