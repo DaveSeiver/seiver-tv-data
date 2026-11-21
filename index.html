@@ -719,12 +719,18 @@
             h.textContent = m.model;
           }
           d.appendChild(h);
+          if (m.context) {
+            var cp = el('<p></p>');
+            cp.appendChild(el('<strong>Context: </strong>'));
+            cp.appendChild(document.createTextNode(m.context));
+            d.appendChild(cp);
+          }
           (m.highlights || []).forEach(function(hl){
             d.appendChild(el('<p>\u2022 '+esc(hl)+'</p>'));
           });
           if (m.local) {
             var lp = el('<p></p>');
-            lp.appendChild(el('<strong>Local fit: </strong>'));
+            lp.appendChild(el('<strong>Local fit'+(m.score ? ' \u2014 project score '+m.score+'/10' : '')+': </strong>'));
             lp.appendChild(document.createTextNode(m.local));
             d.appendChild(lp);
           }
