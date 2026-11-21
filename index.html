@@ -323,6 +323,13 @@
       </section>
 
       <!-- WEATHER -->
+      <!-- Weekend editions only: the week in AI models, just before
+           Weather. Shown only when the build carries aiModels data. -->
+      <section id="sec-ai" aria-labelledby="h-ai" hidden>
+        <h2 class="sec" id="h-ai">THE WEEK IN AI MODELS</h2>
+        <div class="cols" id="aiModels"></div>
+      </section>
+
       <section aria-labelledby="h-wx">
         <h2 class="sec" id="h-wx">WEATHER</h2>
         <div class="wx" id="wxGrid"></div>
@@ -362,6 +369,8 @@
       ["sec-stories","sec-comic"].forEach(function(id){
         var s = document.getElementById(id); if (s) s.hidden = !weekend;
       });
+      var aiSec = document.getElementById("sec-ai");
+      if (aiSec) aiSec.hidden = !(weekend && D.aiModels && D.aiModels.length);
 
       /* Breaking news — band omitted entirely when no stories qualify.
          Headline carries the scope tag as a prefix ("US: ..."), links
@@ -686,6 +695,43 @@
         }
         return '<svg viewBox="0 0 48 48" aria-hidden="true" focusable="false">'+inner+'</svg>';
       }
+
+      /* Weekend — the week in AI models (weekend editions only;
+         the section itself stays hidden without aiModels data).
+         Each card: maker + kind kicker, model name, highlight
+         lines, an optional "Local fit" line (its relevance to
+         Sean's locally hosted AI agent project), and the date. */
+      (function(){
+        var host = document.getElementById("aiModels");
+        if (!host) return;
+        (D.aiModels || []).forEach(function(m){
+          var d = el('<article class="story"></article>');
+          var kick = m.maker || "";
+          if (m.kind) kick = kick ? kick + " \u2014 " + m.kind : m.kind;
+          if (kick) d.appendChild(el('<div class="k">'+esc(kick)+'</div>'));
+          var h = el('<h3></h3>');
+          if (m.url) {
+            var a = el('<a target="_blank" rel="noopener"></a>');
+            a.setAttribute("href", m.url);
+            a.textContent = m.model;
+            h.appendChild(a);
+          } else {
+            h.textContent = m.model;
+          }
+          d.appendChild(h);
+          (m.highlights || []).forEach(function(hl){
+            d.appendChild(el('<p>\u2022 '+esc(hl)+'</p>'));
+          });
+          if (m.local) {
+            var lp = el('<p></p>');
+            lp.appendChild(el('<strong>Local fit: </strong>'));
+            lp.appendChild(document.createTextNode(m.local));
+            d.appendChild(lp);
+          }
+          if (m.date) { var w = el('<div class="when"></div>'); w.textContent = m.date; d.appendChild(w); }
+          host.appendChild(d);
+        });
+      })();
 
       /* Weather */
       (function(){
