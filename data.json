@@ -1,6 +1,6 @@
 {
-  "version": 58,
-  "asOf": "Sat Nov 21, 2026, 5:44 PM CT",
+  "version": 59,
+  "asOf": "Sat Nov 21, 2026, 5:52 PM CT",
   "edition": "weekend",
   "breaking": [
     {
@@ -946,78 +946,65 @@
   },
   "aiModels": [
     {
-      "maker": "NVIDIA",
       "model": "Nemotron 3.5 Bolt 74B",
-      "kind": "Open-weight — running favorite",
-      "date": "Running favorite — project checkpoint Nov 20, 2026",
-      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
-      "context": "Up to 256K tokens",
-      "highlights": [
-        "74B-parameter MoE (9B active) squeezed into a ~24GB checkpoint by native 2-bit quantization — purpose-built to run everyday agent work locally on RTX Spark hardware",
-        "Vision-language (text, images and video in), built for tool calling, web browsing and terminal use in local agent harnesses",
-        "NVIDIA-reported ~84 tok/s on RTX Spark silicon — nearly 3x the project's 25-30 tok/s target",
-        "OpenMDW-1.1 license (commercial use allowed); GGUF builds run via llama.cpp on Spark-class machines"
-      ],
-      "score": 8,
-      "local": "The project's running best fit: US lab, fully local, hits your 256K context target, and the ~24GB footprint leaves a 128GB box mostly empty — its hybrid design keeps the context cache small, too. Docked for sitting a capability tier below the frontier and for vendor-reported speed. This is the pick to beat."
-    },
-    {
-      "maker": "Thinking Machines Lab",
-      "model": "Inkling 2 Mini",
-      "kind": "Open-weight",
-      "date": "Fri Nov 20, 2026",
-      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-      "highlights": [
-        "'Looped' MoE: 26.4B total parameters, 3.4B active — its middle layers run three times per token, buying big-model compute from a small checkpoint",
-        "Vendor-reported class-leading agentic coding for sub-100B open models (SWE-bench Verified 79.2%)",
-        "Text + image input, context up to 1M tokens; Apache 2.0 license"
-      ],
-      "local": "The week's standout: Apache 2.0, a ~20GB checkpoint designed for local inference on 32GB-class machines and DGX Spark, with frontier-class agent benchmarks. Held back from a 9-10 only because those benchmarks are vendor-reported, its effective context is untested, and Windows serving runs through vLLM/GGUF rather than Ollama for now.",
-      "context": "Up to 1M tokens (advertised)",
-      "score": 8
-    },
-    {
-      "maker": "Microsoft",
-      "model": "Aion Instruct 2.3B",
-      "kind": "Open-weight",
-      "date": "Thu Nov 19, 2026",
-      "url": "https://siloadout.com/releases/week-of-2026-11-16/",
-      "highlights": [
-        "2.3B on-device small language model from Microsoft's Windows group (its blog preview was Nov 13; open weights landed this week)",
-        "Now ships as Microsoft Edge's built-in language model, replacing Phi-4-mini; 32K context",
-        "MIT license"
-      ],
-      "local": "Trivial fit (~1.5GB at 4-bit) and a clean MIT license — but at 2.3B it is an on-device helper, not an agent brain, and its 32K context sits below your 128K floor.",
-      "context": "32K tokens",
-      "score": 3
-    },
-    {
       "maker": "NVIDIA",
-      "model": "Nemotron-Labs-Sigma 3B / 8B",
-      "kind": "Open-weight",
-      "date": "Nov 20, 2026 (model cards dated Nov 12)",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-8B",
-      "highlights": [
-        "A new kind of model: continuous diffusion language models that generate text by denoising rather than token-by-token",
-        "Distilled variants decode up to 4.2x faster (NVIDIA-reported); small 4-8K context, research-oriented"
-      ],
-      "local": "Fits easily (the 8B is ~18GB) and the license allows commercial use — but the context is far below your 128K floor, inference needs a CUDA GPU with no CPU path, and it is a research experiment, not an agent brain.",
-      "context": "4K tokens (base) / 8K (instruct)",
-      "score": 2
+      "fav": true,
+      "score": 8.4,
+      "context": "Up to 256K",
+      "release": "Oct 15, 2026",
+      "license": "OpenMDW-1.1",
+      "hw": "NVIDIA GPU (Spark-class)",
+      "run": "llama.cpp (GGUF) / vLLM",
+      "notes": "The pick to beat — purpose-built for Spark-class boxes: ~24GB footprint, ~84 tok/s reported, hits the 256K context target.",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB"
     },
     {
-      "maker": "Baseten",
+      "model": "Inkling 2 Mini",
+      "maker": "Thinking Machines Lab",
+      "score": 8.1,
+      "context": "Up to 1M (advertised)",
+      "release": "Nov 20, 2026",
+      "license": "Apache 2.0",
+      "hw": "GPU / unified memory, 32GB+ class",
+      "run": "vLLM / SGLang / llama.cpp (GGUF); Ollama on Apple silicon only at launch",
+      "notes": "Frontier-class agent scores on paper (SWE-bench Verified 79.2%, vendor-reported); decode speed and effective context unverified.",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini"
+    },
+    {
+      "model": "Aion Instruct 2.3B",
+      "maker": "Microsoft",
+      "score": 3.2,
+      "context": "32K",
+      "release": "Nov 19, 2026",
+      "license": "MIT",
+      "hw": "CPU / on-device — runs anywhere",
+      "run": "Built into Microsoft Edge; weights on Hugging Face",
+      "notes": "On-device helper, not an agent brain; 32K context sits below the 128K floor.",
+      "url": "https://siloadout.com/releases/week-of-2026-11-16/"
+    },
+    {
+      "model": "Nemotron-Labs-Sigma 8B",
+      "maker": "NVIDIA",
+      "score": 2.4,
+      "context": "4K / 8K (instruct)",
+      "release": "Nov 12, 2026",
+      "license": "NVIDIA Nemotron Open Model License",
+      "hw": "NVIDIA GPU only (CUDA; no CPU path)",
+      "run": "NVIDIA research stack — no mainstream runtime",
+      "notes": "Continuous-diffusion language model experiment; the tiny context disqualifies it as an agent.",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-8B"
+    },
+    {
       "model": "Bison-1 & Groundhog-1",
-      "kind": "Open-weight",
-      "date": "Fri Nov 20, 2026",
-      "url": "https://www.marktechpost.com/category/editors-pick/new-releases/page/2/",
-      "highlights": [
-        "Open-weight decision models — scoring and ranking fixed options — built on Google's Gemma 4",
-        "Bison-1 tops the Artificial Analysis Decision Index; 128K context with image input"
-      ],
-      "local": "A narrow specialist — it scores and ranks fixed options rather than acting as a general agent — and its size and license are not yet published, so the fit is unverified.",
-      "context": "128K tokens",
-      "score": 2
+      "maker": "Baseten",
+      "score": 1.8,
+      "context": "128K",
+      "release": "Nov 20, 2026",
+      "license": "Not published",
+      "hw": "Not published (built on Gemma 4)",
+      "run": "Baseten platform; local path unverified",
+      "notes": "Narrow decision/ranking specialist; size and license unpublished, so basic project tests can't be verified.",
+      "url": "https://www.marktechpost.com/category/editors-pick/new-releases/page/2/"
     }
   ]
 }
