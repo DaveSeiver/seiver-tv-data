@@ -216,6 +216,18 @@
       .apod .meta{font-size:12.5px;color:var(--muted)}
       .apod .desc{margin:6px 0 0;font-size:14.5px}
       footer{margin-top:30px;border-top:1px solid var(--line);padding-top:12px;font-size:12.5px;color:var(--muted)}
+          /* AI models scoring matrix (weekend editions) */
+      .aimx-wrap{overflow-x:auto;}
+      table.aimx{border-collapse:collapse; width:100%; min-width:780px; background:var(--panel); border:1px solid var(--line); box-shadow:var(--shadow);}
+      .aimx th,.aimx td{padding:8px 10px; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; font-size:14px;}
+      .aimx thead th{font-size:11px; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); border-bottom:2px solid var(--line); white-space:nowrap;}
+      .aimx td.model{font-weight:700; white-space:nowrap;}
+      .aimx td.model .maker{display:block; font-weight:400; font-size:12px; color:var(--muted);}
+      .aimx td.model .favtag{display:inline-block; margin-top:3px; font-size:10px; font-weight:700; letter-spacing:.06em; color:var(--up); border:1px solid var(--up); border-radius:3px; padding:1px 5px;}
+      .aimx td.score{font-weight:800; font-size:16px; color:var(--accent-ink); white-space:nowrap;}
+      .aimx td.ctx,.aimx td.rel{white-space:nowrap;}
+      .aimx td.notes{color:var(--muted); min-width:170px;}
+      .aimx tr.fav td{background:var(--best-bg);}
     </style>
   </head>
   <body>
@@ -327,7 +339,7 @@
            Weather. Shown only when the build carries aiModels data. -->
       <section id="sec-ai" aria-labelledby="h-ai" hidden>
         <h2 class="sec" id="h-ai">THE WEEK IN AI MODELS</h2>
-        <div class="cols" id="aiModels"></div>
+        <div class="aimx-wrap"><table class="aimx" id="aiMatrix"></table></div>
       </section>
 
       <section aria-labelledby="h-wx">
@@ -696,47 +708,52 @@
         return '<svg viewBox="0 0 48 48" aria-hidden="true" focusable="false">'+inner+'</svg>';
       }
 
-      /* Weekend — the week in AI models (weekend editions only;
-         the section itself stays hidden without aiModels data).
-         Each card: maker + kind kicker, model name, highlight
-         lines, an optional "Local fit" line (its relevance to
-         Sean's locally hosted AI agent project), and the date. */
+      /* Weekend — the week in AI models, as a scoring matrix
+         (weekend editions only; the section itself stays hidden
+         without aiModels data). Rows arrive pre-sorted by project
+         fit score, the running favorite first (flagged fav).
+         Columns: model, project fit, context, released, license,
+         best-on hardware, run via, notes. Scores are x.x/10,
+         graded against Sean's locally hosted AI agent criteria. */
       (function(){
-        var host = document.getElementById("aiModels");
+        var host = document.getElementById("aiMatrix");
         if (!host) return;
+        var cols = [["Model","model","model"],["Project Fit","score","score"],
+          ["Context","ctx","context"],["Released","rel","release"],
+          ["License","lic","license"],["Best on","hw","hw"],
+          ["Run via","run","run"],["Notes","notes","notes"]];
+        var thead = el('<thead></thead>'), trh = el('<tr></tr>');
+        cols.forEach(function(c){ var th = el('<th></th>'); th.textContent = c[0]; trh.appendChild(th); });
+        thead.appendChild(trh); host.appendChild(thead);
+        var tbody = el('<tbody></tbody>');
         (D.aiModels || []).forEach(function(m){
-          var d = el('<article class="story"></article>');
-          var kick = m.maker || "";
-          if (m.kind) kick = kick ? kick + " \u2014 " + m.kind : m.kind;
-          if (kick) d.appendChild(el('<div class="k">'+esc(kick)+'</div>'));
-          var h = el('<h3></h3>');
-          if (m.url) {
-            var a = el('<a target="_blank" rel="noopener"></a>');
-            a.setAttribute("href", m.url);
-            a.textContent = m.model;
-            h.appendChild(a);
-          } else {
-            h.textContent = m.model;
-          }
-          d.appendChild(h);
-          if (m.context) {
-            var cp = el('<p></p>');
-            cp.appendChild(el('<strong>Context: </strong>'));
-            cp.appendChild(document.createTextNode(m.context));
-            d.appendChild(cp);
-          }
-          (m.highlights || []).forEach(function(hl){
-            d.appendChild(el('<p>\u2022 '+esc(hl)+'</p>'));
+          var tr = el('<tr></tr>');
+          if (m.fav) tr.setAttribute("class","fav");
+          cols.forEach(function(c){
+            var td = el('<td></td>');
+            td.setAttribute("class", c[1]);
+            var key = c[2];
+            if (key === "model") {
+              if (m.url) {
+                var a = el('<a target="_blank" rel="noopener"></a>');
+                a.setAttribute("href", m.url);
+                a.textContent = m.model;
+                td.appendChild(a);
+              } else {
+                td.textContent = m.model;
+              }
+              if (m.maker) { var mk = el('<span class="maker"></span>'); mk.textContent = m.maker; td.appendChild(mk); }
+              if (m.fav) { var ft = el('<span class="favtag">\u2605 RUNNING FAVORITE</span>'); td.appendChild(ft); }
+            } else if (key === "score") {
+              td.textContent = (m.score != null) ? Number(m.score).toFixed(1)+"/10" : "\u2014";
+            } else {
+              td.textContent = m[key] || "\u2014";
+            }
+            tr.appendChild(td);
           });
-          if (m.local) {
-            var lp = el('<p></p>');
-            lp.appendChild(el('<strong>Local fit'+(m.score ? ' \u2014 project score '+m.score+'/10' : '')+': </strong>'));
-            lp.appendChild(document.createTextNode(m.local));
-            d.appendChild(lp);
-          }
-          if (m.date) { var w = el('<div class="when"></div>'); w.textContent = m.date; d.appendChild(w); }
-          host.appendChild(d);
+          tbody.appendChild(tr);
         });
+        host.appendChild(tbody);
       })();
 
       /* Weather */
