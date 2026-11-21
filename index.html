@@ -173,6 +173,8 @@
       .story .k{font-size:11px;font-weight:700;letter-spacing:.1em;color:var(--accent-ink);text-transform:uppercase}
       .story .when{margin-top:8px;font-size:12px;color:var(--muted)}
       .hormuz-stats{margin-top:10px}
+      #comicCard img{width:auto;max-width:100%;max-height:720px;margin:0 auto}
+      #comicCard figcaption{text-align:left}
       #hormuzBody{grid-template-columns:1fr}
       ul.clean{margin:0;padding:0;list-style:none}
       ul.clean li{background:var(--panel);border:1px solid var(--line);padding:11px 14px;box-shadow:var(--shadow)}
@@ -262,15 +264,23 @@
       <!-- BREAKING NEWS (rendered only when the data has stories) -->
       <div id="breakingSlot"></div>
 
+      <!-- Weekend editions only (data edition="weekend"): Interesting
+           Stories of the Week replaces Markets, CD Rates and the
+           Equities Watchlist. Hidden on weekday editions. -->
+      <section id="sec-stories" aria-labelledby="h-stories" hidden>
+        <h2 class="sec" id="h-stories">INTERESTING STORIES OF THE WEEK</h2>
+        <div class="cols" id="weekendStories"></div>
+      </section>
+
       <!-- MARKETS -->
-      <section aria-labelledby="h-markets">
+      <section id="sec-markets" aria-labelledby="h-markets">
         <h2 class="sec" id="h-markets">MARKETS</h2>
         <div class="markets" id="markets"></div>
         <p class="markets-note" id="marketsNote"></p>
       </section>
 
       <!-- CD RATES -->
-      <section aria-labelledby="h-cds">
+      <section id="sec-cds" aria-labelledby="h-cds">
         <h2 class="sec" id="h-cds">CD RATES</h2>
         <div class="cdgrid" id="cdGrid"></div>
         <p class="sec-sub" id="cdAsOf"></p>
@@ -278,7 +288,7 @@
       </section>
 
       <!-- WATCHLIST -->
-      <section aria-labelledby="h-watch">
+      <section id="sec-watch" aria-labelledby="h-watch">
         <h2 class="sec" id="h-watch">EQUITIES WATCHLIST</h2>
         <p class="sec-sub">Tape pauses on hover. Click or tap a chip to open its Yahoo Finance quote page. Chip sparklines: last 7 trading days (the Markets boxes above show 30 days).</p>
         <div class="ticker-shell" id="tickerShell">
@@ -293,7 +303,14 @@
       </section>
 
       <!-- STRAIT OF HORMUZ & OIL -->
-      <section aria-labelledby="h-hormuz">
+      <!-- Weekend editions only: the comic strip replaces Strait of
+           Hormuz & Oil. Hidden on weekday editions. -->
+      <section id="sec-comic" aria-labelledby="h-comic" hidden>
+        <h2 class="sec" id="h-comic">COMIC STRIP</h2>
+        <div class="apod" id="comicCard"></div>
+      </section>
+
+      <section id="sec-hormuz" aria-labelledby="h-hormuz">
         <h2 class="sec" id="h-hormuz">STRAIT OF HORMUZ &amp; OIL</h2>
         <div id="hormuzBody"></div>
         <div id="hormuzStats"></div>
@@ -333,6 +350,18 @@
 
       /* Masthead stamp */
       document.getElementById("asOf").textContent = "Data as of: " + D.asOf;
+
+      /* Edition switch: weekend data hides the finance sections and
+         Hormuz, and shows Interesting Stories + the comic instead.
+         Weekday data (no edition field, or "weekday") renders exactly
+         as before. */
+      var weekend = (D.edition === "weekend");
+      ["sec-markets","sec-cds","sec-watch","sec-hormuz"].forEach(function(id){
+        var s = document.getElementById(id); if (s) s.hidden = weekend;
+      });
+      ["sec-stories","sec-comic"].forEach(function(id){
+        var s = document.getElementById(id); if (s) s.hidden = !weekend;
+      });
 
       /* Breaking news — band omitted entirely when no stories qualify.
          Headline carries the scope tag as a prefix ("US: ..."), links
@@ -524,6 +553,53 @@
         });
         /* clone the full set once for the seamless loop */
         track.innerHTML += track.innerHTML;
+      })();
+
+      /* Weekend — Interesting Stories of the Week (weekend editions
+         only; the section itself is hidden on weekdays). */
+      (function(){
+        var host = document.getElementById("weekendStories");
+        if (!host) return;
+        (D.weekendStories || []).forEach(function(s){
+          var d = el('<article class="story"></article>');
+          if (s.tag) d.appendChild(el('<div class="k">'+esc(s.tag)+'</div>'));
+          var h = el('<h3></h3>');
+          if (s.url) {
+            var a = el('<a target="_blank" rel="noopener"></a>');
+            a.setAttribute("href", s.url);
+            a.textContent = s.headline;
+            h.appendChild(a);
+          } else {
+            h.textContent = s.headline;
+          }
+          d.appendChild(h);
+          d.appendChild(el('<p>'+esc(s.body)+'</p>'));
+          if (s.source) { var w = el('<div class="when"></div>'); w.textContent = s.source; d.appendChild(w); }
+          host.appendChild(d);
+        });
+      })();
+
+      /* Weekend — comic strip (weekend editions only; replaces
+         Hormuz, whose section is hidden on weekends). */
+      (function(){
+        var c = D.comic; if (!c) return;
+        var card = document.getElementById("comicCard");
+        if (!card) return;
+        var fig = el('<figure></figure>');
+        var link = el('<a target="_blank" rel="noopener"></a>');
+        link.setAttribute("href", c.url);
+        var img = document.createElement("img");
+        img.src = c.image;
+        img.alt = c.alt || c.title || "Comic strip";
+        img.loading = "lazy";
+        link.appendChild(img);
+        fig.appendChild(link);
+        var cap = el('<figcaption></figcaption>');
+        cap.appendChild(el('<h3>'+esc(c.title)+'</h3>'));
+        if (c.credit) cap.appendChild(el('<div class="meta">'+esc(c.credit)+'</div>'));
+        if (c.note) cap.appendChild(el('<p class="desc">'+esc(c.note)+'</p>'));
+        fig.appendChild(cap);
+        card.appendChild(fig);
       })();
 
       /* Week in Brief */
