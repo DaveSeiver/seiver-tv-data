@@ -799,7 +799,6 @@
           now.appendChild(el('<span class="cond">'+esc(w.conditions)+'</span>'));
           now.appendChild(el('<span class="wxicon" role="img" aria-label="'+esc(w.conditions)+'">'+wxIcon(w.icon)+'</span>'));
           card.appendChild(now);
-          card.appendChild(el('<div class="wx-meta">US AQI '+w.aqi+' &middot; '+esc(w.aqiCat)+' ('+esc(w.aqiNote)+')</div>'));
           if (w.extra) card.appendChild(el('<div class="wx-meta">'+esc(w.extra)+'</div>'));
           if (w.alerts) card.appendChild(el('<div class="wx-meta">'+esc(w.alerts)+'</div>'));
           var fc = el('<div class="wx-fc"></div>');
