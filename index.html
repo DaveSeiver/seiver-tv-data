@@ -242,6 +242,24 @@
       .aimx tr.fav td.model .fitscore{color:var(--up);}
       .aimx td.notes{color:var(--muted);}
       .aimx tr.fav td{background:var(--best-bg);}
+      .aimx.hwx th:nth-child(1),.aimx.hwx td:nth-child(1){width:16%;}
+      .aimx.hwx th:nth-child(2),.aimx.hwx td:nth-child(2){width:13%;}
+      .aimx.hwx th:nth-child(3),.aimx.hwx td:nth-child(3){width:11%;}
+      .aimx.hwx th:nth-child(4),.aimx.hwx td:nth-child(4){width:9%;}
+      .aimx.hwx th:nth-child(5),.aimx.hwx td:nth-child(5){width:7%;}
+      .aimx.hwx th:nth-child(6),.aimx.hwx td:nth-child(6){width:10%;}
+      .aimx.hwx th:nth-child(7),.aimx.hwx td:nth-child(7){width:8%;}
+      .aimx.hwx th:nth-child(8),.aimx.hwx td:nth-child(8){width:26%;}
+      .aimx td.price{font-weight:700; white-space:nowrap;}
+      .ready-card{background:var(--panel); border:1px solid var(--line); box-shadow:var(--shadow); padding:12px 14px;}
+      .ready-top{display:flex; align-items:center; gap:16px;}
+      .ready-score{font-size:46px; font-weight:800; line-height:1; color:var(--accent-ink); white-space:nowrap;}
+      .ready-of{font-size:18px; font-weight:700; color:var(--muted);}
+      .ready-main{flex:1; min-width:200px;}
+      .ready-head{font-size:15px; font-weight:700; margin-bottom:6px;}
+      .ready-bar{height:10px; background:var(--panel2); border:1px solid var(--line);}
+      .ready-fill{height:100%; background:var(--up); width:0;}
+      .ready-line{margin-top:8px; font-size:13px;}
     </style>
   </head>
   <body>
@@ -356,6 +374,31 @@
         <div class="aimx-wrap"><table class="aimx" id="aiMatrix"></table></div>
       </section>
 
+      <!-- Weekend editions only: the hardware watch for the locally
+           hosted AI agent project, below the models matrix. Shown only
+           when the build carries aiHardware data. -->
+      <section id="sec-hw" aria-labelledby="h-hw" hidden>
+        <h2 class="sec" id="h-hw">THE HARDWARE WATCH</h2>
+        <div class="aimx-wrap"><table class="aimx hwx" id="hwMatrix"></table></div>
+      </section>
+
+      <!-- Weekend editions only: project readiness band under both
+           matrices. Shown only when the build carries readiness data. -->
+      <section id="sec-ready" aria-labelledby="h-ready" hidden>
+        <h2 class="sec" id="h-ready">PROJECT READINESS</h2>
+        <div class="ready-card">
+          <div class="ready-top">
+            <div class="ready-score"><span id="readyScore">\u2013</span><span class="ready-of">/100</span></div>
+            <div class="ready-main">
+              <div class="ready-head" id="readyHead"></div>
+              <div class="ready-bar"><div class="ready-fill" id="readyFill"></div></div>
+            </div>
+          </div>
+          <div class="ready-line"><strong>Still lacking:</strong> <span id="readyLacking"></span></div>
+          <div class="ready-line"><strong>Pull the trigger today:</strong> <span id="readyToday"></span></div>
+        </div>
+      </section>
+
       <section aria-labelledby="h-wx">
         <h2 class="sec" id="h-wx">WEATHER</h2>
         <div class="wx" id="wxGrid"></div>
@@ -407,6 +450,10 @@
       });
       var aiSec = document.getElementById("sec-ai");
       if (aiSec) aiSec.hidden = !(weekend && D.aiModels && D.aiModels.length);
+      var hwSec = document.getElementById("sec-hw");
+      if (hwSec) hwSec.hidden = !(weekend && D.aiHardware && D.aiHardware.length);
+      var rdSec = document.getElementById("sec-ready");
+      if (rdSec) rdSec.hidden = !(weekend && D.readiness && typeof D.readiness.score === "number");
 
       var aqiSec = document.getElementById("sec-aqimap");
       if (aqiSec && D.aqiMap && D.aqiMap.image) {
@@ -786,6 +833,58 @@
           tbody.appendChild(tr);
         });
         host.appendChild(tbody);
+      })();
+
+      /* Weekend — the hardware watch: candidate boxes for the locally
+         hosted AI agent, scored like the models matrix (score under
+         the box name, favorite first and flagged). Table elements are
+         built with createElement, same as the models matrix. */
+      (function(){
+        var host = document.getElementById("hwMatrix");
+        if (!host) return;
+        function ce(tag, cls, text){ var n = document.createElement(tag); if (cls) n.setAttribute("class", cls); if (text != null) n.textContent = text; return n; }
+        var cols = [["Box","model","box"],["Chip","chip","chip"],["Memory","mem","memory"],
+          ["Bandwidth","bw","bandwidth"],["Storage","stor","storage"],
+          ["OS","os","os"],["Price","price","price"],["Notes","notes","notes"]];
+        var thead = ce("thead"), trh = ce("tr");
+        cols.forEach(function(c){ trh.appendChild(ce("th", null, c[0])); });
+        thead.appendChild(trh); host.appendChild(thead);
+        var tbody = ce("tbody");
+        (D.aiHardware || []).forEach(function(m){
+          var tr = ce("tr", m.fav ? "fav" : null);
+          cols.forEach(function(c){
+            var td = ce("td", c[1]);
+            var key = c[2];
+            if (key === "box") {
+              if (m.url) {
+                var a = ce("a"); a.setAttribute("href", m.url); a.setAttribute("target","_blank"); a.setAttribute("rel","noopener"); a.textContent = m.box;
+                td.appendChild(a);
+              } else {
+                td.textContent = m.box;
+              }
+              if (m.maker) td.appendChild(ce("span","maker",m.maker));
+              if (m.fav) td.appendChild(ce("span","favtag","\u2605 FRONTRUNNER"));
+              if (m.score != null) td.appendChild(ce("span","fitscore", Number(m.score).toFixed(1)+"/10"));
+            } else {
+              td.textContent = m[key] || "\u2014";
+            }
+            tr.appendChild(td);
+          });
+          tbody.appendChild(tr);
+        });
+        host.appendChild(tbody);
+      })();
+
+      /* Weekend — project readiness band (0-100): how close the
+         locally hosted AI agent project is to pull-the-trigger. */
+      (function(){
+        var r = D.readiness; if (!r || typeof r.score !== "number") return;
+        var s = Math.max(0, Math.min(100, Math.round(r.score)));
+        document.getElementById("readyScore").textContent = s;
+        document.getElementById("readyFill").style.width = s + "%";
+        document.getElementById("readyHead").textContent = r.headline || "";
+        document.getElementById("readyLacking").textContent = r.lacking || "";
+        document.getElementById("readyToday").textContent = r.today || "";
       })();
 
       /* Weather */
