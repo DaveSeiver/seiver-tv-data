@@ -221,10 +221,10 @@
       table.aimx{border-collapse:collapse; width:100%; min-width:780px; table-layout:fixed; background:var(--panel); border:1px solid var(--line); box-shadow:var(--shadow);}
       .aimx th,.aimx td{padding:8px 10px; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; font-size:14px; overflow-wrap:break-word;}
       .aimx thead th{font-size:11px; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); border-bottom:2px solid var(--line); overflow-wrap:normal;}
-      .aimx th:nth-child(1),.aimx td:nth-child(1){width:14%;}
+      .aimx th:nth-child(1),.aimx td:nth-child(1){width:15%;}
       .aimx th:nth-child(2),.aimx td:nth-child(2){width:10%;}
       .aimx th:nth-child(3),.aimx td:nth-child(3){width:8%;}
-      .aimx th:nth-child(4),.aimx td:nth-child(4){width:10%;}
+      .aimx th:nth-child(4),.aimx td:nth-child(4){width:9%;}
       .aimx th:nth-child(5),.aimx td:nth-child(5){width:9%;}
       .aimx th:nth-child(6),.aimx td:nth-child(6){width:11%;}
       .aimx th:nth-child(7),.aimx td:nth-child(7){width:11%;}
@@ -233,7 +233,9 @@
       .aimx td.model{font-weight:700;}
       .aimx td.model .maker{display:block; font-weight:400; font-size:12px; color:var(--muted);}
       .aimx td.model .favtag{display:inline-block; margin-top:3px; font-size:10px; font-weight:700; letter-spacing:.06em; color:var(--up); border:1px solid var(--up); border-radius:3px; padding:1px 5px;}
-      .aimx td.score{font-weight:800; font-size:16px; color:var(--accent-ink); white-space:nowrap;}
+      .aimx td.speed{font-weight:700; white-space:nowrap;}
+      .aimx td.model .fitscore{display:block; margin-top:5px; font-size:28px; font-weight:800; line-height:1.05; color:var(--accent-ink);}
+      .aimx tr.fav td.model .fitscore{color:var(--up);}
       .aimx td.notes{color:var(--muted);}
       .aimx tr.fav td{background:var(--best-bg);}
     </style>
@@ -730,7 +732,7 @@
         var host = document.getElementById("aiMatrix");
         if (!host) return;
         function ce(tag, cls, text){ var n = document.createElement(tag); if (cls) n.setAttribute("class", cls); if (text != null) n.textContent = text; return n; }
-        var cols = [["Model","model","model"],["Size","size","size"],["Project Fit","score","score"],
+        var cols = [["Model","model","model"],["Size","size","size"],["Speed (tokens/sec)","speed","speed"],
           ["Context","ctx","context"],["Released","rel","release"],
           ["License","lic","license"],["Best on","hw","hw"],
           ["Run via","run","run"],["Notes","notes","notes"]];
@@ -752,8 +754,7 @@
               }
               if (m.maker) td.appendChild(ce("span","maker",m.maker));
               if (m.fav) td.appendChild(ce("span","favtag","\u2605 RUNNING FAVORITE"));
-            } else if (key === "score") {
-              td.textContent = (m.score != null) ? Number(m.score).toFixed(1)+"/10" : "\u2014";
+              if (m.score != null) td.appendChild(ce("span","fitscore", Number(m.score).toFixed(1)+"/10"));
             } else {
               td.textContent = m[key] || "\u2014";
             }
