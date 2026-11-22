@@ -218,15 +218,23 @@
       footer{margin-top:30px;border-top:1px solid var(--line);padding-top:12px;font-size:12.5px;color:var(--muted)}
           /* AI models scoring matrix (weekend editions) */
       .aimx-wrap{overflow-x:auto;}
-      table.aimx{border-collapse:collapse; width:100%; min-width:780px; background:var(--panel); border:1px solid var(--line); box-shadow:var(--shadow);}
-      .aimx th,.aimx td{padding:8px 10px; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; font-size:14px;}
-      .aimx thead th{font-size:11px; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); border-bottom:2px solid var(--line); white-space:nowrap;}
-      .aimx td.model{font-weight:700; white-space:nowrap;}
+      table.aimx{border-collapse:collapse; width:100%; min-width:780px; table-layout:fixed; background:var(--panel); border:1px solid var(--line); box-shadow:var(--shadow);}
+      .aimx th,.aimx td{padding:8px 10px; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; font-size:14px; overflow-wrap:break-word;}
+      .aimx thead th{font-size:11px; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); border-bottom:2px solid var(--line);}
+      .aimx th:nth-child(1),.aimx td:nth-child(1){width:15%;}
+      .aimx th:nth-child(2),.aimx td:nth-child(2){width:10%;}
+      .aimx th:nth-child(3),.aimx td:nth-child(3){width:7%;}
+      .aimx th:nth-child(4),.aimx td:nth-child(4){width:10%;}
+      .aimx th:nth-child(5),.aimx td:nth-child(5){width:7%;}
+      .aimx th:nth-child(6),.aimx td:nth-child(6){width:11%;}
+      .aimx th:nth-child(7),.aimx td:nth-child(7){width:11%;}
+      .aimx th:nth-child(8),.aimx td:nth-child(8){width:11%;}
+      .aimx th:nth-child(9),.aimx td:nth-child(9){width:18%;}
+      .aimx td.model{font-weight:700;}
       .aimx td.model .maker{display:block; font-weight:400; font-size:12px; color:var(--muted);}
       .aimx td.model .favtag{display:inline-block; margin-top:3px; font-size:10px; font-weight:700; letter-spacing:.06em; color:var(--up); border:1px solid var(--up); border-radius:3px; padding:1px 5px;}
       .aimx td.score{font-weight:800; font-size:16px; color:var(--accent-ink); white-space:nowrap;}
-      .aimx td.ctx,.aimx td.rel,.aimx td.size{white-space:nowrap;}
-      .aimx td.notes{color:var(--muted); min-width:170px;}
+      .aimx td.notes{color:var(--muted);}
       .aimx tr.fav td{background:var(--best-bg);}
     </style>
   </head>
