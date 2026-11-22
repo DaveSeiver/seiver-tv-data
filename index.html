@@ -203,6 +203,7 @@
       .wxicon .cloud{fill:#a7b0ba}
       @media (prefers-color-scheme: dark){ .wxicon .cloud{fill:#c6cdd6} }
       .wx-meta{font-size:12.5px;color:var(--muted);margin-top:2px}
+      .wx-meta .adv{font-weight:700;color:var(--down)}
       .wx-fc{margin:10px 0 0;padding:8px 0 0;border-top:1px solid var(--line);font-size:13px}
       .wx-fc div{display:flex;justify-content:space-between;gap:10px;padding:2px 0}
       .wx-fc .d{font-weight:700;white-space:nowrap}
@@ -799,8 +800,10 @@
           now.appendChild(el('<span class="cond">'+esc(w.conditions)+'</span>'));
           now.appendChild(el('<span class="wxicon" role="img" aria-label="'+esc(w.conditions)+'">'+wxIcon(w.icon)+'</span>'));
           card.appendChild(now);
-          if (w.extra) card.appendChild(el('<div class="wx-meta">'+esc(w.extra)+'</div>'));
-          if (w.alerts) card.appendChild(el('<div class="wx-meta">'+esc(w.alerts)+'</div>'));
+          var metaParts = [];
+          if (w.extra) metaParts.push(esc(w.extra));
+          if (w.alerts) metaParts.push('<span class="adv">'+esc(w.alerts)+'</span>');
+          if (metaParts.length) card.appendChild(el('<div class="wx-meta">'+metaParts.join(' &middot; ')+'</div>'));
           var fc = el('<div class="wx-fc"></div>');
           [["Today", w.today], ["Tonight", w.tonight], ["Tomorrow", w.tomorrow]].forEach(function(f){
             var row = el('<div></div>');
