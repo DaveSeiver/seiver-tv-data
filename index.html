@@ -217,6 +217,9 @@
       .apod .desc{margin:6px 0 0;font-size:14.5px}
       footer{margin-top:30px;border-top:1px solid var(--line);padding-top:12px;font-size:12.5px;color:var(--muted)}
           /* AI models scoring matrix (weekend editions) */
+      .aqimap-card{background:var(--panel); border:1px solid var(--line); box-shadow:var(--shadow); padding:10px;}
+      .aqimap-card img{width:100%; height:auto; display:block;}
+      .aqimap-cap{margin-top:8px; font-size:12px; color:var(--muted);}
       .aimx-wrap{overflow-x:auto;}
       table.aimx{border-collapse:collapse; width:100%; min-width:780px; table-layout:fixed; background:var(--panel); border:1px solid var(--line); box-shadow:var(--shadow);}
       .aimx th,.aimx td{padding:8px 10px; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; font-size:14px; overflow-wrap:break-word;}
@@ -357,6 +360,16 @@
         <div class="wx" id="wxGrid"></div>
       </section>
 
+      <!-- AQI & wind map: regenerated every refresh by gen_aqi_map.py;
+           shown whenever the build carries aqiMap data (both editions). -->
+      <section id="sec-aqimap" aria-labelledby="h-aqimap" hidden>
+        <h2 class="sec" id="h-aqimap">U.S. AIR QUALITY &amp; WIND</h2>
+        <div class="aqimap-card">
+          <img id="aqiMapImg" alt="U.S. air quality (AQI) and wind map with Houston Condo, Seiver Ranch, Seiver Slough and Seiver Lodge marked">
+          <div class="aqimap-cap" id="aqiMapCap"></div>
+        </div>
+      </section>
+
       <!-- NASA APOD (always last) -->
       <section aria-labelledby="h-apod">
         <h2 class="sec" id="h-apod">PICTURE OF THE DAY</h2>
@@ -393,6 +406,15 @@
       });
       var aiSec = document.getElementById("sec-ai");
       if (aiSec) aiSec.hidden = !(weekend && D.aiModels && D.aiModels.length);
+
+      var aqiSec = document.getElementById("sec-aqimap");
+      if (aqiSec && D.aqiMap && D.aqiMap.image) {
+        aqiSec.hidden = false;
+        var aqiImg = document.getElementById("aqiMapImg");
+        if (aqiImg) aqiImg.setAttribute("src", D.aqiMap.image + "?v=" + D.version);
+        var aqiCap = document.getElementById("aqiMapCap");
+        if (aqiCap) aqiCap.textContent = "Map updated " + (D.aqiMap.stamp || "") + " \u00b7 " + (D.aqiMap.credit || "");
+      }
 
       /* Breaking news — band omitted entirely when no stories qualify.
          Headline carries the scope tag as a prefix ("US: ..."), links
