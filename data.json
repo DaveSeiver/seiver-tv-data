@@ -1,6 +1,6 @@
 {
-  "version": 65,
-  "asOf": "Sun Nov 22, 2026, 12:17 PM CT",
+  "version": 66,
+  "asOf": "Sun Nov 22, 2026, 3:18 PM CT",
   "edition": "weekend",
   "breaking": [
     {
@@ -1007,5 +1007,50 @@
     "image": "aqi-map.jpg",
     "stamp": "Sun Nov 22, 2026, 12:00 PM CT",
     "credit": "AQI & wind data: Open-Meteo (CAMS / NOAA)"
+  },
+  "aiHardware": [
+    {
+      "box": "Surface RTX Spark Dev Box",
+      "maker": "Microsoft",
+      "fav": true,
+      "score": 8.6,
+      "chip": "NVIDIA N1X (RTX Spark)",
+      "memory": "128GB unified",
+      "bandwidth": "~300 GB/s",
+      "storage": "2TB",
+      "os": "Windows 11 Pro",
+      "price": "$5,999",
+      "notes": "The frontrunner — the only box ticking every project criterion today: CUDA, Windows-native, Microsoft support, shipping now. Bolt-class models run ~84 tok/s on this silicon. Ceiling: 128GB is learning-class; it cannot touch Spark Open itself."
+    },
+    {
+      "box": "Framework Desktop 192GB",
+      "maker": "Framework",
+      "score": 7.9,
+      "chip": "AMD Ryzen AI Max+ PRO 495",
+      "memory": "192GB unified",
+      "bandwidth": "~273 GB/s",
+      "storage": "Configurable",
+      "os": "Windows 11 (DIY install)",
+      "price": "$6,799 DIY",
+      "notes": "Most memory in a mini — room for the 120B deep-think brain plus a fat 256K KV cache. No CUDA (ROCm/Vulkan serving), you assemble it yourself, and batches sell out."
+    },
+    {
+      "box": "AI Workstation 300",
+      "maker": "Corsair",
+      "score": 7.0,
+      "chip": "AMD Ryzen AI Max+ 395",
+      "memory": "128GB (96GB to GPU)",
+      "bandwidth": "256 GB/s",
+      "storage": "1TB",
+      "os": "Windows 11 Home",
+      "price": "$4,700",
+      "notes": "Cheapest US-company route to a 128GB Windows box. The shortage in one row: launched at $1,999 in Jul 2025, now $4,700 — and Windows caps its GPU memory at 96GB."
+    }
+  ],
+  "readiness": {
+    "score": 76,
+    "headline": "Close — the box exists and the speed is there; the brain is one tier shy",
+    "lacking": "A local model at hosted-Muse tier (today's best stack is a strong supervised junior) · Spark-Open-class capability needs a ~700GB box — the DGX Station class, whose Windows price is still unannounced · memory-shortage prices are still rising, so waiting keeps earning points · Windows serving paths for the favorite models are proven on paper, not yet hands-on",
+    "today": "$5,999 → Surface Dev Box + Bolt 74B always-on (~84 tok/s) + Super 120B for deep think = a working local agent at 76/100. The missing 24 points aren't for sale yet — they're the model curve and the calendar."
   }
 }
