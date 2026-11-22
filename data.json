@@ -1,19 +1,19 @@
 {
-  "version": 64,
-  "asOf": "Sun Nov 22, 2026, 8:10 AM CT",
+  "version": 65,
+  "asOf": "Sun Nov 22, 2026, 12:17 PM CT",
   "edition": "weekend",
   "breaking": [
     {
       "tag": "World",
       "headline": "COP31 climate talks collapse with no deal as EU rejects fossil-fuel-free draft",
-      "fact": "The U.N. climate summit in Antalya collapsed Sunday after the EU and others rejected a final draft that never mentioned fossil fuels \u2014 the first COP to end with no deal since Copenhagen in 2009. COP31 president Murat Kurum conceded there was no consensus and the text would not be adopted, after the summit ran a record 44 hours past its scheduled close.",
+      "fact": "The U.N. climate summit in Antalya collapsed Sunday after the EU and others rejected a final draft that never mentioned fossil fuels — the first COP to end with no deal since Copenhagen in 2009. COP31 president Murat Kurum conceded there was no consensus and the text would not be adopted, after the summit ran a record 44 hours past its scheduled close.",
       "source": "Reuters",
       "url": "https://234radio.com/cop31-talks-break-down-as-eu-rejects-deal-without-reference-to-fossil-fuels/"
     },
     {
       "tag": "US",
       "headline": "FBI investigating hack of its national crime database",
-      "fact": "Hackers breached the FBI's National Crime Information Center, the database police nationwide use to check warrants, missing persons and stolen property; the FBI is investigating what was taken or altered. President Trump confirmed the breach in a Saturday Fox News interview, calling it 'not good' \u2014 the bureau's second cyberattack in months, after a September breach of its jobs portal.",
+      "fact": "Hackers breached the FBI's National Crime Information Center, the database police nationwide use to check warrants, missing persons and stolen property; the FBI is investigating what was taken or altered. President Trump confirmed the breach in a Saturday Fox News interview, calling it 'not good' — the bureau's second cyberattack in months, after a September breach of its jobs portal.",
       "source": "Associated Press",
       "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/"
     }
@@ -303,7 +303,7 @@
       "price": "$206.15",
       "change": "-0.82%",
       "dir": "down",
-      "blurb": "Air Liquide closed Friday in Paris at \u20ac187.58, down 0.82% on the day; at the ECB's Nov 20 reference rate of 1.0990 that converts to $206.15, with European shares sliding alongside the global AI selloff.",
+      "blurb": "Air Liquide closed Friday in Paris at €187.58, down 0.82% on the day; at the ECB's Nov 20 reference rate of 1.0990 that converts to $206.15, with European shares sliding alongside the global AI selloff.",
       "spark": [
         193.32,
         193.24,
@@ -313,7 +313,7 @@
         187.58,
         187.5800018310547
       ],
-      "subTag": "\u20ac187.58 \u00d7 1.0990 (ECB Nov 20)",
+      "subTag": "€187.58 × 1.0990 (ECB Nov 20)",
       "yieldTag": null
     },
     {
@@ -450,7 +450,7 @@
       "price": "$125.53",
       "change": "-14.01%",
       "dir": "down",
-      "blurb": "Nvidia closed Friday at $125.53, down 14.01% \u2014 its worst day in nearly two years \u2014 after Reuters reported the SEC is investigating its accounting; the stock has lost about a third of its value in two weeks since Jensen Huang's departure and sits 47% below its Oct 6 record.",
+      "blurb": "Nvidia closed Friday at $125.53, down 14.01% — its worst day in nearly two years — after Reuters reported the SEC is investigating its accounting; the stock has lost about a third of its value in two weeks since Jensen Huang's departure and sits 47% below its Oct 6 record.",
       "spark": [
         156.14,
         155.46,
@@ -660,7 +660,7 @@
       "price": "$142.04 (est.)",
       "change": "-3.70%",
       "dir": "down",
-      "blurb": "No public quote for this CIT \u2014 the S&P 500-anchored estimate is $142.04 (est.) with the index closing at 6,910.39 Friday, down 3.70% on the day.",
+      "blurb": "No public quote for this CIT — the S&P 500-anchored estimate is $142.04 (est.) with the index closing at 6,910.39 Friday, down 3.70% on the day.",
       "spark": [
         152.45,
         150.89,
@@ -713,12 +713,12 @@
     },
     {
       "headline": "Medicare open enrollment runs through Dec. 7",
-      "body": "Annual open enrollment for Medicare \u2014 covering about 70 million people \u2014 runs through Dec. 7, with choices taking effect Jan. 1. CMS set the 2027 standard Part B premium at $209.40 a month, up $6.50, and the Part D out-of-pocket cap rises to $2,400. Some Medicare Advantage plans are ending in certain markets, so checking your plan's status is worth the time.",
+      "body": "Annual open enrollment for Medicare — covering about 70 million people — runs through Dec. 7, with choices taking effect Jan. 1. CMS set the 2027 standard Part B premium at $209.40 a month, up $6.50, and the Part D out-of-pocket cap rises to $2,400. Some Medicare Advantage plans are ending in certain markets, so checking your plan's status is worth the time.",
       "stamp": "Nov 22, 2026"
     },
     {
       "headline": "AAA: 81.5 million Americans to travel for Thanksgiving",
-      "body": "AAA projects 81.5 million Americans will travel at least 50 miles from home over the Nov. 24\u201330 Thanksgiving period \u2014 down 0.1% from last year, ending a three-year streak of records, with volumes near record levels anyway. About 72.9 million will drive and 5.96 million will fly; the heaviest road congestion is expected Tuesday and Wednesday afternoons.",
+      "body": "AAA projects 81.5 million Americans will travel at least 50 miles from home over the Nov. 24–30 Thanksgiving period — down 0.1% from last year, ending a three-year streak of records, with volumes near record levels anyway. About 72.9 million will drive and 5.96 million will fly; the heaviest road congestion is expected Tuesday and Wednesday afternoons.",
       "stamp": "Nov 16, 2026"
     }
   ],
@@ -726,7 +726,7 @@
     {
       "tag": "Houston",
       "headline": "Lone Star College gives away 300 free Thanksgiving meal bundles",
-      "body": "Lone Star College\u2013North Harris handed out free Thanksgiving meal bundles \u2014 a turkey and the side dishes \u2014 to the first 300 families on Saturday, Nov. 21, no registration required. Now in its second year, the drive is hosted by trustee Daniel Meza with faculty, staff and student volunteers pitching in.",
+      "body": "Lone Star College–North Harris handed out free Thanksgiving meal bundles — a turkey and the side dishes — to the first 300 families on Saturday, Nov. 21, no registration required. Now in its second year, the drive is hosted by trustee Daniel Meza with faculty, staff and student volunteers pitching in.",
       "source": "My Neighborhood News",
       "url": "https://myneighborhoodnews.com/lone-star-college-north-harris-to-give-away-300-free-thanksgiving-meal-bundles-to-houston-families-on-november-21"
     },
@@ -740,14 +740,14 @@
     {
       "tag": "Montana",
       "headline": "Plains Trotters reach the state volleyball tournament for the first time in 27 years",
-      "body": "Plains residents packed the high school gym for a send-off pep rally as the Trotters volleyball team headed to the state tournament in Bozeman \u2014 the program's first trip to state in 27 years. The team, coached by Kim Lakko, earned its berth with a tough divisional run, and the whole town turned out to cheer them on.",
+      "body": "Plains residents packed the high school gym for a send-off pep rally as the Trotters volleyball team headed to the state tournament in Bozeman — the program's first trip to state in 27 years. The team, coached by Kim Lakko, earned its berth with a tough divisional run, and the whole town turned out to cheer them on.",
       "source": "Valley Press / Mineral Independent",
       "url": "https://vp-mi.com/news/2026/nov/18/pep-rally-sends-trotters-to-first-state-tournament-in-decades/"
     },
     {
       "tag": "Montana",
       "headline": "Orphaned mountain lion cub finds a best friend for life",
-      "body": "A 6-week-old mountain lion cub, found abandoned and freezing near Fort Belknap, was rescued by a volunteer who braved early winter storms to carry her to the Yellowstone Wildlife Sanctuary. Now named Nakoda \u2014 'friend' in the Nakoda language \u2014 she has been paired at Buttonwood Park Zoo with Cascade, another orphaned cub, and the two have bonded beautifully.",
+      "body": "A 6-week-old mountain lion cub, found abandoned and freezing near Fort Belknap, was rescued by a volunteer who braved early winter storms to carry her to the Yellowstone Wildlife Sanctuary. Now named Nakoda — 'friend' in the Nakoda language — she has been paired at Buttonwood Park Zoo with Cascade, another orphaned cub, and the two have bonded beautifully.",
       "source": "I Can Has Cheezburger",
       "url": "https://cheezburger.com/47427333/abandoned-mountain-lion-cub-found-in-freezing-weather-is-rescued-by-brave-volunteer-then-finds-new"
     },
@@ -761,7 +761,7 @@
     {
       "tag": "North Dakota",
       "headline": "UND's Community Thanksgiving draws more than 600 for a free meal",
-      "body": "The University of North Dakota's second annual Community Thanksgiving brought just over 600 students and community members together in the Memorial Union Ballroom for a free holiday meal \u2014 up more than 200 guests from last year. Hosted by the Hilyard International Center, the International Center and UND Athletics, the evening also collected thank-you cards for service members.",
+      "body": "The University of North Dakota's second annual Community Thanksgiving brought just over 600 students and community members together in the Memorial Union Ballroom for a free holiday meal — up more than 200 guests from last year. Hosted by the Hilyard International Center, the International Center and UND Athletics, the evening also collected thank-you cards for service members.",
       "source": "Dakota Student",
       "url": "https://dakotastudent.com/18278/thanksgiving/hilyard-international-center-and-athletics-host-community-thanksgiving/"
     },
@@ -794,7 +794,7 @@
     "image": "https://imgs.xkcd.com/comics/password_strength.png",
     "alt": "To anyone who understands information theory and security and is in an infuriating argument with someone who does not (possibly involving mixed case), I sincerely apologize.",
     "url": "https://xkcd.com/936/",
-    "credit": "xkcd by Randall Munroe \u2014 licensed CC BY-NC 2.5; xkcd.com",
+    "credit": "xkcd by Randall Munroe — licensed CC BY-NC 2.5; xkcd.com",
     "note": "To anyone who understands information theory and security and is in an infuriating argument with someone who does not (possibly involving mixed case), I sincerely apologize."
   },
   "space": [
@@ -819,7 +819,7 @@
     {
       "tag": "Science",
       "headline": "Moon dust 3D-printed into LEGO-like bricks for future bases",
-      "body": "University of Arkansas researchers have 3D-printed simulated lunar regolith into interlocking, LEGO-like bricks using laser sintering \u2014 no binder needed \u2014 a first that could let astronauts build shelters from the dust underfoot. The blocks are still porous and weaker than binder-based versions, so load-bearing use is a way off, but the work was published in npj Advanced Manufacturing.",
+      "body": "University of Arkansas researchers have 3D-printed simulated lunar regolith into interlocking, LEGO-like bricks using laser sintering — no binder needed — a first that could let astronauts build shelters from the dust underfoot. The blocks are still porous and weaker than binder-based versions, so load-bearing use is a way off, but the work was published in npj Advanced Manufacturing.",
       "url": "https://scitechdaily.com/researchers-turn-moon-dust-into-lego-like-bricks-that-could-build-future-lunar-bases/"
     }
   ],
@@ -872,7 +872,7 @@
       }
     ],
     "footnote": "",
-    "ratesAsOf": "Schwab Thu, Nov 19, 2026 \u00b7 eTrade Mon, Nov 9, 2026"
+    "ratesAsOf": "Schwab Thu, Nov 19, 2026 · eTrade Mon, Nov 9, 2026"
   },
   "weather": [
     {
@@ -885,13 +885,13 @@
       "aqiCat": "Moderate",
       "aqiNote": "PM2.5",
       "alerts": "Dense Fog Advisory in effect",
-      "extra": "Humidity 100% \u00b7 Wind NW 2 mph",
-      "today": "Areas Of Fog, high 78\u00b0F",
-      "tonight": "Slight Chance Rain Showers, low 56\u00b0F",
-      "tomorrow": "Mostly Sunny, high 68\u00b0F"
+      "extra": "Humidity 100% · Wind NW 2 mph",
+      "today": "Areas Of Fog, high 78°F",
+      "tonight": "Slight Chance Rain Showers, low 56°F",
+      "tomorrow": "Mostly Sunny, high 68°F"
     },
     {
-      "name": "Seiver Ranch \u2014 Plains, MT",
+      "name": "Seiver Ranch — Plains, MT",
       "detail": "Sanders County",
       "tempF": 31,
       "conditions": "Overcast",
@@ -900,13 +900,13 @@
       "aqiCat": "Good",
       "aqiNote": "PM2.5",
       "alerts": "",
-      "extra": "Humidity 86% \u00b7 Wind ESE 3 mph",
-      "today": "Light Snow Likely, high 32\u00b0F",
-      "tonight": "Chance Light Snow then Areas Of Fog, low 21\u00b0F",
-      "tomorrow": "Areas Of Fog, high 35\u00b0F"
+      "extra": "Humidity 86% · Wind ESE 3 mph",
+      "today": "Light Snow Likely, high 32°F",
+      "tonight": "Chance Light Snow then Areas Of Fog, low 21°F",
+      "tomorrow": "Areas Of Fog, high 35°F"
     },
     {
-      "name": "Seiver Slough \u2014 Rugby, ND",
+      "name": "Seiver Slough — Rugby, ND",
       "detail": "Pierce County",
       "tempF": 28,
       "conditions": "Overcast",
@@ -915,13 +915,13 @@
       "aqiCat": "Good",
       "aqiNote": "PM2.5",
       "alerts": "",
-      "extra": "Humidity 75% \u00b7 Wind NW 16 mph",
-      "today": "Light Snow Likely then Mostly Cloudy, high 29\u00b0F",
-      "tonight": "Partly Cloudy, low 10\u00b0F",
-      "tomorrow": "Mostly Sunny, high 26\u00b0F"
+      "extra": "Humidity 75% · Wind NW 16 mph",
+      "today": "Light Snow Likely then Mostly Cloudy, high 29°F",
+      "tonight": "Partly Cloudy, low 10°F",
+      "tomorrow": "Mostly Sunny, high 26°F"
     },
     {
-      "name": "Seiver Lodge \u2014 L'Anse, MI",
+      "name": "Seiver Lodge — L'Anse, MI",
       "detail": "Baraga County",
       "tempF": 43,
       "conditions": "Light Rain",
@@ -930,18 +930,18 @@
       "aqiCat": "Good",
       "aqiNote": "PM2.5",
       "alerts": "",
-      "extra": "Humidity 91% \u00b7 Wind NW 11 mph",
-      "today": "Light Rain, high 44\u00b0F",
-      "tonight": "Rain And Snow, low 28\u00b0F",
-      "tomorrow": "Light Snow, high 34\u00b0F"
+      "extra": "Humidity 91% · Wind NW 11 mph",
+      "today": "Light Rain, high 44°F",
+      "tonight": "Rain And Snow, low 28°F",
+      "tomorrow": "Light Snow, high 34°F"
     }
   ],
   "apod": {
     "date": "November 22, 2026",
     "title": "Swirls and Colors on Jupiter from Juno",
-    "credit": "NASA, Juno spacecraft \u2014 Astronomy Picture of the Day",
+    "credit": "NASA, Juno spacecraft — Astronomy Picture of the Day",
     "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/JupiterSwirls_JunoBrealey_3709.jpg?w=2048&h=2048&fit=clip",
-    "explanation": "What colors Jupiter's clouds is still not fully understood \u2014 the atmosphere is mostly colorless hydrogen and helium, and trace molecules such as ammonium hydrosulfide are leading candidates. This color-enhanced view from NASA's Juno spacecraft, taken during its 14th low pass in 2018, shows light clouds swirling around reddish regions; lighter clouds generally ride higher than darker ones.",
+    "explanation": "What colors Jupiter's clouds is still not fully understood — the atmosphere is mostly colorless hydrogen and helium, and trace molecules such as ammonium hydrosulfide are leading candidates. This color-enhanced view from NASA's Juno spacecraft, taken during its 14th low pass in 2018, shows light clouds swirling around reddish regions; lighter clouds generally ride higher than darker ones.",
     "pageUrl": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/"
   },
   "aiModels": [
@@ -955,9 +955,9 @@
       "license": "OpenMDW-1.1",
       "hw": "NVIDIA GPU (Spark-class)",
       "run": "llama.cpp (GGUF) / vLLM",
-      "notes": "The pick to beat \u2014 purpose-built for Spark-class boxes: ~24GB footprint, ~84 tok/s reported, hits the 256K context target.",
+      "notes": "The pick to beat — purpose-built for Spark-class boxes: ~24GB footprint, ~84 tok/s reported, hits the 256K context target.",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
-      "size": "74B (9B active) \u00b7 ~24GB",
+      "size": "74B (9B active) · ~24GB",
       "speed": "~84"
     },
     {
@@ -969,20 +969,20 @@
       "license": "Apache 2.0",
       "hw": "GPU / unified memory, 32GB+ class",
       "run": "vLLM / SGLang / llama.cpp (GGUF); Ollama on Apple silicon only at launch",
-      "notes": "Frontier-class agent scores on vendor benchmarks (SWE-bench Verified 79.2%, unverified); early Spark hands-ons show 40\u201376 tok/s, but most tokens burn on hidden reasoning.",
+      "notes": "Frontier-class agent scores on vendor benchmarks (SWE-bench Verified 79.2%, unverified); early Spark hands-ons show 40–76 tok/s, but most tokens burn on hidden reasoning.",
       "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-      "size": "26.4B (3.4B active) \u00b7 ~20GB",
-      "speed": "~40\u201376"
+      "size": "26.4B (3.4B active) · ~20GB",
+      "speed": "~40–76"
     },
     {
       "model": "Nemotron 3 Super 120B",
       "maker": "NVIDIA",
-      "size": "120B (12B active) \u00b7 ~80GB NVFP4",
+      "size": "120B (12B active) · ~80GB NVFP4",
       "score": 7.8,
       "context": "Up to 1M (256K default)",
       "release": "2026-03-11",
       "license": "NVIDIA Nemotron Open Model License",
-      "hw": "NVIDIA GPU \u2014 DGX Spark documented",
+      "hw": "NVIDIA GPU — DGX Spark documented",
       "run": "vLLM / SGLang (WSL2 on Windows); community GGUF",
       "notes": "The deep-think option from the project's Nov 20 checkpoint: strongest US-open agentic benchmarks and up-to-1M context, but ~80GB and a Linux/WSL2 serving path.",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
@@ -991,16 +991,21 @@
     {
       "model": "gpt-oss-120b",
       "maker": "OpenAI",
-      "size": "117B (5.1B active) \u00b7 ~65GB",
+      "size": "117B (5.1B active) · ~65GB",
       "score": 7.4,
       "context": "128K",
       "release": "2025-08-05",
       "license": "Apache 2.0",
       "hw": "GPU / unified memory, 80GB class",
       "run": "Ollama / LM Studio / vLLM",
-      "notes": "The turnkey option: maker-documented Ollama path, Apache 2.0, fast on mini hardware (~60 tok/s class) \u2014 but 128K context sits exactly at the project floor, and it is text-only.",
+      "notes": "The turnkey option: maker-documented Ollama path, Apache 2.0, fast on mini hardware (~60 tok/s class) — but 128K context sits exactly at the project floor, and it is text-only.",
       "url": "https://huggingface.co/openai/gpt-oss-120b",
       "speed": "~60"
     }
-  ]
+  ],
+  "aqiMap": {
+    "image": "aqi-map.jpg",
+    "stamp": "Sun Nov 22, 2026, 12:00 PM CT",
+    "credit": "AQI & wind data: Open-Meteo (CAMS / NOAA)"
+  }
 }
