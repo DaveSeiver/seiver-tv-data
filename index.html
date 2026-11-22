@@ -225,7 +225,7 @@
       .aimx td.model .maker{display:block; font-weight:400; font-size:12px; color:var(--muted);}
       .aimx td.model .favtag{display:inline-block; margin-top:3px; font-size:10px; font-weight:700; letter-spacing:.06em; color:var(--up); border:1px solid var(--up); border-radius:3px; padding:1px 5px;}
       .aimx td.score{font-weight:800; font-size:16px; color:var(--accent-ink); white-space:nowrap;}
-      .aimx td.ctx,.aimx td.rel{white-space:nowrap;}
+      .aimx td.ctx,.aimx td.rel,.aimx td.size{white-space:nowrap;}
       .aimx td.notes{color:var(--muted); min-width:170px;}
       .aimx tr.fav td{background:var(--best-bg);}
     </style>
@@ -722,7 +722,7 @@
         var host = document.getElementById("aiMatrix");
         if (!host) return;
         function ce(tag, cls, text){ var n = document.createElement(tag); if (cls) n.setAttribute("class", cls); if (text != null) n.textContent = text; return n; }
-        var cols = [["Model","model","model"],["Project Fit","score","score"],
+        var cols = [["Model","model","model"],["Size","size","size"],["Project Fit","score","score"],
           ["Context","ctx","context"],["Released","rel","release"],
           ["License","lic","license"],["Best on","hw","hw"],
           ["Run via","run","run"],["Notes","notes","notes"]];
