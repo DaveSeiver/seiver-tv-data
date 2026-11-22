@@ -223,13 +223,13 @@
       .aimx thead th{font-size:11px; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); border-bottom:2px solid var(--line); overflow-wrap:normal;}
       .aimx th:nth-child(1),.aimx td:nth-child(1){width:15%;}
       .aimx th:nth-child(2),.aimx td:nth-child(2){width:10%;}
-      .aimx th:nth-child(3),.aimx td:nth-child(3){width:8%;}
+      .aimx th:nth-child(3),.aimx td:nth-child(3){width:7%;}
       .aimx th:nth-child(4),.aimx td:nth-child(4){width:9%;}
       .aimx th:nth-child(5),.aimx td:nth-child(5){width:9%;}
       .aimx th:nth-child(6),.aimx td:nth-child(6){width:11%;}
       .aimx th:nth-child(7),.aimx td:nth-child(7){width:11%;}
       .aimx th:nth-child(8),.aimx td:nth-child(8){width:11%;}
-      .aimx th:nth-child(9),.aimx td:nth-child(9){width:16%;}
+      .aimx th:nth-child(9),.aimx td:nth-child(9){width:17%;}
       .aimx td.model{font-weight:700;}
       .aimx td.model .maker{display:block; font-weight:400; font-size:12px; color:var(--muted);}
       .aimx td.model .favtag{display:inline-block; margin-top:3px; font-size:10px; font-weight:700; letter-spacing:.06em; color:var(--up); border:1px solid var(--up); border-radius:3px; padding:1px 5px;}
@@ -732,7 +732,7 @@
         var host = document.getElementById("aiMatrix");
         if (!host) return;
         function ce(tag, cls, text){ var n = document.createElement(tag); if (cls) n.setAttribute("class", cls); if (text != null) n.textContent = text; return n; }
-        var cols = [["Model","model","model"],["Size","size","size"],["Speed (tokens/sec)","speed","speed"],
+        var cols = [["Model","model","model"],["Size","size","size"],["Tokens/S","speed","speed"],
           ["Context","ctx","context"],["Released","rel","release"],
           ["License","lic","license"],["Best on","hw","hw"],
           ["Run via","run","run"],["Notes","notes","notes"]];
