@@ -1,6 +1,6 @@
 {
-  "version": 59,
-  "asOf": "Sat Nov 21, 2026, 5:52 PM CT",
+  "version": 60,
+  "asOf": "Sat Nov 21, 2026, 6:02 PM CT",
   "edition": "weekend",
   "breaking": [
     {
@@ -969,42 +969,6 @@
       "run": "vLLM / SGLang / llama.cpp (GGUF); Ollama on Apple silicon only at launch",
       "notes": "Frontier-class agent scores on paper (SWE-bench Verified 79.2%, vendor-reported); decode speed and effective context unverified.",
       "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini"
-    },
-    {
-      "model": "Aion Instruct 2.3B",
-      "maker": "Microsoft",
-      "score": 3.2,
-      "context": "32K",
-      "release": "Nov 19, 2026",
-      "license": "MIT",
-      "hw": "CPU / on-device — runs anywhere",
-      "run": "Built into Microsoft Edge; weights on Hugging Face",
-      "notes": "On-device helper, not an agent brain; 32K context sits below the 128K floor.",
-      "url": "https://siloadout.com/releases/week-of-2026-11-16/"
-    },
-    {
-      "model": "Nemotron-Labs-Sigma 8B",
-      "maker": "NVIDIA",
-      "score": 2.4,
-      "context": "4K / 8K (instruct)",
-      "release": "Nov 12, 2026",
-      "license": "NVIDIA Nemotron Open Model License",
-      "hw": "NVIDIA GPU only (CUDA; no CPU path)",
-      "run": "NVIDIA research stack — no mainstream runtime",
-      "notes": "Continuous-diffusion language model experiment; the tiny context disqualifies it as an agent.",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-8B"
-    },
-    {
-      "model": "Bison-1 & Groundhog-1",
-      "maker": "Baseten",
-      "score": 1.8,
-      "context": "128K",
-      "release": "Nov 20, 2026",
-      "license": "Not published",
-      "hw": "Not published (built on Gemma 4)",
-      "run": "Baseten platform; local path unverified",
-      "notes": "Narrow decision/ranking specialist; size and license unpublished, so basic project tests can't be verified.",
-      "url": "https://www.marktechpost.com/category/editors-pick/new-releases/page/2/"
     }
   ]
 }
