@@ -1,6 +1,6 @@
 {
-  "version": 66,
-  "asOf": "Sun Nov 22, 2026, 3:18 PM CT",
+  "version": 67,
+  "asOf": "Sun Nov 22, 2026, 3:30 PM CT",
   "edition": "weekend",
   "breaking": [
     {
@@ -1051,6 +1051,6 @@
     "score": 76,
     "headline": "Close — the box exists and the speed is there; the brain is one tier shy",
     "lacking": "A local model at hosted-Muse tier (today's best stack is a strong supervised junior) · Spark-Open-class capability needs a ~700GB box — the DGX Station class, whose Windows price is still unannounced · memory-shortage prices are still rising, so waiting keeps earning points · Windows serving paths for the favorite models are proven on paper, not yet hands-on",
-    "today": "$5,999 → Surface Dev Box + Bolt 74B always-on (~84 tok/s) + Super 120B for deep think = a working local agent at 76/100. The missing 24 points aren't for sale yet — they're the model curve and the calendar."
+    "today": "$5,999 → Surface Dev Box + Bolt 74B always-on (~84 tok/s) + Super 120B for deep think = a working local agent at 76/100. The experience today: about half the capability of hosted Muse — chat at full speed, deep thinking at about half pace. A strong junior on the desk, not a replica."
   }
 }
