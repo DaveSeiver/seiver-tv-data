@@ -1,21 +1,21 @@
 {
-  "version": 63,
-  "asOf": "Sat Nov 21, 2026, 6:29 PM CT",
+  "version": 64,
+  "asOf": "Sun Nov 22, 2026, 8:10 AM CT",
   "edition": "weekend",
   "breaking": [
     {
-      "tag": "US",
-      "headline": "Trump vows to work with Democrats to cap credit card rates at 10%",
-      "fact": "President Trump said Saturday he would work with the incoming Democratic Congress to cap credit card interest rates at 10%, reviving a 2024 campaign pledge that stalled under Republican control. The median card rate is roughly 22.2%, and researchers estimate a 10% cap would save Americans about $100 billion a year in interest; Sen. Elizabeth Warren, expected to chair the Senate Banking Committee, replied: 'Let's cap credit card interest rates and save Americans money.' Nothing is law yet - Congress would have to pass it after Democrats take control in January.",
-      "source": "Associated Press",
-      "url": "https://www.lapost.com/content/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10"
+      "tag": "World",
+      "headline": "COP31 climate talks collapse with no deal as EU rejects fossil-fuel-free draft",
+      "fact": "The U.N. climate summit in Antalya collapsed Sunday after the EU and others rejected a final draft that never mentioned fossil fuels \u2014 the first COP to end with no deal since Copenhagen in 2009. COP31 president Murat Kurum conceded there was no consensus and the text would not be adopted, after the summit ran a record 44 hours past its scheduled close.",
+      "source": "Reuters",
+      "url": "https://234radio.com/cop31-talks-break-down-as-eu-rejects-deal-without-reference-to-fossil-fuels/"
     },
     {
-      "tag": "World",
-      "headline": "Sanctioned Russian cargo ship ablaze in the Baltic after suspected drone strike",
-      "fact": "The Russian-flagged Sparta II, a sanctioned vessel linked to a Russian military logistics firm, caught fire Saturday after being hit by two suspected Ukrainian drones in the Gulf of Finland while bound for Kaliningrad. All 16 crew were evacuated, the fire was still burning into the night, and the ship drifted into Finnish waters; hours later a Russian helicopter was suspected of violating Finnish airspace near Loviisa.",
-      "source": "gCaptain",
-      "url": "https://gcaptain.com/russian-military-linked-cargo-ship-burns-after-suspected-drone-strike-in-gulf-of-finland/"
+      "tag": "US",
+      "headline": "FBI investigating hack of its national crime database",
+      "fact": "Hackers breached the FBI's National Crime Information Center, the database police nationwide use to check warrants, missing persons and stolen property; the FBI is investigating what was taken or altered. President Trump confirmed the breach in a Saturday Fox News interview, calling it 'not good' \u2014 the bureau's second cyberattack in months, after a September breach of its jobs portal.",
+      "source": "Associated Press",
+      "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/"
     }
   ],
   "markets": [
@@ -303,7 +303,7 @@
       "price": "$206.15",
       "change": "-0.82%",
       "dir": "down",
-      "blurb": "Air Liquide closed Friday in Paris at €187.58, down 0.82% on the day; at the ECB's Nov 20 reference rate of 1.0990 that converts to $206.15, with European shares sliding alongside the global AI selloff.",
+      "blurb": "Air Liquide closed Friday in Paris at \u20ac187.58, down 0.82% on the day; at the ECB's Nov 20 reference rate of 1.0990 that converts to $206.15, with European shares sliding alongside the global AI selloff.",
       "spark": [
         193.32,
         193.24,
@@ -313,7 +313,7 @@
         187.58,
         187.5800018310547
       ],
-      "subTag": "€187.58 × 1.0990 (ECB Nov 20)",
+      "subTag": "\u20ac187.58 \u00d7 1.0990 (ECB Nov 20)",
       "yieldTag": null
     },
     {
@@ -450,7 +450,7 @@
       "price": "$125.53",
       "change": "-14.01%",
       "dir": "down",
-      "blurb": "Nvidia closed Friday at $125.53, down 14.01% — its worst day in nearly two years — after Reuters reported the SEC is investigating its accounting; the stock has lost about a third of its value in two weeks since Jensen Huang's departure and sits 47% below its Oct 6 record.",
+      "blurb": "Nvidia closed Friday at $125.53, down 14.01% \u2014 its worst day in nearly two years \u2014 after Reuters reported the SEC is investigating its accounting; the stock has lost about a third of its value in two weeks since Jensen Huang's departure and sits 47% below its Oct 6 record.",
       "spark": [
         156.14,
         155.46,
@@ -660,7 +660,7 @@
       "price": "$142.04 (est.)",
       "change": "-3.70%",
       "dir": "down",
-      "blurb": "No public quote for this CIT — the S&P 500-anchored estimate is $142.04 (est.) with the index closing at 6,910.39 Friday, down 3.70% on the day.",
+      "blurb": "No public quote for this CIT \u2014 the S&P 500-anchored estimate is $142.04 (est.) with the index closing at 6,910.39 Friday, down 3.70% on the day.",
       "spark": [
         152.45,
         150.89,
@@ -702,82 +702,82 @@
   ],
   "weekInBrief": [
     {
-      "headline": "Senate passes bipartisan permitting bill, 62-33",
-      "body": "The Senate passed the Bipartisan American Affordability and Jobs Act on Thursday, a sweeping rewrite of permitting rules meant to speed up power plants, transmission lines and pipelines and make data centers pay their own energy costs. The bill splits green groups - some back faster clean-energy buildout, others warn it weakens environmental and tribal protections - and now heads to a House out of session for Thanksgiving.",
-      "stamp": "Nov 21, 2026"
+      "headline": "Trump seeks a 'permanent' Iran deal; next move may wait until 2027",
+      "body": "President Trump told an Israeli outlet and Fox News he wants a permanent agreement barring Iran from ever getting a nuclear weapon and is in no rush, saying a decision on next steps could wait until 2027. CBS reports the U.S. and Israel are weighing another military assault, while the Senate narrowly rejected a war-powers measure to pull U.S. forces out of the conflict.",
+      "stamp": "Nov 22, 2026"
     },
     {
-      "headline": "Mexico captures 'Chapo Isidro,' an FBI Top 10 fugitive",
-      "body": "Mexican special forces captured Fausto Isidro Meza Flores, known as 'El Chapo Isidro,' in Guasave, Sinaloa, on Friday night, with U.S. intelligence support, touching off gun battles that killed at least 11 people, including four soldiers. The 44-year-old, wanted for trafficking heroin, meth, cocaine and fentanyl into the U.S., carried a $5 million FBI reward and was flown to Mexico City with two other cartel leaders.",
-      "stamp": "Nov 21, 2026"
+      "headline": "Schumer faces a leadership challenge after Democrats' Senate sweep",
+      "body": "Sen. Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leader in the first contested race since 1994, arguing the party needs new leadership after flipping nine seats for a 56-seat majority. Schumer, who turns 76 on Monday, says he will be elected majority leader in the Dec. 1 secret vote; at least 16 Democrats back him, six back Van Hollen.",
+      "stamp": "Nov 22, 2026"
     },
     {
-      "headline": "'Grand Theft Auto VI' sets a $3.79 billion first-day record",
-      "body": "Rockstar Games said Friday that GTA VI took in a record $3.79 billion in retail sales on its first day, the biggest entertainment launch ever, after selling 32.5 million copies before release. The haul dwarfs the $800 million first day of 2013's GTA V and sent parent Take-Two's shares higher.",
-      "stamp": "Nov 20, 2026"
+      "headline": "Medicare open enrollment runs through Dec. 7",
+      "body": "Annual open enrollment for Medicare \u2014 covering about 70 million people \u2014 runs through Dec. 7, with choices taking effect Jan. 1. CMS set the 2027 standard Part B premium at $209.40 a month, up $6.50, and the Part D out-of-pocket cap rises to $2,400. Some Medicare Advantage plans are ending in certain markets, so checking your plan's status is worth the time.",
+      "stamp": "Nov 22, 2026"
     },
     {
-      "headline": "Denmark expels Russian defence attache over rapper assassination plot",
-      "body": "Denmark said Friday it will expel Russia's defence attache within seven days after its security service said Russian intelligence plotted to kill Ukrainian-American rapper Kyivstoner before a Sept. 25 concert near Copenhagen, recruiting members of the banned gang Loyal to Familia. Danish police stopped three men with guns and knives minutes before the show; Russia denied any involvement.",
-      "stamp": "Nov 20, 2026"
+      "headline": "AAA: 81.5 million Americans to travel for Thanksgiving",
+      "body": "AAA projects 81.5 million Americans will travel at least 50 miles from home over the Nov. 24\u201330 Thanksgiving period \u2014 down 0.1% from last year, ending a three-year streak of records, with volumes near record levels anyway. About 72.9 million will drive and 5.96 million will fly; the heaviest road congestion is expected Tuesday and Wednesday afternoons.",
+      "stamp": "Nov 16, 2026"
     }
   ],
   "weekendStories": [
     {
       "tag": "Houston",
-      "headline": "Volunteers to deliver Thanksgiving meals to homebound Houston seniors",
-      "body": "Northwest Assistance Ministries is sending volunteers out on Thanksgiving morning, Nov. 26, to deliver holiday meals and a friendly visit to homebound seniors and neighbors with disabilities across northwest Houston. The two-hour commitment, starting at 8 a.m. at the ministry's Kuykendahl Road headquarters, lets volunteers be home for their own celebrations by late morning.",
+      "headline": "Lone Star College gives away 300 free Thanksgiving meal bundles",
+      "body": "Lone Star College\u2013North Harris handed out free Thanksgiving meal bundles \u2014 a turkey and the side dishes \u2014 to the first 300 families on Saturday, Nov. 21, no registration required. Now in its second year, the drive is hosted by trustee Daniel Meza with faculty, staff and student volunteers pitching in.",
       "source": "My Neighborhood News",
-      "url": "https://myneighborhoodnews.com/help-brighten-thanksgiving-for-homebound-seniors-northwest-assistance-ministries-seeks-volunteers-to-deliver-holiday-meals-in-northwest-houston"
+      "url": "https://myneighborhoodnews.com/lone-star-college-north-harris-to-give-away-300-free-thanksgiving-meal-bundles-to-houston-families-on-november-21"
     },
     {
       "tag": "Houston",
-      "headline": "HTX Basket Brigade packs 300 Thanksgiving baskets in one evening",
-      "body": "Houston neighbors gathered at the Houston Texans YMCA on Nov. 18 to pack 300 Thanksgiving baskets - turkey and all the fixings - for local families, with help from the University of Houston track and field team. The brigade, now its own 501(c)(3) charity, says a $19.79 gift covers a full Thanksgiving meal for one family.",
-      "source": "HTX Basket Brigade",
-      "url": "https://www.htxbasketbrigade.com/htxbasketbrigade/one-evening.-305-baskets.-a-thanksgiving-difference?hs_amp=true"
-    },
-    {
-      "tag": "Houston",
-      "headline": "City Wide Club's 48th Super Feast feeds tens of thousands",
-      "body": "The City Wide Club's Thanksgiving Super Feast returns to the George R. Brown Convention Center this week, serving hot meals, groceries, clothing and household essentials to tens of thousands of Houstonians in one of the nation's largest holiday feeding events. Volunteers can still sign up for Wednesday kitchen prep or one of three Thanksgiving Day shifts.",
-      "source": "Houston on the Cheap",
-      "url": "https://www.houstononthecheap.com/thanksgiving-volunteering-houston/"
+      "headline": "Houston Food Bank opens its 46th holiday phone bank",
+      "body": "The Houston Food Bank, the nation's largest food bank, is recruiting volunteers 16 and older for its 46th Share Your Holidays phone bank, Nov. 30 to Dec. 4 at its Portwall Street headquarters. Callers will reserve special holiday food boxes for neighbors facing food insecurity, with bilingual Spanish-speaking volunteers especially needed.",
+      "source": "New Castle County Herald",
+      "url": "https://newcastlecountyherald.com/article/houston-food-bank-recruits-46th-year-holiday-phone-bank-volunteers/"
     },
     {
       "tag": "Montana",
-      "headline": "Plains first-grader wins Sanders County coloring contest",
-      "body": "Plains first-grader Mya Aquino took first place in the Sanders County Red Ribbon Week Coloring Contest, her artwork standing out among hundreds of entries from kindergarten through third grade across the county. Health department and Elks Lodge volunteers presented her with a gift basket in her classroom - and handed out backpacks to her classmates, too.",
+      "headline": "Plains Trotters reach the state volleyball tournament for the first time in 27 years",
+      "body": "Plains residents packed the high school gym for a send-off pep rally as the Trotters volleyball team headed to the state tournament in Bozeman \u2014 the program's first trip to state in 27 years. The team, coached by Kim Lakko, earned its berth with a tough divisional run, and the whole town turned out to cheer them on.",
       "source": "Valley Press / Mineral Independent",
-      "url": "https://vp-mi.com/news/2026/nov/18/plains-student-wins-sanders-county-coloring-contest/"
+      "url": "https://vp-mi.com/news/2026/nov/18/pep-rally-sends-trotters-to-first-state-tournament-in-decades/"
+    },
+    {
+      "tag": "Montana",
+      "headline": "Orphaned mountain lion cub finds a best friend for life",
+      "body": "A 6-week-old mountain lion cub, found abandoned and freezing near Fort Belknap, was rescued by a volunteer who braved early winter storms to carry her to the Yellowstone Wildlife Sanctuary. Now named Nakoda \u2014 'friend' in the Nakoda language \u2014 she has been paired at Buttonwood Park Zoo with Cascade, another orphaned cub, and the two have bonded beautifully.",
+      "source": "I Can Has Cheezburger",
+      "url": "https://cheezburger.com/47427333/abandoned-mountain-lion-cub-found-in-freezing-weather-is-rescued-by-brave-volunteer-then-finds-new"
     },
     {
       "tag": "North Dakota",
-      "headline": "Pride of Dakota Holiday Showcase fills Fargo with local makers",
-      "body": "The Pride of Dakota Holiday Showcase runs Friday and Saturday at Scheels Arena in Fargo, with North Dakota-made foods, art, books, jewelry and home goods from local entrepreneurs - plus Santa visits and a free tote bag with any purchase. Admission is free, thanks to the Bank of North Dakota College SAVE Plan.",
-      "source": "Prairie Public",
-      "url": "https://hpr1.com/pride-of-dakota-brings-local-holiday-gifts-to-fargo/"
+      "headline": "Governor pardons turkey Alice, and 54 turkeys go to families in need",
+      "body": "Gov. Kelly Armstrong pardoned a turkey named Alice at the North Dakota Capitol on Monday, keeping the state's annual Thanksgiving tradition alive. The North Dakota Turkey Federation paired the ceremony with a donation of 54 frozen turkeys to three Bismarck charities feeding families through the holidays.",
+      "source": "Hyperlocal Loop",
+      "url": "https://hyperlocalloop.com/governor-kelly-armstrong-pardons-turkey-alice-supports-local-charities-in-bismarck/"
+    },
+    {
+      "tag": "North Dakota",
+      "headline": "UND's Community Thanksgiving draws more than 600 for a free meal",
+      "body": "The University of North Dakota's second annual Community Thanksgiving brought just over 600 students and community members together in the Memorial Union Ballroom for a free holiday meal \u2014 up more than 200 guests from last year. Hosted by the Hilyard International Center, the International Center and UND Athletics, the evening also collected thank-you cards for service members.",
+      "source": "Dakota Student",
+      "url": "https://dakotastudent.com/18278/thanksgiving/hilyard-international-center-and-athletics-host-community-thanksgiving/"
     },
     {
       "tag": "Michigan",
-      "headline": "U.P.'s first European-style Christmas market opens in Ishpeming",
-      "body": "The Ishpeming Kriskindlmarkt opens Nov. 27 outside The Mather Inn, turning a downtown parking lot into a village of 20-plus decorated wooden huts with holiday lights, Finnish and German food, bonfires, a sledding hill and a kids' craft corner. The first market of its kind in the Upper Peninsula runs Nov. 27-28 and Dec. 4-5, and admission is free.",
-      "source": "Ever After in the Woods",
-      "url": "https://everafterinthewoods.com/michigan-s-upper-peninsula-is-getting-its-first-european-style-christmas-market-this-november-3274740e/"
+      "headline": "Marquette County's new bike park is ahead of schedule and under budget",
+      "body": "The 906 Adventure Team's Gluski Park, a new bike park for riders, walkers and community events in Marquette County, is ahead of schedule and under budget, with the full $1.6 million cost already raised. The park should open next summer, and extra donations mean the whole complex is on track to be debt-free by 2030.",
+      "source": "Man About Town",
+      "url": "https://manabouttown.substack.com/p/sale-closing-on-westwood-mall-soon"
     },
     {
       "tag": "Animals",
-      "headline": "Firefighters bring a lost Golden Lab home from a Virginia mountainside",
-      "body": "Archie, a Golden Labrador missing for days, was found stranded and dehydrated on a steep, wooded slope in Virginia's Bent Mountain area. Roanoke County firefighters and animal rescuers reached him, started IV fluids on the spot, and reunited him with his owner — a happy ending powered by a whole community of helpers.",
-      "source": "GreaterGood",
-      "url": "https://greatergood.com/blogs/news/cw-roanoke-county-dog-rescue-missing-golden-labrador-archie-reunited"
-    },
-    {
-      "tag": "Science",
-      "headline": "NASA's exoplanet archive adds four new worlds",
-      "body": "The week's NASA Exoplanet Archive update adds four newly confirmed planets, including RX J0534 b - a rare giant planet orbiting a low-mass star - plus 21 new transmission spectra that let astronomers probe the atmospheres of distant worlds. One earlier candidate, Gl 48 b, was reclassified as a false positive after its discovery paper was withdrawn.",
-      "source": "Astrobiology",
-      "url": "https://astrobiology.com/2026/11/21/nasa-exoplanet-archive-four-new-planets-and-21-spectra/"
+      "headline": "Rhode Island SPCA's first Petsgiving feeds more than 200 families",
+      "body": "The Rhode Island SPCA held its first-ever Petsgiving drive-thru in Warwick on Saturday, handing out pet food to at least 200 families so pets can stay in their homes through the holidays. A $10,000 Rhode Island Foundation grant stocked the pantry, and organizers framed the day as keeping animals with the families who already love them.",
+      "source": "Providence Focal",
+      "url": "https://focalnews.org/providence-ri/local/rhode-island-spcas-first-petsgiving-drive-thru-feeds-200-warwick-families"
     }
   ],
   "hormuz": {
@@ -790,37 +790,37 @@
     "stats": ""
   },
   "comic": {
-    "title": "Ten Thousand",
-    "image": "https://imgs.xkcd.com/comics/ten_thousand.png",
-    "alt": "Saying 'what kind of an idiot doesn't know about the Yellowstone supervolcano' is so much more boring than telling someone about the Yellowstone supervolcano for the first time.",
-    "url": "https://xkcd.com/1053/",
-    "credit": "xkcd by Randall Munroe — licensed CC BY-NC 2.5; xkcd.com",
-    "note": "Saying 'what kind of an idiot doesn't know about the Yellowstone supervolcano' is so much more boring than telling someone about the Yellowstone supervolcano for the first time."
+    "title": "Password Strength",
+    "image": "https://imgs.xkcd.com/comics/password_strength.png",
+    "alt": "To anyone who understands information theory and security and is in an infuriating argument with someone who does not (possibly involving mixed case), I sincerely apologize.",
+    "url": "https://xkcd.com/936/",
+    "credit": "xkcd by Randall Munroe \u2014 licensed CC BY-NC 2.5; xkcd.com",
+    "note": "To anyone who understands information theory and security and is in an infuriating argument with someone who does not (possibly involving mixed case), I sincerely apologize."
   },
   "space": [
     {
-      "tag": "Science",
-      "headline": "Claude helps prove the Riemann Hypothesis — and the proof checks out",
-      "body": "Anthropic mathematician Levent Alpöge announced Friday that, working with Claude, he had produced a formal proof of the Riemann Hypothesis — the 167-year-old Millennium Prize problem about how the prime numbers are distributed — published not as a paper but as some 17 million lines of machine-checkable Lean code. On Saturday the Lean and Mathlib communities said they had independently verified it: the code proves the right statement, and multiple independent checkers accept it. The Clay Institute still lists the problem as unsolved and mathematicians are only beginning to digest the ideas — but a machine-verified proof of a Millennium problem is a first in mathematics.",
-      "url": "https://www.usatoday.com/story/tech/2026/11/21/ai-claude-riemann-hypothesis-math-mystery/92901494007/"
+      "tag": "Space",
+      "headline": "Earth gains a tiny temporary second moon",
+      "body": "A 2-meter asteroid discovered in August, designated 2026 QQ8, has been captured by Earth's gravity and is looping around us as a 'mini moon,' the Minor Planet Center confirmed Oct. 29. Follow-up observations from Arizona and Hawaii confirmed it is a natural object, not debris; it is expected to drift away in early December, and it poses no collision risk.",
+      "url": "https://dongascience.com/en/news/81007"
     },
     {
       "tag": "Space",
-      "headline": "SpaceX Dragon splashes down packed with science and cargo",
-      "body": "SpaceX's unpiloted Dragon splashed down in the Pacific near Los Angeles on Saturday, closing NASA's 35th commercial resupply mission to the space station. It brought home a 3D-bioprinted blood vessel construct for vascular-aging research, frozen tumor organoids for cancer studies, and microbial samples to probe antibiotic resistance in space.",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/21/dragon-returns-to-earth-packed-with-science-and-cargo/"
+      "headline": "NASA spins Mars helicopter blades past the speed of sound",
+      "body": "NASA engineers pushed experimental Mars helicopter rotor blades beyond the speed of sound in March tests at JPL without breaking them, boosting potential lift by about 30%. The breakthrough could let next-generation helicopters carry heavier science gear and reach terrain rovers cannot, building on Ingenuity's run.",
+      "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=FC6696A7-6615-4A90-8C85-DD5DD190F4AA"
     },
     {
       "tag": "Science",
-      "headline": "ALMA catches a dying Sun-like star in its final act",
-      "body": "Astronomers using the ALMA telescope have captured a rare stage in the death of a Sun-like star 12,000 light-years away in Monoceros: a vast gas shell blown off about 6,500 years ago, now half a light-year wide, with an hourglass-shaped nebula forming inside it. The JPL-led team says the shell preserves evidence of the star's last great nuclear pulse — a real-time snapshot of how stars like our Sun end their lives.",
-      "url": "https://dailygalaxy.com/2026/11/a-star-12000-light-years-away-final-act/"
+      "headline": "Atomic clocks could catch time flowing at two speeds at once",
+      "body": "Physicists at Kyushu University and collaborators in the U.S., Canada and Sweden have worked out how trapped-ion atomic clocks could detect a quantum effect in which a single clock experiences multiple flows of time simultaneously. Published in Physical Review Letters, the method would boost sensitivity 100- to 1,000-fold; turning the theory into an experiment is the next step.",
+      "url": "https://scitechdaily.com/scientists-uncover-a-bizarre-quantum-effect-where-time-could-flow-at-different-speeds-simultaneously/"
     },
     {
       "tag": "Science",
-      "headline": "Codebreaking math finds a hidden pulsar a million times faster",
-      "body": "Using math borrowed from code-breakers, researchers found a pulsar spinning 261 times a second - PSR J1622-7204 - hiding in 15 years of NASA Fermi data, in about 10 hours of computing on a single processor. The old search method had burned the equivalent of 600 years of computing and still missed it; the technique could unlock many more hidden pulsars, including ones in binary systems.",
-      "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/"
+      "headline": "Moon dust 3D-printed into LEGO-like bricks for future bases",
+      "body": "University of Arkansas researchers have 3D-printed simulated lunar regolith into interlocking, LEGO-like bricks using laser sintering \u2014 no binder needed \u2014 a first that could let astronauts build shelters from the dust underfoot. The blocks are still porous and weaker than binder-based versions, so load-bearing use is a way off, but the work was published in npj Advanced Manufacturing.",
+      "url": "https://scitechdaily.com/researchers-turn-moon-dust-into-lego-like-bricks-that-could-build-future-lunar-bases/"
     }
   ],
   "cdRates": {
@@ -872,77 +872,77 @@
       }
     ],
     "footnote": "",
-    "ratesAsOf": "Schwab Thu, Nov 19, 2026 · eTrade Mon, Nov 9, 2026"
+    "ratesAsOf": "Schwab Thu, Nov 19, 2026 \u00b7 eTrade Mon, Nov 9, 2026"
   },
   "weather": [
     {
       "name": "Houston Winter Condo",
       "detail": "ZIP 77056",
-      "tempF": 72,
-      "conditions": "Partly Cloudy",
-      "icon": "partly",
-      "aqi": 84,
+      "tempF": 68,
+      "conditions": "Foggy",
+      "icon": "fog",
+      "aqi": 70,
       "aqiCat": "Moderate",
       "aqiNote": "PM2.5",
-      "alerts": "",
-      "extra": "Humidity 79% · Wind ESE 8 mph",
-      "today": "Partly Cloudy, high 75°F",
-      "tonight": "Partly Cloudy, low 58°F",
-      "tomorrow": "Patchy Fog Possible, high 79°F"
+      "alerts": "Dense Fog Advisory in effect",
+      "extra": "Humidity 100% \u00b7 Wind NW 2 mph",
+      "today": "Areas Of Fog, high 78\u00b0F",
+      "tonight": "Slight Chance Rain Showers, low 56\u00b0F",
+      "tomorrow": "Mostly Sunny, high 68\u00b0F"
     },
     {
-      "name": "Seiver Ranch — Plains, MT",
+      "name": "Seiver Ranch \u2014 Plains, MT",
       "detail": "Sanders County",
-      "tempF": 40,
+      "tempF": 31,
       "conditions": "Overcast",
       "icon": "clouds",
-      "aqi": 35,
+      "aqi": 32,
       "aqiCat": "Good",
       "aqiNote": "PM2.5",
       "alerts": "",
-      "extra": "Humidity 59% · Wind ESE 5 mph",
-      "today": "Overcast, high 40°F",
-      "tonight": "Overcast, low 32°F",
-      "tomorrow": "Overcast, high 41°F"
+      "extra": "Humidity 86% \u00b7 Wind ESE 3 mph",
+      "today": "Light Snow Likely, high 32\u00b0F",
+      "tonight": "Chance Light Snow then Areas Of Fog, low 21\u00b0F",
+      "tomorrow": "Areas Of Fog, high 35\u00b0F"
     },
     {
-      "name": "Seiver Slough — Rugby, ND",
+      "name": "Seiver Slough \u2014 Rugby, ND",
       "detail": "Pierce County",
-      "tempF": 32,
+      "tempF": 28,
       "conditions": "Overcast",
       "icon": "clouds",
-      "aqi": 29,
+      "aqi": 20,
       "aqiCat": "Good",
       "aqiNote": "PM2.5",
       "alerts": "",
-      "extra": "Humidity 70% · Wind WNW 10 mph",
-      "today": "Overcast, high 38°F",
-      "tonight": "Mostly Cloudy, low 25°F",
-      "tomorrow": "Light Snow Possible, high 29°F"
+      "extra": "Humidity 75% \u00b7 Wind NW 16 mph",
+      "today": "Light Snow Likely then Mostly Cloudy, high 29\u00b0F",
+      "tonight": "Partly Cloudy, low 10\u00b0F",
+      "tomorrow": "Mostly Sunny, high 26\u00b0F"
     },
     {
-      "name": "Seiver Lodge — L'Anse, MI",
+      "name": "Seiver Lodge \u2014 L'Anse, MI",
       "detail": "Baraga County",
-      "tempF": 56,
-      "conditions": "Overcast",
-      "icon": "clouds",
-      "aqi": 35,
+      "tempF": 43,
+      "conditions": "Light Rain",
+      "icon": "rain",
+      "aqi": 21,
       "aqiCat": "Good",
       "aqiNote": "PM2.5",
       "alerts": "",
-      "extra": "Humidity 84% · Wind S 5 mph",
-      "today": "Rain, high 65°F",
-      "tonight": "Rain Ending, low 49°F",
-      "tomorrow": "Snow, high 49°F"
+      "extra": "Humidity 91% \u00b7 Wind NW 11 mph",
+      "today": "Light Rain, high 44\u00b0F",
+      "tonight": "Rain And Snow, low 28\u00b0F",
+      "tomorrow": "Light Snow, high 34\u00b0F"
     }
   ],
   "apod": {
-    "date": "November 21, 2026",
-    "title": "The Cat's Head Nebula",
-    "credit": "NASA, ESA, CSA, STScI; Image Processing: Joseph DePasquale (STScI) — NASA Image of the Day",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/10/STScI-01M4C1BGFARJ4S0MQHZHD0TPFT.jpg?w=900&h=900&fit=clip",
-    "explanation": "The James Webb Space Telescope's mid-infrared view of the Cat's Head Nebula, a dust pillar in the Carina Nebula about 7,500 light-years away. Ultraviolet radiation and winds from massive stars sculpted the feline shape - its glowing white eye is likely a young star still embedded in dust - while warm dust and carbon molecules trace intricate structures through the pillar.",
-    "pageUrl": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/"
+    "date": "November 22, 2026",
+    "title": "Swirls and Colors on Jupiter from Juno",
+    "credit": "NASA, Juno spacecraft \u2014 Astronomy Picture of the Day",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/JupiterSwirls_JunoBrealey_3709.jpg?w=2048&h=2048&fit=clip",
+    "explanation": "What colors Jupiter's clouds is still not fully understood \u2014 the atmosphere is mostly colorless hydrogen and helium, and trace molecules such as ammonium hydrosulfide are leading candidates. This color-enhanced view from NASA's Juno spacecraft, taken during its 14th low pass in 2018, shows light clouds swirling around reddish regions; lighter clouds generally ride higher than darker ones.",
+    "pageUrl": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/"
   },
   "aiModels": [
     {
@@ -955,9 +955,9 @@
       "license": "OpenMDW-1.1",
       "hw": "NVIDIA GPU (Spark-class)",
       "run": "llama.cpp (GGUF) / vLLM",
-      "notes": "The pick to beat — purpose-built for Spark-class boxes: ~24GB footprint, ~84 tok/s reported, hits the 256K context target.",
+      "notes": "The pick to beat \u2014 purpose-built for Spark-class boxes: ~24GB footprint, ~84 tok/s reported, hits the 256K context target.",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
-      "size": "74B (9B active) · ~24GB",
+      "size": "74B (9B active) \u00b7 ~24GB",
       "speed": "~84"
     },
     {
@@ -969,20 +969,20 @@
       "license": "Apache 2.0",
       "hw": "GPU / unified memory, 32GB+ class",
       "run": "vLLM / SGLang / llama.cpp (GGUF); Ollama on Apple silicon only at launch",
-      "notes": "Frontier-class agent scores on vendor benchmarks (SWE-bench Verified 79.2%, unverified); early Spark hands-ons show 40–76 tok/s, but most tokens burn on hidden reasoning.",
+      "notes": "Frontier-class agent scores on vendor benchmarks (SWE-bench Verified 79.2%, unverified); early Spark hands-ons show 40\u201376 tok/s, but most tokens burn on hidden reasoning.",
       "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-      "size": "26.4B (3.4B active) · ~20GB",
-      "speed": "~40–76"
+      "size": "26.4B (3.4B active) \u00b7 ~20GB",
+      "speed": "~40\u201376"
     },
     {
       "model": "Nemotron 3 Super 120B",
       "maker": "NVIDIA",
-      "size": "120B (12B active) · ~80GB NVFP4",
+      "size": "120B (12B active) \u00b7 ~80GB NVFP4",
       "score": 7.8,
       "context": "Up to 1M (256K default)",
       "release": "2026-03-11",
       "license": "NVIDIA Nemotron Open Model License",
-      "hw": "NVIDIA GPU — DGX Spark documented",
+      "hw": "NVIDIA GPU \u2014 DGX Spark documented",
       "run": "vLLM / SGLang (WSL2 on Windows); community GGUF",
       "notes": "The deep-think option from the project's Nov 20 checkpoint: strongest US-open agentic benchmarks and up-to-1M context, but ~80GB and a Linux/WSL2 serving path.",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
@@ -991,14 +991,14 @@
     {
       "model": "gpt-oss-120b",
       "maker": "OpenAI",
-      "size": "117B (5.1B active) · ~65GB",
+      "size": "117B (5.1B active) \u00b7 ~65GB",
       "score": 7.4,
       "context": "128K",
       "release": "2025-08-05",
       "license": "Apache 2.0",
       "hw": "GPU / unified memory, 80GB class",
       "run": "Ollama / LM Studio / vLLM",
-      "notes": "The turnkey option: maker-documented Ollama path, Apache 2.0, fast on mini hardware (~60 tok/s class) — but 128K context sits exactly at the project floor, and it is text-only.",
+      "notes": "The turnkey option: maker-documented Ollama path, Apache 2.0, fast on mini hardware (~60 tok/s class) \u2014 but 128K context sits exactly at the project floor, and it is text-only.",
       "url": "https://huggingface.co/openai/gpt-oss-120b",
       "speed": "~60"
     }
