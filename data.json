@@ -1,6 +1,6 @@
 {
-  "version": 61,
-  "asOf": "Sat Nov 21, 2026, 6:09 PM CT",
+  "version": 62,
+  "asOf": "Sat Nov 21, 2026, 6:29 PM CT",
   "edition": "weekend",
   "breaking": [
     {
@@ -957,7 +957,8 @@
       "run": "llama.cpp (GGUF) / vLLM",
       "notes": "The pick to beat — purpose-built for Spark-class boxes: ~24GB footprint, ~84 tok/s reported, hits the 256K context target.",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
-      "size": "74B (9B active) · ~24GB"
+      "size": "74B (9B active) · ~24GB",
+      "speed": "~84"
     },
     {
       "model": "Inkling 2 Mini",
@@ -968,9 +969,10 @@
       "license": "Apache 2.0",
       "hw": "GPU / unified memory, 32GB+ class",
       "run": "vLLM / SGLang / llama.cpp (GGUF); Ollama on Apple silicon only at launch",
-      "notes": "Frontier-class agent scores on paper (SWE-bench Verified 79.2%, vendor-reported); decode speed and effective context unverified.",
+      "notes": "Frontier-class agent scores on vendor benchmarks (SWE-bench Verified 79.2%, unverified); early Spark hands-ons show 40–76 tok/s, but most tokens burn on hidden reasoning.",
       "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-      "size": "26.4B (3.4B active) · ~20GB"
+      "size": "26.4B (3.4B active) · ~20GB",
+      "speed": "~40–76"
     },
     {
       "model": "Nemotron 3 Super 120B",
@@ -983,7 +985,8 @@
       "hw": "NVIDIA GPU — DGX Spark documented",
       "run": "vLLM / SGLang (WSL2 on Windows); community GGUF",
       "notes": "The deep-think option from the project's Nov 20 checkpoint: strongest US-open agentic benchmarks and up-to-1M context, but ~80GB and a Linux/WSL2 serving path.",
-      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
+      "speed": "~33"
     },
     {
       "model": "gpt-oss-120b",
@@ -996,7 +999,8 @@
       "hw": "GPU / unified memory, 80GB class",
       "run": "Ollama / LM Studio / vLLM",
       "notes": "The turnkey option: maker-documented Ollama path, Apache 2.0, fast on mini hardware (~60 tok/s class) — but 128K context sits exactly at the project floor, and it is text-only.",
-      "url": "https://huggingface.co/openai/gpt-oss-120b"
+      "url": "https://huggingface.co/openai/gpt-oss-120b",
+      "speed": "~60"
     }
   ]
 }
