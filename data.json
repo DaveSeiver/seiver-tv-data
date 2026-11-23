@@ -1,19 +1,19 @@
 {
- "version": 70,
- "asOf": "Sun Nov 22, 2026, 5:18 PM CT",
+ "version": 71,
+ "asOf": "Sun Nov 22, 2026, 6:42 PM CT",
  "edition": "weekend",
  "breaking": [
   {
    "tag": "World",
    "headline": "Three Russian missiles confirmed in Poland; NATO Council meets Monday",
-   "fact": "Polish prosecutors said Sunday that all three objects that came down in southeastern Poland on Friday were Russian Kh-101 missiles, manufactured in late 2026 — and NATO’s North Atlantic Council meets in Brussels on Monday to discuss the violation. NATO chief Mark Rutte called it a grave violation; no one was hurt and Poland has not invoked Article 4.",
+   "fact": "Polish prosecutors said Sunday that all three objects that came down in southeastern Poland on Friday were Russian Kh-101 missiles, manufactured in late 2026 \u2014 and NATO\u2019s North Atlantic Council meets in Brussels on Monday to discuss the violation. NATO chief Mark Rutte called it a grave violation; no one was hurt and Poland has not invoked Article 4.",
    "source": "Reuters",
    "url": "https://www.reuters.com/world/three-russian-missiles-flew-into-poland-friday-prosecutors-say-2026-11-22/"
   },
   {
    "tag": "US",
    "headline": "Delta outage delays 1,000+ flights as Thanksgiving travel begins",
-   "fact": "A failure in Delta’s automated weight-and-balance system delayed more than 1,000 Delta flights Sunday — about half its mainline schedule — and forced a brief ground stop at Atlanta before the system was restored Sunday afternoon; Delta says about 70% of the day’s delays were the glitch, the rest bad weather in the Northeast.",
+   "fact": "A failure in Delta\u2019s automated weight-and-balance system delayed more than 1,000 Delta flights Sunday \u2014 about half its mainline schedule \u2014 and forced a brief ground stop at Atlanta before the system was restored Sunday afternoon; Delta says about 70% of the day\u2019s delays were the glitch, the rest bad weather in the Northeast.",
    "source": "The Wall Street Journal",
    "url": "https://www.wsj.com/business/airlines/delta-delays-hundreds-of-flights-over-system-outage-6bbba92c"
   }
@@ -303,7 +303,7 @@
    "price": "$206.15",
    "change": "-0.82%",
    "dir": "down",
-   "blurb": "Air Liquide closed Friday in Paris at €187.58, down 0.82% on the day; at the ECB's Nov 20 reference rate of 1.0990 that converts to $206.15, with European shares sliding alongside the global AI selloff.",
+   "blurb": "Air Liquide closed Friday in Paris at \u20ac187.58, down 0.82% on the day; at the ECB's Nov 20 reference rate of 1.0990 that converts to $206.15, with European shares sliding alongside the global AI selloff.",
    "spark": [
     193.32,
     193.24,
@@ -313,7 +313,7 @@
     187.58,
     187.5800018310547
    ],
-   "subTag": "€187.58 × 1.0990 (ECB Nov 20)",
+   "subTag": "\u20ac187.58 \u00d7 1.0990 (ECB Nov 20)",
    "yieldTag": null
   },
   {
@@ -450,7 +450,7 @@
    "price": "$125.53",
    "change": "-14.01%",
    "dir": "down",
-   "blurb": "Nvidia closed Friday at $125.53, down 14.01% — its worst day in nearly two years — after Reuters reported the SEC is investigating its accounting; the stock has lost about a third of its value in two weeks since Jensen Huang's departure and sits 47% below its Oct 6 record.",
+   "blurb": "Nvidia closed Friday at $125.53, down 14.01% \u2014 its worst day in nearly two years \u2014 after Reuters reported the SEC is investigating its accounting; the stock has lost about a third of its value in two weeks since Jensen Huang's departure and sits 47% below its Oct 6 record.",
    "spark": [
     156.14,
     155.46,
@@ -660,7 +660,7 @@
    "price": "$142.04 (est.)",
    "change": "-3.70%",
    "dir": "down",
-   "blurb": "No public quote for this CIT — the S&P 500-anchored estimate is $142.04 (est.) with the index closing at 6,910.39 Friday, down 3.70% on the day.",
+   "blurb": "No public quote for this CIT \u2014 the S&P 500-anchored estimate is $142.04 (est.) with the index closing at 6,910.39 Friday, down 3.70% on the day.",
    "spark": [
     152.45,
     150.89,
@@ -702,7 +702,7 @@
  ],
  "weekInBrief": [
   {
-   "headline": "Fifth Circuit strikes down pregnant-workers law, 9–8",
+   "headline": "Fifth Circuit strikes down pregnant-workers law, 9\u20138",
    "body": "The full Fifth Circuit ruled Friday that the Pregnant Workers Fairness Act was unconstitutionally enacted because the House passed it during COVID-era proxy voting without a physical quorum, invalidating the 2022 law in Texas, Louisiana and Mississippi; the ruling is expected to reach the Supreme Court.",
    "stamp": "Nov 22, 2026"
   },
@@ -713,7 +713,7 @@
   },
   {
    "headline": "Trump blames Democrats for a $6 trillion market slide",
-   "body": "In a Sunday Truth Social post, President Trump said the market has lost more than $6 trillion since Democrats’ Nov. 3 midterm wins, with the Nasdaq down 20%, and warned it “will only get worse” unless they change course; Treasury Secretary Scott Bessent made a similar case on CBS. Democrats don’t take control of Congress until January.",
+   "body": "In a Sunday Truth Social post, President Trump said the market has lost more than $6 trillion since Democrats\u2019 Nov. 3 midterm wins, with the Nasdaq down 20%, and warned it \u201cwill only get worse\u201d unless they change course; Treasury Secretary Scott Bessent made a similar case on CBS. Democrats don\u2019t take control of Congress until January.",
    "stamp": "Nov 22, 2026"
   },
   {
@@ -726,27 +726,27 @@
   {
    "tag": "Houston",
    "headline": "Aldine ISD gives away 1,000 turkeys and 10,000 pounds of produce",
-   "body": "Aldine ISD and the Equality Health Foundation handed out 1,000 free turkeys and 10,000 pounds of fresh produce at the district’s sixth annual Healthy Fall Festival on Saturday, Nov. 21, at the M.O. Campbell Educational Center — one of a wave of Thanksgiving giveaways across Greater Houston this week.",
+   "body": "Aldine ISD and the Equality Health Foundation handed out 1,000 free turkeys and 10,000 pounds of fresh produce at the district\u2019s sixth annual Healthy Fall Festival on Saturday, Nov. 21, at the M.O. Campbell Educational Center \u2014 one of a wave of Thanksgiving giveaways across Greater Houston this week.",
    "source": "KSBJ",
    "url": "https://ksbj.org/morning-show/a-thanksgiving-helping-hand-free-food-giveaways-around-houston"
   },
   {
    "tag": "Montana",
    "headline": "Rivalry food drive wraps with a 600,000-pound goal for Montana food banks",
-   "body": "The annual Can the Cats / Can the Griz rivalry drive — Missoula and Bozeman competing to stock their local food banks — ran Nov. 7–21 with a goal of 600,000 pounds and dollars combined; the Missoula Food Bank serves one in five people in Missoula County, nearly 25,000 individuals.",
+   "body": "The annual Can the Cats / Can the Griz rivalry drive \u2014 Missoula and Bozeman competing to stock their local food banks \u2014 ran Nov. 7\u201321 with a goal of 600,000 pounds and dollars combined; the Missoula Food Bank serves one in five people in Missoula County, nearly 25,000 individuals.",
    "source": "Missoula Food Bank",
    "url": "https://missoulafoodbank.org/get-involved/events/can-the-cats"
   },
   {
    "tag": "North Dakota",
-   "headline": "Fargo barbecue crew smokes 160 turkeys for Shriners Children’s",
-   "body": "The El Zagal Misfits barbecue team in Fargo is smoking 160 turkeys for Thanksgiving pickup, with proceeds from the $60 birds and a turducken raffle going to Shriners Children’s; the raffle winner was drawn Nov. 19 and pickups run Thanksgiving Day at the El Zagal Shrine Temple.",
+   "headline": "Fargo barbecue crew smokes 160 turkeys for Shriners Children\u2019s",
+   "body": "The El Zagal Misfits barbecue team in Fargo is smoking 160 turkeys for Thanksgiving pickup, with proceeds from the $60 birds and a turducken raffle going to Shriners Children\u2019s; the raffle winner was drawn Nov. 19 and pickups run Thanksgiving Day at the El Zagal Shrine Temple.",
    "source": "Wisevoter",
    "url": "https://wisevoter.com/world/us/nd/fargo/2026/10/30/el-zagal-misfits-smoke-turkeys-charity"
   },
   {
    "tag": "Michigan",
-   "headline": "Marquette GMC sold — but keeps its name, staff and general manager",
+   "headline": "Marquette GMC sold \u2014 but keeps its name, staff and general manager",
    "body": "ONE Automotive Group of Eau Claire, Wisconsin, closed its purchase of Marquette GMC on Nov. 17, its first dealership in Michigan; the store keeps its name, operations and all current employees, with Nikki Remilong staying on as general manager, and the group plans a new dealership facility.",
    "source": "Wisevoter",
    "url": "https://wisevoter.com/world/us/mi/marquette/2026/11/20/one-automotive-acquires-marquette-gmc"
@@ -754,28 +754,28 @@
   {
    "tag": "Houston",
    "headline": "Streams of Joy serves 600 Houston families for Thanksgiving",
-   "body": "Streams of Joy Houston gave free turkeys to 600 families at its Joyful Tables Thanksgiving outreach on Saturday, Nov. 21, from its site on South Texas 6 — one of many volunteer-run giveaways feeding Greater Houston families ahead of Thursday’s holiday.",
+   "body": "Streams of Joy Houston gave free turkeys to 600 families at its Joyful Tables Thanksgiving outreach on Saturday, Nov. 21, from its site on South Texas 6 \u2014 one of many volunteer-run giveaways feeding Greater Houston families ahead of Thursday\u2019s holiday.",
    "source": "Lake Conroe News",
    "url": "https://feed.lakeconroe.com/2026/11/18/free-thanksgiving-meals-turkeys-and-more-where-to-find-giveaways-across-houston-in-2026/"
   },
   {
    "tag": "Animals",
    "headline": "120 shelter pets fly to new lives in the Pacific Northwest",
-   "body": "More than 50 dogs and 70 cats left Louisiana on a “Flight to Freedom” early Nov. 18, landing with shelters across the Pacific Northwest that welcomed them with open arms — many in time to find families for the holidays. Another flight is set for Dec. 1.",
+   "body": "More than 50 dogs and 70 cats left Louisiana on a \u201cFlight to Freedom\u201d early Nov. 18, landing with shelters across the Pacific Northwest that welcomed them with open arms \u2014 many in time to find families for the holidays. Another flight is set for Dec. 1.",
    "source": "GreaterGood",
    "url": "https://greatergood.com/blogs/news/november-f2f-landing"
   },
   {
    "tag": "Animals",
    "headline": "Firefighters bring a missing Golden Lab home off a Virginia mountainside",
-   "body": "Archie, a Golden Labrador missing for several days, was found stranded on a steep, wooded slope in Roanoke County’s Bent Mountain area; fire crews and animal rescuers reached him, an Angels of Assisi volunteer treated his dehydration, and he was reunited with his owner.",
+   "body": "Archie, a Golden Labrador missing for several days, was found stranded on a steep, wooded slope in Roanoke County\u2019s Bent Mountain area; fire crews and animal rescuers reached him, an Angels of Assisi volunteer treated his dehydration, and he was reunited with his owner.",
    "source": "GreaterGood",
    "url": "https://greatergood.com/blogs/news/cw-roanoke-county-dog-rescue-missing-golden-labrador-archie-reunited"
   },
   {
    "tag": "Animals",
-   "headline": "A South Carolina horse rescue is named one of the state’s 2026 “Angels”",
-   "body": "Equine Rescue of Aiken was named one of South Carolina’s 10 “Angels of 2026” on Nov. 18, an award honoring charities that put at least 80% of spending into programs; the rescue devoted 87.7% of its expenditures to helping horses, ponies and people.",
+   "headline": "A South Carolina horse rescue is named one of the state\u2019s 2026 \u201cAngels\u201d",
+   "body": "Equine Rescue of Aiken was named one of South Carolina\u2019s 10 \u201cAngels of 2026\u201d on Nov. 18, an award honoring charities that put at least 80% of spending into programs; the rescue devoted 87.7% of its expenditures to helping horses, ponies and people.",
    "source": "Parade",
    "url": "https://parade.com/news/south-carolina-horse-rescue-nonprofit-named-2026-angel-by-state"
   }
@@ -792,34 +792,34 @@
  "comic": {
   "title": "Exploits of a Mom",
   "image": "https://imgs.xkcd.com/comics/exploits_of_a_mom.png",
-  "alt": "Her daughter is named Help I’m trapped in a driver’s license factory.",
+  "alt": "Her daughter is named Help I\u2019m trapped in a driver\u2019s license factory.",
   "url": "https://xkcd.com/327/",
-  "credit": "xkcd by Randall Munroe — licensed CC BY-NC 2.5; xkcd.com",
-  "note": "Her daughter is named Help I’m trapped in a driver’s license factory."
+  "credit": "xkcd by Randall Munroe \u2014 licensed CC BY-NC 2.5; xkcd.com",
+  "note": "Her daughter is named Help I\u2019m trapped in a driver\u2019s license factory."
  },
  "space": [
   {
    "tag": "Space",
-   "headline": "Meet the “celestial bodies of fathomless powerful darkness”",
-   "body": "Astronomers report a rare pair of extremely bright quasars — two supermassive black holes gorging on gas — shining less than a billion years after the Big Bang, a find that challenges models of how the earliest black holes grew so fast.",
+   "headline": "Meet the \u201ccelestial bodies of fathomless powerful darkness\u201d",
+   "body": "Astronomers report a rare pair of extremely bright quasars \u2014 two supermassive black holes gorging on gas \u2014 shining less than a billion years after the Big Bang, a find that challenges models of how the earliest black holes grew so fast.",
    "url": "https://www.nature.com/research-highlights?error=cookies_not_supported&code=b9ebcfa7-d427-49e8-b895-ca808f9adcb2"
   },
   {
    "tag": "Science",
    "headline": "Lifting weights reduces muscle loss from obesity drugs",
-   "body": "Thrice-weekly resistance training helped middle-aged and older people keep muscle mass and strength while taking weight-loss drugs, according to research highlighted by Nature on Nov. 20 — a practical counter to one of the drugs’ main side effects.",
+   "body": "Thrice-weekly resistance training helped middle-aged and older people keep muscle mass and strength while taking weight-loss drugs, according to research highlighted by Nature on Nov. 20 \u2014 a practical counter to one of the drugs\u2019 main side effects.",
    "url": "https://www.nature.com/research-highlights?error=cookies_not_supported&code=b9ebcfa7-d427-49e8-b895-ca808f9adcb2"
   },
   {
    "tag": "Science",
    "headline": "More tropical cyclones hit peak fury at the worst possible time",
-   "body": "Climate change is creating conditions that pump up hurricanes’ and typhoons’ intensity just as the storms reach the coast, with more cyclones now hitting their peak at landfall, researchers report.",
+   "body": "Climate change is creating conditions that pump up hurricanes\u2019 and typhoons\u2019 intensity just as the storms reach the coast, with more cyclones now hitting their peak at landfall, researchers report.",
    "url": "https://www.nature.com/research-highlights?error=cookies_not_supported&code=b9ebcfa7-d427-49e8-b895-ca808f9adcb2"
   },
   {
    "tag": "Science",
-   "headline": "Dinosaur’s rest break leaves a lasting impression",
-   "body": "A fossilized print from Peru preserves the marks left by the feet — and the resting body — of a juvenile dinosaur about a metre tall at the hip, a rare snapshot of a young animal taking a break.",
+   "headline": "Dinosaur\u2019s rest break leaves a lasting impression",
+   "body": "A fossilized print from Peru preserves the marks left by the feet \u2014 and the resting body \u2014 of a juvenile dinosaur about a metre tall at the hip, a rare snapshot of a young animal taking a break.",
    "url": "https://www.nature.com/research-highlights?error=cookies_not_supported&code=b9ebcfa7-d427-49e8-b895-ca808f9adcb2"
   }
  ],
@@ -872,7 +872,7 @@
    }
   ],
   "footnote": "",
-  "ratesAsOf": "Schwab Thu, Nov 19, 2026 · eTrade Mon, Nov 9, 2026"
+  "ratesAsOf": "Schwab Thu, Nov 19, 2026 \u00b7 eTrade Mon, Nov 9, 2026"
  },
  "weather": [
   {
@@ -882,54 +882,54 @@
    "conditions": "Mostly Cloudy",
    "icon": "partly",
    "alerts": "",
-   "extra": "Humidity 52% · Wind NW 10 mph",
-   "today": "Mostly Cloudy, high 79°F",
-   "tonight": "Partly Cloudy, low 54°F",
-   "tomorrow": "Partly Cloudy, high 66°F"
+   "extra": "Humidity 52% \u00b7 Wind NW 10 mph",
+   "today": "Mostly Cloudy, high 79\u00b0F",
+   "tonight": "Partly Cloudy, low 54\u00b0F",
+   "tomorrow": "Partly Cloudy, high 66\u00b0F"
   },
   {
-   "name": "Seiver Ranch — Plains, MT",
+   "name": "Seiver Ranch \u2014 Plains, MT",
    "detail": "Sanders County",
    "tempF": 37,
    "conditions": "Showers in the Vicinity",
    "icon": "rain",
    "alerts": "",
-   "extra": "Humidity 78% · Wind E 2 mph",
-   "today": "Showers in the Vicinity, high 37°F",
-   "tonight": "Snow Showers Early, low 27°F",
-   "tomorrow": "AM Clouds/PM Sun, high 37°F"
+   "extra": "Humidity 78% \u00b7 Wind E 2 mph",
+   "today": "Showers in the Vicinity, high 37\u00b0F",
+   "tonight": "Snow Showers Early, low 27\u00b0F",
+   "tomorrow": "AM Clouds/PM Sun, high 37\u00b0F"
   },
   {
-   "name": "Seiver Slough — Rugby, ND",
+   "name": "Seiver Slough \u2014 Rugby, ND",
    "detail": "Pierce County",
    "tempF": 22,
    "conditions": "Cloudy",
    "icon": "clouds",
    "alerts": "",
-   "extra": "Humidity 67% · Wind NW 17 mph",
-   "today": "Cloudy, high 22°F",
-   "tonight": "Partly Cloudy, low 8°F",
-   "tomorrow": "Sunny, high 25°F"
+   "extra": "Humidity 67% \u00b7 Wind NW 17 mph",
+   "today": "Cloudy, high 22\u00b0F",
+   "tonight": "Partly Cloudy, low 8\u00b0F",
+   "tomorrow": "Sunny, high 25\u00b0F"
   },
   {
-   "name": "Seiver Lodge — L’Anse, MI",
+   "name": "Seiver Lodge \u2014 L\u2019Anse, MI",
    "detail": "Baraga County",
    "tempF": 37,
    "conditions": "Rain Shower",
    "icon": "rain",
-   "alerts": "Winter Weather Advisory 7:00 PM Sun–11:00 AM Mon EST; Small Craft Advisory 12:00 AM–1:00 PM Mon EST",
-   "extra": "Humidity 98% · Wind W 9 mph",
-   "today": "Rain Shower, high 37°F",
-   "tonight": "Rain/Snow, low 27°F",
-   "tomorrow": "AM Snow Showers, high 30°F"
+   "alerts": "Winter Weather Advisory 7:00 PM Sun\u201311:00 AM Mon EST; Small Craft Advisory 12:00 AM\u20131:00 PM Mon EST",
+   "extra": "Humidity 98% \u00b7 Wind W 9 mph",
+   "today": "Rain Shower, high 37\u00b0F",
+   "tonight": "Rain/Snow, low 27\u00b0F",
+   "tomorrow": "AM Snow Showers, high 30\u00b0F"
   }
  ],
  "apod": {
   "date": "November 14, 2026",
   "title": "Apollo 12 and Surveyor 3",
-  "credit": "Apollo 12, Alan Bean; stereo image Kevin Frank — Astronomy Picture of the Day",
+  "credit": "Apollo 12, Alan Bean; stereo image Kevin Frank \u2014 Astronomy Picture of the Day",
   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/KF-ApAn48-7133-4.jpg?w=2048&h=2048&fit=clip",
-  "explanation": "Put on your red/blue glasses and gaze across the western Ocean of Storms on the Moon. The 3D anaglyph shows Apollo 12 astronaut Pete Conrad visiting the Surveyor 3 spacecraft in November 1969; Surveyor 3 had landed at the site in April 1967, and Apollo 12’s Lunar Module Intrepid touched down less than 200 meters (650 feet) away. The stereo image was created from two photos taken from only slightly different viewpoints, approximating the separation between human eyes.",
+  "explanation": "Put on your red/blue glasses and gaze across the western Ocean of Storms on the Moon. The 3D anaglyph shows Apollo 12 astronaut Pete Conrad visiting the Surveyor 3 spacecraft in November 1969; Surveyor 3 had landed at the site in April 1967, and Apollo 12\u2019s Lunar Module Intrepid touched down less than 200 meters (650 feet) away. The stereo image was created from two photos taken from only slightly different viewpoints, approximating the separation between human eyes.",
   "pageUrl": "https://science.nasa.gov/image-article/apod-2026-november-14-apollo-12-and-surveyor-3/"
  },
  "aiModels": [
@@ -943,9 +943,9 @@
    "license": "OpenMDW-1.1",
    "hw": "NVIDIA GPU (Spark-class)",
    "run": "llama.cpp (GGUF) / vLLM",
-   "notes": "The pick to beat — purpose-built for Spark-class boxes: ~24GB footprint, ~84 tok/s reported, hits the 256K context target.",
+   "notes": "The pick to beat \u2014 purpose-built for Spark-class boxes: ~24GB footprint, ~84 tok/s reported, hits the 256K context target.",
    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
-   "size": "74B (9B active) · ~24GB",
+   "size": "74B (9B active) \u00b7 ~24GB",
    "speed": "~84"
   },
   {
@@ -957,20 +957,20 @@
    "license": "Apache 2.0",
    "hw": "GPU / unified memory, 32GB+ class",
    "run": "vLLM / SGLang / llama.cpp (GGUF); Ollama on Apple silicon only at launch",
-   "notes": "Frontier-class agent scores on vendor benchmarks (SWE-bench Verified 79.2%, unverified); early Spark hands-ons show 40–76 tok/s, but most tokens burn on hidden reasoning.",
+   "notes": "Frontier-class agent scores on vendor benchmarks (SWE-bench Verified 79.2%, unverified); early Spark hands-ons show 40\u201376 tok/s, but most tokens burn on hidden reasoning.",
    "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-   "size": "26.4B (3.4B active) · ~20GB",
-   "speed": "~40–76"
+   "size": "26.4B (3.4B active) \u00b7 ~20GB",
+   "speed": "~40\u201376"
   },
   {
    "model": "Nemotron 3 Super 120B",
    "maker": "NVIDIA",
-   "size": "120B (12B active) · ~80GB NVFP4",
+   "size": "120B (12B active) \u00b7 ~80GB NVFP4",
    "score": 7.8,
    "context": "Up to 1M (256K default)",
    "release": "2026-03-11",
    "license": "NVIDIA Nemotron Open Model License",
-   "hw": "NVIDIA GPU — DGX Spark documented",
+   "hw": "NVIDIA GPU \u2014 DGX Spark documented",
    "run": "vLLM / SGLang (WSL2 on Windows); community GGUF",
    "notes": "The deep-think option from the project's Nov 20 checkpoint: strongest US-open agentic benchmarks and up-to-1M context, but ~80GB and a Linux/WSL2 serving path.",
    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
@@ -979,14 +979,14 @@
   {
    "model": "gpt-oss-120b",
    "maker": "OpenAI",
-   "size": "117B (5.1B active) · ~65GB",
+   "size": "117B (5.1B active) \u00b7 ~65GB",
    "score": 7.4,
    "context": "128K",
    "release": "2025-08-05",
    "license": "Apache 2.0",
    "hw": "GPU / unified memory, 80GB class",
    "run": "Ollama / LM Studio / vLLM",
-   "notes": "The turnkey option: maker-documented Ollama path, Apache 2.0, fast on mini hardware (~60 tok/s class) — but 128K context sits exactly at the project floor, and it is text-only.",
+   "notes": "The turnkey option: maker-documented Ollama path, Apache 2.0, fast on mini hardware (~60 tok/s class) \u2014 but 128K context sits exactly at the project floor, and it is text-only.",
    "url": "https://huggingface.co/openai/gpt-oss-120b",
    "speed": "~60"
   }
@@ -1008,7 +1008,7 @@
    "storage": "2TB",
    "os": "Windows 11 Pro",
    "price": "$5,999",
-   "notes": "The frontrunner — the only box ticking every project criterion today: CUDA, Windows-native, Microsoft support, shipping now. Bolt-class models run ~84 tok/s on this silicon. Ceiling: 128GB is learning-class; it cannot touch Spark Open itself."
+   "notes": "The frontrunner \u2014 the only box ticking every project criterion today: CUDA, Windows-native, Microsoft support, shipping now. Bolt-class models run ~84 tok/s on this silicon. Ceiling: 128GB is learning-class; it cannot touch Spark Open itself."
   },
   {
    "box": "Framework Desktop 192GB",
@@ -1020,7 +1020,7 @@
    "storage": "Configurable",
    "os": "Windows 11 (DIY install)",
    "price": "$6,799 DIY",
-   "notes": "Most memory in a mini — room for the 120B deep-think brain plus a fat 256K KV cache. No CUDA (ROCm/Vulkan serving), you assemble it yourself, and batches sell out."
+   "notes": "Most memory in a mini \u2014 room for the 120B deep-think brain plus a fat 256K KV cache. No CUDA (ROCm/Vulkan serving), you assemble it yourself, and batches sell out."
   },
   {
    "box": "AI Workstation 300",
@@ -1032,13 +1032,680 @@
    "storage": "1TB",
    "os": "Windows 11 Home",
    "price": "$4,700",
-   "notes": "Cheapest US-company route to a 128GB Windows box. The shortage in one row: launched at $1,999 in Jul 2025, now $4,700 — and Windows caps its GPU memory at 96GB."
+   "notes": "Cheapest US-company route to a 128GB Windows box. The shortage in one row: launched at $1,999 in Jul 2025, now $4,700 \u2014 and Windows caps its GPU memory at 96GB."
   }
  ],
  "readiness": {
   "score": 76,
-  "headline": "Close — the box exists and the speed is there; the brain is one tier shy — projected to be at 100% around Q4-2028",
-  "lacking": "A local model at hosted-Muse tier (today's best stack is a strong supervised junior) · Spark-Open-class capability needs a ~700GB box — the DGX Station class, whose Windows price is still unannounced · memory-shortage prices are still rising, so waiting keeps earning points · Windows serving paths for the favorite models are proven on paper, not yet hands-on",
-  "today": "$5,999 → Surface Dev Box + Bolt 74B always-on (~84 tok/s) + Super 120B for deep think = a working local agent at 76/100. The experience today: about half the capability of hosted Muse — chat at full speed, deep thinking at about half pace. A strong junior on the desk, not a replica."
+  "headline": "Close \u2014 the box exists and the speed is there; the brain is one tier shy \u2014 projected to be at 100% around Q4-2028",
+  "lacking": "A local model at hosted-Muse tier (today's best stack is a strong supervised junior) \u00b7 Spark-Open-class capability needs a ~700GB box \u2014 the DGX Station class, whose Windows price is still unannounced \u00b7 memory-shortage prices are still rising, so waiting keeps earning points \u00b7 Windows serving paths for the favorite models are proven on paper, not yet hands-on",
+  "today": "$5,999 \u2192 Surface Dev Box + Bolt 74B always-on (~84 tok/s) + Super 120B for deep think = a working local agent at 76/100. The experience today: about half the capability of hosted Muse \u2014 chat at full speed, deep thinking at about half pace. A strong junior on the desk, not a replica."
+ },
+ "portfolio": {
+  "asOf": "Fri, Nov 20, 2026 close",
+  "cells": [
+   {
+    "symbol": "S&P 500",
+    "price": 6910.39,
+    "spark": [
+     7592.3999,
+     7561.6699,
+     7416.5898,
+     7340.5298,
+     7323.6299,
+     7175.8301,
+     6910.3901
+    ],
+    "index": true
+   },
+   {
+    "symbol": "DOW",
+    "price": 48147.33,
+    "spark": [
+     52297.0898,
+     52347.5508,
+     51608.1719,
+     50759.4219,
+     50198.1719,
+     49097.0586,
+     48147.3281
+    ],
+    "index": true
+   },
+   {
+    "symbol": "NASDAQ",
+    "price": 22617.73,
+    "spark": [
+     25366.0898,
+     25136.2695,
+     24509.7598,
+     24328.3809,
+     24429.8809,
+     23879.1992,
+     22617.7305
+    ],
+    "index": true
+   },
+   {
+    "symbol": "AAPL",
+    "price": 342.56,
+    "spark": [
+     354.88,
+     356.27,
+     352.78,
+     351.91,
+     352.45,
+     349.21,
+     342.56
+    ]
+   },
+   {
+    "symbol": "AMGN",
+    "price": 435.64,
+    "spark": [
+     467.06,
+     465.67,
+     462.32,
+     457.93,
+     443.89,
+     438.82,
+     435.64
+    ]
+   },
+   {
+    "symbol": "AMZN",
+    "price": 246.82,
+    "spark": [
+     267.44,
+     266.66,
+     257.75,
+     257.89,
+     267.74,
+     257.37,
+     246.82
+    ]
+   },
+   {
+    "symbol": "ANT",
+    "price": 88.91,
+    "spark": [
+     97.17,
+     88.91
+    ]
+   },
+   {
+    "symbol": "ARGT",
+    "price": 64.56,
+    "spark": [
+     72.62,
+     73.75,
+     70.55,
+     70.77,
+     69.17,
+     66.56,
+     64.56
+    ]
+   },
+   {
+    "symbol": "AUGO",
+    "price": 57.05,
+    "spark": [
+     77.94,
+     75.02,
+     69.27,
+     66.98,
+     64.3,
+     61.02,
+     57.05
+    ]
+   },
+   {
+    "symbol": "BEP",
+    "price": 29.12,
+    "spark": [
+     29.58,
+     29.98,
+     29.96,
+     30.11,
+     30.54,
+     30.01,
+     29.12
+    ]
+   },
+   {
+    "symbol": "CEG",
+    "price": 237.41,
+    "spark": [
+     282.4,
+     280.2,
+     277.82,
+     268.07,
+     262.74,
+     252.03,
+     237.41
+    ]
+   },
+   {
+    "symbol": "CHKR",
+    "price": 0.34,
+    "spark": [
+     0.38,
+     0.394,
+     0.403,
+     0.388,
+     0.38,
+     0.377,
+     0.341
+    ]
+   },
+   {
+    "symbol": "CVX",
+    "price": 208.37,
+    "spark": [
+     216.35,
+     219.89,
+     217.14,
+     216.13,
+     205.88,
+     206.5,
+     208.37
+    ]
+   },
+   {
+    "symbol": "ET",
+    "price": 18.61,
+    "spark": [
+     19.42,
+     19.4,
+     19.14,
+     19.16,
+     19.03,
+     19.11,
+     18.61
+    ]
+   },
+   {
+    "symbol": "FSLR",
+    "price": 137.59,
+    "spark": [
+     172.3,
+     171.39,
+     162.45,
+     152.97,
+     150.98,
+     151.95,
+     137.59
+    ]
+   },
+   {
+    "symbol": "GE",
+    "price": 309.62,
+    "spark": [
+     330.86,
+     331.81,
+     325.18,
+     326.4,
+     328.1,
+     318.88,
+     309.62
+    ]
+   },
+   {
+    "symbol": "GEV",
+    "price": 699.33,
+    "spark": [
+     818.49,
+     803.13,
+     763.57,
+     779.91,
+     772.22,
+     756.28,
+     699.33
+    ]
+   },
+   {
+    "symbol": "GOOGL",
+    "price": 265.29,
+    "spark": [
+     298.7,
+     295.77,
+     283.72,
+     280.2,
+     282.44,
+     272.66,
+     265.29
+    ]
+   },
+   {
+    "symbol": "GOOGM",
+    "price": 39.67,
+    "spark": [
+     43.29,
+     42.96,
+     41.62,
+     41.18,
+     41.47,
+     40.47,
+     39.67
+    ]
+   },
+   {
+    "symbol": "GOOW",
+    "price": 41.33,
+    "spark": [
+     47.991,
+     47.39,
+     44.83,
+     44.08,
+     44.6,
+     42.682,
+     41.335
+    ]
+   },
+   {
+    "symbol": "JAAA",
+    "price": 50.61,
+    "spark": [
+     50.55,
+     50.57,
+     50.59,
+     50.6,
+     50.61,
+     50.62,
+     50.61
+    ]
+   },
+   {
+    "symbol": "JEPI",
+    "price": 54.25,
+    "spark": [
+     58.04,
+     57.96,
+     57.19,
+     56.64,
+     56.58,
+     55.54,
+     54.25
+    ]
+   },
+   {
+    "symbol": "JEPQ",
+    "price": 50.84,
+    "spark": [
+     56.78,
+     56.19,
+     54.86,
+     54.45,
+     54.68,
+     53.63,
+     50.84
+    ]
+   },
+   {
+    "symbol": "LLY",
+    "price": 1347.11,
+    "spark": [
+     1427.28,
+     1443.5,
+     1431.67,
+     1415.55,
+     1382.75,
+     1351.12,
+     1347.11
+    ]
+   },
+   {
+    "symbol": "LNG",
+    "price": 294.84,
+    "spark": [
+     309.48,
+     308.75,
+     305.2,
+     301.97,
+     296.49,
+     295.37,
+     294.84
+    ]
+   },
+   {
+    "symbol": "MP",
+    "price": 33.95,
+    "spark": [
+     37.45,
+     38.76,
+     36.09,
+     34.86,
+     35.95,
+     36.66,
+     33.95
+    ]
+   },
+   {
+    "symbol": "MINT",
+    "price": 100.6,
+    "spark": [
+     100.53,
+     100.55,
+     100.57,
+     100.6,
+     100.6,
+     100.61,
+     100.6
+    ]
+   },
+   {
+    "symbol": "MRNA",
+    "price": 195.0,
+    "spark": [
+     231.35,
+     223.37,
+     215.27,
+     206.8,
+     196.79,
+     199.33,
+     195.0
+    ]
+   },
+   {
+    "symbol": "MU",
+    "price": 594.51,
+    "spark": [
+     798.44,
+     778.31,
+     719.02,
+     712.42,
+     705.27,
+     690.44,
+     594.51
+    ]
+   },
+   {
+    "symbol": "NVDA",
+    "price": 125.53,
+    "spark": [
+     166.19,
+     162.85,
+     156.14,
+     155.46,
+     150.96,
+     145.98,
+     125.53
+    ]
+   },
+   {
+    "symbol": "PFE",
+    "price": 27.4,
+    "spark": [
+     28.83,
+     28.89,
+     28.86,
+     28.47,
+     28.06,
+     27.54,
+     27.4
+    ]
+   },
+   {
+    "symbol": "QQQI",
+    "price": 45.58,
+    "spark": [
+     51.64,
+     51.13,
+     49.91,
+     49.55,
+     49.19,
+     48.14,
+     45.58
+    ]
+   },
+   {
+    "symbol": "QQQY",
+    "price": 17.78,
+    "spark": [
+     20.1,
+     19.9,
+     19.36,
+     19.23,
+     19.33,
+     18.8,
+     17.78
+    ]
+   },
+   {
+    "symbol": "RITM",
+    "price": 8.05,
+    "spark": [
+     9.0,
+     8.97,
+     8.84,
+     8.48,
+     8.31,
+     8.24,
+     8.05
+    ]
+   },
+   {
+    "symbol": "RKLB",
+    "price": 45.42,
+    "spark": [
+     64.07,
+     61.53,
+     57.37,
+     55.05,
+     53.07,
+     50.99,
+     45.42
+    ]
+   },
+   {
+    "symbol": "SPCX",
+    "price": 127.79,
+    "spark": [
+     139.94,
+     139.11,
+     137.36,
+     141.7,
+     143.5,
+     138.43,
+     127.79
+    ]
+   },
+   {
+    "symbol": "SPYI",
+    "price": 47.83,
+    "spark": [
+     52.64,
+     52.48,
+     51.64,
+     51.12,
+     50.53,
+     49.55,
+     47.83
+    ]
+   },
+   {
+    "symbol": "SUN",
+    "price": 62.55,
+    "spark": [
+     64.98,
+     65.23,
+     64.9,
+     65.33,
+     63.78,
+     63.25,
+     62.55
+    ]
+   },
+   {
+    "symbol": "TFC",
+    "price": 45.81,
+    "spark": [
+     49.89,
+     49.97,
+     49.58,
+     48.45,
+     47.74,
+     46.67,
+     45.81
+    ]
+   },
+   {
+    "symbol": "UAMY",
+    "price": 2.23,
+    "spark": [
+     2.91,
+     3.09,
+     2.67,
+     2.48,
+     2.52,
+     2.38,
+     2.23
+    ]
+   },
+   {
+    "symbol": "UEC",
+    "price": 5.3,
+    "spark": [
+     6.8,
+     6.66,
+     6.13,
+     6.07,
+     5.92,
+     5.76,
+     5.3
+    ]
+   },
+   {
+    "symbol": "UUUU",
+    "price": 4.96,
+    "spark": [
+     6.68,
+     6.59,
+     6.04,
+     5.93,
+     5.64,
+     5.48,
+     4.96
+    ]
+   },
+   {
+    "symbol": "VLO",
+    "price": 334.18,
+    "spark": [
+     374.95,
+     379.83,
+     369.73,
+     363.77,
+     343.7,
+     338.46,
+     334.18
+    ]
+   },
+   {
+    "symbol": "VRTX",
+    "price": 515.02,
+    "spark": [
+     542.62,
+     538.6,
+     537.79,
+     534.2,
+     536.45,
+     520.66,
+     515.02
+    ]
+   },
+   {
+    "symbol": "XOM",
+    "price": 159.99,
+    "spark": [
+     169.78,
+     170.59,
+     166.87,
+     167.21,
+     160.58,
+     158.93,
+     159.99
+    ]
+   },
+   {
+    "symbol": "SFNNX",
+    "price": 15.33,
+    "spark": [
+     16.53,
+     16.56,
+     16.33,
+     16.15,
+     15.96,
+     15.71,
+     15.33
+    ]
+   },
+   {
+    "symbol": "SWDSX",
+    "price": 19.09,
+    "spark": [
+     20.31,
+     20.33,
+     20.12,
+     19.91,
+     19.72,
+     19.38,
+     19.09
+    ]
+   },
+   {
+    "symbol": "SWSSX",
+    "price": 41.86,
+    "spark": [
+     45.36,
+     45.23,
+     44.47,
+     43.81,
+     44.01,
+     43.05,
+     41.86
+    ]
+   },
+   {
+    "symbol": "AIL.F",
+    "price": 206.15,
+    "spark": [
+     211.9312,
+     212.4587,
+     212.3708,
+     209.8431,
+     208.5243,
+     207.8649,
+     206.1504
+    ]
+   },
+   {
+    "symbol": "VI5TC",
+    "price": 142.04,
+    "spark": [
+     156.0626,
+     155.431,
+     152.4488,
+     150.8854,
+     150.538,
+     147.5,
+     142.0438
+    ],
+    "est": true
+   },
+   {
+    "symbol": "VTTHX",
+    "price": 27.75,
+    "spark": [
+     29.39,
+     29.31,
+     28.95,
+     28.75,
+     28.68,
+     28.34,
+     27.75
+    ]
+   }
+  ]
  }
 }
