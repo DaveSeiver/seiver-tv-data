@@ -147,10 +147,10 @@
       .chip .tag{font-size:10px;font-weight:700;letter-spacing:.06em;border:1px solid var(--accent);
         color:var(--accent);padding:1px 5px;border-radius:2px;white-space:nowrap}
       .chip .pxline{display:flex;align-items:baseline;gap:8px;margin-top:3px;font-size:14.5px;white-space:nowrap;overflow:hidden}
-      .chip .sub{margin-top:1px;font-size:11px;color:rgba(245,239,223,.6);
-        white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-height:14px}
+      .chip .subin{font-size:10.5px;color:rgba(245,239,223,.6);
+        white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
       .chip .l2{margin-top:3px;font-size:11.5px;line-height:1.35;color:rgba(245,239,223,.78);
-        display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:31px}
+        min-height:31px}
       .chip .up{color:#3ecf7a}.chip .down{color:#ff6d64}
       .chip .sp7{flex:0 0 auto;margin-left:auto;align-self:center;padding-left:6px}
       .chip .sp7 svg{display:block;width:62px;height:20px}
@@ -661,8 +661,8 @@
             + '</div>'
             + '<div class="pxline"><span class="px num">'+esc(t.price)+'</span>'
             + (t.change ? '<span class="num '+dirCls(t.dir)+'">'+esc(t.change)+'</span>' : '')
+            + (t.subTag ? '<span class="subin">'+esc(t.subTag)+'</span>' : '')
             + '</div>'
-            + '<div class="sub">'+(t.subTag ? esc(t.subTag) : '')+'</div>'
             + '<div class="l2">'+esc(t.blurb)+'</div>';
           return html;
         }
