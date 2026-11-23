@@ -225,7 +225,7 @@
       .pfcell .chg{font-size:11.5px;font-weight:600}
       .pfcell .chg.up{color:var(--up)}
       .pfcell .chg.down{color:var(--down)}
-      .pfcell .px .est{font-size:9px;letter-spacing:.1em;color:var(--accent-ink)}
+      .pfcell .est{font-size:9px;letter-spacing:.1em;color:var(--accent-ink)}
       .pfcell .sp7{display:block;margin-top:5px}
       .pfcell .sp7 svg{display:block;width:100%;height:20px}
       #portfolioGrid{margin-top:8px}
@@ -688,7 +688,7 @@
          Seiver Portfolio sheet order: symbol, latest close, and the
          last 7 trading days as a sparkline — same polyline family as
          the watchlist chips. A cell flagged est (VI5TC, derived from
-         the S&P 500 anchor) shows a small EST. tag by its symbol. */
+         the S&P 500 anchor) shows a small Est. tag by its symbol. */
       (function(){
         var grid = document.getElementById("portfolioGrid");
         var lead = document.getElementById("portfolioLead");
@@ -727,7 +727,7 @@
             var txt = (r > 0 ? '+' : '') + r.toFixed(1) + '%';
             chg = '<span class="chg '+cls+'">'+txt+'</span>';
           }
-          c.innerHTML = '<div class="sym">'+esc(cell.symbol)+(cell.est ? ' <span class="est">EST.</span>' : '')+'</div>'
+          c.innerHTML = '<div class="sym">'+esc(cell.symbol)+(cell.est ? ' <span class="est">Est.</span>' : '')+'</div>'
             + '<div class="px num"><span>'+(cell.index ? Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:0, maximumFractionDigits:0}) : (cell.fx ? Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:4, maximumFractionDigits:4}) : '$'+Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:2, maximumFractionDigits:2})))+'</span>'+chg+'</div>'
             + pfSpark(cell);
           (cell.lead && lead ? lead : grid).appendChild(c);
