@@ -688,7 +688,7 @@
         var grid = document.getElementById("portfolioGrid");
         if (!grid || !D.portfolio || !D.portfolio.cells) return;
         var sub = document.getElementById("portfolioSub");
-        if (sub) sub.textContent = "The 3 major indexes, then every stock, ETF and mutual fund on the Seiver Portfolio sheet \\u2014 money-market funds excluded. Prices as of " + (D.portfolio.asOf || "the latest close") + " \\u00b7 sparklines: last 7 trading days.";
+        if (sub) sub.textContent = "Prices as of " + (D.portfolio.asOf || "the latest close") + "; Trends for the last 7 trading days.";
         function pfSpark(cell){
           if (!cell.spark || cell.spark.length < 2) return '';
           var W=62, H=20, P=2;
