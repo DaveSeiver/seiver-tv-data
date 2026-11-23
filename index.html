@@ -228,6 +228,7 @@
       .pfcell .px .est{font-size:9px;letter-spacing:.1em;color:var(--accent-ink)}
       .pfcell .sp7{display:block;margin-top:5px}
       .pfcell .sp7 svg{display:block;width:100%;height:20px}
+      #portfolioGrid{margin-top:8px}
           /* AI models scoring matrix (weekend editions) */
       .aqimap-card{background:var(--panel); border:1px solid var(--line); box-shadow:var(--shadow); padding:10px;}
       .aqimap-card img{width:100%; height:auto; display:block;}
@@ -328,6 +329,7 @@
       <section id="sec-portfolio" aria-labelledby="h-portfolio" hidden>
         <h2 class="sec" id="h-portfolio">EQUITIES &amp; INDEXES OF INTEREST</h2>
         <p class="sec-sub" id="portfolioSub"></p>
+        <div class="pfgrid" id="portfolioLead"></div>
         <div class="pfgrid" id="portfolioGrid"></div>
       </section>
 
@@ -689,6 +691,7 @@
          the S&P 500 anchor) shows a small EST. tag by its price. */
       (function(){
         var grid = document.getElementById("portfolioGrid");
+        var lead = document.getElementById("portfolioLead");
         if (!grid || !D.portfolio || !D.portfolio.cells) return;
         var sub = document.getElementById("portfolioSub");
         if (sub) sub.textContent = "Prices as of " + (D.portfolio.asOf || "the latest close") + "; Trends for the last 7 trading days.";
@@ -719,7 +722,7 @@
           c.innerHTML = '<div class="sym">'+esc(cell.symbol)+'</div>'
             + '<div class="px num"><span>'+(cell.index ? Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:0, maximumFractionDigits:0}) : (cell.fx ? Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:4, maximumFractionDigits:4}) : '$'+Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:2, maximumFractionDigits:2})))+(cell.est ? ' <span class="est">EST.</span>' : '')+'</span>'+chg+'</div>'
             + pfSpark(cell);
-          grid.appendChild(c);
+          (cell.lead && lead ? lead : grid).appendChild(c);
         });
       })();
 
