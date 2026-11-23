@@ -1,42 +1,42 @@
 {
  "version": 79,
- "asOf": "Mon Nov 23, 2026, 10:12 AM CT",
+ "asOf": "Mon Nov 23, 2026, 9:15 AM CT",
  "breaking": [
   {
    "tag": "US",
-   "headline": "Nasdaq-100 futures halted after a 7% premarket surge",
-   "fact": "Nasdaq-100 futures jumped more than 7% before the open and were briefly halted for volatility, trading as high as 26,878 before restarting; they were still up more than 6% after the halt as the Huang news ignited the biggest reversal in months.",
-   "source": "MarketWatch",
-   "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-slides-tech-rout-anthropic-ipo/card/nasdaq-100-futures-halted-for-volatility-after-surging-7--a295UcT8HyBCq5ISmipn"
+   "headline": "Jensen Huang is back: Nvidia's board reinstates him as CEO",
+   "fact": "Nvidia's board voted unanimously to reinstate Jensen Huang as president, CEO and board member, effective immediately \u2014 11 days after his resignation. The board said it had received input from senior levels of the U.S. government and is confident his return poses no national security risk; its independent investigation continues, Colette Kress returns to the CFO role, and President Trump called the move \u201cthe correct and proper decision.\u201d",
+   "source": "Reuters",
+   "url": "https://www.reuters.com/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/"
   },
   {
    "tag": "US",
-   "headline": "CrowdStrike to buy Zscaler in a $43.9 billion all-stock deal",
-   "fact": "CrowdStrike agreed to acquire Zscaler in an all-stock deal valued at about $43.9 billion; Zscaler jumped 17% to $228.50 while CrowdStrike fell 9.8%, the worst performer in the S&P 500.",
+   "headline": "Huang's return ignites a historic rally: Nasdaq +6.7%, Nvidia +33%",
+   "fact": "By mid-morning the Nasdaq Composite was up 6.7%, the S&P 500 4.7% and the Dow 2.8%, with Nvidia up about 33% \u2014 on course for its biggest one-day gain in 23 years \u2014 as Friday's correction reversed in a single session and the VIX fell back to 28.",
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/11/23/markets/us-stocks-rebound-intl?cid=external-feeds_iluminar_meta"
+  },
+  {
+   "tag": "US",
+   "headline": "Half-point December hike is off the table as pressure builds on the Fed",
+   "fact": "CME FedWatch now prices a 93% chance of a quarter-point hike on Dec 9 and 0% for a half-point move, down from 11.5% a week ago, as Treasury Secretary Bessent warned the Fed against overtightening and Bill Ackman urged it to swap its 2% inflation target for 3%. Wednesday's core PCE report is the week's test.",
    "source": "Barron's",
-   "url": "https://www.barrons.com/articles/stock-movers-901d6342"
+   "url": "https://www.barrons.com/livecoverage/stock-market-news-today-112326/card/beware-this-post-bloodbath-bounce-4HzToPyNbJnY4XcGcliB"
   },
   {
    "tag": "US",
-   "headline": "Delta outage snarls Thanksgiving travel: 1,800 flights delayed Sunday",
-   "fact": "A Delta outage caused 1,800 flight delays across the U.S. on Sunday as Thanksgiving travel got underway; airports showed marked improvement Monday, with the holiday storm still threatening travel later in the week.",
-   "source": "New York Post",
-   "url": "https://nypost.com/2026/11/23/us-news/thanksgiving-travel-live-updates-on-weather-flight-delays-and-traffic/"
-  },
-  {
-   "tag": "US",
-   "headline": "Chip stocks surge double digits as the rally broadens",
-   "fact": "Arm jumped about 21% to $184 and TSMC about 21% to $384.81, with Micron up nearly 18% and Intel more than 15%, as the chip rebound spread well beyond Nvidia; the Roundhill Memory ETF was up nearly 19%.",
-   "source": "MarketWatch",
-   "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-slides-tech-rout-anthropic-ipo/card/memory-and-chip-stocks-surge-almost-20--B3NFmYyBykKtUFCah6m1"
+   "headline": "Thanksgiving storm firms up: 50+ mph gusts, heavy rain, coastal flooding",
+   "fact": "The Weather Prediction Center's Monday discussion puts 1\u20134 inches of rain on the Carolinas and Mid-Atlantic and 1\u20132 inches on the Northeast Wednesday into Thanksgiving, with 50+ mph coastal gusts, 40+ mph gusts inland along I-95, significant coastal flooding and beach erosion from Georgia to New England, and snow showers on the back side Friday into Saturday.",
+   "source": "National Weather Service",
+   "url": "https://forecast.weather.gov/product.php?site=NWS&product=PRE&issuedby=EPD"
   }
  ],
  "markets": [
   {
    "label": "S&P 500",
-   "value": "7,247.36",
-   "change": "+336.97",
-   "pct": "+4.88%",
+   "value": "7,234.81",
+   "change": "+324.42",
+   "pct": "+4.69%",
    "dir": "up",
    "spark": [
     7805.45,
@@ -68,14 +68,14 @@
     7323.63,
     7175.83,
     6910.39,
-    7247.36
+    7234.81
    ]
   },
   {
    "label": "NASDAQ Composite",
-   "value": "24,125.30",
-   "change": "+1,507.57",
-   "pct": "+6.67%",
+   "value": "24,122.21",
+   "change": "+1,504.48",
+   "pct": "+6.65%",
    "dir": "up",
    "spark": [
     27204.38,
@@ -107,14 +107,14 @@
     24429.88,
     23879.2,
     22617.73,
-    24125.3
+    24122.21
    ]
   },
   {
    "label": "Dow Jones",
-   "value": "49,600.31",
-   "change": "+1,452.98",
-   "pct": "+3.02%",
+   "value": "49,474.11",
+   "change": "+1,326.78",
+   "pct": "+2.76%",
    "dir": "up",
    "spark": [
     51670.1,
@@ -146,14 +146,14 @@
     50198.17,
     49097.06,
     48147.33,
-    49600.31
+    49474.11
    ]
   },
   {
    "label": "VIX",
-   "value": "27.45",
-   "change": "-8.44",
-   "pct": "-23.52%",
+   "value": "28.12",
+   "change": "-7.77",
+   "pct": "-21.65%",
    "dir": "down",
    "spark": [
     15.27,
@@ -185,7 +185,7 @@
     24.56,
     28.44,
     35.89,
-    27.45
+    28.12
    ]
   },
   {
@@ -229,9 +229,9 @@
   },
   {
    "label": "WTI Crude",
-   "value": "$79.98",
-   "change": "-4.00",
-   "pct": "-4.76%",
+   "value": "$81.59",
+   "change": "-2.39",
+   "pct": "-2.85%",
    "dir": "down",
    "spark": [
     94.14,
@@ -263,14 +263,14 @@
     83.26,
     83.21,
     83.98,
-    79.98
+    81.59
    ]
   },
   {
    "label": "Brent Crude",
-   "value": "$86.23",
-   "change": "-6.34",
-   "pct": "-6.85%",
+   "value": "$87.74",
+   "change": "-4.83",
+   "pct": "-5.22%",
    "dir": "down",
    "spark": [
     105.69,
@@ -302,7 +302,7 @@
     91.95,
     91.98,
     92.57,
-    86.23
+    87.74
    ]
   }
  ],
@@ -313,10 +313,10 @@
    "name": "Air Liquide",
    "link": "https://finance.yahoo.com/quote/AI.PA",
    "risk": 2,
-   "price": "$204.76",
-   "change": "-0.21%",
+   "price": "$205.12",
+   "change": "-0.50%",
    "dir": "down",
-   "blurb": "Air Liquide eased 0.2% in Paris to €187.18 — $204.76 at the ECB's Nov 23 reference rate of 1.0939 — a defensive name sitting out the U.S.-led surge.",
+   "blurb": "Air Liquide eased 0.5% in Paris to \u20ac186.64 \u2014 $205.12 at the ECB's Nov 20 reference rate of 1.0990 \u2014 a defensive name sitting out the U.S.-led surge.",
    "spark": [
     193.32,
     193.24,
@@ -324,9 +324,9 @@
     189.74,
     189.14,
     187.58,
-    187.18
+    186.64
    ],
-   "subTag": "€187.18 × 1.0939 (ECB Nov 23)",
+   "subTag": "\u20ac186.64 \u00d7 1.0990 (ECB Nov 20)",
    "yieldTag": null
   },
   {
@@ -334,16 +334,16 @@
    "name": "Anthropic",
    "link": "https://finance.yahoo.com/quote/ANT",
    "risk": 4,
-   "price": "$87.58",
-   "change": "-1.50%",
-   "dir": "down",
-   "blurb": "Anthropic slipped 1.5% to $87.58, giving back a little more of Friday's 8.5% drop as the new listing finds its level after Thursday's record debut.",
+   "price": "$89.25",
+   "change": "+0.39%",
+   "dir": "up",
+   "blurb": "Anthropic held at $89.25 (+0.39%) in its third session of trading, still above its $83 IPO price while the chip complex rocketed around it.",
    "spark": [
     97.17,
     88.91,
-    87.58
+    89.25
    ],
-   "subTag": "$88.91 Fri close",
+   "subTag": "$88.91 close, -8.50% vs Thu close",
    "yieldTag": null
   },
   {
@@ -354,7 +354,7 @@
    "price": "$91.61",
    "change": "+0.02%",
    "dir": "up",
-   "blurb": "BIL edged up 0.02% to $91.61 — ballast on a morning when almost everything else swung hard.",
+   "blurb": "BIL was steady at $91.61 (+0.02%) \u2014 ballast on a morning when almost everything else swung hard.",
    "spark": [
     91.53,
     91.55,
@@ -372,10 +372,10 @@
    "name": "Fastenal",
    "link": "https://finance.yahoo.com/quote/FAST",
    "risk": 2,
-   "price": "$52.09",
-   "change": "+2.92%",
+   "price": "$51.68",
+   "change": "+2.11%",
    "dir": "up",
-   "blurb": "Fastenal climbed 2.9% to $52.09, joining the broad rebound.",
+   "blurb": "Fastenal joined the broad rebound at $51.68 (+2.11%).",
    "spark": [
     55.19,
     55.11,
@@ -383,7 +383,7 @@
     53.96,
     52.68,
     50.61,
-    52.09
+    51.68
    ],
    "subTag": null,
    "yieldTag": null
@@ -393,10 +393,10 @@
    "name": "Alphabet (Google) Cl A",
    "link": "https://finance.yahoo.com/quote/GOOGL",
    "risk": 3,
-   "price": "$281.37",
-   "change": "+6.06%",
+   "price": "$280.40",
+   "change": "+5.70%",
    "dir": "up",
-   "blurb": "Alphabet jumped 6.1% to $281.37 as the AI complex ripped higher on Jensen Huang's return.",
+   "blurb": "Alphabet jumped 5.7% to $280.40 as the AI complex ripped higher on Jensen Huang's return.",
    "spark": [
     295.77,
     283.72,
@@ -404,7 +404,7 @@
     282.44,
     272.66,
     265.29,
-    281.36
+    280.4
    ],
    "subTag": null,
    "yieldTag": null
@@ -414,10 +414,10 @@
    "name": "Eli Lilly",
    "link": "https://finance.yahoo.com/quote/LLY",
    "risk": 3,
-   "price": "$1,374.59",
-   "change": "+2.04%",
+   "price": "$1,371.15",
+   "change": "+1.78%",
    "dir": "up",
-   "blurb": "Eli Lilly added 2.0% to $1,374.59 in the broad advance.",
+   "blurb": "Eli Lilly added 1.8% to $1,371.15, a comparatively calm line on a wild morning.",
    "spark": [
     1443.5,
     1431.67,
@@ -425,7 +425,7 @@
     1382.75,
     1351.12,
     1347.11,
-    1374.59
+    1371.15
    ],
    "subTag": null,
    "yieldTag": null
@@ -435,10 +435,10 @@
    "name": "Cheniere Energy",
    "link": "https://finance.yahoo.com/quote/LNG",
    "risk": 3,
-   "price": "$296.08",
-   "change": "+0.42%",
+   "price": "$297.91",
+   "change": "+1.04%",
    "dir": "up",
-   "blurb": "Cheniere inched up 0.4% to $296.08 as energy lagged the risk-on surge, with crude down sharply and natural gas jumping on a Gazprom supply notice to Uniper.",
+   "blurb": "Cheniere moved +1.04% to $297.91 as energy lagged the risk-on surge, with crude down on the day.",
    "spark": [
     308.75,
     305.2,
@@ -446,7 +446,7 @@
     296.49,
     295.37,
     294.84,
-    296.08
+    297.91
    ],
    "subTag": null,
    "yieldTag": null
@@ -456,10 +456,10 @@
    "name": "NVIDIA",
    "link": "https://finance.yahoo.com/quote/NVDA",
    "risk": 3,
-   "price": "$167.68",
-   "change": "+33.58%",
+   "price": "$166.68",
+   "change": "+32.78%",
    "dir": "up",
-   "blurb": "Nvidia soared 33.6% to $167.68 — its biggest one-day gain in 23 years — after the board unanimously reinstated Jensen Huang as CEO, 11 days after his resignation.",
+   "blurb": "Nvidia soared 32.8% to $166.68 \u2014 on course for its biggest one-day gain in 23 years \u2014 after the board unanimously reinstated Jensen Huang as CEO, 11 days after his resignation.",
    "spark": [
     162.85,
     156.14,
@@ -467,7 +467,7 @@
     150.96,
     145.98,
     125.53,
-    167.68
+    166.68
    ],
    "subTag": null,
    "yieldTag": null
@@ -477,10 +477,10 @@
    "name": "Pfizer",
    "link": "https://finance.yahoo.com/quote/PFE",
    "risk": 2,
-   "price": "$27.59",
-   "change": "+0.71%",
+   "price": "$27.54",
+   "change": "+0.51%",
    "dir": "up",
-   "blurb": "Pfizer added 0.7% to $27.59 in the market-wide bounce.",
+   "blurb": "Pfizer moved +0.51% to $27.54 in the market-wide bounce.",
    "spark": [
     28.89,
     28.86,
@@ -488,7 +488,7 @@
     28.06,
     27.54,
     27.4,
-    27.59
+    27.54
    ],
    "subTag": null,
    "yieldTag": null
@@ -498,10 +498,10 @@
    "name": "Rocket Lab",
    "link": "https://finance.yahoo.com/quote/RKLB",
    "risk": 4,
-   "price": "$49.99",
-   "change": "+10.07%",
+   "price": "$50.16",
+   "change": "+10.45%",
    "dir": "up",
-   "blurb": "Rocket Lab jumped 10.1% to $49.99 as beaten-down growth names bounced hardest.",
+   "blurb": "Rocket Lab climbed 10.4% to $50.16 as beaten-down growth names bounced hardest.",
    "spark": [
     61.53,
     57.37,
@@ -509,7 +509,7 @@
     53.07,
     50.99,
     45.42,
-    49.99
+    50.16
    ],
    "subTag": null,
    "yieldTag": null
@@ -519,10 +519,10 @@
    "name": "Rithm Capital",
    "link": "https://finance.yahoo.com/quote/RITM",
    "risk": 4,
-   "price": "$8.27",
-   "change": "+2.73%",
+   "price": "$8.24",
+   "change": "+2.36%",
    "dir": "up",
-   "blurb": "Rithm Capital rose 2.7% to $8.27 with the broad advance.",
+   "blurb": "Rithm Capital moved +2.36% to $8.24 with the broad advance.",
    "spark": [
     8.97,
     8.84,
@@ -530,7 +530,7 @@
     8.31,
     8.24,
     8.05,
-    8.27
+    8.24
    ],
    "subTag": null,
    "yieldTag": null
@@ -540,10 +540,10 @@
    "name": "SpaceX",
    "link": "https://finance.yahoo.com/quote/SPCX",
    "risk": 4,
-   "price": "$136.08",
-   "change": "+6.49%",
+   "price": "$139.97",
+   "change": "+9.53%",
    "dir": "up",
-   "blurb": "SpaceX gained 6.5% to $136.08 as growth names surged across the board.",
+   "blurb": "SpaceX gained 9.5% to $139.97 as growth names surged across the board.",
    "spark": [
     139.11,
     137.36,
@@ -551,7 +551,7 @@
     143.5,
     138.43,
     127.79,
-    136.08
+    139.97
    ],
    "subTag": null,
    "yieldTag": null
@@ -561,10 +561,10 @@
    "name": "Truist Financial",
    "link": "https://finance.yahoo.com/quote/TFC",
    "risk": 3,
-   "price": "$46.84",
-   "change": "+2.25%",
+   "price": "$46.68",
+   "change": "+1.90%",
    "dir": "up",
-   "blurb": "Truist rose 2.2% to $46.84 as financials joined the rally.",
+   "blurb": "Truist moved +1.90% to $46.68 as financials joined the rally.",
    "spark": [
     49.97,
     49.58,
@@ -572,7 +572,7 @@
     47.74,
     46.67,
     45.81,
-    46.84
+    46.68
    ],
    "subTag": null,
    "yieldTag": null
@@ -582,10 +582,10 @@
    "name": "United States Antimony",
    "link": "https://finance.yahoo.com/quote/UAMY",
    "risk": 5,
-   "price": "$2.42",
-   "change": "+8.61%",
+   "price": "$2.50",
+   "change": "+12.11%",
    "dir": "up",
-   "blurb": "U.S. Antimony jumped 8.6% to $2.42 in the broad rebound off last week's lows.",
+   "blurb": "U.S. Antimony jumped 12.1% to $2.50 in the broad rebound off last week's lows.",
    "spark": [
     3.09,
     2.67,
@@ -593,7 +593,7 @@
     2.52,
     2.38,
     2.23,
-    2.42
+    2.5
    ],
    "subTag": null,
    "yieldTag": null
@@ -603,10 +603,10 @@
    "name": "Uranium Energy",
    "link": "https://finance.yahoo.com/quote/UEC",
    "risk": 5,
-   "price": "$5.78",
-   "change": "+9.06%",
+   "price": "$5.79",
+   "change": "+9.25%",
    "dir": "up",
-   "blurb": "Uranium Energy rose 9.1% to $5.78 as beaten-down names bounced.",
+   "blurb": "Uranium Energy rose 9.2% to $5.79 as beaten-down names bounced.",
    "spark": [
     6.66,
     6.13,
@@ -614,7 +614,7 @@
     5.92,
     5.76,
     5.3,
-    5.78
+    5.79
    ],
    "subTag": null,
    "yieldTag": null
@@ -624,10 +624,10 @@
    "name": "Valero Energy",
    "link": "https://finance.yahoo.com/quote/VLO",
    "risk": 3,
-   "price": "$334.27",
-   "change": "+0.03%",
+   "price": "$335.95",
+   "change": "+0.53%",
    "dir": "up",
-   "blurb": "Valero was flat at $334.27; refiners lagged as crude fell despite the equity surge.",
+   "blurb": "Valero moved +0.53% to $335.95; refiners lagged as crude fell despite the equity surge.",
    "spark": [
     379.83,
     369.73,
@@ -635,7 +635,7 @@
     343.7,
     338.46,
     334.18,
-    334.27
+    335.95
    ],
    "subTag": null,
    "yieldTag": null
@@ -648,7 +648,7 @@
    "price": "$27.75",
    "change": "+0.00%",
    "dir": "up",
-   "blurb": "The fund's latest published NAV is Friday's $27.75; Monday's NAV posts after the close.",
+   "blurb": "The fund's latest published NAV is Friday's $27.75 (+0.00% on the day); Monday's NAV posts after the close.",
    "spark": [
     29.39,
     29.31,
@@ -666,18 +666,18 @@
    "name": "Vanguard Institutional 500 Index Trust",
    "link": null,
    "risk": 3,
-   "price": "$148.97 (est.)",
-   "change": "+4.88%",
+   "price": "$148.90 (est.)",
+   "change": "+4.69%",
    "dir": "up",
-   "blurb": "The S&P-anchored estimate tracks the index's surge: $148.97 (est.), +4.88% on the day.",
+   "blurb": "The S&P-anchored estimate tracks the index's surge: $148.90 (est.), +4.69% on the day.",
    "spark": [
+    155.43,
     152.45,
     150.89,
     150.54,
     147.5,
     142.04,
-    148.9,
-    148.97
+    148.9
    ],
    "subTag": "S&P 500-anchored estimate",
    "yieldTag": null
@@ -711,23 +711,23 @@
  ],
  "weekInBrief": [
   {
-   "headline": "Asian authorities step in to halt the tech rout",
-   "body": "Ahead of Monday's open, Taiwan banned short-selling after its market fell 6.2% last week, China cut margin requirements for the first time in 10 months, and South Korea readied market-stabilization funds — a coordinated response to the global AI selloff that had dragged the S&P 500 into correction.",
+   "headline": "Prediction markets whipsaw on Huang's return",
+   "body": "Polymarket's contract on Jensen Huang rejoining Nvidia by Nov 30 ran from about 4% to 99.8% by 9:01 AM ET Monday as the board announced his reinstatement, with $571,985 traded in 24 hours; over the weekend the same market had interim CEO Colette Kress at 9% and hyperscale chief Ian Buck at 17%.",
    "stamp": "Nov 23, 2026"
   },
   {
-   "headline": "Arm chief extends his contract through 2033",
-   "body": "Arm Holdings said CEO Rene Haas has extended his contract to serve at the helm through 2033, ending speculation he might replace Jensen Huang at Nvidia; Arm shares jumped about 21% in the broader chip rally.",
+   "headline": "Huang's Dec 1 House interview is still on",
+   "body": "Three House committees will hold a closed-door interview with Jensen Huang on December 1 over possible diversion of advanced chips to China, and the SEC's civil probe and California's review remain open \u2014 the reinstatement settles Nvidia's leadership question, not its regulatory ones.",
    "stamp": "Nov 23, 2026"
   },
   {
-   "headline": "Nvidia on pace for a record $847.8 billion one-day gain",
-   "body": "Nvidia's 33% surge put it on pace to add a record $847.8 billion in market value in a single day, according to Dow Jones Market Data — retracing more than a third of the $113.71 it had lost since its Oct. 6 record close.",
+   "headline": "Voyager 1 is now a full light-day from Earth",
+   "body": "NASA's Voyager 1, launched in 1977, has reached 16.1 billion miles from Earth \u2014 so distant that its radio signals, traveling at the speed of light, now take a full 24 hours to arrive, a first for any human-made object.",
    "stamp": "Nov 23, 2026"
   },
   {
-   "headline": "Gazprom supply notice lifts natural gas 4.4%",
-   "body": "Natural gas futures jumped 4.38% to $3.41 after German utility Uniper received notice from Russia's Gazprom that it cannot meet gas supply obligations, tightening European winter balances and extending a 22% twenty-session rally.",
+   "headline": "Bank of Korea expected to hike again Thursday",
+   "body": "The Bank of Korea meets Thursday, and economists expect another quarter-point rate hike, as Asian central banks stay on a tightening path even while governments move to support their stock markets after last week's rout.",
    "stamp": "Nov 23, 2026"
   }
  ],
@@ -735,35 +735,35 @@
   "items": [
    {
     "headline": "Latest from the Strait",
-    "body": "Three tankers were struck by projectiles exiting the strait on Friday and Saturday, with fire aboard the Marshall Islands-flagged Captain Leon, as CNN's analysis of UK Maritime Trade Operations data shows reported attacks at their highest level since the war began — at least 22 so far in November, after more than 30 in October. TankerTrackers says the “Khat Shekan” AIS track circulating online is a spoof, with no hull matching it on satellite imagery, and the sanctioned LPG tanker Tania Star turned back in the Gulf of Oman on Sunday. President Trump dared Iran on Sunday to test the blockade — “they'll all be at the bottom of the sea” — and repeated that he is inclined to resume strikes after the New Year if talks fail. On the oil itself, Kpler puts flows through the strait at about 9.5 million barrels a day over the 10 days through November 19, down from October's 12.2 million, while Iranian crude loadings remain at zero — the last Iranian cargoes discharged in China earlier this month, leaving no Iranian oil on the water outside the blockade."
+    "body": "Iran is staging a test of the U.S. blockade: satellite imagery reported by United Against Nuclear Iran shows more than a dozen tankers gathered at Kharg Island, and on November 17 the sanctioned Suezmax Olym transferred about 200,000 barrels of Iranian crude to the unsanctioned tanker Hao Fan south of the island \u2014 the first ship-to-ship transfer of Iranian crude observed since the blockade resumed in July \u2014 though TankerTrackers and Windward caution that no convoy is actually underway. CENTCOM warned Wednesday that ships taking cargo at sea from vessels loaded at Iranian ports can themselves be treated as blockade violators, Tehran's foreign minister says Iran intends to break the blockade, and President Trump told Fox News he is inclined to resume strikes after the New Year if talks fail. On the oil itself, Kpler puts flows through the strait at about 9.5 million barrels a day over the 10 days through November 19, down from October's 12.2 million, while Iranian crude loadings remain at zero \u2014 the last Iranian cargoes discharged in China earlier this month, leaving no Iranian oil on the water outside the blockade."
    }
   ],
   "stats": ""
  },
  "space": [
   {
-   "tag": "Science",
-   "headline": "Riemann proof confirmed: independent checks say the AI-assisted proof is correct",
-   "body": "Mathematicians now say the Riemann Hypothesis proof is real: the Lean and Mathlib communities issued a joint statement expressing “full confidence” that Anthropic mathematician Levent Alpöge's proof is correct, after MIT's Andrew Sutherland and others independently recompiled the 175,187-file Lean archive without issues. The Nov. 20 claim — a proof of the 167-year-old Millennium Prize problem built with Claude's help — is now verified; a final comparator run to rule out any redefinition of symbols is still awaited.",
-   "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/"
-  },
-  {
    "tag": "Space",
-   "headline": "NASA's twin ESCAPADE probes slingshot past Earth, bound for Mars",
-   "body": "NASA's two ESCAPADE spacecraft each completed a powered flyby of Earth — Blue on Nov. 7, Gold on Nov. 9 — using gravity plus a nine-minute engine burn to bend their paths toward Mars, where orbit insertion is planned for Sept. 7 and 9, 2027. It is the first time NASA has used a powered Earth flyby to send spacecraft to Mars; the pair will study how the solar wind strips gas from the Martian atmosphere.",
-   "url": "https://spacetechtimes.com/escapade-powered-earth-flybys-mars-cruise/"
-  },
-  {
-   "tag": "Space",
-   "headline": "NASA's Swift Observatory burns up after 22 years in orbit",
-   "body": "NASA's Neil Gehrels Swift Observatory re-entered Earth's atmosphere at 7:39 a.m. EST on Nov. 4 over the North Sumatra region of Indonesia, ending a 22-year mission hunting gamma-ray bursts, the most powerful explosions in the universe. A roughly $30 million commercial rescue attempt by Katalyst Space Technologies ended when its Link spacecraft re-entered without completing the boost.",
-   "url": "https://spacetechtimes.com/nasa-swift-observatory-reenters-atmosphere/"
+   "headline": "Oldest known quasar pair found shining at cosmic dawn",
+   "body": "An international team using the James Webb Space Telescope and Gemini North has identified a pair of quasars \u2014 twin feeding black holes of enormous size \u2014 shining just 900 million years after the Big Bang, the oldest compact quasar pair known. Published in The Astrophysical Journal Letters, the pair's existence so early strains standard models of how fast black holes can grow.",
+   "url": "https://gazewire.com/science-space/astronomers-identify-rare-quasar-pair-dating-to-cosmic-dawn"
   },
   {
    "tag": "Science",
-   "headline": "Warming ocean could pump far less carbon into the deep",
-   "body": "A modeling study published Nov. 21 in Nature Communications finds ocean warming could weaken the “biological pump” — the plankton-driven flow of carbon to the deep ocean — far more than assumed. With more realistic plankton, net community production falls up to 12.8% by century's end under a very-high-emissions scenario, as smaller phytoplankton and heavier grazing keep more carbon near the surface.",
-   "url": "https://terraworldnews.com/en/news/2026/11/22/klima-plankton-biologische-pumpe-2026-11-22"
+   "headline": "Ancient 'stellar fossil' star preserves the early universe's chemistry",
+   "body": "Astronomers at the Indian Institute of Astrophysics, using the Subaru Telescope in Hawaii, have found a rare ancient star carrying only about a thousandth of the Sun's iron yet rich in carbon and sodium \u2014 a chemical fingerprint of some of the first generations of stars. The results, in Monthly Notices of the Royal Astronomical Society, add a pristine fossil to the record of how the cosmos built its elements.",
+   "url": "https://www.tbsnews.net/science/astronomers-discover-rare-ancient-star-preserving-clues-early-universe-1611941"
+  },
+  {
+   "tag": "Science",
+   "headline": "New algorithm finds a pulsar spinning 260 times a second",
+   "body": "A Weizmann Institute algorithm that fills in the gaps left by a pulsar's orbital motion has cut the computing time for finding the fastest spinning stars from days to about 100 minutes \u2014 and promptly discovered PSR J1622-7204, a neutron star rotating more than 260 times per second. The method, in Physical Review Letters, is already hunting for more of these cosmic lighthouses, which double as laboratories for Einstein's relativity.",
+   "url": "https://weizmann.org.au/2026/11/from-a-complex-problem-to-a-dizzying-discovery-a-new-method-for-finding-cosmic-lighthouses/"
+  },
+  {
+   "tag": "Science",
+   "headline": "A hidden 'Planet X2' beyond Neptune gets a concrete profile",
+   "body": "New simulations give the solar system's hypothetical outer planet a testable shape: about 1.5 to 2 times Earth's mass on a distant, tilted, elliptical orbit whose gravity would explain the strange elongated orbits of icy bodies far beyond Neptune. The work, in Monthly Notices of the Royal Astronomical Society, sets up a target the Vera C. Rubin Observatory's sky survey can confirm or kill.",
+   "url": "https://phys.org/news/2026-11-astronomers-hidden-planet-neptune.html"
   }
  ],
  "cdRates": {
@@ -800,22 +800,22 @@
    },
    {
     "callable": {
-     "etrade": null,
+     "etrade": "5.75% Jonesboro State Bk",
      "fdicNote": null,
-     "green": "schwab",
+     "green": "etrade",
      "schwab": "5.50% Jonesboro State Bk"
     },
     "noncall": {
-     "etrade": null,
+     "etrade": "5.00%* Versabank USA (semi-annual)",
      "fdicNote": null,
-     "green": null,
+     "green": "etrade",
      "schwab": null
     },
     "term": "10-Year CDs"
    }
   ],
   "footnote": "",
-  "ratesAsOf": "Schwab Thu, Nov 19, 2026 · eTrade Mon, Nov 9, 2026"
+  "ratesAsOf": "Schwab Thu, Nov 19, 2026 \u00b7 eTrade Mon, Nov 23, 2026"
  },
  "weather": [
   {
@@ -825,68 +825,68 @@
    "conditions": "Mostly Cloudy",
    "icon": "clouds",
    "alerts": "",
-   "extra": "Humidity 80% · Wind N 10 mph",
-   "today": "Mostly Sunny, high 68°F",
-   "tonight": "Mostly Clear, low 50°F",
-   "tomorrow": "Mostly Sunny then Slight Chance Rain Showers, high 59°F"
+   "extra": "Humidity 77% \u00b7 Wind N 10 mph",
+   "today": "Partly Sunny, high 69\u00b0F",
+   "tonight": "Mostly Clear, low 50\u00b0F",
+   "tomorrow": "Mostly Sunny then Slight Chance Rain Showers, high 60\u00b0F"
   },
   {
-   "name": "Seiver Ranch — Plains, MT",
+   "name": "Seiver Ranch \u2014 Plains, MT",
    "detail": "Sanders County",
    "tempF": 27,
    "conditions": "Areas Of Fog",
    "icon": "fog",
    "alerts": "",
-   "extra": "Humidity 100% · Wind calm",
-   "today": "Areas Of Fog then Mostly Sunny, high 36°F",
-   "tonight": "Mostly Cloudy, low 22°F",
-   "tomorrow": "Partly Sunny, high 40°F"
+   "extra": "Humidity 100% \u00b7 Wind Calm",
+   "today": "Areas Of Fog then Mostly Sunny, high 36\u00b0F",
+   "tonight": "Mostly Cloudy, low 22\u00b0F",
+   "tomorrow": "Partly Sunny, high 40\u00b0F"
   },
   {
-   "name": "Seiver Slough — Rugby, ND",
+   "name": "Seiver Slough \u2014 Rugby, ND",
    "detail": "Pierce County",
-   "tempF": 12,
+   "tempF": 11,
    "conditions": "Mostly Cloudy",
    "icon": "clouds",
    "alerts": "",
-   "extra": "Humidity 89% · Wind W 8 mph",
-   "today": "Mostly Sunny, high 25°F",
-   "tonight": "Mostly Cloudy, low 14°F",
-   "tomorrow": "Mostly Cloudy, high 31°F"
+   "extra": "Humidity 87% \u00b7 Wind W 7 mph",
+   "today": "Mostly Sunny, high 25\u00b0F",
+   "tonight": "Mostly Cloudy, low 14\u00b0F",
+   "tomorrow": "Mostly Cloudy, high 31\u00b0F"
   },
   {
-   "name": "Seiver Lodge — L’Anse, MI",
+   "name": "Seiver Lodge \u2014 L\u2019Anse, MI",
    "detail": "Baraga County",
    "tempF": 32,
    "conditions": "Snow Showers Likely",
    "icon": "snow",
-   "alerts": "",
-   "extra": "Humidity 67% · Wind N 10 mph",
-   "today": "Snow Showers Likely, high 32°F",
-   "tonight": "Slight Chance Snow Showers then Mostly Cloudy, low 18°F",
-   "tomorrow": "Partly Sunny, high 35°F"
+   "alerts": "Winter Weather Advisory issued November 23 at 3:49AM EST until November 23 at 11:00AM EST by NWS Marquette MI",
+   "extra": "Humidity 72% \u00b7 Wind N 10 mph",
+   "today": "Snow Showers Likely, high 33\u00b0F",
+   "tonight": "Slight Chance Snow Showers then Mostly Cloudy, low 18\u00b0F",
+   "tomorrow": "Partly Sunny, high 35\u00b0F"
   }
  ],
  "apod": {
-  "date": "November 6, 2026",
-  "title": "M30's Sparkling Stars",
-  "credit": "NASA/ESA Hubble",
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg",
-  "explanation": "This NASA/ESA Hubble Space Telescope image, released Nov. 5, 2026, shows the globular star cluster Messier 30 (M30), about 27,500 light-years away in the constellation Capricornus. Named for French astronomer Charles Messier, who cataloged it and other diffuse objects that might be mistaken for comets, the sparkling collection of blue and yellow stars offers a lesson in galactic history.",
-  "pageUrl": "https://www.nasa.gov/image-article/m30s-sparkling-stars/"
+  "date": "November 23, 2026",
+  "title": "Laser Focus at the Top of the World",
+  "credit": "NASA Earth Observatory",
+  "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/laser-focus-at-the-top-of-the-world/svalbardzm_oli2_20260730_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+  "explanation": "A next-generation satellite laser ranging system has debuted at the Ny-\u00c5lesund Geodetic Observatory in Svalbard, Norway \u2014 the northernmost facility of its kind on Earth. This Landsat 9 view shows the remote Arctic station, whose lasers fire thousands of pulses per second at orbiting satellites to pin down their orbits, Earth's shape and its center of mass with single-photon precision.",
+  "pageUrl": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/"
  },
  "aqiMap": {
   "image": "aqi-map.jpg",
-  "stamp": "Mon Nov 23, 2026, 10:00 AM CT",
+  "stamp": "Mon Nov 23, 2026, 9:00 AM CT",
   "credit": "AQI & wind data: Open-Meteo (CAMS / NOAA)"
  },
  "portfolio": {
   "mode": "24h",
-  "asOf": "Mon, Nov 23, 2026, 10:01 AM CT",
+  "asOf": "Mon, Nov 23, 2026, 9:15 AM CT",
   "cells": [
    {
     "symbol": "GOLD",
-    "price": 3672.8,
+    "price": 3672.5,
     "spark": [
      3515.3999,
      3575.3999,
@@ -953,17 +953,14 @@
      3690.3999,
      3665.8999,
      3669.3,
-     3660.2,
-     3678.8,
-     3671.5,
-     3672.1001,
-     3672.8
+     3671.2,
+     3672.5
     ],
     "lead": true
    },
    {
     "symbol": "SILVER",
-    "price": 43.425,
+    "price": 43.565,
     "spark": [
      41.07,
      41.94,
@@ -1030,17 +1027,14 @@
      44.1,
      43.5,
      43.61,
-     43.41,
-     43.615,
-     43.47,
-     43.41,
-     43.425
+     43.53,
+     43.565
     ],
     "lead": true
    },
    {
     "symbol": "EUR/USD",
-    "price": 1.09,
+    "price": 1.0913,
     "spark": [
      1.0975,
      1.0981,
@@ -1103,19 +1097,20 @@
      1.0943,
      1.0937,
      1.093,
-     1.0915,
-     1.0913,
-     1.0918,
-     1.0898,
-     1.09
+     1.0916,
+     1.0913
     ],
     "fx": true,
     "lead": true
    },
    {
     "symbol": "BITCOIN",
-    "price": 62831.25,
+    "price": 62980.3789,
     "spark": [
+     60795.3008,
+     60837.7305,
+     60669.0781,
+     60799.9102,
      60978.2109,
      61147.1914,
      61260.1016,
@@ -1208,11 +1203,8 @@
      64191.1016,
      63245.7383,
      62802.1211,
-     63005.9297,
-     63323.4492,
-     62956.7188,
-     62822.8008,
-     62831.25
+     62998.1719,
+     62980.3789
     ],
     "lead": true
    },
@@ -1228,9 +1220,6 @@
      4.962,
      4.944,
      4.946,
-     4.948,
-     4.958,
-     4.954,
      4.948
     ],
     "yield": true,
@@ -1238,22 +1227,19 @@
    },
    {
     "symbol": "RUSSELL 2000",
-    "price": 2661.2239,
+    "price": 2652.1045,
     "spark": [
      2582.4155,
      2653.7063,
-     2651.7954,
-     2656.7476,
-     2665.0349,
-     2663.6921,
-     2661.2239
+     2652.6655,
+     2652.1045
     ],
     "index": true,
     "lead": true
    },
    {
     "symbol": "DOLLAR INDEX",
-    "price": 104.352,
+    "price": 104.235,
     "spark": [
      103.84,
      103.84,
@@ -1321,18 +1307,15 @@
      104.097,
      104.144,
      104.198,
-     104.328,
-     104.307,
-     104.278,
-     104.331,
-     104.352
+     104.235,
+     104.235
     ],
     "num2": true,
     "lead": true
    },
    {
     "symbol": "NATURAL GAS",
-    "price": 3.465,
+    "price": 3.486,
     "spark": [
      3.748,
      3.642,
@@ -1399,31 +1382,25 @@
      3.526,
      3.505,
      3.498,
-     3.472,
-     3.448,
-     3.46,
-     3.465,
-     3.465
+     3.487,
+     3.486
     ],
     "lead": true
    },
    {
     "symbol": "AAPL",
-    "price": 349.16,
+    "price": 348.56,
     "spark": [
      342.68,
      347.0,
      348.04,
-     348.6451,
-     351.1778,
-     351.61,
-     349.41,
-     349.16
+     348.05,
+     348.56
     ]
    },
    {
     "symbol": "AIL.F",
-    "price": 204.7343,
+    "price": 204.0342,
     "spark": [
      205.1938,
      204.7781,
@@ -1454,114 +1431,84 @@
      203.3123,
      203.9686,
      203.9905,
-     204.253,
-     204.5156,
-     204.6687,
-     204.6906,
-     204.7343
+     204.0342
     ]
    },
    {
     "symbol": "AMGN",
-    "price": 450.7,
+    "price": 448.28,
     "spark": [
      435.74,
      446.39,
      447.6,
-     448.54,
-     449.17,
-     449.36,
-     450.71,
-     450.7
+     448.595,
+     448.28
     ]
    },
    {
     "symbol": "AMZN",
-    "price": 257.795,
+    "price": 256.2751,
     "spark": [
      247.15,
      252.79,
      254.79,
-     256.34,
-     256.975,
-     257.06,
-     257.5,
-     257.83,
-     257.795
+     255.97,
+     256.2751
     ]
    },
    {
     "symbol": "ANT",
-    "price": 88.55,
+    "price": 89.37,
     "spark": [
      88.445,
      89.44,
      89.2457,
-     89.54,
-     85.63,
-     87.655,
-     88.7646,
-     88.55,
-     88.55
+     89.5,
+     89.37
     ]
    },
    {
     "symbol": "ARGT",
-    "price": 66.9,
+    "price": 67.0001,
     "spark": [
      64.58,
      67.09,
      67.15,
-     66.955,
-     67.2251,
-     66.9005,
-     66.9001,
-     66.9
+     66.91,
+     67.0001
     ]
    },
    {
     "symbol": "AUGO",
-    "price": 63.935,
+    "price": 63.39,
     "spark": [
      57.12,
      63.0217,
      62.8,
-     63.39,
-     63.91,
-     64.15,
-     63.74,
-     63.845,
-     63.935
+     63.435,
+     63.39
     ]
    },
    {
     "symbol": "BEP",
-    "price": 29.875,
+    "price": 29.81,
     "spark": [
      29.12,
      30.16,
-     29.905,
+     29.925,
      29.79,
-     29.76,
-     29.78,
-     29.89,
-     29.875,
-     29.875
+     29.81
     ]
    },
    {
     "symbol": "CEG",
-    "price": 252.0,
+    "price": 252.19,
     "spark": [
      237.44,
      253.35,
      249.62,
-     251.8,
-     251.38,
-     250.83,
-     251.78,
-     252.47,
-     252.0
+     252.1499,
+     252.19
     ]
    },
    {
@@ -1575,119 +1522,90 @@
    },
    {
     "symbol": "CVX",
-    "price": 207.095,
+    "price": 207.25,
     "spark": [
      208.4,
      207.72,
      208.11,
-     207.22,
-     207.6,
-     207.1792,
-     207.29,
-     207.2,
-     207.095
+     207.41,
+     207.25
     ]
    },
    {
     "symbol": "ET",
-    "price": 18.655,
+    "price": 18.73,
     "spark": [
      18.59,
      18.73,
      18.78,
-     18.72,
-     18.75,
-     18.687,
-     18.675,
-     18.67,
-     18.655
+     18.725,
+     18.73
     ]
    },
    {
     "symbol": "FSLR",
-    "price": 146.71,
+    "price": 145.778,
     "spark": [
      137.61,
      147.24,
      146.72,
-     145.695,
-     146.935,
-     147.27,
-     146.99,
-     146.93,
-     146.71
+     145.885,
+     145.778
     ]
    },
    {
     "symbol": "GE",
-    "price": 322.69,
+    "price": 318.45,
     "spark": [
      309.725,
      316.2151,
      316.975,
-     318.32,
-     320.43,
-     321.78,
-     322.81,
-     323.12,
-     322.69
+     318.795,
+     318.45
     ]
    },
    {
     "symbol": "GEV",
-    "price": 761.29,
+    "price": 761.5,
     "spark": [
      699.52,
      756.0,
-     754.76,
-     760.455,
-     767.0,
-     762.555,
-     762.075,
-     763.7427,
-     761.29
+     754.95,
+     761.295,
+     761.5
     ]
    },
    {
     "symbol": "GOOGL",
-    "price": 282.34,
+    "price": 280.585,
     "spark": [
      265.6767,
      277.5,
      280.3875,
-     280.57,
-     282.4236,
-     282.275,
-     282.23,
-     282.65,
-     282.34
+     280.4,
+     280.585
     ]
    },
    {
     "symbol": "GOOGM",
-    "price": 41.5,
+    "price": 41.29,
     "spark": [
      39.63,
      40.94,
      41.23,
-     41.29,
-     41.49,
-     41.52,
-     41.47,
-     41.5
+     41.31,
+     41.29
     ]
    },
    {
     "symbol": "GOOW",
-    "price": 43.96,
+    "price": 43.69,
     "spark": [
      41.335,
      43.0,
      43.79,
-     43.69,
-     44.0314,
-     44.08,
-     43.96
+     43.845,
+     43.69
     ]
    },
    {
@@ -1698,71 +1616,51 @@
      50.635,
      50.63,
      50.63,
-     50.625,
-     50.63,
-     50.63,
-     50.6265,
      50.63
     ]
    },
    {
     "symbol": "JEPI",
-    "price": 55.93,
+    "price": 55.815,
     "spark": [
      54.2699,
      55.525,
-     55.695,
-     55.81,
-     55.99,
-     55.9299,
-     55.96,
-     55.979,
-     55.93
+     55.7,
+     55.815,
+     55.815
     ]
    },
    {
     "symbol": "JEPQ",
-    "price": 54.125,
+    "price": 54.105,
     "spark": [
      50.8883,
      53.6199,
      53.9749,
-     54.12,
-     54.3927,
-     54.295,
-     54.18,
-     54.19,
-     54.125
+     54.105,
+     54.105
     ]
    },
    {
     "symbol": "LLY",
-    "price": 1376.6,
+    "price": 1372.33,
     "spark": [
      1347.0601,
      1362.615,
-     1370.3101,
-     1372.5,
-     1371.87,
-     1373.79,
-     1377.4,
-     1377.71,
-     1376.6
+     1370.415,
+     1372.575,
+     1372.33
     ]
    },
    {
     "symbol": "LNG",
-    "price": 296.245,
+    "price": 297.56,
     "spark": [
      294.92,
      298.72,
-     299.09,
-     297.925,
-     296.83,
-     295.82,
-     296.52,
-     296.16,
-     296.245
+     299.1,
+     298.155,
+     297.56
     ]
    },
    {
@@ -1772,146 +1670,107 @@
      100.585,
      100.6211,
      100.615,
-     100.62,
-     100.6163,
-     100.615,
-     100.62,
      100.615,
      100.62
     ]
    },
    {
     "symbol": "MP",
-    "price": 35.48,
+    "price": 34.78,
     "spark": [
      33.94,
      34.97,
      34.49,
-     34.84,
-     34.91,
-     35.325,
-     35.62,
-     35.6,
-     35.48
+     34.8799,
+     34.78
     ]
    },
    {
     "symbol": "MRNA",
-    "price": 211.49,
+    "price": 208.96,
     "spark": [
      195.11,
      211.53,
      206.08,
-     209.02,
-     210.35,
-     210.66,
-     211.85,
-     211.7172,
-     211.49
+     209.205,
+     208.96
     ]
    },
    {
     "symbol": "MU",
-    "price": 705.425,
+    "price": 705.3,
     "spark": [
      594.385,
      680.075,
      694.855,
-     706.0,
-     713.535,
-     711.775,
-     707.135,
-     708.1851,
-     705.425
+     708.51,
+     705.3
     ]
    },
    {
     "symbol": "NVDA",
-    "price": 167.895,
+    "price": 166.335,
     "spark": [
      125.79,
      161.42,
      168.5533,
-     166.505,
-     169.9899,
-     168.65,
-     168.44,
-     168.6768,
-     167.895
+     167.14,
+     166.335
     ]
    },
    {
     "symbol": "PFE",
-    "price": 27.615,
+    "price": 27.505,
     "spark": [
      27.42,
      27.445,
-     27.53,
-     27.51,
-     27.56,
-     27.5699,
-     27.625,
-     27.615,
-     27.615
+     27.528,
+     27.535,
+     27.505
     ]
    },
    {
     "symbol": "QQQI",
-    "price": 48.635,
+    "price": 48.66,
     "spark": [
      45.554,
      48.2,
      48.5092,
-     48.6699,
-     48.925,
-     48.825,
-     48.69,
-     48.73,
-     48.635
+     48.645,
+     48.66
     ]
    },
    {
     "symbol": "QQQY",
-    "price": 19.01,
+    "price": 18.985,
     "spark": [
      17.71,
      18.8101,
      18.92,
-     18.985,
-     19.115,
-     19.0701,
-     18.95,
-     19.01
+     18.99,
+     18.985
     ]
    },
    {
     "symbol": "RITM",
-    "price": 8.28,
+    "price": 8.2499,
     "spark": [
      8.055,
      8.142,
      8.25,
-     8.25,
-     8.265,
-     8.265,
-     8.285,
-     8.28,
-     8.28
+     8.245,
+     8.2499
     ]
    },
    {
     "symbol": "RKLB",
-    "price": 50.0901,
+    "price": 50.33,
     "spark": [
      45.46,
      49.9091,
      49.91,
-     50.335,
-     50.59,
-     50.385,
-     50.26,
-     50.29,
-     50.0901
+     50.255,
+     50.33
     ]
    },
    {
@@ -1925,46 +1784,35 @@
    },
    {
     "symbol": "SPCX",
-    "price": 136.37,
+    "price": 139.6885,
     "spark": [
      127.9637,
      139.83,
      139.87,
-     139.74,
-     139.2201,
-     138.21,
-     136.63,
-     136.53,
-     136.37
+     139.7332,
+     139.6885
     ]
    },
    {
     "symbol": "SPYI",
-    "price": 50.06,
+    "price": 49.965,
     "spark": [
      47.83,
      49.63,
      49.88,
-     49.98,
-     50.21,
-     50.14,
-     50.11,
-     50.125,
-     50.06
+     49.975,
+     49.965
     ]
    },
    {
     "symbol": "SUN",
-    "price": 62.1,
+    "price": 63.2624,
     "spark": [
      62.64,
      63.145,
      63.33,
-     62.89,
-     62.69,
-     62.32,
-     62.17,
-     62.1
+     63.13,
+     63.2624
     ]
    },
    {
@@ -1987,108 +1835,80 @@
    },
    {
     "symbol": "TFC",
-    "price": 46.91,
+    "price": 46.655,
     "spark": [
      45.81,
      46.51,
-     46.63,
-     46.64,
-     46.915,
-     46.845,
-     46.93,
-     46.94,
-     46.91
+     46.62,
+     46.69,
+     46.655
     ]
    },
    {
     "symbol": "UAMY",
-    "price": 2.41,
+    "price": 2.5,
     "spark": [
      2.23,
      2.4801,
      2.438,
-     2.5,
-     2.425,
-     2.43,
-     2.425,
-     2.425,
-     2.41
+     2.495,
+     2.5
     ]
    },
    {
     "symbol": "UEC",
-    "price": 5.795,
+    "price": 5.78,
     "spark": [
      5.3082,
      5.83,
      5.78,
-     5.785,
-     5.82,
-     5.785,
-     5.82,
-     5.815,
-     5.795
+     5.795,
+     5.78
     ]
    },
    {
     "symbol": "UUUU",
-    "price": 5.38,
+    "price": 5.39,
     "spark": [
      4.955,
      5.465,
      5.405,
-     5.39,
-     5.425,
-     5.415,
-     5.395,
-     5.4,
-     5.38
+     5.3907,
+     5.39
     ]
    },
    {
     "symbol": "VI5TC",
-    "price": 149.2011,
+    "price": 148.9025,
     "spark": [
      142.2095,
      147.7598,
      148.6034,
      148.8655,
-     149.5993,
-     149.3621,
-     149.2353,
-     149.3175,
-     149.2011
+     148.9025
     ],
     "est": true
    },
    {
     "symbol": "VLO",
-    "price": 333.585,
+    "price": 335.305,
     "spark": [
      334.18,
      333.145,
      332.53,
-     335.305,
-     334.83,
-     333.04,
-     334.57,
-     333.83,
-     333.585
+     335.64,
+     335.305
     ]
    },
    {
     "symbol": "VRTX",
-    "price": 527.995,
+    "price": 527.49,
     "spark": [
      515.05,
      527.155,
      526.35,
      527.49,
-     528.12,
-     528.24,
-     528.21,
-     528.26,
-     527.995
+     527.49
     ]
    },
    {
@@ -2102,17 +1922,13 @@
    },
    {
     "symbol": "XOM",
-    "price": 158.3,
+    "price": 158.58,
     "spark": [
      159.97,
      158.53,
      158.85,
-     158.58,
-     158.74,
-     158.13,
-     158.42,
-     158.31,
-     158.3
+     158.6297,
+     158.58
     ]
    }
   ]
