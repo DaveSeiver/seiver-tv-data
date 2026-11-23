@@ -217,6 +217,14 @@
       .apod .meta{font-size:12.5px;color:var(--muted)}
       .apod .desc{margin:6px 0 0;font-size:14.5px}
       footer{margin-top:30px;border-top:1px solid var(--line);padding-top:12px;font-size:12.5px;color:var(--muted)}
+      /* Portfolio grid (weekend editions) */
+      .pfgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(108px,1fr));gap:8px;margin-top:10px}
+      .pfcell{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:8px 10px 7px}
+      .pfcell .sym{font-size:13px;font-weight:700;letter-spacing:.02em}
+      .pfcell .px{font-size:12.5px;color:var(--muted);margin-top:1px}
+      .pfcell .px .est{font-size:9px;letter-spacing:.1em;color:var(--accent-ink)}
+      .pfcell .sp7{display:block;margin-top:5px}
+      .pfcell .sp7 svg{display:block;width:100%;height:20px}
           /* AI models scoring matrix (weekend editions) */
       .aqimap-card{background:var(--panel); border:1px solid var(--line); box-shadow:var(--shadow); padding:10px;}
       .aqimap-card img{width:100%; height:auto; display:block;}
@@ -307,6 +315,18 @@
 
       <!-- BREAKING NEWS (rendered only when the data has stories) -->
       <div id="breakingSlot"></div>
+
+      <!-- Weekend editions only: Sean's portfolio grid — every stock,
+           ETF and mutual fund from the Seiver Portfolio sheet (money-
+           market funds excluded), one compact cell per holding with
+           symbol, latest close and a 7-day sparkline. Sits directly
+           under Breaking News. Shown only when the build carries
+           portfolio data. -->
+      <section id="sec-portfolio" aria-labelledby="h-portfolio" hidden>
+        <h2 class="sec" id="h-portfolio">MY PORTFOLIO</h2>
+        <p class="sec-sub" id="portfolioSub"></p>
+        <div class="pfgrid" id="portfolioGrid"></div>
+      </section>
 
       <!-- Weekend editions only (data edition="weekend"): Interesting
            Stories of the Week replaces Markets, CD Rates and the
@@ -454,6 +474,8 @@
       if (hwSec) hwSec.hidden = !(weekend && D.aiHardware && D.aiHardware.length);
       var rdSec = document.getElementById("sec-ready");
       if (rdSec) rdSec.hidden = !(weekend && D.readiness && typeof D.readiness.score === "number");
+      var pfSec = document.getElementById("sec-portfolio");
+      if (pfSec) pfSec.hidden = !(weekend && D.portfolio && D.portfolio.cells && D.portfolio.cells.length);
 
       var aqiSec = document.getElementById("sec-aqimap");
       if (aqiSec && D.aqiMap && D.aqiMap.image) {
@@ -654,6 +676,40 @@
         });
         /* clone the full set once for the seamless loop */
         track.innerHTML += track.innerHTML;
+      })();
+
+      /* Weekend — portfolio grid (weekend editions only; the section
+         itself stays hidden without portfolio data). Cells arrive in
+         Seiver Portfolio sheet order: symbol, latest close, and the
+         last 7 trading days as a sparkline — same polyline family as
+         the watchlist chips. A cell flagged est (VI5TC, derived from
+         the S&P 500 anchor) shows a small EST. tag by its price. */
+      (function(){
+        var grid = document.getElementById("portfolioGrid");
+        if (!grid || !D.portfolio || !D.portfolio.cells) return;
+        var sub = document.getElementById("portfolioSub");
+        if (sub) sub.textContent = "The 3 major indexes, then every stock, ETF and mutual fund on the Seiver Portfolio sheet \\u2014 money-market funds excluded. Prices as of " + (D.portfolio.asOf || "the latest close") + " \\u00b7 sparklines: last 7 trading days.";
+        function pfSpark(cell){
+          if (!cell.spark || cell.spark.length < 2) return '';
+          var W=62, H=20, P=2;
+          var min=Math.min.apply(null,cell.spark), max=Math.max.apply(null,cell.spark), rng=(max-min)||1;
+          var pts = cell.spark.map(function(v,i){
+            var x = P + i*(W-2*P)/(cell.spark.length-1);
+            var y = H-P - (v-min)/rng*(H-2*P);
+            return x.toFixed(1)+","+y.toFixed(1);
+          });
+          var net = cell.spark[cell.spark.length-1] - cell.spark[0];
+          var color = net > 0 ? "#3ecf7a" : (net < 0 ? "#ff6d64" : "rgba(245,239,223,.55)");
+          return '<span class="sp7" title="'+esc(cell.symbol)+' \u2014 last 7 days"><svg viewBox="0 0 '+W+' '+H+'" preserveAspectRatio="none" aria-hidden="true">'
+            + '<polyline points="'+pts.join(" ")+'" fill="none" stroke="'+color+'" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"></polyline></svg></span>';
+        }
+        D.portfolio.cells.forEach(function(cell){
+          var c = el('<div class="pfcell"></div>');
+          c.innerHTML = '<div class="sym">'+esc(cell.symbol)+'</div>'
+            + '<div class="px num">'+(cell.index ? '' : '$')+Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:2, maximumFractionDigits:2})+(cell.est ? ' <span class="est">EST.</span>' : '')+'</div>'
+            + pfSpark(cell);
+          grid.appendChild(c);
+        });
       })();
 
       /* Weekend — Interesting Stories of the Week (weekend editions
