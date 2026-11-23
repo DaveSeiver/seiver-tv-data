@@ -320,10 +320,10 @@
       <!-- BREAKING NEWS (rendered only when the data has stories) -->
       <div id="breakingSlot"></div>
 
-      <!-- Weekend editions only: Sean's portfolio grid — every stock,
+      <!-- Both editions: Sean's equities grid (WALL STREET TODAY on weekdays, WALL STREET LAST WEEK on weekends) — every stock,
            ETF and mutual fund from the Seiver Portfolio sheet (money-
            market funds excluded), one compact cell per holding with
-           symbol, latest close and a 7-day sparkline. Sits directly
+           symbol, latest price and a trend sparkline (24-hour trend on weekdays, 7-day trend on weekends). Sits directly
            under Breaking News. Shown only when the build carries
            portfolio data. -->
       <section id="sec-portfolio" aria-labelledby="h-portfolio" hidden>
@@ -480,7 +480,7 @@
       var rdSec = document.getElementById("sec-ready");
       if (rdSec) rdSec.hidden = !(weekend && D.readiness && typeof D.readiness.score === "number");
       var pfSec = document.getElementById("sec-portfolio");
-      if (pfSec) pfSec.hidden = !(weekend && D.portfolio && D.portfolio.cells && D.portfolio.cells.length);
+      if (pfSec) pfSec.hidden = !(D.portfolio && D.portfolio.cells && D.portfolio.cells.length);
 
       var aqiSec = document.getElementById("sec-aqimap");
       if (aqiSec && D.aqiMap && D.aqiMap.image) {
@@ -693,8 +693,11 @@
         var grid = document.getElementById("portfolioGrid");
         var lead = document.getElementById("portfolioLead");
         if (!grid || !D.portfolio || !D.portfolio.cells) return;
+        var head = document.getElementById("h-portfolio");
+        if (head) head.textContent = (D.portfolio.mode === "24h") ? "WALL STREET TODAY" : "WALL STREET LAST WEEK";
         var sub = document.getElementById("portfolioSub");
-        if (sub) sub.textContent = "Prices as of " + (D.portfolio.asOf || "the latest close") + "; Trends for the last 7 trading days.";
+        if (sub) sub.textContent = "Prices as of " + (D.portfolio.asOf || "the latest close") + (D.portfolio.mode === "24h" ? "; Trends for the last 24 hours." : "; Trends for the last 7 trading days.");
+        var trendLabel = (D.portfolio.mode === "24h") ? "last 24 hours" : "last 7 days";
         function pfSpark(cell){
           if (!cell.spark || cell.spark.length < 2) return '';
           var W=62, H=20, P=2;
@@ -706,7 +709,7 @@
           });
           var net = cell.spark[cell.spark.length-1] - cell.spark[0];
           var color = net > 0 ? "#3ecf7a" : (net < 0 ? "#ff6d64" : "rgba(245,239,223,.55)");
-          return '<span class="sp7" title="'+esc(cell.symbol)+' \u2014 last 7 days"><svg viewBox="0 0 '+W+' '+H+'" preserveAspectRatio="none" aria-hidden="true">'
+          return '<span class="sp7" title="'+esc(cell.symbol)+' \u2014 ' + trendLabel + '"><svg viewBox="0 0 '+W+' '+H+'" preserveAspectRatio="none" aria-hidden="true">'
             + '<polyline points="'+pts.join(" ")+'" fill="none" stroke="'+color+'" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"></polyline></svg></span>';
         }
         var leadSpacerDone = false;
