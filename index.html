@@ -715,7 +715,7 @@
         var leadSpacerDone = false, leadHasIndex = false;
         D.portfolio.cells.forEach(function(cell){
           if (cell.lead && cell.index) leadHasIndex = true;
-          if (cell.lead && !cell.index && !leadSpacerDone && lead && leadHasIndex){
+          if (cell.lead && cell.symbol === 'GOLD' && !leadSpacerDone && lead && leadHasIndex){
             lead.appendChild(el('<div class="pfspacer" aria-hidden="true"></div>'));
             leadSpacerDone = true;
           }
