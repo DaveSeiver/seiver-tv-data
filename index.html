@@ -717,7 +717,7 @@
             chg = '<span class="chg '+cls+'">'+txt+'</span>';
           }
           c.innerHTML = '<div class="sym">'+esc(cell.symbol)+'</div>'
-            + '<div class="px num"><span>'+(cell.index ? Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:0, maximumFractionDigits:0}) : '$'+Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:2, maximumFractionDigits:2}))+(cell.est ? ' <span class="est">EST.</span>' : '')+'</span>'+chg+'</div>'
+            + '<div class="px num"><span>'+(cell.index ? Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:0, maximumFractionDigits:0}) : (cell.fx ? Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:4, maximumFractionDigits:4}) : '$'+Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:2, maximumFractionDigits:2})))+(cell.est ? ' <span class="est">EST.</span>' : '')+'</span>'+chg+'</div>'
             + pfSpark(cell);
           grid.appendChild(c);
         });
