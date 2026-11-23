@@ -712,9 +712,10 @@
           return '<span class="sp7" title="'+esc(cell.symbol)+' \u2014 ' + trendLabel + '"><svg viewBox="0 0 '+W+' '+H+'" preserveAspectRatio="none" aria-hidden="true">'
             + '<polyline points="'+pts.join(" ")+'" fill="none" stroke="'+color+'" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"></polyline></svg></span>';
         }
-        var leadSpacerDone = false;
+        var leadSpacerDone = false, leadHasIndex = false;
         D.portfolio.cells.forEach(function(cell){
-          if (cell.lead && !cell.index && !leadSpacerDone && lead){
+          if (cell.lead && cell.index) leadHasIndex = true;
+          if (cell.lead && !cell.index && !leadSpacerDone && lead && leadHasIndex){
             lead.appendChild(el('<div class="pfspacer" aria-hidden="true"></div>'));
             leadSpacerDone = true;
           }
@@ -728,7 +729,7 @@
             chg = '<span class="chg '+cls+'">'+txt+'</span>';
           }
           c.innerHTML = '<div class="sym">'+esc(cell.symbol)+(cell.est ? ' <span class="est">Est.</span>' : '')+'</div>'
-            + '<div class="px num"><span>'+(cell.index ? Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:0, maximumFractionDigits:0}) : (cell.fx ? Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:4, maximumFractionDigits:4}) : '$'+Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:2, maximumFractionDigits:2})))+'</span>'+chg+'</div>'
+            + '<div class="px num"><span>'+(cell.index ? Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:0, maximumFractionDigits:0}) : (cell.fx ? Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:4, maximumFractionDigits:4}) : (cell.yield ? Number(cell.price).toFixed(2)+'%' : (cell.num2 ? Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:2, maximumFractionDigits:2}) : '$'+Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:2, maximumFractionDigits:2})))))+'</span>'+chg+'</div>'
             + pfSpark(cell);
           (cell.lead && lead ? lead : grid).appendChild(c);
         });
