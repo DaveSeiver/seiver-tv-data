@@ -1,5 +1,5 @@
 {
- "version": 79,
+ "version": 80,
  "asOf": "Mon Nov 23, 2026, 9:15 AM CT",
  "breaking": [
   {
@@ -770,13 +770,13 @@
   "boxes": [
    {
     "callable": {
-     "etrade": "5.00% Thomasville",
+     "etrade": "5.05% Central Bk Little Rock",
      "fdicNote": null,
      "green": "schwab",
      "schwab": "5.20%* Morgan Stanley (semi-annual)"
     },
     "noncall": {
-     "etrade": "4.80% Forbright Bk",
+     "etrade": "5.00% Wells Fargo",
      "fdicNote": null,
      "green": "schwab",
      "schwab": "5.00% Wells Fargo"
@@ -791,7 +791,7 @@
      "schwab": "5.40%* Morgan Stanley (semi-annual)"
     },
     "noncall": {
-     "etrade": "5.00% UBS Bank USA",
+     "etrade": "5.05% Wells Fargo",
      "fdicNote": null,
      "green": "schwab",
      "schwab": "5.05% Wells Fargo"
