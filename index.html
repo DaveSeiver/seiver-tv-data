@@ -711,12 +711,13 @@
           var chg = '';
           if (cell.spark && cell.spark.length > 1 && cell.spark[0]){
             var pct = (cell.spark[cell.spark.length-1] - cell.spark[0]) / cell.spark[0] * 100;
-            var cls = pct > 0 ? 'up' : (pct < 0 ? 'down' : '');
-            var txt = (pct > 0 ? '+' : '') + pct.toFixed(2) + '%';
+            var r = Math.round(pct * 10) / 10;
+            var cls = r > 0 ? 'up' : (r < 0 ? 'down' : '');
+            var txt = (r > 0 ? '+' : '') + r.toFixed(1) + '%';
             chg = '<span class="chg '+cls+'">'+txt+'</span>';
           }
           c.innerHTML = '<div class="sym">'+esc(cell.symbol)+'</div>'
-            + '<div class="px num"><span>'+(cell.index ? '' : '$')+Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:2, maximumFractionDigits:2})+(cell.est ? ' <span class="est">EST.</span>' : '')+'</span>'+chg+'</div>'
+            + '<div class="px num"><span>'+(cell.index ? Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:0, maximumFractionDigits:0}) : '$'+Number(cell.price).toLocaleString("en-US",{minimumFractionDigits:2, maximumFractionDigits:2}))+(cell.est ? ' <span class="est">EST.</span>' : '')+'</span>'+chg+'</div>'
             + pfSpark(cell);
           grid.appendChild(c);
         });
