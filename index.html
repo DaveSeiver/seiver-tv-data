@@ -709,7 +709,12 @@
           return '<span class="sp7" title="'+esc(cell.symbol)+' \u2014 last 7 days"><svg viewBox="0 0 '+W+' '+H+'" preserveAspectRatio="none" aria-hidden="true">'
             + '<polyline points="'+pts.join(" ")+'" fill="none" stroke="'+color+'" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"></polyline></svg></span>';
         }
+        var leadSpacerDone = false;
         D.portfolio.cells.forEach(function(cell){
+          if (cell.lead && !cell.index && !leadSpacerDone && lead){
+            lead.appendChild(el('<div class="pfspacer" aria-hidden="true"></div>'));
+            leadSpacerDone = true;
+          }
           var c = el('<div class="pfcell"></div>');
           var chg = '';
           if (cell.spark && cell.spark.length > 1 && cell.spark[0]){
