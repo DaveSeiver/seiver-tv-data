@@ -320,7 +320,7 @@
       <!-- BREAKING NEWS (rendered only when the data has stories) -->
       <div id="breakingSlot"></div>
 
-      <!-- Both editions: Sean's equities grid (WALL STREET TODAY on weekdays, WALL STREET LAST WEEK on weekends) — every stock,
+      <!-- Both editions: Sean's equities grid (WALL STREET TODAY on weekdays, WALL STREET WEEK IN REVIEW on weekends) — every stock,
            ETF and mutual fund from the Seiver Portfolio sheet (money-
            market funds excluded), one compact cell per holding with
            symbol, latest price and a trend sparkline (24-hour trend on weekdays, 7-day trend on weekends). Sits directly
@@ -694,7 +694,7 @@
         var lead = document.getElementById("portfolioLead");
         if (!grid || !D.portfolio || !D.portfolio.cells) return;
         var head = document.getElementById("h-portfolio");
-        if (head) head.textContent = (D.portfolio.mode === "24h") ? "WALL STREET TODAY" : "WALL STREET LAST WEEK";
+        if (head) head.textContent = (D.portfolio.mode === "24h") ? "WALL STREET TODAY" : "WALL STREET WEEK IN REVIEW";
         var sub = document.getElementById("portfolioSub");
         if (sub) sub.textContent = "Prices as of " + (D.portfolio.asOf || "the latest close") + (D.portfolio.mode === "24h" ? "; Trends for the last 24 hours." : "; Trends for the last 7 trading days.");
         var trendLabel = (D.portfolio.mode === "24h") ? "last 24 hours" : "last 7 days";
