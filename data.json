@@ -1,6 +1,6 @@
 {
- "version": 85,
- "asOf": "Mon Nov 23, 2026, 1:05 PM CT",
+ "version": 86,
+ "asOf": "Mon Nov 23, 2026, 1:18 PM CT",
  "breaking": [
   {
    "tag": "US",
@@ -366,27 +366,6 @@
    ],
    "subTag": "$0.30849 dist., ex Nov 2, paid Nov 5",
    "yieldTag": "Dist. yield 4.04%"
-  },
-  {
-   "ticker": "FAST",
-   "name": "Fastenal",
-   "link": "https://finance.yahoo.com/quote/FAST",
-   "risk": 2,
-   "price": "$52.09",
-   "change": "+2.92%",
-   "dir": "up",
-   "blurb": "Fastenal climbed 2.9% to $52.09, joining the broad rebound. The industrial distributor is a clean read on U.S. manufacturing and construction demand, and it fell with the cyclicals on Friday before bouncing with them today. Its 7-day chart shows the damage was orderly \u2014 a slide from the mid-$50s, not a break. Nothing company-specific drove the move; this was the market's tide, in and out.",
-   "spark": [
-    55.19,
-    55.11,
-    54.35,
-    53.96,
-    52.68,
-    50.61,
-    52.09
-   ],
-   "subTag": null,
-   "yieldTag": null
   },
   {
    "ticker": "GOOGL",
