@@ -1,6 +1,6 @@
 {
- "version": 83,
- "asOf": "Mon Nov 23, 2026, 12:52 PM CT",
+ "version": 84,
+ "asOf": "Mon Nov 23, 2026, 1:04 PM CT",
  "breaking": [
   {
    "tag": "US",
@@ -459,7 +459,7 @@
    "price": "$167.68",
    "change": "+33.58%",
    "dir": "up",
-   "blurb": "Nvidia soared 33.6% to $167.68 \u2014 its biggest one-day gain in 23 years \u2014 after the board voted unanimously to reinstate Jensen Huang as President and CEO, effective immediately. The reversal came just six days after the board said it would never reinstate him, and it cited input from senior U.S. government officials; President Trump publicly praised the move. Colette Kress returns to the CFO role. The overhangs are not gone \u2014 the SEC probe, California's review, the board's independent investigation and Huang's Dec 1 House interview all remain open \u2014 but today the market is pricing the founder's return, full stop.",
+   "blurb": "Nvidia soared 33.6% to $167.68 \u2014 its biggest one-day gain in 23 years \u2014 after the board voted unanimously to reinstate Jensen Huang as President and CEO, effective immediately, six days after saying it never would. The board cited input from senior U.S. officials; Trump praised the move, and Colette Kress returns to CFO. The overhangs remain \u2014 SEC probe, California review, the board's investigation, Huang's Dec 1 House interview \u2014 but today the market is pricing the founder's return, full stop.",
    "spark": [
     162.85,
     156.14,
