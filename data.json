@@ -1,18 +1,18 @@
 {
- "version": 87,
- "asOf": "Mon Nov 23, 2026, 2:14 PM CT",
+ "version": 88,
+ "asOf": "Mon Nov 23, 2026, 4:24 PM CT",
  "breaking": [
   {
    "tag": "US",
    "headline": "Attorney general finds no evidence Huang broke the law",
-   "fact": "President Trump said today his attorney general confirmed the U.S. government has no evidence Jensen Huang engaged in “any unlawful conduct,” and Nvidia's board cited government input in reinstating him as CEO; Trump publicly praised the return as Nvidia soared more than 30%.",
+   "fact": "President Trump said today his attorney general confirmed the U.S. government has no evidence Jensen Huang engaged in \u201cany unlawful conduct,\u201d and Nvidia's board cited government input in reinstating him as CEO; Trump publicly praised the return as Nvidia soared more than 30%.",
    "source": "Barchart",
    "url": "https://www.barchart.com/story/news/8967613/stocks-rebound-sharply-as-nvidia-reinstates-ceo-huang"
   },
   {
    "tag": "Local",
    "headline": "Houston braces for the season's coldest air; first freeze possible Thanksgiving morning",
-   "fact": "A reinforcing front late Tuesday brings the coldest air of the season to southeast Texas, with Houston's Thanksgiving-morning low near 38° and a possible first freeze across the Brazos Valley and Piney Woods; highs Thursday struggle to reach 60°.",
+   "fact": "A reinforcing front late Tuesday brings the coldest air of the season to southeast Texas, with Houston's Thanksgiving-morning low near 38\u00b0 and a possible first freeze across the Brazos Valley and Piney Woods; highs Thursday struggle to reach 60\u00b0.",
    "source": "KPRC Click2Houston",
    "url": "https://gmg-kprc-prod.cdn.arcpublishing.com/weather/2026/11/22/houston-weather-foggy-to-soggy-sunday-ahead-of-a-thanksgiving-temperature-plunge-clone/"
   },
@@ -316,7 +316,7 @@
    "price": "$205.28",
    "change": "+0.04%",
    "dir": "up",
-   "blurb": "Air Liquide inched up 0.04% in Paris to €187.66 — $205.28 at the ECB's Nov 23 reference rate of 1.0939. The industrial-gas giant barely moved while U.S. tech ripped higher, its usual defensive profile on full display. Its 7-day sparkline shows a slow, orderly drift in euros rather than any break. With no company news in play, the dollar price mostly tracks the euro from here.",
+   "blurb": "Air Liquide inched up 0.04% in Paris to \u20ac187.66 \u2014 $205.28 at the ECB's Nov 23 reference rate of 1.0939. The industrial-gas giant barely moved while U.S. tech ripped higher, its usual defensive profile on full display. Its 7-day sparkline shows a slow, orderly drift in euros rather than any break. With no company news in play, the dollar price mostly tracks the euro from here.",
    "spark": [
     193.32,
     193.24,
@@ -326,7 +326,7 @@
     187.58,
     187.66
    ],
-   "subTag": "€187.66 × 1.0939 (ECB Nov 23)",
+   "subTag": "\u20ac187.66 \u00d7 1.0939 (ECB Nov 23)",
    "yieldTag": null
   },
   {
@@ -337,7 +337,7 @@
    "price": "$85.80",
    "change": "-3.50%",
    "dir": "down",
-   "blurb": "Anthropic fell 3.5% to $85.80, the one big name left out of today's rally as valuation doubts linger. The stock is still in price discovery after Thursday's record debut — it opened at $111.50, closed day one at $97.17, then dropped 8.5% in Friday's rout. Swings like this are normal for a hot new listing with no trading history to anchor to. The $83 IPO price remains the level to watch underneath.",
+   "blurb": "Anthropic fell 3.5% to $85.80, the one big name left out of today's rally as valuation doubts linger. The stock is still in price discovery after Thursday's record debut \u2014 it opened at $111.50, closed day one at $97.17, then dropped 8.5% in Friday's rout. Swings like this are normal for a hot new listing with no trading history to anchor to. The $83 IPO price remains the level to watch underneath.",
    "spark": [
     97.17,
     88.91,
@@ -354,7 +354,7 @@
    "price": "$91.60",
    "change": "+0.01%",
    "dir": "up",
-   "blurb": "BIL edged up 0.01% to $91.60 — ballast on a day when almost everything else swung hard. The 1–3 month T-bill fund does exactly one job: it parks cash at a 4.04% distribution yield with essentially no price risk. Its latest distribution was $0.30849 a share, ex Nov 2 and paid Nov 5. On days like today, this is the chip that lets the rest of the tape do whatever it wants.",
+   "blurb": "BIL edged up 0.01% to $91.60 \u2014 ballast on a day when almost everything else swung hard. The 1\u20133 month T-bill fund does exactly one job: it parks cash at a 4.04% distribution yield with essentially no price risk. Its latest distribution was $0.30849 a share, ex Nov 2 and paid Nov 5. On days like today, this is the chip that lets the rest of the tape do whatever it wants.",
    "spark": [
     91.53,
     91.55,
@@ -396,7 +396,7 @@
    "price": "$1,363.33",
    "change": "+1.20%",
    "dir": "up",
-   "blurb": "Eli Lilly rose 1.2% to $1,363.33, a quieter day for the drugmaker while tech stole the show. New research today showed semaglutide may help repair damaged kidneys — a class-wide read-through that keeps GLP-1 demand in focus. Lilly's weight-loss and diabetes franchises remain the growth engine. The stock sits near the top of the tape's defensive growth names, and today it acted like it.",
+   "blurb": "Eli Lilly rose 1.2% to $1,363.33, a quieter day for the drugmaker while tech stole the show. New research today showed semaglutide may help repair damaged kidneys \u2014 a class-wide read-through that keeps GLP-1 demand in focus. Lilly's weight-loss and diabetes franchises remain the growth engine. The stock sits near the top of the tape's defensive growth names, and today it acted like it.",
    "spark": [
     1443.5,
     1431.67,
@@ -438,7 +438,7 @@
    "price": "$165.95",
    "change": "+32.20%",
    "dir": "up",
-   "blurb": "Nvidia soared 32.2% to $165.95 after the board reinstated Jensen Huang as CEO, effective immediately — six days after saying it never would. The attorney general told Trump the government has no evidence Huang engaged in unlawful conduct, and Trump praised the return. The stock is on pace for a record one-day market-value gain. The SEC probe and Huang's Dec 1 House interview remain open.",
+   "blurb": "Nvidia soared 32.2% to $165.95 after the board reinstated Jensen Huang as CEO, effective immediately \u2014 six days after saying it never would. The attorney general told Trump the government has no evidence Huang engaged in unlawful conduct, and Trump praised the return. The stock is on pace for a record one-day market-value gain. The SEC probe and Huang's Dec 1 House interview remain open.",
    "spark": [
     162.85,
     156.14,
@@ -480,7 +480,7 @@
    "price": "$49.23",
    "change": "+8.39%",
    "dir": "up",
-   "blurb": "Rocket Lab jumped 8.4% to $49.23 as space and growth names caught a strong bid in the relief rally. The launch company has been one of the tape's most volatile holdings, swinging hard with risk appetite in both directions. Today's gain recoups part of last week's selloff but leaves it well off recent highs. Watch for any fresh launch or contract news to set the next leg — the stock rarely sits still for long.",
+   "blurb": "Rocket Lab jumped 8.4% to $49.23 as space and growth names caught a strong bid in the relief rally. The launch company has been one of the tape's most volatile holdings, swinging hard with risk appetite in both directions. Today's gain recoups part of last week's selloff but leaves it well off recent highs. Watch for any fresh launch or contract news to set the next leg \u2014 the stock rarely sits still for long.",
    "spark": [
     61.53,
     57.37,
@@ -543,7 +543,7 @@
    "price": "$46.86",
    "change": "+2.28%",
    "dir": "up",
-   "blurb": "Truist gained 2.3% to $46.86 as banks joined the broad rally and the yield curve stayed steady. The regional bank benefits when rate fears ease, and today's 10-year near 4.93% kept that backdrop intact. Truist's dividend and southeastern footprint make it the tape's steady bank holding. The next catalyst is Wednesday's PCE report, which will shape what the Fed does at its Dec 8–9 meeting.",
+   "blurb": "Truist gained 2.3% to $46.86 as banks joined the broad rally and the yield curve stayed steady. The regional bank benefits when rate fears ease, and today's 10-year near 4.93% kept that backdrop intact. Truist's dividend and southeastern footprint make it the tape's steady bank holding. The next catalyst is Wednesday's PCE report, which will shape what the Fed does at its Dec 8\u20139 meeting.",
    "spark": [
     49.97,
     49.58,
@@ -585,7 +585,7 @@
    "price": "$5.81",
    "change": "+9.53%",
    "dir": "up",
-   "blurb": "Uranium Energy surged 9.5% to $5.81 as uranium names snapped back with the broader risk rally. The stock tracks the uranium price and nuclear-expansion headlines, both supportive longer term. Today's move recoups some of last week's losses but still leaves it well below its autumn highs. The gap watch stays paused until UEC starts popping on its own — today was a market move, not a uranium one.",
+   "blurb": "Uranium Energy surged 9.5% to $5.81 as uranium names snapped back with the broader risk rally. The stock tracks the uranium price and nuclear-expansion headlines, both supportive longer term. Today's move recoups some of last week's losses but still leaves it well below its autumn highs. The gap watch stays paused until UEC starts popping on its own \u2014 today was a market move, not a uranium one.",
    "spark": [
     6.66,
     6.13,
@@ -648,7 +648,7 @@
    "price": "$149.06 (est.)",
    "change": "+4.94%",
    "dir": "up",
-   "blurb": "The S&P-anchored estimate tracks the index's surge: $149.06 (est.), +4.94%. The estimate is built from the Nov 3 anchor — $155.58 when the S&P 500 closed 7,568.92 — and it has tracked the fund closely: Friday's actual close came in at $142.17 against a $142.04 estimate. Days like today are the anchor's best case, since it is the index. When the real NAV prints, expect it within a few dimes of this figure.",
+   "blurb": "The S&P-anchored estimate tracks the index's surge: $149.06 (est.), +4.94%. The estimate is built from the Nov 3 anchor \u2014 $155.58 when the S&P 500 closed 7,568.92 \u2014 and it has tracked the fund closely: Friday's actual close came in at $142.17 against a $142.04 estimate. Days like today are the anchor's best case, since it is the index. When the real NAV prints, expect it within a few dimes of this figure.",
    "spark": [
     155.43,
     152.45,
@@ -669,7 +669,7 @@
    "price": "$1.00",
    "change": "",
    "dir": "flat",
-   "blurb": "Schwab's money market fund holds its stable $1.00 NAV with a 7-day SEC yield of 3.77% as published Nov 20. It is the sweep vehicle, where idle Schwab cash sits between CD purchases, and the plan is to sell it down whenever any account tops $1,000. Its yield trails the Treasury-only funds because it holds a broader mix. The comparison rate is VUSXX's 4.03% — the standing argument for keeping sweep balances small.",
+   "blurb": "Schwab's money market fund holds its stable $1.00 NAV with a 7-day SEC yield of 3.77% as published Nov 20. It is the sweep vehicle, where idle Schwab cash sits between CD purchases, and the plan is to sell it down whenever any account tops $1,000. Its yield trails the Treasury-only funds because it holds a broader mix. The comparison rate is VUSXX's 4.03% \u2014 the standing argument for keeping sweep balances small.",
    "spark": null,
    "subTag": "Yield published Nov 20 (Schwab)",
    "yieldTag": "7-day yield 3.77%"
@@ -682,7 +682,7 @@
    "price": "$1.00",
    "change": "",
    "dir": "flat",
-   "blurb": "Vanguard's Treasury money market fund holds $1.00 with a 7-day SEC yield of 4.03% as published Nov 20 — still the best yield in the cash class on this tape. Treasury-only holdings keep it as close to risk-free as a fund gets, and the 0.07% expense ratio leaves almost nothing on the table. It out-yields Schwab's sweep by about a quarter point. Every CD on the ladder has to beat this rate to earn its place.",
+   "blurb": "Vanguard's Treasury money market fund holds $1.00 with a 7-day SEC yield of 4.03% as published Nov 20 \u2014 still the best yield in the cash class on this tape. Treasury-only holdings keep it as close to risk-free as a fund gets, and the 0.07% expense ratio leaves almost nothing on the table. It out-yields Schwab's sweep by about a quarter point. Every CD on the ladder has to beat this rate to earn its place.",
    "spark": null,
    "subTag": "Yield published Nov 20 (Vanguard)",
    "yieldTag": "7-day yield 4.03%"
@@ -691,12 +691,12 @@
  "weekInBrief": [
   {
    "headline": "Oil slides to two-month lows as surplus fears build",
-   "body": "Brent fell more than 6% and WTI nearly 5% on Monday as traders weighed a growing global supply surplus against the tanker attacks in the Gulf. January Brent touched its lowest since early September, while WTI hit its lowest since late August. The slide came even as Gulf shipping risks kept a premium in prices — supply, for now, is winning the argument.",
+   "body": "Brent fell more than 6% and WTI nearly 5% on Monday as traders weighed a growing global supply surplus against the tanker attacks in the Gulf. January Brent touched its lowest since early September, while WTI hit its lowest since late August. The slide came even as Gulf shipping risks kept a premium in prices \u2014 supply, for now, is winning the argument.",
    "stamp": "Nov 23, 2026"
   },
   {
    "headline": "Wednesday's PCE report looms as markets price a December hike",
-   "body": "Wednesday brings the Fed's preferred inflation gauge, with headline PCE expected at 3.8% and core at 3.2%, alongside revised GDP and the Fed's Beige Book — all two weeks before the Dec. 8–9 meeting. Markets now price a 25-basis-point hike as a near-certainty, and Governor Waller has openly floated 50. A hot print would test today's rally; a cool one could extend it.",
+   "body": "Wednesday brings the Fed's preferred inflation gauge, with headline PCE expected at 3.8% and core at 3.2%, alongside revised GDP and the Fed's Beige Book \u2014 all two weeks before the Dec. 8\u20139 meeting. Markets now price a 25-basis-point hike as a near-certainty, and Governor Waller has openly floated 50. A hot print would test today's rally; a cool one could extend it.",
    "stamp": "Nov 23, 2026"
   },
   {
@@ -714,7 +714,7 @@
   "items": [
    {
     "headline": "Latest from the Strait",
-    "body": "UKMTO reported a tanker incident “involving a tanker and military forces” in the Gulf of Oman near Iran's port of Chabahar on Sunday evening, with no further details and no comment yet from the U.S. military. Iran's navy claimed on Nov. 21 and 22 that tankers hit mines east of the strait — claims no independent source has confirmed — while more than 14 tankers have assembled near Kharg Island as Tehran threatens to test the blockade. The Joint Maritime Information Center has logged seven tankers hit since Nov. 16, and President Trump said Sunday that Iran launched more drones and missiles in the past week than at any time in over a year, all of them intercepted. On the oil itself, Kpler puts flows through the strait at about 9.5 million barrels a day over the 10 days through November 19, down from October's 12.2 million, while Iranian crude loadings remain at zero — the last Iranian cargoes discharged in China earlier this month, leaving no Iranian oil on the water outside the blockade."
+    "body": "UKMTO reported a tanker incident \u201cinvolving a tanker and military forces\u201d in the Gulf of Oman near Iran's port of Chabahar on Sunday evening, with no further details and no comment yet from the U.S. military. Iran's navy claimed on Nov. 21 and 22 that tankers hit mines east of the strait \u2014 claims no independent source has confirmed \u2014 while more than 14 tankers have assembled near Kharg Island as Tehran threatens to test the blockade. The Joint Maritime Information Center has logged seven tankers hit since Nov. 16, and President Trump said Sunday that Iran launched more drones and missiles in the past week than at any time in over a year, all of them intercepted. On the oil itself, Kpler puts flows through the strait at about 9.5 million barrels a day over the 10 days through November 19, down from October's 12.2 million, while Iranian crude loadings remain at zero \u2014 the last Iranian cargoes discharged in China earlier this month, leaving no Iranian oil on the water outside the blockade."
    }
   ],
   "stats": ""
@@ -723,25 +723,26 @@
   {
    "tag": "Space",
    "headline": "Bernstein: SpaceX is a decade ahead after Starship's first catch",
-   "body": "Bernstein said today that SpaceX is about a decade ahead of its rivals in rocket recovery, calling Starship's first upper-stage catch on Nov. 14 a key breakthrough toward a fully reusable system. The 124-metre Starship flew 14 laps around Earth, deployed 26 Starlink V3 satellites and was plucked from the sky by the launch tower's chopstick arms — though its Super Heavy booster was lost after its engines cut out early. Flight 17 hardware is already in cryo testing at Massey's, with Ship 44 finished and Booster 24 in test on Sunday.",
+   "body": "Bernstein said today that SpaceX is about a decade ahead of its rivals in rocket recovery, calling Starship's first upper-stage catch on Nov. 14 a key breakthrough toward a fully reusable system. The 124-metre Starship flew 14 laps around Earth, deployed 26 Starlink V3 satellites and was plucked from the sky by the launch tower's chopstick arms \u2014 though its Super Heavy booster was lost after its engines cut out early. Flight 17 hardware is already in cryo testing at Massey's, with Ship 44 finished and Booster 24 in test on Sunday.",
    "url": "https://ttm.financial/m/news/1187225008"
   },
   {
    "tag": "Science",
    "headline": "Ancient jaw reveals a modern-day mystery",
-   "body": "La Trobe University researchers found a pronounced mandibular torus — a harmless bony ridge inside the lower jaw that dentists see often today — in a 2.1- to 2.8-million-year-old Australopithecus africanus fossil from Sterkfontein, South Africa. The Sts 52b specimen is one of the earliest and most pronounced examples of the trait in the hominin fossil record. Its cause in modern people is still unknown, with heavy chewing and tooth grinding among the suspects.",
+   "body": "La Trobe University researchers found a pronounced mandibular torus \u2014 a harmless bony ridge inside the lower jaw that dentists see often today \u2014 in a 2.1- to 2.8-million-year-old Australopithecus africanus fossil from Sterkfontein, South Africa. The Sts 52b specimen is one of the earliest and most pronounced examples of the trait in the hominin fossil record. Its cause in modern people is still unknown, with heavy chewing and tooth grinding among the suspects.",
    "url": "https://www.scimex.org/newsfeed/ancient-jaw-reveals-a-modern-day-mystery"
   },
   {
    "tag": "Science",
-   "headline": "Rembrandt's Night Watch is teeming with microbes",
-   "body": "Rijksmuseum and ARTIS-Micropia researchers swabbing Rembrandt's 1642 masterpiece have catalogued a living microbiome on its surface — skin and soil bacteria, plus one puzzler, Microbacterium saccharophilum, first found at a Japanese sugar refinery in 2013. Sixty samples from 10 areas are planned, with 20 microbes identified so far and another 10 still incubating. The census is part of Operation Night Watch, the conservation project running since 2019.",
-   "url": "https://www.smithsonianmag.com/smart-news/rembrandt-night-watch-is-teeming-with-life-researchers-reveal-a-hidden-world-of-microbes-all-over-the-masterpiece-180989917/"
+   "headline": "MIT: the brain runs one shared code for every language",
+   "body": "Using multilingual AI models, MIT researchers predicted how the human brain responds to 21 different languages \u2014 and found a shared meaning component underneath them all. The models forecast brain responses accurately even for languages with little training data, such as Marathi and Lithuanian. Published in Nature Neuroscience, it is the first study to use multilingual models to map brain responses across this many languages.",
+   "source": "Medical Xpress",
+   "url": "https://medicalxpress.com/news/2026-11-languages-common-neural-code.html"
   },
   {
    "tag": "Science",
    "headline": "Roman cup in a 2,000-year-old tomb maps an ancient exchange network",
-   "body": "A four-year excavation of Tomb 160 in Mongolia — the largest Xiongnu tomb found in the country, nearly 240 feet long — recovered 413 artifacts, including a glass cup believed to be of Roman origin, a silver horse-harness pendant and 15 jade pieces modeled after Han funerary goods. The haul shows the Xiongnu linked to a trade network stretching from Rome to the Korean Peninsula. DNA analysis of teeth and hair from the coffin is planned to identify the tomb's occupant.",
+   "body": "A four-year excavation of Tomb 160 in Mongolia \u2014 the largest Xiongnu tomb found in the country, nearly 240 feet long \u2014 recovered 413 artifacts, including a glass cup believed to be of Roman origin, a silver horse-harness pendant and 15 jade pieces modeled after Han funerary goods. The haul shows the Xiongnu linked to a trade network stretching from Rome to the Korean Peninsula. DNA analysis of teeth and hair from the coffin is planned to identify the tomb's occupant.",
    "url": "https://www.smithsonianmag.com/smart-news/a-roman-cup-and-hundreds-other-treasures-unearthed-in-this-2000-year-old-tomb-reveal-the-rich-exchange-network-of-an-ancient-asian-empire-180989920/"
   }
  ],
@@ -794,7 +795,7 @@
    }
   ],
   "footnote": "",
-  "ratesAsOf": "Schwab Thu, Nov 19, 2026 · eTrade Mon, Nov 23, 2026"
+  "ratesAsOf": "Schwab Thu, Nov 19, 2026 \u00b7 eTrade Mon, Nov 23, 2026"
  },
  "weather": [
   {
@@ -804,46 +805,46 @@
    "conditions": "Cloudy",
    "icon": "clouds",
    "alerts": "",
-   "extra": "Humidity 68% · Wind NNW 14 mph",
-   "today": "Partly Sunny, high 65°F",
-   "tonight": "Partly Cloudy, low 50°F",
-   "tomorrow": "Partly Sunny then Slight Chance Rain Showers, high 59°F"
+   "extra": "Humidity 68% \u00b7 Wind NNW 14 mph",
+   "today": "Partly Sunny, high 65\u00b0F",
+   "tonight": "Partly Cloudy, low 50\u00b0F",
+   "tomorrow": "Partly Sunny then Slight Chance Rain Showers, high 59\u00b0F"
   },
   {
-   "name": "Seiver Ranch — Plains, MT",
+   "name": "Seiver Ranch \u2014 Plains, MT",
    "detail": "Sanders County",
    "tempF": 37,
    "conditions": "Partly Sunny",
    "icon": "partly",
    "alerts": "",
-   "extra": "Humidity 75% · Wind NNW 2 mph",
-   "today": "Partly Sunny, high 36°F",
-   "tonight": "Mostly Cloudy then Patchy Fog, low 24°F",
-   "tomorrow": "Areas Of Fog then Mostly Sunny, high 41°F"
+   "extra": "Humidity 75% \u00b7 Wind NNW 2 mph",
+   "today": "Partly Sunny, high 36\u00b0F",
+   "tonight": "Mostly Cloudy then Patchy Fog, low 24\u00b0F",
+   "tomorrow": "Areas Of Fog then Mostly Sunny, high 41\u00b0F"
   },
   {
-   "name": "Seiver Slough — Rugby, ND",
+   "name": "Seiver Slough \u2014 Rugby, ND",
    "detail": "Pierce County",
    "tempF": 25,
    "conditions": "Mostly Clear",
    "icon": "sun",
    "alerts": "",
    "extra": "Wind W 16 mph",
-   "today": "Mostly Sunny, high 27°F",
-   "tonight": "Mostly Cloudy, low 14°F",
-   "tomorrow": "Mostly Cloudy, high 32°F"
+   "today": "Mostly Sunny, high 27\u00b0F",
+   "tonight": "Mostly Cloudy, low 14\u00b0F",
+   "tomorrow": "Mostly Cloudy, high 32\u00b0F"
   },
   {
-   "name": "Seiver Lodge — L'Anse, MI",
+   "name": "Seiver Lodge \u2014 L'Anse, MI",
    "detail": "Baraga County",
    "tempF": 23,
    "conditions": "Cloudy",
    "icon": "clouds",
    "alerts": "",
-   "extra": "Humidity 68% · Wind calm",
-   "today": "Partly Sunny, high 30°F",
-   "tonight": "Mostly Cloudy, low 18°F",
-   "tomorrow": "Partly Sunny, high 35°F"
+   "extra": "Humidity 68% \u00b7 Wind calm",
+   "today": "Partly Sunny, high 30\u00b0F",
+   "tonight": "Mostly Cloudy, low 18\u00b0F",
+   "tomorrow": "Partly Sunny, high 35\u00b0F"
   }
  ],
  "apod": {
