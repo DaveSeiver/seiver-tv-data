@@ -1,0 +1,1807 @@
+{
+ "version": 93,
+ "asOf": "Tue Nov 24, 2026, 5:14 PM CT",
+ "breaking": [
+  {
+   "tag": "US",
+   "headline": "Dow closes above 50,000 for the first time as tech slides",
+   "fact": "The Dow Jones Industrial Average rose 423 points, or 0.9%, to close at 50,018.70 — its first finish above 50,000 — while the S&P 500 slipped 0.5% to 7,201.09 and the Nasdaq fell 1.5% to 23,733.54. Tech stocks gave back part of Monday's historic rally, when Nvidia's CEO reinstatement lifted the Nasdaq 6.5%, as tariff headlines and chip weakness hit the tape.",
+   "source": "Investopedia",
+   "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11242026-12275797"
+  },
+  {
+   "tag": "US",
+   "headline": "Huang apologizes to Nvidia staff, says he is in therapy",
+   "fact": "Jensen Huang apologized to Nvidia employees at a Tuesday town hall, his first all-hands since the board reinstated him, telling staff he had let them down and is in therapy. He admitted violating the company's code of conduct and said his direct reports will now send behavior reviews to the board; he also told staff Nvidia needs no formal succession plan. Nvidia shares fell 5.9% to $155.38.",
+   "source": "Invezz",
+   "url": "https://invezz.com/news/2026/11/24/huang-nvidia-no-succession-plan/"
+  }
+ ],
+ "markets": [
+  {
+   "label": "S&P 500",
+   "value": "7,201.09",
+   "change": "-36.08",
+   "pct": "-0.50%",
+   "dir": "down",
+   "spark": [
+    7718.94,
+    7744.06,
+    7659.44,
+    7690.73,
+    7712.57,
+    7757.17,
+    7663.43,
+    7623.68,
+    7676.77,
+    7722.6,
+    7743.98,
+    7720.39,
+    7580.07,
+    7541.4,
+    7568.92,
+    7688.62,
+    7353.73,
+    7376.86,
+    7549.94,
+    7520.93,
+    7619.38,
+    7592.4,
+    7561.67,
+    7416.59,
+    7340.53,
+    7323.63,
+    7175.83,
+    6910.39,
+    7237.17,
+    7201.08984375
+   ]
+  },
+  {
+   "label": "NASDAQ",
+   "value": "23,733.54",
+   "change": "-356.02",
+   "pct": "-1.48%",
+   "dir": "down",
+   "spark": [
+    26692.87,
+    26713.03,
+    26140.03,
+    26430.89,
+    26424.82,
+    26702.86,
+    26008.86,
+    25955.34,
+    26169.38,
+    26477.81,
+    26549.85,
+    26184.72,
+    25437.0,
+    25164.31,
+    25372.01,
+    25736.51,
+    24315.0,
+    24579.43,
+    25253.14,
+    25065.87,
+    25466.19,
+    25366.09,
+    25136.27,
+    24509.76,
+    24328.38,
+    24429.88,
+    23879.2,
+    22617.73,
+    24089.56,
+    23733.53515625
+   ]
+  },
+  {
+   "label": "DOW",
+   "value": "50,018.70",
+   "change": "+423.39",
+   "pct": "+0.85%",
+   "dir": "up",
+   "spark": [
+    51621.48,
+    52177.69,
+    52002.41,
+    51966.03,
+    52495.88,
+    52856.09,
+    52867.98,
+    52215.16,
+    52361.58,
+    52377.57,
+    52475.1,
+    52342.56,
+    51770.31,
+    51983.98,
+    51786.72,
+    53356.12,
+    51523.06,
+    51285.73,
+    52389.75,
+    52231.89,
+    52486.49,
+    52297.09,
+    52347.55,
+    51608.17,
+    50759.42,
+    50198.17,
+    49097.06,
+    48147.33,
+    49595.31,
+    50018.69921875
+   ]
+  },
+  {
+   "label": "VIX",
+   "value": "26.36",
+   "change": "-0.26",
+   "pct": "-0.98%",
+   "dir": "down",
+   "spark": [
+    16.46,
+    19.99,
+    18.44,
+    17.31,
+    16.68,
+    19.03,
+    19.45,
+    18.39,
+    17.52,
+    16.91,
+    17.2,
+    19.42,
+    21.15,
+    20.83,
+    16.61,
+    28.18,
+    25.64,
+    19.92,
+    19.46,
+    17.49,
+    18.7,
+    19.3,
+    22.91,
+    25.46,
+    24.56,
+    28.44,
+    35.89,
+    26.62,
+    26.62,
+    26.360000610351562
+   ]
+  },
+  {
+   "label": "10-YR",
+   "value": "4.90%",
+   "change": "",
+   "pct": "",
+   "dir": "down",
+   "spark": [
+    5.19,
+    5.09,
+    5.1,
+    5.14,
+    5.12,
+    5.15,
+    4.95,
+    4.99,
+    4.99,
+    4.99,
+    5.05,
+    4.99,
+    4.93,
+    4.89,
+    4.95,
+    4.89,
+    4.84,
+    4.86,
+    4.86,
+    4.98,
+    5.0,
+    5.1,
+    5.15,
+    5.12,
+    5.1,
+    5.07,
+    5.05,
+    4.91,
+    4.92,
+    4.904000282287598
+   ]
+  },
+  {
+   "label": "WTI",
+   "value": "$81.69",
+   "change": "+1.52",
+   "pct": "+1.90%",
+   "dir": "up",
+   "spark": [
+    95.09,
+    97.97,
+    101.41,
+    103.66,
+    101.79,
+    97.15,
+    99.47,
+    103.27,
+    101.76,
+    99.9,
+    102.78,
+    102.0,
+    104.12,
+    96.46,
+    96.09,
+    88.12,
+    90.52,
+    90.83,
+    86.85,
+    86.04,
+    86.53,
+    88.74,
+    88.56,
+    85.72,
+    86.01,
+    83.26,
+    83.21,
+    83.98,
+    80.17,
+    81.69000244140625
+   ]
+  },
+  {
+   "label": "BRENT",
+   "value": "$88.50",
+   "change": "-0.87",
+   "pct": "-0.97%",
+   "dir": "down",
+   "spark": [
+    106.06,
+    105.92,
+    109.86,
+    109.55,
+    108.79,
+    108.82,
+    113.17,
+    116.72,
+    115.81,
+    113.88,
+    115.32,
+    114.88,
+    117.64,
+    104.77,
+    103.6,
+    94.62,
+    98.29,
+    98.32,
+    92.57,
+    91.49,
+    92.76,
+    95.82,
+    95.84,
+    92.44,
+    93.14,
+    91.95,
+    91.98,
+    92.57,
+    89.37,
+    88.5
+   ]
+  }
+ ],
+ "marketsNote": "",
+ "watchlist": [
+  {
+   "ticker": "AIL.F",
+   "name": "Air Liquide",
+   "link": "https://finance.yahoo.com/quote/AI.PA",
+   "risk": 2,
+   "price": "$206.24",
+   "change": "+0.47%",
+   "dir": "up",
+   "blurb": "Air Liquide closed in Paris at €188.12, worth $206.24 at the ECB's Nov 24 reference rate of 1.0963, a 0.5% dollar gain on the day. The industrial-gas giant keeps grinding higher while U.S. tech gives back Monday's rally, its defensive profile doing the quiet work. With no company news in play, the dollar price from here mostly tracks the euro. The stock sits near the top of its recent range.",
+   "spark": [
+    193.24000549316406,
+    190.94000244140625,
+    189.74000549316406,
+    189.13999938964844,
+    187.5800018310547,
+    187.66000366210938,
+    188.12
+   ],
+   "subTag": "€188.12 × 1.0963 (ECB Nov 24)",
+   "yieldTag": null
+  },
+  {
+   "ticker": "ANT",
+   "name": "Anthropic",
+   "link": "https://finance.yahoo.com/quote/ANT",
+   "risk": 4,
+   "price": "$81.90",
+   "change": "-6.54%",
+   "dir": "down",
+   "blurb": "Anthropic slid 6.5% to $81.90 on Tuesday, closing below its $83 IPO price as the AI trade unwound after Monday's record rally. The stock has now given back its entire debut pop — it first traded at $111.50 last Thursday — with chips and memory names leading the retreat. With the listing barely a week old, the tape is still finding its level. Watch whether $83 flips from support to resistance ahead.",
+   "spark": [
+    97.16999816894531,
+    88.91000366210938,
+    87.63999938964844,
+    81.90499877929688
+   ],
+   "subTag": "$87.64 Mon close",
+   "yieldTag": null
+  },
+  {
+   "ticker": "BIL",
+   "name": "SPDR Bloomberg 1-3 Mo T-Bill",
+   "link": "https://finance.yahoo.com/quote/BIL",
+   "risk": 0,
+   "price": "$91.61",
+   "change": "+0.01%",
+   "dir": "up",
+   "blurb": "BIL inched up 0.01% to $91.61, its usual slow grind as the Treasury bill ETF accrues interest day by day. The fund keeps paying its monthly distribution — $0.30849 per share, ex Nov 2, paid Nov 5 — and the distribution yield sits at 4.04%. It is the quiet corner of the watchlist: no drama, just steady Treasury income. With a December Fed hike now priced as near-certain, short rates stay the story here.",
+   "spark": [
+    91.55000305175781,
+    91.55000305175781,
+    91.55999755859375,
+    91.56999969482422,
+    91.58999633789062,
+    91.5999984741211,
+    91.61000061035156
+   ],
+   "subTag": "$0.30849 dist., ex Nov 2, paid Nov 5",
+   "yieldTag": "Dist. yield 4.04%"
+  },
+  {
+   "ticker": "GOOGL",
+   "name": "Alphabet",
+   "link": "https://finance.yahoo.com/quote/GOOGL",
+   "risk": 3,
+   "price": "$279.05",
+   "change": "-1.08%",
+   "dir": "down",
+   "blurb": "Alphabet slipped 1.1% to $279.05 as Tuesday's tariff headlines and the AI unwind dragged tech lower after Monday's 4.7% S&P surge. The pullback is broad rather than Alphabet-specific, with the Nasdaq down 1.5% while the Dow climbed past 50,000 on defensive rotation. Google's AI and cloud story is unchanged by a day's tape. Watch whether buyers step in near breakout levels or the rally fades further.",
+   "spark": [
+    283.7200012207031,
+    280.20001220703125,
+    282.44000244140625,
+    272.6600036621094,
+    265.2900085449219,
+    282.1000061035156,
+    279.04998779296875
+   ],
+   "subTag": null,
+   "yieldTag": null
+  },
+  {
+   "ticker": "LLY",
+   "name": "Eli Lilly",
+   "link": "https://finance.yahoo.com/quote/LLY",
+   "risk": 3,
+   "price": "$1,407.59",
+   "change": "+3.15%",
+   "dir": "up",
+   "blurb": "Eli Lilly jumped 3.2% to $1,407.59, one of Tuesday's few big gainers, after Moody's upgraded the drugmaker to Aa2. The agency cited the massive growth potential of incretin therapies Mounjaro and Zepbound, the engine of Lilly's recent run. Healthcare led the tape as investors rotated out of chips and into defensives. The upgrade is a fresh fundamental stamp on a stock already priced for strong growth.",
+   "spark": [
+    1431.6700439453125,
+    1415.550048828125,
+    1382.75,
+    1351.1199951171875,
+    1347.1099853515625,
+    1364.5999755859375,
+    1407.5899658203125
+   ],
+   "subTag": null,
+   "yieldTag": null
+  },
+  {
+   "ticker": "LNG",
+   "name": "Cheniere Energy",
+   "link": "https://finance.yahoo.com/quote/LNG",
+   "risk": 3,
+   "price": "$296.01",
+   "change": "+0.19%",
+   "dir": "up",
+   "blurb": "Cheniere inched up 0.2% to $296.01, holding near its highs while the broader market pulled back on tariff worries. Natural gas and LNG names are caught between firm energy prices — WTI crude rose about 2% today — and a risk-off tape punishing growth. Cheniere's contracted export volumes keep its cash flows steady through the noise. Watch gas prices and any fresh export headlines for the next move.",
+   "spark": [
+    305.20001220703125,
+    301.9700012207031,
+    296.489990234375,
+    295.3699951171875,
+    294.8399963378906,
+    295.4599914550781,
+    296.010009765625
+   ],
+   "subTag": null,
+   "yieldTag": null
+  },
+  {
+   "ticker": "NVDA",
+   "name": "Nvidia",
+   "link": "https://finance.yahoo.com/quote/NVDA",
+   "risk": 3,
+   "price": "$155.38",
+   "change": "-5.86%",
+   "dir": "down",
+   "blurb": "Nvidia slid 5.9% to $155.38, giving back part of Monday's 31.5% surge on Jensen Huang's reinstatement. At a Tuesday town hall, Huang apologized to staff, said he is in therapy, and admitted violating the code of conduct; he also said Nvidia needs no succession plan. Schumer's export-control accusation adds pressure. Sean's call stands: long-term hold until the probes and Dec 1 testimony shake out.",
+   "spark": [
+    156.13999938964844,
+    155.4600067138672,
+    150.9600067138672,
+    145.97999572753906,
+    125.52999877929688,
+    165.0500030517578,
+    155.3800048828125
+   ],
+   "subTag": null,
+   "yieldTag": null
+  },
+  {
+   "ticker": "PFE",
+   "name": "Pfizer",
+   "link": "https://finance.yahoo.com/quote/PFE",
+   "risk": 2,
+   "price": "$28.46",
+   "change": "+3.87%",
+   "dir": "up",
+   "blurb": "Pfizer climbed 3.9% to $28.46, riding Tuesday's defensive rotation as healthcare led the tape while tech slid. Pharma names are catching a bid with investors seeking shelter from the AI unwind and tariff headlines. The move adds to a steady recent run for a stock Sean holds for income as much as growth. Watch whether the sector rotation holds into the Thanksgiving-shortened week.",
+   "spark": [
+    28.860000610351562,
+    28.469999313354492,
+    28.059999465942383,
+    27.540000915527344,
+    27.399999618530273,
+    27.399999618530273,
+    28.459999084472656
+   ],
+   "subTag": null,
+   "yieldTag": null
+  },
+  {
+   "ticker": "RKLB",
+   "name": "Rocket Lab",
+   "link": "https://finance.yahoo.com/quote/RKLB",
+   "risk": 4,
+   "price": "$45.98",
+   "change": "-7.35%",
+   "dir": "down",
+   "blurb": "Rocket Lab dropped 7.4% to $45.98 as growth and space names sold off with the Nasdaq's 1.5% slide. The pullback is tape-driven rather than company-specific — no fresh Rocket Lab news today — after a strong run that left the stock sensitive to risk-off days. The company remains a core speculative holding with a busy manifest ahead. Watch whether a steadier tape turns this dip into a buying chance.",
+   "spark": [
+    57.369998931884766,
+    55.04999923706055,
+    53.06999969482422,
+    50.9900016784668,
+    45.41999816894531,
+    49.630001068115234,
+    45.97999954223633
+   ],
+   "subTag": null,
+   "yieldTag": null
+  },
+  {
+   "ticker": "RITM",
+   "name": "Rithm Capital",
+   "link": "https://finance.yahoo.com/quote/RITM",
+   "risk": 4,
+   "price": "$8.67",
+   "change": "+6.25%",
+   "dir": "up",
+   "blurb": "Rithm Capital rose 6.3% to $8.67, one of the day's strongest watchlist names as investors rotated toward yield and defensives. Mortgage REITs are catching a bid with the 10-year Treasury yield steady near 4.90% and a December hike now priced as near-certain. The move extends a solid stretch for a high-dividend holding. Watch the Fed's December meeting for the next read on the rate path.",
+   "spark": [
+    8.84000015258789,
+    8.479999542236328,
+    8.3100004196167,
+    8.239999771118164,
+    8.050000190734863,
+    8.15999984741211,
+    8.670000076293945
+   ],
+   "subTag": null,
+   "yieldTag": null
+  },
+  {
+   "ticker": "SPCX",
+   "name": "SpaceX",
+   "link": "https://finance.yahoo.com/quote/SPCX",
+   "risk": 4,
+   "price": "$125.81",
+   "change": "-5.65%",
+   "dir": "down",
+   "blurb": "SPCX, the leveraged Nasdaq ETF, fell 5.7% to $125.81 as the Nasdaq slid 1.5% on the AI unwind and tariff headlines. Leveraged funds magnify the tape in both directions, so a day like this cuts both ways — Monday's surge was equally outsized. The position is a trading vehicle, not a buy-and-hold, and days like today are the cost of the leverage. Watch whether tech stabilizes after Thanksgiving.",
+   "spark": [
+    137.36000061035156,
+    141.6999969482422,
+    143.5,
+    138.42999267578125,
+    127.79000091552734,
+    133.35000610351562,
+    125.80999755859375
+   ],
+   "subTag": null,
+   "yieldTag": null
+  },
+  {
+   "ticker": "TFC",
+   "name": "Truist Financial",
+   "link": "https://finance.yahoo.com/quote/TFC",
+   "risk": 3,
+   "price": "$47.48",
+   "change": "+1.26%",
+   "dir": "up",
+   "blurb": "Truist rose 1.3% to $47.48, holding its ground while the broader market pulled back. Banks are benefiting from the defensive rotation and a steady 10-year yield near 4.90%, with regional lenders quietly outperforming growth names. Truist's dividend and steady earnings keep it a workhorse holding. Watch the Fed's December decision and any fresh tariff news for the next direction.",
+   "spark": [
+    49.58000183105469,
+    48.45000076293945,
+    47.7400016784668,
+    46.66999816894531,
+    45.810001373291016,
+    46.88999938964844,
+    47.47999954223633
+   ],
+   "subTag": null,
+   "yieldTag": null
+  },
+  {
+   "ticker": "UAMY",
+   "name": "U.S. Antimony",
+   "link": "https://finance.yahoo.com/quote/UAMY",
+   "risk": 5,
+   "price": "$2.18",
+   "change": "-8.79%",
+   "dir": "down",
+   "blurb": "U.S. Antimony fell 8.8% to $2.18, giving back part of Monday's bounce as the small-cap tape sold off. The stock fired the bottom-watch tripwire at Friday's close, and the Nov 23 rebound carried it to $2.39 before today's pullback. China's suspension of some critical-material export curbs until January keeps the supply-squeeze thesis on hold. The watch resumes at 8:18 AM CT for the next bottom signal.",
+   "spark": [
+    2.6700000762939453,
+    2.4800000190734863,
+    2.5199999809265137,
+    2.380000114440918,
+    2.2300000190734863,
+    2.390000104904175,
+    2.180000066757202
+   ],
+   "subTag": null,
+   "yieldTag": null
+  },
+  {
+   "ticker": "UEC",
+   "name": "Uranium Energy",
+   "link": "https://finance.yahoo.com/quote/UEC",
+   "risk": 5,
+   "price": "$5.57",
+   "change": "-4.62%",
+   "dir": "down",
+   "blurb": "Uranium Energy slid 4.6% to $5.57, easing after Monday's 10% surge off Friday's $5.30 low that re-armed the bottom watch. The pullback is broad — small caps and growth are selling off on tariff headlines — rather than uranium-specific. Nuclear expansion and government uranium buying remain the longer-term catalysts Sean is watching. The daily gap watch resumes at 8:18 AM CT for any 5-point-plus move.",
+   "spark": [
+    6.130000114440918,
+    6.070000171661377,
+    5.920000076293945,
+    5.760000228881836,
+    5.300000190734863,
+    5.840000152587891,
+    5.570000171661377
+   ],
+   "subTag": null,
+   "yieldTag": null
+  },
+  {
+   "ticker": "VLO",
+   "name": "Valero Energy",
+   "link": "https://finance.yahoo.com/quote/VLO",
+   "risk": 3,
+   "price": "$324.67",
+   "change": "-1.44%",
+   "dir": "down",
+   "blurb": "Valero slipped 1.4% to $324.67 while WTI crude rose about 2% to $81.69, refiners lagging the energy rally on a risk-off day. The stock is a locked work-related holding, so the day-to-day tape matters less than the refining margin picture. Gulf Coast refining cracks stay the fundamental driver here. Watch OPEC+'s Nov 29 meeting on 2027 quotas for the next oil-price signal.",
+   "spark": [
+    369.7300109863281,
+    363.7699890136719,
+    343.70001220703125,
+    338.4599914550781,
+    334.17999267578125,
+    329.3999938964844,
+    324.6700134277344
+   ],
+   "subTag": null,
+   "yieldTag": null
+  },
+  {
+   "ticker": "VTTHX",
+   "name": "Vanguard Target 2035",
+   "link": "https://finance.yahoo.com/quote/VTTHX",
+   "risk": 3,
+   "price": "$28.51",
+   "change": "0.00%",
+   "dir": "flat",
+   "blurb": "Vanguard's Target Retirement 2035 fund still shows its $28.51 NAV from Nov 23, unchanged until tonight's pricing — mutual funds strike NAV once a day after the close. The diversified mix of stocks and bonds smooths days like Tuesday, when the Nasdaq slid 1.5% while the Dow rose. It is the set-and-forget anchor of the watchlist, rebalancing as retirement approaches. Watch for Tuesday's NAV tomorrow.",
+   "spark": [
+    29.309999465942383,
+    28.950000762939453,
+    28.75,
+    28.68000030517578,
+    28.34000015258789,
+    27.75,
+    28.510000228881836
+   ],
+   "subTag": "NAV as of Nov 23",
+   "yieldTag": null
+  },
+  {
+   "ticker": "VI5TC",
+   "name": "VI5TC (est.)",
+   "link": null,
+   "risk": 3,
+   "price": "$148.02 (est.)",
+   "change": "-0.50%",
+   "dir": "down",
+   "blurb": "The S&P 500-anchored estimate puts VI5TC at $148.02, down 0.5% with Tuesday's market pullback after Monday's rally. The estimator tracks the S&P 500's move from its Nov 3 anchor, and Sean's own check put it within about 0.1% of the real price. The fund's actual holdings are index-linked, so the estimate moves tick-for-tick with the market. A steadier tape should lift the estimate back toward $149.",
+   "spark": [
+    152.45,
+    150.89,
+    150.54,
+    147.5,
+    142.04,
+    148.76,
+    148.01920985961343
+   ],
+   "subTag": "S&P 500-anchored estimate",
+   "yieldTag": null
+  },
+  {
+   "ticker": "SWVXX",
+   "name": "Schwab Value Advantage MF",
+   "link": "https://finance.yahoo.com/quote/SWVXX",
+   "risk": 1,
+   "price": "$1.00",
+   "change": "",
+   "dir": "flat",
+   "blurb": "Schwab's money fund still sits at its $1.00 NAV, paying a 7-day SEC yield of 3.78% as published Nov 23 by Schwab. The wind-down continues: balances over $1,000 keep moving into CDs under the November plan, so the position should keep shrinking. The inherited-IRA slice is exempt from the nudge until March. With a December Fed hike now priced as near-certain, money-fund yields may edge up rather than down.",
+   "spark": null,
+   "subTag": "Yield published Nov 23 (Schwab)",
+   "yieldTag": "7-day yield 3.78%"
+  },
+  {
+   "ticker": "VUSXX",
+   "name": "Vanguard Treasury MMF",
+   "link": "https://finance.yahoo.com/quote/VUSXX",
+   "risk": 0,
+   "price": "$1.00",
+   "change": "",
+   "dir": "flat",
+   "blurb": "Vanguard's Treasury money fund holds its $1.00 NAV with a 7-day SEC yield of 4.03%, published Nov 23 by Vanguard. It remains the top-yielding cash on the watchlist and the parking spot for the ANT proceeds and the Seiver Slough and Lodge sale streams in the income model. The fund owns only Treasuries, so it carries no credit risk. A December Fed hike would likely lift its yield further.",
+   "spark": null,
+   "subTag": "Yield published Nov 23 (Vanguard)",
+   "yieldTag": "7-day yield 4.03%"
+  }
+ ],
+ "weekInBrief": [
+  {
+   "headline": "Fed's Williams signals a December rate hike as inflation stays high",
+   "body": "New York Fed President John Williams said Monday that persistently high inflation continues to point the central bank toward tighter policy, saying there is “still work to do” to return inflation to 2%. He expects inflation to end the year at 3.5% and reach target in 2028. Markets fully price a quarter-point hike at the Fed's Dec. 8–9 meeting, with some officials openly weighing a half-point move.",
+   "stamp": "Nov 24, 2026"
+  },
+  {
+   "headline": "Thanksgiving travel set for busiest skies in 16 years",
+   "body": "The FAA forecasts more than 417,000 flights over the nine-day Thanksgiving travel period, the busiest holiday skies in 16 years, with today — Tuesday, Nov. 24 — the single busiest day at about 52,000 scheduled flights. The agency also warned of developing storms on the West Coast, in Florida and the Gulf Coast, and across the Southeast that could disrupt flights.",
+   "stamp": "Nov 24, 2026"
+  },
+  {
+   "headline": "Xiamen Airlines orders 50 Boeing jets in China's biggest buy in years",
+   "body": "Xiamen Airlines, a unit of China Southern Airlines, agreed Tuesday to buy 50 Boeing 737-8 aircraft at a list price of about $7.4 billion, the first major Chinese purchase from Boeing in years. Deliveries run from 2031 to 2034, and the deal still needs shareholder and Chinese government approval. The order follows President Trump's statement Monday that he expects China to buy 250 more Boeing jets.",
+   "stamp": "Nov 24, 2026"
+  },
+  {
+   "headline": "Richmond Fed factory gauge turns positive in November",
+   "body": "The Richmond Fed's manufacturing index rose to +3 in November from -2 in October, beating expectations of another contraction, with new orders swinging to +2 from -8 and employment improving to +6 from +3. The outlook firmed too, with expected shipments jumping to +28. On the less positive side, prices paid accelerated, up 7.59% over the past year.",
+   "stamp": "Nov 24, 2026"
+  }
+ ],
+ "hormuz": {
+  "items": [
+   {
+    "headline": "Latest from the Strait",
+    "body": "Iran's navy said Tuesday morning that two oil tankers struck mines and caught fire in the Strait of Hormuz, the latest in a string of attacks on commercial shipping that has hit more than 25 tankers in the past week, according to Iranian state media. Tehran's foreign ministry spokesman said Monday that Iran would use “all available means” to confront the U.S. naval blockade, which has largely halted Iranian exports since it was restored in July. Iranian fresh crude exports are near zero — Kpler puts 40 to 50 million barrels of Iranian oil still on the water in Asia, discharging in China at close to 1 million barrels a day — while non-Iranian Gulf oil keeps flowing, with flows through the strait recovered to roughly 70% of pre-war volumes, per Kpler and Goldman Sachs."
+   }
+  ],
+  "stats": ""
+ },
+ "space": [
+  {
+   "tag": "Space",
+   "headline": "NASA names Artemis III crew for 2027 Earth-orbit test flight",
+   "body": "NASA on Tuesday named the four astronauts for Artemis III: commander Randy Bresnik, ESA pilot Luca Parmitano, and mission specialists Andre Douglas and Frank Rubio, with Bob Hines as backup. The 2027 mission will fly Orion into low Earth orbit to rendezvous and dock with test versions of SpaceX's Starship and Blue Origin's Blue Moon landers — the first crewed tryout of both lunar landers — before the first crewed Moon landing moves to Artemis IV in 2028.",
+   "url": "https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/"
+  },
+  {
+   "tag": "Space",
+   "headline": "Vaporized rock reveals titanium oxide around a massive young star",
+   "body": "Astronomers have detected titanium oxide in gas form around a massive young star for the first time, using ALMA to observe the disk of Orion Source I, behind the Orion Nebula. The finding marks the first region where scientists could determine the makeup of solid planet-building material beyond our solar system without collecting a sample — the vaporized rock traces the dust that seeds new worlds.",
+   "url": "https://phys.org/news/2026-11-vaporized-reveals-titanium-oxide-massive.html"
+  },
+  {
+   "tag": "Science",
+   "headline": "The human ear may work very differently than we thought",
+   "body": "New research in Science Advances challenges the long-standing model of how the inner ear detects sound: low-frequency sounds produce nearly simultaneous vibrations across widely separated regions of the cochlea, rather than peaking at one spot. Observed in guinea pigs with optical coherence tomography, the finding could lead to cochlear implants that better reproduce the ear's complex vibration patterns for people with hearing loss.",
+   "url": "https://scitechdaily.com/scientists-discover-the-human-ear-may-work-very-differently-than-we-thought/"
+  },
+  {
+   "tag": "Science",
+   "headline": "Ancient cellular machinery boosts immunity against cancer",
+   "body": "Cornell researchers have found a new way to rally the immune system against cancer, using ancient virus-derived machinery to produce tiny vesicles that carry antigen information across long distances to immune cells. The vesicles, made by dendritic cells, activated T cells in lab tests, and the team says the approach could strengthen cancer vaccines. The work was published in Nature Nanotechnology.",
+   "url": "https://phys.org/news/2026-11-ancient-cellular-machinery-boosts-immunity.html"
+  }
+ ],
+ "cdRates": {
+  "boxes": [
+   {
+    "callable": {
+     "etrade": "5.00% Thomasville",
+     "fdicNote": null,
+     "green": "schwab",
+     "schwab": "5.20%* Morgan Stanley (semi-annual)"
+    },
+    "noncall": {
+     "etrade": "4.80% Forbright Bk",
+     "fdicNote": null,
+     "green": "schwab",
+     "schwab": "5.00% Wells Fargo"
+    },
+    "term": "3-Year CDs"
+   },
+   {
+    "callable": {
+     "etrade": "5.15% Farmers & Merchants Bk",
+     "fdicNote": null,
+     "green": "schwab",
+     "schwab": "5.40%* Morgan Stanley (semi-annual)"
+    },
+    "noncall": {
+     "etrade": "5.00% UBS Bank USA",
+     "fdicNote": null,
+     "green": "schwab",
+     "schwab": "5.05% Wells Fargo"
+    },
+    "term": "5-Year CDs"
+   },
+   {
+    "callable": {
+     "etrade": "5.75% Jonesboro State Bk",
+     "fdicNote": null,
+     "green": "etrade",
+     "schwab": "5.50% Jonesboro State Bk"
+    },
+    "noncall": {
+     "etrade": "5.00%* Versabank USA (semi-annual)",
+     "fdicNote": null,
+     "green": "etrade",
+     "schwab": null
+    },
+    "term": "10-Year CDs"
+   }
+  ],
+  "footnote": "",
+  "ratesAsOf": "Schwab Thu, Nov 19, 2026 · eTrade Mon, Nov 23, 2026"
+ },
+ "weather": [
+  {
+   "name": "Houston Winter Condo",
+   "detail": "ZIP 77056",
+   "tempF": 57,
+   "conditions": "Cloudy",
+   "icon": "clouds",
+   "alerts": "",
+   "extra": "Humidity 57% · Wind NNW 13 mph",
+   "today": "Slight Chance Rain Showers, high 58°F",
+   "tonight": "Slight Chance Rain Showers then Mostly Cloudy, low 41°F",
+   "tomorrow": "Sunny, high 58°F"
+  },
+  {
+   "name": "Seiver Ranch — Plains, MT",
+   "detail": "Sanders County",
+   "tempF": 39,
+   "conditions": "Mostly Cloudy",
+   "icon": "partly",
+   "alerts": "",
+   "extra": "Humidity 67% · Wind calm",
+   "today": "Mostly Cloudy, high 41°F",
+   "tonight": "Mostly Cloudy, low 30°F",
+   "tomorrow": "Patchy Fog then Partly Sunny, high 47°F"
+  },
+  {
+   "name": "Seiver Slough — Rugby, ND",
+   "detail": "Pierce County",
+   "tempF": 30,
+   "conditions": "Clear",
+   "icon": "sun",
+   "alerts": "",
+   "extra": "Wind SE 7 mph",
+   "today": "Partly Sunny, high 34°F",
+   "tonight": "Partly Cloudy then Areas Of Fog, low 23°F",
+   "tomorrow": "Areas Of Fog then Partly Sunny, high 35°F"
+  },
+  {
+   "name": "Seiver Lodge — L'Anse, MI",
+   "detail": "Baraga County",
+   "tempF": 29,
+   "conditions": "Mostly Cloudy",
+   "icon": "clouds",
+   "alerts": "",
+   "extra": "Humidity 75% · Wind WSW 8 mph",
+   "today": "Mostly Cloudy, high 31°F",
+   "tonight": "Mostly Cloudy, low 18°F",
+   "tomorrow": "Partly Sunny, high 40°F"
+  }
+ ],
+ "apod": {
+  "date": "November 24, 2026",
+  "title": "Eruption Extends Iwo Jima's Beach",
+  "credit": "NASA Earth Observatory / Michala Garrison, using Landsat data from the U.S. Geological Survey",
+  "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/eruption-enlarges-iwo-jima%E2%80%99s-beach/iwojima_oli2_20261111_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+  "explanation": "A submarine volcano off Iwo Jima's southeast shore has built about 50 hectares (125 acres) of new black-sand beach — roughly 90 football fields — enlarging the island by about 1.7%. Landsat 9 caught the coast quiet on Oct. 26, then on Nov. 11 the new land, its heat glowing orange in shortwave infrared, a gray plume drifting southeast, and a streak of floating pumice. Japan's Coast Guard confirmed the new land Nov. 16; scientists expect waves to wash it away within a few months, as happened after the 2023 eruption.",
+  "pageUrl": "https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/"
+ },
+ "aqiMap": {
+  "image": "aqi-map.jpg",
+  "stamp": "Tue Nov 24, 2026, 1:00 PM CT",
+  "credit": "AQI & wind data: Open-Meteo (CAMS / NOAA)"
+ },
+ "portfolio": {
+  "asOf": "Fri, Nov 20, 2026 close",
+  "cells": [
+   {
+    "symbol": "S&P 500",
+    "price": 6910.39,
+    "spark": [
+     7592.3999,
+     7561.6699,
+     7416.5898,
+     7340.5298,
+     7323.6299,
+     7175.8301,
+     6910.3901
+    ],
+    "index": true,
+    "lead": true
+   },
+   {
+    "symbol": "DOW",
+    "price": 48147.33,
+    "spark": [
+     52297.0898,
+     52347.5508,
+     51608.1719,
+     50759.4219,
+     50198.1719,
+     49097.0586,
+     48147.3281
+    ],
+    "index": true,
+    "lead": true
+   },
+   {
+    "symbol": "NASDAQ",
+    "price": 22617.73,
+    "spark": [
+     25366.0898,
+     25136.2695,
+     24509.7598,
+     24328.3809,
+     24429.8809,
+     23879.1992,
+     22617.7305
+    ],
+    "index": true,
+    "lead": true
+   },
+   {
+    "symbol": "GOLD",
+    "price": 3607.8999,
+    "spark": [
+     3886.3,
+     3853.0,
+     3864.2,
+     3741.8999,
+     3685.5,
+     3515.3999,
+     3607.8999
+    ],
+    "lead": true
+   },
+   {
+    "symbol": "SILVER",
+    "price": 42.23,
+    "spark": [
+     49.031,
+     46.785,
+     47.288,
+     44.999,
+     44.318,
+     41.035,
+     42.23
+    ],
+    "lead": true
+   },
+   {
+    "symbol": "EUR/USD",
+    "price": 1.0988,
+    "spark": [
+     1.105,
+     1.1025,
+     1.0998,
+     1.0993,
+     1.0972,
+     1.097,
+     1.0988
+    ],
+    "fx": true,
+    "lead": true
+   },
+   {
+    "symbol": "BITCOIN",
+    "price": 60759.9688,
+    "spark": [
+     64855.8438,
+     64893.9453,
+     62987.2656,
+     61901.8203,
+     58798.9805,
+     60094.0898,
+     60759.9688
+    ],
+    "lead": true
+   },
+   {
+    "symbol": "AAPL",
+    "price": 342.56,
+    "spark": [
+     354.88,
+     356.27,
+     352.78,
+     351.91,
+     352.45,
+     349.21,
+     342.56
+    ]
+   },
+   {
+    "symbol": "AIL.F",
+    "price": 206.15,
+    "spark": [
+     211.9312,
+     212.4587,
+     212.3708,
+     209.8431,
+     208.5243,
+     207.8649,
+     206.1504
+    ]
+   },
+   {
+    "symbol": "AMGN",
+    "price": 435.64,
+    "spark": [
+     467.06,
+     465.67,
+     462.32,
+     457.93,
+     443.89,
+     438.82,
+     435.64
+    ]
+   },
+   {
+    "symbol": "AMZN",
+    "price": 246.82,
+    "spark": [
+     267.44,
+     266.66,
+     257.75,
+     257.89,
+     267.74,
+     257.37,
+     246.82
+    ]
+   },
+   {
+    "symbol": "ANT",
+    "price": 88.91,
+    "spark": [
+     97.17,
+     88.91
+    ]
+   },
+   {
+    "symbol": "ARGT",
+    "price": 64.56,
+    "spark": [
+     72.62,
+     73.75,
+     70.55,
+     70.77,
+     69.17,
+     66.56,
+     64.56
+    ]
+   },
+   {
+    "symbol": "AUGO",
+    "price": 57.05,
+    "spark": [
+     77.94,
+     75.02,
+     69.27,
+     66.98,
+     64.3,
+     61.02,
+     57.05
+    ]
+   },
+   {
+    "symbol": "BEP",
+    "price": 29.12,
+    "spark": [
+     29.58,
+     29.98,
+     29.96,
+     30.11,
+     30.54,
+     30.01,
+     29.12
+    ]
+   },
+   {
+    "symbol": "CEG",
+    "price": 237.41,
+    "spark": [
+     282.4,
+     280.2,
+     277.82,
+     268.07,
+     262.74,
+     252.03,
+     237.41
+    ]
+   },
+   {
+    "symbol": "CHKR",
+    "price": 0.34,
+    "spark": [
+     0.38,
+     0.394,
+     0.403,
+     0.388,
+     0.38,
+     0.377,
+     0.341
+    ]
+   },
+   {
+    "symbol": "CVX",
+    "price": 208.37,
+    "spark": [
+     216.35,
+     219.89,
+     217.14,
+     216.13,
+     205.88,
+     206.5,
+     208.37
+    ]
+   },
+   {
+    "symbol": "ET",
+    "price": 18.61,
+    "spark": [
+     19.42,
+     19.4,
+     19.14,
+     19.16,
+     19.03,
+     19.11,
+     18.61
+    ]
+   },
+   {
+    "symbol": "FSLR",
+    "price": 137.59,
+    "spark": [
+     172.3,
+     171.39,
+     162.45,
+     152.97,
+     150.98,
+     151.95,
+     137.59
+    ]
+   },
+   {
+    "symbol": "GE",
+    "price": 309.62,
+    "spark": [
+     330.86,
+     331.81,
+     325.18,
+     326.4,
+     328.1,
+     318.88,
+     309.62
+    ]
+   },
+   {
+    "symbol": "GEV",
+    "price": 699.33,
+    "spark": [
+     818.49,
+     803.13,
+     763.57,
+     779.91,
+     772.22,
+     756.28,
+     699.33
+    ]
+   },
+   {
+    "symbol": "GOOGL",
+    "price": 265.29,
+    "spark": [
+     298.7,
+     295.77,
+     283.72,
+     280.2,
+     282.44,
+     272.66,
+     265.29
+    ]
+   },
+   {
+    "symbol": "GOOGM",
+    "price": 39.67,
+    "spark": [
+     43.29,
+     42.96,
+     41.62,
+     41.18,
+     41.47,
+     40.47,
+     39.67
+    ]
+   },
+   {
+    "symbol": "GOOW",
+    "price": 41.33,
+    "spark": [
+     47.991,
+     47.39,
+     44.83,
+     44.08,
+     44.6,
+     42.682,
+     41.335
+    ]
+   },
+   {
+    "symbol": "JAAA",
+    "price": 50.61,
+    "spark": [
+     50.55,
+     50.57,
+     50.59,
+     50.6,
+     50.61,
+     50.62,
+     50.61
+    ]
+   },
+   {
+    "symbol": "JEPI",
+    "price": 54.25,
+    "spark": [
+     58.04,
+     57.96,
+     57.19,
+     56.64,
+     56.58,
+     55.54,
+     54.25
+    ]
+   },
+   {
+    "symbol": "JEPQ",
+    "price": 50.84,
+    "spark": [
+     56.78,
+     56.19,
+     54.86,
+     54.45,
+     54.68,
+     53.63,
+     50.84
+    ]
+   },
+   {
+    "symbol": "LLY",
+    "price": 1347.11,
+    "spark": [
+     1427.28,
+     1443.5,
+     1431.67,
+     1415.55,
+     1382.75,
+     1351.12,
+     1347.11
+    ]
+   },
+   {
+    "symbol": "LNG",
+    "price": 294.84,
+    "spark": [
+     309.48,
+     308.75,
+     305.2,
+     301.97,
+     296.49,
+     295.37,
+     294.84
+    ]
+   },
+   {
+    "symbol": "MINT",
+    "price": 100.6,
+    "spark": [
+     100.53,
+     100.55,
+     100.57,
+     100.6,
+     100.6,
+     100.61,
+     100.6
+    ]
+   },
+   {
+    "symbol": "MP",
+    "price": 33.95,
+    "spark": [
+     37.45,
+     38.76,
+     36.09,
+     34.86,
+     35.95,
+     36.66,
+     33.95
+    ]
+   },
+   {
+    "symbol": "MRNA",
+    "price": 195.0,
+    "spark": [
+     231.35,
+     223.37,
+     215.27,
+     206.8,
+     196.79,
+     199.33,
+     195.0
+    ]
+   },
+   {
+    "symbol": "MU",
+    "price": 594.51,
+    "spark": [
+     798.44,
+     778.31,
+     719.02,
+     712.42,
+     705.27,
+     690.44,
+     594.51
+    ]
+   },
+   {
+    "symbol": "NVDA",
+    "price": 125.53,
+    "spark": [
+     166.19,
+     162.85,
+     156.14,
+     155.46,
+     150.96,
+     145.98,
+     125.53
+    ]
+   },
+   {
+    "symbol": "PFE",
+    "price": 27.4,
+    "spark": [
+     28.83,
+     28.89,
+     28.86,
+     28.47,
+     28.06,
+     27.54,
+     27.4
+    ]
+   },
+   {
+    "symbol": "QQQI",
+    "price": 45.58,
+    "spark": [
+     51.64,
+     51.13,
+     49.91,
+     49.55,
+     49.19,
+     48.14,
+     45.58
+    ]
+   },
+   {
+    "symbol": "QQQY",
+    "price": 17.78,
+    "spark": [
+     20.1,
+     19.9,
+     19.36,
+     19.23,
+     19.33,
+     18.8,
+     17.78
+    ]
+   },
+   {
+    "symbol": "RITM",
+    "price": 8.05,
+    "spark": [
+     9.0,
+     8.97,
+     8.84,
+     8.48,
+     8.31,
+     8.24,
+     8.05
+    ]
+   },
+   {
+    "symbol": "RKLB",
+    "price": 45.42,
+    "spark": [
+     64.07,
+     61.53,
+     57.37,
+     55.05,
+     53.07,
+     50.99,
+     45.42
+    ]
+   },
+   {
+    "symbol": "SFNNX",
+    "price": 15.33,
+    "spark": [
+     16.53,
+     16.56,
+     16.33,
+     16.15,
+     15.96,
+     15.71,
+     15.33
+    ]
+   },
+   {
+    "symbol": "SPCX",
+    "price": 127.79,
+    "spark": [
+     139.94,
+     139.11,
+     137.36,
+     141.7,
+     143.5,
+     138.43,
+     127.79
+    ]
+   },
+   {
+    "symbol": "SPYI",
+    "price": 47.83,
+    "spark": [
+     52.64,
+     52.48,
+     51.64,
+     51.12,
+     50.53,
+     49.55,
+     47.83
+    ]
+   },
+   {
+    "symbol": "SUN",
+    "price": 62.55,
+    "spark": [
+     64.98,
+     65.23,
+     64.9,
+     65.33,
+     63.78,
+     63.25,
+     62.55
+    ]
+   },
+   {
+    "symbol": "SWDSX",
+    "price": 19.09,
+    "spark": [
+     20.31,
+     20.33,
+     20.12,
+     19.91,
+     19.72,
+     19.38,
+     19.09
+    ]
+   },
+   {
+    "symbol": "SWSSX",
+    "price": 41.86,
+    "spark": [
+     45.36,
+     45.23,
+     44.47,
+     43.81,
+     44.01,
+     43.05,
+     41.86
+    ]
+   },
+   {
+    "symbol": "TFC",
+    "price": 45.81,
+    "spark": [
+     49.89,
+     49.97,
+     49.58,
+     48.45,
+     47.74,
+     46.67,
+     45.81
+    ]
+   },
+   {
+    "symbol": "UAMY",
+    "price": 2.23,
+    "spark": [
+     2.91,
+     3.09,
+     2.67,
+     2.48,
+     2.52,
+     2.38,
+     2.23
+    ]
+   },
+   {
+    "symbol": "UEC",
+    "price": 5.3,
+    "spark": [
+     6.8,
+     6.66,
+     6.13,
+     6.07,
+     5.92,
+     5.76,
+     5.3
+    ]
+   },
+   {
+    "symbol": "UUUU",
+    "price": 4.96,
+    "spark": [
+     6.68,
+     6.59,
+     6.04,
+     5.93,
+     5.64,
+     5.48,
+     4.96
+    ]
+   },
+   {
+    "symbol": "VI5TC",
+    "price": 142.04,
+    "spark": [
+     156.0626,
+     155.431,
+     152.4488,
+     150.8854,
+     150.538,
+     147.5,
+     142.0438
+    ],
+    "est": true
+   },
+   {
+    "symbol": "VLO",
+    "price": 334.18,
+    "spark": [
+     374.95,
+     379.83,
+     369.73,
+     363.77,
+     343.7,
+     338.46,
+     334.18
+    ]
+   },
+   {
+    "symbol": "VRTX",
+    "price": 515.02,
+    "spark": [
+     542.62,
+     538.6,
+     537.79,
+     534.2,
+     536.45,
+     520.66,
+     515.02
+    ]
+   },
+   {
+    "symbol": "VTTHX",
+    "price": 27.75,
+    "spark": [
+     29.39,
+     29.31,
+     28.95,
+     28.75,
+     28.68,
+     28.34,
+     27.75
+    ]
+   },
+   {
+    "symbol": "XOM",
+    "price": 159.99,
+    "spark": [
+     169.78,
+     170.59,
+     166.87,
+     167.21,
+     160.58,
+     158.93,
+     159.99
+    ]
+   }
+  ],
+  "mode": "7d"
+ },
+ "edition": "weekend",
+ "weekendStories": [
+  {
+   "tag": "Houston",
+   "headline": "Aldine ISD gives away 1,000 turkeys and 10,000 pounds of produce",
+   "body": "Aldine ISD and the Equality Health Foundation handed out 1,000 free turkeys and 10,000 pounds of fresh produce at the district’s sixth annual Healthy Fall Festival on Saturday, Nov. 21, at the M.O. Campbell Educational Center — one of a wave of Thanksgiving giveaways across Greater Houston this week.",
+   "source": "KSBJ",
+   "url": "https://ksbj.org/morning-show/a-thanksgiving-helping-hand-free-food-giveaways-around-houston"
+  },
+  {
+   "tag": "Montana",
+   "headline": "Rivalry food drive wraps with a 600,000-pound goal for Montana food banks",
+   "body": "The annual Can the Cats / Can the Griz rivalry drive — Missoula and Bozeman competing to stock their local food banks — ran Nov. 7–21 with a goal of 600,000 pounds and dollars combined; the Missoula Food Bank serves one in five people in Missoula County, nearly 25,000 individuals.",
+   "source": "Missoula Food Bank",
+   "url": "https://missoulafoodbank.org/get-involved/events/can-the-cats"
+  },
+  {
+   "tag": "North Dakota",
+   "headline": "Fargo barbecue crew smokes 160 turkeys for Shriners Children’s",
+   "body": "The El Zagal Misfits barbecue team in Fargo is smoking 160 turkeys for Thanksgiving pickup, with proceeds from the $60 birds and a turducken raffle going to Shriners Children’s; the raffle winner was drawn Nov. 19 and pickups run Thanksgiving Day at the El Zagal Shrine Temple.",
+   "source": "Wisevoter",
+   "url": "https://wisevoter.com/world/us/nd/fargo/2026/10/30/el-zagal-misfits-smoke-turkeys-charity"
+  },
+  {
+   "tag": "Michigan",
+   "headline": "Marquette GMC sold — but keeps its name, staff and general manager",
+   "body": "ONE Automotive Group of Eau Claire, Wisconsin, closed its purchase of Marquette GMC on Nov. 17, its first dealership in Michigan; the store keeps its name, operations and all current employees, with Nikki Remilong staying on as general manager, and the group plans a new dealership facility.",
+   "source": "Wisevoter",
+   "url": "https://wisevoter.com/world/us/mi/marquette/2026/11/20/one-automotive-acquires-marquette-gmc"
+  },
+  {
+   "tag": "Houston",
+   "headline": "Streams of Joy serves 600 Houston families for Thanksgiving",
+   "body": "Streams of Joy Houston gave free turkeys to 600 families at its Joyful Tables Thanksgiving outreach on Saturday, Nov. 21, from its site on South Texas 6 — one of many volunteer-run giveaways feeding Greater Houston families ahead of Thursday’s holiday.",
+   "source": "Lake Conroe News",
+   "url": "https://feed.lakeconroe.com/2026/11/18/free-thanksgiving-meals-turkeys-and-more-where-to-find-giveaways-across-houston-in-2026/"
+  },
+  {
+   "tag": "Animals",
+   "headline": "120 shelter pets fly to new lives in the Pacific Northwest",
+   "body": "More than 50 dogs and 70 cats left Louisiana on a “Flight to Freedom” early Nov. 18, landing with shelters across the Pacific Northwest that welcomed them with open arms — many in time to find families for the holidays. Another flight is set for Dec. 1.",
+   "source": "GreaterGood",
+   "url": "https://greatergood.com/blogs/news/november-f2f-landing"
+  },
+  {
+   "tag": "Animals",
+   "headline": "Firefighters bring a missing Golden Lab home off a Virginia mountainside",
+   "body": "Archie, a Golden Labrador missing for several days, was found stranded on a steep, wooded slope in Roanoke County’s Bent Mountain area; fire crews and animal rescuers reached him, an Angels of Assisi volunteer treated his dehydration, and he was reunited with his owner.",
+   "source": "GreaterGood",
+   "url": "https://greatergood.com/blogs/news/cw-roanoke-county-dog-rescue-missing-golden-labrador-archie-reunited"
+  },
+  {
+   "tag": "Animals",
+   "headline": "A South Carolina horse rescue is named one of the state’s 2026 “Angels”",
+   "body": "Equine Rescue of Aiken was named one of South Carolina’s 10 “Angels of 2026” on Nov. 18, an award honoring charities that put at least 80% of spending into programs; the rescue devoted 87.7% of its expenditures to helping horses, ponies and people.",
+   "source": "Parade",
+   "url": "https://parade.com/news/south-carolina-horse-rescue-nonprofit-named-2026-angel-by-state"
+  }
+ ],
+ "comic": {
+  "title": "Exploits of a Mom",
+  "image": "https://imgs.xkcd.com/comics/exploits_of_a_mom.png",
+  "alt": "Her daughter is named Help I’m trapped in a driver’s license factory.",
+  "url": "https://xkcd.com/327/",
+  "credit": "xkcd by Randall Munroe — licensed CC BY-NC 2.5; xkcd.com",
+  "note": "Her daughter is named Help I’m trapped in a driver’s license factory."
+ },
+ "aiModels": [
+  {
+   "model": "Nemotron 3.5 Bolt 74B",
+   "maker": "NVIDIA",
+   "fav": true,
+   "score": 8.4,
+   "context": "Up to 256K",
+   "release": "2026-10-15",
+   "license": "OpenMDW-1.1",
+   "hw": "NVIDIA GPU (Spark-class)",
+   "run": "llama.cpp (GGUF) / vLLM",
+   "notes": "The pick to beat — purpose-built for Spark-class boxes: ~24GB footprint, ~84 tok/s reported, hits the 256K context target.",
+   "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
+   "size": "74B (9B active) · ~24GB",
+   "speed": "~84"
+  },
+  {
+   "model": "Inkling 2 Mini",
+   "maker": "Thinking Machines Lab",
+   "score": 8.1,
+   "context": "Up to 1M (advertised)",
+   "release": "2026-11-20",
+   "license": "Apache 2.0",
+   "hw": "GPU / unified memory, 32GB+ class",
+   "run": "vLLM / SGLang / llama.cpp (GGUF); Ollama on Apple silicon only at launch",
+   "notes": "Frontier-class agent scores on vendor benchmarks (SWE-bench Verified 79.2%, unverified); early Spark hands-ons show 40–76 tok/s, but most tokens burn on hidden reasoning.",
+   "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+   "size": "26.4B (3.4B active) · ~20GB",
+   "speed": "~40–76"
+  },
+  {
+   "model": "Nemotron 3 Super 120B",
+   "maker": "NVIDIA",
+   "size": "120B (12B active) · ~80GB NVFP4",
+   "score": 7.8,
+   "context": "Up to 1M (256K default)",
+   "release": "2026-03-11",
+   "license": "NVIDIA Nemotron Open Model License",
+   "hw": "NVIDIA GPU — DGX Spark documented",
+   "run": "vLLM / SGLang (WSL2 on Windows); community GGUF",
+   "notes": "The deep-think option from the project's Nov 20 checkpoint: strongest US-open agentic benchmarks and up-to-1M context, but ~80GB and a Linux/WSL2 serving path.",
+   "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
+   "speed": "~33"
+  },
+  {
+   "model": "gpt-oss-120b",
+   "maker": "OpenAI",
+   "size": "117B (5.1B active) · ~65GB",
+   "score": 7.4,
+   "context": "128K",
+   "release": "2025-08-05",
+   "license": "Apache 2.0",
+   "hw": "GPU / unified memory, 80GB class",
+   "run": "Ollama / LM Studio / vLLM",
+   "notes": "The turnkey option: maker-documented Ollama path, Apache 2.0, fast on mini hardware (~60 tok/s class) — but 128K context sits exactly at the project floor, and it is text-only.",
+   "url": "https://huggingface.co/openai/gpt-oss-120b",
+   "speed": "~60"
+  }
+ ],
+ "aiHardware": [
+  {
+   "box": "Surface RTX Spark Dev Box",
+   "maker": "Microsoft",
+   "fav": true,
+   "score": 8.6,
+   "chip": "NVIDIA N1X (RTX Spark)",
+   "memory": "128GB unified",
+   "bandwidth": "~300 GB/s",
+   "storage": "2TB",
+   "os": "Windows 11 Pro",
+   "price": "$5,999",
+   "notes": "The frontrunner — the only box ticking every project criterion today: CUDA, Windows-native, Microsoft support, shipping now. Bolt-class models run ~84 tok/s on this silicon. Ceiling: 128GB is learning-class; it cannot touch Spark Open itself."
+  },
+  {
+   "box": "Framework Desktop 192GB",
+   "maker": "Framework",
+   "score": 7.9,
+   "chip": "AMD Ryzen AI Max+ PRO 495",
+   "memory": "192GB unified",
+   "bandwidth": "~273 GB/s",
+   "storage": "Configurable",
+   "os": "Windows 11 (DIY install)",
+   "price": "$6,799 DIY",
+   "notes": "Most memory in a mini — room for the 120B deep-think brain plus a fat 256K KV cache. No CUDA (ROCm/Vulkan serving), you assemble it yourself, and batches sell out."
+  },
+  {
+   "box": "AI Workstation 300",
+   "maker": "Corsair",
+   "score": 7.0,
+   "chip": "AMD Ryzen AI Max+ 395",
+   "memory": "128GB (96GB to GPU)",
+   "bandwidth": "256 GB/s",
+   "storage": "1TB",
+   "os": "Windows 11 Home",
+   "price": "$4,700",
+   "notes": "Cheapest US-company route to a 128GB Windows box. The shortage in one row: launched at $1,999 in Jul 2025, now $4,700 — and Windows caps its GPU memory at 96GB."
+  }
+ ],
+ "readiness": {
+  "score": 76,
+  "headline": "Close — the box exists and the speed is there; the brain is one tier shy — projected to be at 100% around Q4-2028",
+  "lacking": "A local model at hosted-Muse tier (today's best stack is a strong supervised junior) · Spark-Open-class capability needs a ~700GB box — the DGX Station class, whose Windows price is still unannounced · memory-shortage prices are still rising, so waiting keeps earning points · Windows serving paths for the favorite models are proven on paper, not yet hands-on",
+  "today": "$5,999 → Surface Dev Box + Bolt 74B always-on (~84 tok/s) + Super 120B for deep think = a working local agent at 76/100. The experience today: about half the capability of hosted Muse — chat at full speed, deep thinking at about half pace. A strong junior on the desk, not a replica."
+ },
+ "buildStack": {
+  "pieces": [
+   {
+    "piece": "Hardware",
+    "pick": "Surface RTX Spark Dev Box (Microsoft)",
+    "status": "★ Frontrunner — watching price",
+    "cost": "$5,999"
+   },
+   {
+    "piece": "Operating system",
+    "pick": "Windows 11 Pro",
+    "status": "Comes with the box",
+    "cost": "Included"
+   },
+   {
+    "piece": "Brain, always-on",
+    "pick": "Nemotron 3.5 Bolt 74B",
+    "status": "Running favorite",
+    "cost": "$0"
+   },
+   {
+    "piece": "Brain, deep think",
+    "pick": "Nemotron 3 Super 120B",
+    "status": "Chosen",
+    "cost": "$0"
+   },
+   {
+    "piece": "Model serving",
+    "pick": "Ollama to start, llama.cpp beneath",
+    "status": "Learning route",
+    "cost": "$0"
+   },
+   {
+    "piece": "Math engine",
+    "pick": "Wolfram 15 — Personal Plus perpetual, via official MCP",
+    "status": "Confirmed Nov 24, 2026",
+    "cost": "~$400 once"
+   },
+   {
+    "piece": "Agent harness",
+    "pick": "OpenClaw / Hermes class",
+    "status": "To build & learn",
+    "cost": "$0"
+   },
+   {
+    "piece": "Memory",
+    "pick": "Local files + local search",
+    "status": "To build",
+    "cost": "$0"
+   },
+   {
+    "piece": "Safeguards",
+    "pick": "Approval gates + sandboxed tools",
+    "status": "To build",
+    "cost": "$0"
+   }
+  ],
+  "footer": "Known total: ~$6,399 one-time. Subscriptions: $0. Tokens: $0."
+ }
+}
