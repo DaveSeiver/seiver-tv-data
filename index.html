@@ -264,6 +264,13 @@
       .aimx.hwx th:nth-child(8),.aimx.hwx td:nth-child(8){width:26%;}
       .aimx td.price{font-weight:700; white-space:nowrap;}
       .aimx.hwx td.chip{color:var(--ink);}
+      .aimx.bsx th:nth-child(1),.aimx.bsx td:nth-child(1){width:16%;}
+      .aimx.bsx th:nth-child(2),.aimx.bsx td:nth-child(2){width:38%;}
+      .aimx.bsx th:nth-child(3),.aimx.bsx td:nth-child(3){width:30%;}
+      .aimx.bsx th:nth-child(4),.aimx.bsx td:nth-child(4){width:16%;}
+      .aimx td.piece{font-weight:700;}
+      .aimx td.cost{font-weight:700; white-space:nowrap;}
+      .bsx-foot{margin-top:8px; font-size:13px; font-weight:700;}
       .ready-card{background:var(--panel); border:1px solid var(--line); box-shadow:var(--shadow); padding:12px 14px;}
       .ready-top{display:flex; align-items:center; gap:16px;}
       .ready-score{font-size:46px; font-weight:800; line-height:1; color:var(--accent-ink); white-space:nowrap;}
@@ -408,6 +415,15 @@
         <div class="aimx-wrap"><table class="aimx hwx" id="hwMatrix"></table></div>
       </section>
 
+      <!-- Weekend editions only: the build — the pieces of the local
+           agent stack, below the hardware watch. Shown only when the
+           build carries buildStack data. -->
+      <section id="sec-build" aria-labelledby="h-build" hidden>
+        <h2 class="sec" id="h-build">THE BUILD &mdash; PIECES OF THE LOCAL AGENT</h2>
+        <div class="aimx-wrap"><table class="aimx bsx" id="buildMatrix"></table></div>
+        <div class="bsx-foot" id="buildFoot"></div>
+      </section>
+
       <!-- Weekend editions only: project readiness band under both
            matrices. Shown only when the build carries readiness data. -->
       <section id="sec-ready" aria-labelledby="h-ready" hidden>
@@ -478,6 +494,8 @@
       if (aiSec) aiSec.hidden = !(weekend && D.aiModels && D.aiModels.length);
       var hwSec = document.getElementById("sec-hw");
       if (hwSec) hwSec.hidden = !(weekend && D.aiHardware && D.aiHardware.length);
+      var bsSec = document.getElementById("sec-build");
+      if (bsSec) bsSec.hidden = !(weekend && D.buildStack && D.buildStack.pieces && D.buildStack.pieces.length);
       var rdSec = document.getElementById("sec-ready");
       if (rdSec) rdSec.hidden = !(weekend && D.readiness && typeof D.readiness.score === "number");
       var pfSec = document.getElementById("sec-portfolio");
@@ -953,6 +971,31 @@
           tbody.appendChild(tr);
         });
         host.appendChild(tbody);
+      })();
+
+      /* Weekend — the build: the pieces of the local agent stack
+         (hardware, OS, models, serving, tools, harness), each with
+         its status and one-time cost. Table elements are built with
+         createElement, same as the models and hardware matrices. */
+      (function(){
+        var host = document.getElementById("buildMatrix");
+        if (!host) return;
+        function ce(tag, cls, text){ var n = document.createElement(tag); if (cls) n.setAttribute("class", cls); if (text != null) n.textContent = text; return n; }
+        var cols = [["Piece","piece","piece"],["Pick","pick","pick"],["Status","status","status"],["Cost","cost","cost"]];
+        var thead = ce("thead"), trh = ce("tr");
+        cols.forEach(function(c){ trh.appendChild(ce("th", null, c[0])); });
+        thead.appendChild(trh); host.appendChild(thead);
+        var tbody = ce("tbody");
+        ((D.buildStack && D.buildStack.pieces) || []).forEach(function(p){
+          var tr = ce("tr");
+          cols.forEach(function(c){
+            tr.appendChild(ce("td", c[1], p[c[2]] || "\u2014"));
+          });
+          tbody.appendChild(tr);
+        });
+        host.appendChild(tbody);
+        var foot = document.getElementById("buildFoot");
+        if (foot && D.buildStack) foot.textContent = D.buildStack.footer || "";
       })();
 
       /* Weekend — project readiness band (0-100): how close the
