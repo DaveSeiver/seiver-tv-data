@@ -1,34 +1,34 @@
 {
- "version": 99,
- "asOf": "Thu Nov 26, 2026, 7:14 AM CT",
+ "version": 100,
+ "asOf": "Thu Nov 26, 2026, 10:12 AM CT",
  "breaking": [
   {
    "tag": "US",
-   "headline": "Nvidia halts AI server shipments to four Southeast Asian countries",
-   "fact": "The Financial Times reported Thursday that Nvidia told manufacturing partners Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand and Indonesia, under new U.S. export-license rules aimed at stopping advanced chips being diverted to China. It is unclear whether the halt is temporary, and Nvidia fell 3.9% on Wednesday.",
-   "source": "Reuters",
-   "url": "https://www.reuters.com/world/asia-pacific/nvidia-halts-chip-shipments-southeast-asia-ft-reports-2026-11-26/"
+   "headline": "Dow erases a 1,100-point plunge to hold 50,000 into Thanksgiving",
+   "fact": "The Dow fell more than 1,100 points Wednesday morning before closing up 164.25 at 50,182.95, while the S&P 500 fell 3.2% intraday and closed down just 0.25% at 7,182.78 and the Nasdaq fell 4.6% before closing down 0.62%. U.S. futures are higher in thin Thanksgiving trade, with the S&P up about 0.7%.",
+   "source": "ZeroHedge",
+   "url": "https://www.zerohedge.com/markets/futures-extend-thanksgiving-turnaround-nasdaq-dodges-bear-market-oil-climbs-houthi-strikes"
   },
   {
    "tag": "US",
-   "headline": "USTR proposes new tariff rates on 14 trading partners, including China",
-   "fact": "The U.S. Trade Representative has proposed new tariff rates on 14 trading partners, including China, in a statement issued in the early American session. The move follows reports the administration is poised to unveil Section 301 findings, with the EU, Japan and South Korea capped at 15% under trade deals and China, India and Vietnam facing higher rates.",
-   "source": "FXStreet",
-   "url": "https://www.fxstreet.com/news/forex-today-thin-liquidity-keeps-majors-steady-on-thanksgiving-day-202611260731"
+   "headline": "HP jumps 11% on earnings beat, dividend hike and a new CEO",
+   "fact": "HP shares rose 11% Wednesday to $30.88 after fiscal fourth-quarter revenue grew 9.3% to $16 billion, beating estimates, with AI PCs reaching nearly 60% of shipments. The company raised its quarterly dividend to $0.31, its 11th straight annual increase, and former GSK chief Emma Walmsley takes over as CEO on January 4.",
+   "source": "Motley Fool",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/11/25/hp-hpq-q4-2026-earnings-call-transcript/"
   },
   {
-   "tag": "US",
-   "headline": "World shares climb as U.S. markets close for Thanksgiving",
-   "fact": "Shares advanced in Europe and Asia on Thursday while U.S. markets stayed closed for the holiday: Germany's DAX jumped 1.8%, the CAC 40 in Paris climbed 1.6% and Japan's Nikkei rose 0.9%. S&P 500 futures edged up 0.3%, and oil firmed as Middle East tensions persisted. U.S. markets reopen for a short session on Friday.",
-   "source": "AP",
-   "url": "https://www.reflector.com/news/national/world-shares-push-higher-while-markets-in-us-will-be-closed-for-thanksgiving/article_efc8eb26-4702-5dbf-bfe0-fff0fc3fa841.html"
+   "tag": "World",
+   "headline": "Gold stages a V-shaped rebound from a 14-month low",
+   "fact": "Spot gold fell below $3,450 an ounce Wednesday, its lowest in more than a year, before recovering to $3,576.30 as Treasury yields eased and tech stocks stabilized; silver rebounded to $41.12. Gold traded above $3,600 again Thursday morning as safe-haven demand returned.",
+   "source": "Mitrade",
+   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-rebounds-ahead-thanksgiving-strong-gdp"
   },
   {
-   "tag": "Local",
-   "headline": "Houston's 77th H-E-B Thanksgiving Day Parade steps off at 9 AM with Lizzo leading",
-   "fact": "The 77th Annual H-E-B Thanksgiving Day Parade rolls through downtown Houston this morning at 9 AM, with hometown star Lizzo as grand marshal. The parade features 15 floats and 10 giant balloons, including a 50-foot Popeye, along a route from Smith and Lamar. Watching from public areas along the route is free.",
-   "source": "My Neighborhood News",
-   "url": "https://myneighborhoodnews.com/77th-annual-h-e-b-thanksgiving-day-parade-returns-to-downtown-houston-with-lizzo-live-performances-and-holiday-fun"
+   "tag": "World",
+   "headline": "Copper jumps 3.4% in a short-covering rebound from an 11-month low",
+   "fact": "Three-month copper on the London Metal Exchange jumped more than 3% to $12,047 a ton Thursday, rebounding from its lowest since December 2025 as tech stocks recovered and crowded shorts unwound. Copper is still down about 15% in November, and all six LME base metals rose in thin Thanksgiving trade.",
+   "source": "Economies.com",
+   "url": "https://www.economies.com/stocks/united-states-news/copper-rebounds-from-11-month-low-as-industrial-metals-recover-50866"
   }
  ],
  "markets": [
@@ -151,10 +151,10 @@
   },
   {
    "label": "VIX",
-   "value": "26.86",
-   "change": "-1.43",
-   "pct": "-5.05%",
-   "dir": "down",
+   "value": "28.29",
+   "change": "+1.93",
+   "pct": "+7.32%",
+   "dir": "up",
    "spark": [
     19.99,
     18.44,
@@ -184,8 +184,7 @@
     35.89,
     26.62,
     26.36,
-    28.29,
-    26.86
+    28.29
    ]
   },
   {
@@ -229,9 +228,9 @@
   },
   {
    "label": "WTI",
-   "value": "$84.71",
-   "change": "+0.56",
-   "pct": "+0.67%",
+   "value": "$84.27",
+   "change": "+0.59",
+   "pct": "+0.70%",
    "dir": "up",
    "spark": [
     101.41,
@@ -262,15 +261,15 @@
     83.98,
     80.17,
     82.05,
-    84.15,
-    84.71
+    83.68,
+    84.27
    ]
   },
   {
    "label": "BRENT",
-   "value": "$91.37",
-   "change": "+0.55",
-   "pct": "+0.61%",
+   "value": "$94.83",
+   "change": "+0.22",
+   "pct": "+0.23%",
    "dir": "up",
    "spark": [
     109.86,
@@ -301,8 +300,8 @@
     92.57,
     89.37,
     91.4,
-    90.82,
-    91.37
+    94.61,
+    94.83
    ]
   }
  ],
@@ -316,7 +315,7 @@
    "price": "$207.68",
    "change": "+0.78%",
    "dir": "up",
-   "blurb": "Air Liquide is trading in Paris this morning at €189.92, worth $207.68 at the ECB's Nov 25 reference rate of 1.0935, up about 0.8% in dollars while U.S. markets sit out Thanksgiving. The industrial-gas giant keeps grinding steadily higher as American tech gives back its rally, its defensive profile doing quiet work. With no company news, the dollar price mostly tracks the euro near the top of its range.",
+   "blurb": "Air Liquide's Paris quote stands at \u20ac189.92 from Wednesday's close, worth $207.68 at the ECB's Nov 25 reference rate of 1.0935, up 0.8% in dollars. Paris traded through the U.S. Thanksgiving holiday while American markets sat out, so the chip's dollar price tracks the euro into Friday's half session. The industrial-gas giant keeps grinding higher as tech gives back its rally.",
    "spark": [
     189.74,
     189.14,
@@ -326,7 +325,7 @@
     188.46,
     189.92
    ],
-   "subTag": "€189.92 × 1.0935 (ECB Nov 25)",
+   "subTag": "\u20ac189.92 \u00d7 1.0935 (ECB Nov 25)",
    "yieldTag": null
   },
   {
@@ -337,7 +336,7 @@
    "price": "$82.79",
    "change": "+1.07%",
    "dir": "up",
-   "blurb": "Anthropic closed Wednesday at $82.79, up 1.1% as the stock steadied after sliding below its $83 IPO price on Tuesday. The AI name got caught in the chip selloff earlier in the week, but Wednesday's bounce put it back near breakeven on the debut. Sean's IPO allocation is a long-term hold, not a trade. Watch whether it can hold above the IPO price once Friday's short session resumes.",
+   "blurb": "Anthropic closed Wednesday at $82.79, up 1.1% as the stock steadied just below its $83 IPO price after a choppy first week of trading. The AI lab behind Claude is still the talk of the math world after its Nov 20 Riemann proof, certified by the Lean community, and a Navier-Stokes claim the same day. With U.S. markets closed for Thanksgiving, the next test comes in Friday's thin half session.",
    "spark": [
     97.17,
     88.91,
@@ -356,7 +355,7 @@
    "price": "$91.64",
    "change": "+0.03%",
    "dir": "up",
-   "blurb": "BIL edged up a penny Wednesday to $91.64, the quiet government-cash anchor doing its job while growth stocks slid into the holiday. Its $0.30849 distribution, ex Nov 2 and paid Nov 5, carries a 4.04% distribution yield. With a December Fed hike now seen as nearly certain, short Treasury yields stay supported. Markets are closed for Thanksgiving, so BIL simply holds its value until Friday's short session.",
+   "blurb": "BIL edged up a penny Wednesday to $91.64, the quiet government-cash anchor doing its job while growth stocks sold off and the VIX spiked to 28.29. Its distribution yield sits at 4.04%, with the latest payout of $0.30849 per share paid Nov 5. In a week when the Nasdaq fell 4.6% intraday before recovering, the Treasury-bill fund's steadiness is the whole point. The fund's yield tracks the Fed's path closely.",
    "spark": [
     91.55,
     91.56,
@@ -377,7 +376,7 @@
    "price": "$273.10",
    "change": "-2.13%",
    "dir": "down",
-   "blurb": "Alphabet fell 2.1% Wednesday to $273.10, giving back more of the week's gains as the Nasdaq slid 0.6% and chips led the decline. The AI spending question cuts both ways for Google: its cloud business benefits, but the capital outlays keep growing. With U.S. markets closed for Thanksgiving, the next test comes Friday. The AI and search thesis is intact, but the tape stays rough into the weekend.",
+   "blurb": "Alphabet fell 2.1% Wednesday to $273.10, giving back more of the week's gains as the Nasdaq slid 0.6% and chip stocks led the selloff. The drop came with no company-specific news, as hot PCE data pushed December hike odds near 95% and pressured rate-sensitive growth names. Futures point higher into Friday's half session, but the stock needs tech sentiment to stabilize before the slide finds a floor.",
    "spark": [
     280.2,
     282.44,
@@ -398,7 +397,7 @@
    "price": "$1,392.22",
    "change": "-1.09%",
    "dir": "down",
-   "blurb": "Eli Lilly slipped 1.1% Wednesday to $1,392.22, a modest pullback after Tuesday's 3.2% jump as money rotated to defensive growth. Moody's lifted Lilly to Aa2 this week, citing the weight-loss drug franchise's growth. With the Fed leaning hawkish, Lilly's drug-driven earnings look comparatively safe. The stock remains near the top of its range, and the GLP-1 story still has room to run into the new year.",
+   "blurb": "Eli Lilly slipped 1.1% Wednesday to $1,392.22, a modest pullback after Tuesday's 3.2% jump as money rotated toward defensive names and away from growth. The drugmaker held up far better than the Nasdaq, which fell 4.6% intraday before recovering most of the drop. With U.S. markets closed for Thanksgiving, Lilly's next move waits on Friday's thin half session and whether the safety rotation keeps running.",
    "spark": [
     1415.55,
     1382.75,
@@ -419,7 +418,7 @@
    "price": "$301.99",
    "change": "+2.02%",
    "dir": "up",
-   "blurb": "Cheniere Energy jumped 2.0% Wednesday to $301.99, showing steady strength while oil whipsawed and the market fell. Natural-gas export demand stays firm, and the Strait of Hormuz tensions keep energy in focus, though Cheniere's U.S. Gulf Coast terminals sit far from the strait. The stock has been a quiet outperformer this fall. Watch the OPEC+ meeting on Sunday and winter gas demand for the next move.",
+   "blurb": "Cheniere Energy jumped 2.0% Wednesday to $301.99, showing steady strength while oil whipsawed and the market fell apart intraday. Brent crude settled up 3.5% at $94.61 after Houthi strikes on Saudi ports, and U.S. LNG exporters keep benefiting from tight global gas markets. With energy the day's outperformer and Gulf tensions still rising, Cheniere's run looks more durable than a one-day bounce.",
    "spark": [
     301.97,
     296.49,
@@ -440,7 +439,7 @@
    "price": "$149.30",
    "change": "-3.91%",
    "dir": "down",
-   "blurb": "Nvidia fell 3.9% Wednesday to $149.30, giving back more of Monday's 31% surge after Huang's reinstatement, and the pressure continued overnight: the FT reports Nvidia told Dell and Supermicro to halt AI server shipments to four Southeast Asian countries under new U.S. export-license rules. Sean's call stands: a long-term hold until the probes and investigation shake out, with Huang testifying Dec 1.",
+   "blurb": "Nvidia fell 3.9% Wednesday to $149.30, giving back more of Monday's 31% surge after Huang's reinstatement, and S&P then put its AA rating on CreditWatch Negative over governance risks. The agency cited the CEO's 12-day exit and return and questions over board oversight, with a downgrade possible in 90 days. Futures point higher for Friday, but the credit watch adds a fresh overhang to a stock already under scrutiny.",
    "spark": [
     155.46,
     150.96,
@@ -461,7 +460,7 @@
    "price": "$28.46",
    "change": "+0.00%",
    "dir": "flat",
-   "blurb": "Pfizer was flat Wednesday at $28.46, holding Tuesday's 3.9% gain as investors rotated into defensive dividend payers. The drugmaker's yield and steady cash flow look attractive with the Fed leaning toward another hike and growth stocks under pressure. Pfizer remains well off its highs, and the dividend is the core of the thesis here. Watch for any pipeline or deal news to give the stock a second leg.",
+   "blurb": "Pfizer was flat Wednesday at $28.46, holding Tuesday's 3.9% gain as investors rotated into defensive dividend payers during the market's wild intraday swing. The drugmaker's steadiness stood out while the Nasdaq plunged 4.6% before recovering and the VIX spiked to 28.29. With markets closed for Thanksgiving, Pfizer's dividend yield keeps it on the safe-haven list heading into Friday's half session.",
    "spark": [
     28.47,
     28.06,
@@ -482,7 +481,7 @@
    "price": "$47.02",
    "change": "+2.26%",
    "dir": "up",
-   "blurb": "Rocket Lab jumped 2.3% Wednesday to $47.02, bouncing with the market's late-day recovery after Tuesday's 7.4% slide. The space stock has been volatile all month, swinging with risk appetite rather than company news. No fresh launch or contract headlines drove the move; it was the tape. The long-term launch-cadence story is unchanged, but the stock needs calmer markets to find a footing.",
+   "blurb": "Rocket Lab jumped 2.3% Wednesday to $47.02, bouncing with the market's late-day recovery after Tuesday's 7.4% slide. The space stock remains one of the tape's most volatile names, swinging hard with risk appetite as the Nasdaq fell 4.6% intraday before clawing most of it back. No company news drove the move \u2014 it was pure sentiment \u2014 so Friday's thin half session could bring another sharp swing either way.",
    "spark": [
     55.05,
     53.07,
@@ -503,7 +502,7 @@
    "price": "$8.92",
    "change": "+2.88%",
    "dir": "up",
-   "blurb": "Rithm Capital rose 2.9% Wednesday to $8.92, extending a strong week as the mortgage REIT's dividend yield drew buyers. Higher-for-longer rates are a mixed blessing for Rithm: they pressure book value but fatten the spreads on new investments. The stock has been climbing steadily this month. Watch the December Fed decision and the direction of mortgage rates for the next leg.",
+   "blurb": "Rithm Capital rose 2.9% Wednesday to $8.92, extending a strong week as the mortgage REIT's dividend yield drew buyers during the market's flight to income. The 10-year Treasury yield eased to 4.85% as stocks recovered from their intraday lows, a friendly backdrop for mortgage REITs. With a December Fed hike now priced near 95%, the rate path matters more than ever for Rithm's book value and payout.",
    "spark": [
     8.48,
     8.31,
@@ -524,7 +523,7 @@
    "price": "$127.44",
    "change": "+1.30%",
    "dir": "up",
-   "blurb": "SPCX, the leveraged S&P 500 fund, rose 1.3% Wednesday to $127.44, tracking the market's late recovery with its usual amplified move as the S&P 500 cut its losses. Leveraged funds magnify both directions, and this week was all downside until Wednesday's rebound. It is a trading vehicle, not a buy-and-hold, and sharp down days are the cost of leverage. Watch Friday's short session for the next swing.",
+   "blurb": "SPCX, the leveraged S&P 500 fund, rose 1.3% Wednesday to $127.44, tracking the market's late recovery with its usual amplified swing. The S&P fell 3.2% intraday before closing down just 0.25%, so the leveraged fund's gain reflects the furious afternoon buying rather than a calm day. Futures point higher into Friday, but leveraged funds cut both ways \u2014 a thin half session could magnify any move.",
    "spark": [
     141.7,
     143.5,
@@ -545,7 +544,7 @@
    "price": "$47.89",
    "change": "+0.86%",
    "dir": "up",
-   "blurb": "Truist Financial rose 0.9% Wednesday to $47.89, holding up as the Dow climbed above 50,000 for the first time and banks caught a bid. Regional banks benefit from the steepening rate outlook as the Fed leans hawkish, and Truist's dividend adds ballast. The stock has been grinding higher this month while tech whipsaws. Watch the December Fed meeting and the rate path driving bank earnings.",
+   "blurb": "Truist Financial rose 0.9% Wednesday to $47.89, holding up as the Dow climbed above 50,000 for the first time and banks caught a bid in the late recovery. Financials benefited as the 10-year yield held near 4.85% and the market priced a December hike as near-certain. With markets closed for Thanksgiving, Truist's next test is Friday's half session and whether the Dow can hold its round-number milestone.",
    "spark": [
     48.45,
     47.74,
@@ -566,7 +565,7 @@
    "price": "$2.21",
    "change": "+1.38%",
    "dir": "up",
-   "blurb": "U.S. Antimony rose 1.4% Wednesday to $2.21, steadying after Tuesday's 8.8% slide as small miners sold off. China's antimony and chip-material export curbs stay on hold until January, so no new policy pressure, but the stock trades on sentiment. The long-term domestic-supply thesis is intact, and the company remains a speculative bet. Watch for defense or critical-minerals news to spark the next move.",
+   "blurb": "U.S. Antimony rose 1.4% Wednesday to $2.21, steadying after Tuesday's 8.8% slide as small miners sold off. China's export curbs and U.S. critical-mineral policy remain the long-term bull case, but the stock trades with the market's risk appetite day to day. The Nasdaq's 4.6% intraday plunge and recovery set the tone; with futures higher into Friday, the antimony miner could keep steadying if sentiment holds.",
    "spark": [
     2.48,
     2.52,
@@ -587,7 +586,7 @@
    "price": "$5.69",
    "change": "+2.15%",
    "dir": "up",
-   "blurb": "Uranium Energy rose 2.2% Wednesday to $5.69, recovering part of Tuesday's 4.6% slide in the market's late rebound. The uranium story still rests on nuclear expansion and government buying, but the stock is hostage to risk appetite in the meantime. UEC remains a favorite long-term holding, and Sean wants to add while the price is low. Watch for reactor or contracting headlines and a turn in sentiment.",
+   "blurb": "Uranium Energy rose 2.2% Wednesday to $5.69, recovering part of Tuesday's 4.6% slide in the market's late rebound. Nuclear expansion and U.S. uranium buying remain the structural story, but the stock is tied to risk appetite while the Fed's rate path dominates the tape. With oil jumping on Gulf tensions and futures pointing higher for Friday, the setup favors a steadier session if the thin holiday market cooperates.",
    "spark": [
     6.07,
     5.92,
@@ -608,7 +607,7 @@
    "price": "$147.64 (est.)",
    "change": "-0.26%",
    "dir": "down",
-   "blurb": "VI5TC is estimated at $147.64, down 0.3% on the S&P 500's Wednesday slide, using the S&P-anchored estimator recalibrated from Sean's account value. The fund tracks the broad market, so its move simply mirrors the index, which fell as tech gave back gains before recovering. The estimate updates with each S&P close and stays marked as an estimate. Watch Friday's short session for the market's next direction.",
+   "blurb": "VI5TC is estimated at $147.64, down 0.3% on the S&P 500's Wednesday slide, using the S&P-anchored estimator recalibrated from Dave's account value. The S&P fell as much as 3.2% intraday before closing down just 0.25%, so the estimate reflects the close, not the panic low. With U.S. markets closed for Thanksgiving and futures pointing higher, the next estimate comes after Friday's half session.",
    "spark": [
     150.89,
     150.54,
@@ -629,7 +628,7 @@
    "price": "$323.00",
    "change": "-0.51%",
    "dir": "down",
-   "blurb": "Valero Energy slipped 0.5% Wednesday to $323.00 even as the Dow hit 50,000, as oil seesawed and refiners gave back gains. Brent held near $91 with the Hormuz tensions competing against surplus worries ahead of the OPEC+ meeting on Sunday. Valero's refining margins remain the swing factor, and the dividend keeps paying while the stock consolidates. Watch OPEC+ and winter fuel demand for direction.",
+   "blurb": "Valero Energy slipped 0.5% Wednesday to $323.00 even as the Dow hit 50,000, as oil seesawed and refiners gave back gains. Brent settled up 3.5% at $94.61 after Houthi strikes on Saudi ports and a refinery, a mixed picture for refiners: higher crude lifts product prices but squeezes margins. With Gulf tensions still rising and oil trading higher Thursday, Valero's direction hinges on how far the supply scare runs.",
    "spark": [
     363.77,
     343.7,
@@ -650,7 +649,7 @@
    "price": "$28.45",
    "change": "+0.07%",
    "dir": "up",
-   "blurb": "The Target Retirement 2035 fund's NAV edged up to $28.45 as of Nov 25, a small gain as stocks recovered from intraday lows and bonds held steady. The diversified target-date fund does the quiet work of the portfolio, blending U.S. and international stocks with bonds that glide more conservative with time. Wednesday's move was modest beside the Nasdaq's swings. It remains a set-and-forget core holding for 2035.",
+   "blurb": "The Target Retirement 2035 fund's NAV edged up to $28.45 as of Nov 25, a small gain as stocks recovered from intraday lows in the late session. The balanced fund's bond sleeve cushioned the Nasdaq's 4.6% intraday plunge, while its equity holdings joined the afternoon rebound. With markets closed for Thanksgiving, the next NAV prints after Friday's half session, when the fund will price a thin, holiday-shortened tape.",
    "spark": [
     28.75,
     28.68000030517578,
@@ -671,7 +670,7 @@
    "price": "$1.00",
    "change": "",
    "dir": "flat",
-   "blurb": "SWVXX holds its $1.00 NAV, with Schwab's 7-day SEC yield at 3.79% as published Nov 25, up a touch from 3.78%. The sweep fund keeps shrinking by design: whenever it tops $1,000 in an account, cash moves into a CD, and the position should evaporate over time. It trails Vanguard's Treasury fund, but stays the Schwab sweep vehicle. Leftover pennies sweep to the mutual-fund remnants as an account nears zero.",
+   "blurb": "SWVXX holds its $1.00 NAV, with Schwab's 7-day SEC yield at 3.79% as published Nov 25, unchanged from the prior reading. The sweep fund keeps doing its quiet job while the market whipsaws \u2014 the VIX spiked to 28.29 Wednesday and the Nasdaq fell 4.6% intraday before recovering. Per the standing plan, balances above $1,000 get swept into CDs, so the position should keep shrinking toward zero over time.",
    "spark": null,
    "subTag": "Yield published Nov 25 (Schwab)",
    "yieldTag": "7-day yield 3.79%"
@@ -684,7 +683,7 @@
    "price": "$1.00",
    "change": "",
    "dir": "flat",
-   "blurb": "VUSXX holds its $1.00 NAV, with Vanguard's 7-day SEC yield at 4.01% as published Nov 25, down a touch from 4.04%. The Treasury money-market fund is the eTrade cash home and the landing spot for the Seiver Slough and Seiver Lodge sale proceeds down the road. It pays more than Schwab's SWVXX and carries no ticket fee at eTrade. The yield should stay supported with a December Fed hike now nearly certain.",
+   "blurb": "VUSXX holds its $1.00 NAV, with Vanguard's 7-day SEC yield at 4.01% as published Nov 25, unchanged from the prior reading. The Treasury money fund remains the top-yielding cash parking spot on the board, comfortably ahead of Schwab's SWVXX at 3.79%. With markets closed for Thanksgiving and a December hike priced near 95%, money-fund yields should stay firm into Friday's half session and beyond.",
    "spark": null,
    "subTag": "Yield published Nov 25 (Vanguard)",
    "yieldTag": "7-day yield 4.01%"
@@ -692,23 +691,23 @@
  ],
  "weekInBrief": [
   {
-   "headline": "Bank of Korea resumes rate hikes, lifting its benchmark to 3.25%",
-   "body": "The Bank of Korea raised its base rate by a quarter point to 3.25% on Thursday, resuming its tightening cycle after an October pause, as a chip-driven export boom keeps inflation and housing prices elevated. The 5-2 decision also lifted the bank's growth forecast to 3.9% for 2026 and 4.1% for 2027.",
+   "headline": "Houthi strikes on Saudi ports and a refinery lift oil sharply",
+   "body": "Yemen's Houthis claimed drone strikes on Saudi Arabia's Ras Tanura refinery and the ports of Jeddah and Jazan, and the Saudi-led coalition said a projectile caused minor damage at Jazan. Brent crude settled up 3.5% at $94.61 a barrel on Wednesday and WTI rose 2.0% to $83.68, with both trading higher again in thin Thanksgiving sessions as traders priced in supply-disruption risk.",
+   "stamp": "Nov 25, 2026"
+  },
+  {
+   "headline": "Markets now price a December Fed hike as near-certain",
+   "body": "Futures markets put a quarter-point December rate hike at 94\u201396% after October core PCE came in hot at 3.3% and third-quarter GDP was revised up to 4.3%, the fastest in three years. It would be a sharp turn from the easing path markets expected this fall, and the pricing held even as stocks staged a historic intraday reversal on Wednesday.",
    "stamp": "Nov 26, 2026"
   },
   {
-   "headline": "Bank of England warns more hikes likely if energy prices stay high",
-   "body": "Bank of England Governor Andrew Bailey told Parliament on Wednesday that it is more likely than not the bank will have to raise interest rates further if energy prices stay elevated, as the bank publishes its Financial Stability Report today. The warning comes as the Middle East conflict keeps oil near $91 a barrel.",
+   "headline": "Bitcoin rebounds above $61,000, but ETF outflows deepen",
+   "body": "Bitcoin climbed back above $61,000 on Thursday, up about 2.5% in a day, as crypto joined the global rebound from Wednesday's selloff. The recovery came even as spot Bitcoin ETFs shed another $453 million in 24 hours, extending a seven-day outflow streak to $2.5 billion, a sign institutions are still pulling money despite the bounce.",
    "stamp": "Nov 26, 2026"
   },
   {
-   "headline": "Bank of Japan's Tamura says a 50-point hike may be needed",
-   "body": "Bank of Japan board member Naoki Tamura said on Thursday that the central bank must keep raising interest rates regardless of upside and downside price risks, as long as underlying inflation stays around 2%, and that a 50-basis-point hike may be needed if inflation risks materialize. The yen held near 159.20 to the dollar.",
-   "stamp": "Nov 26, 2026"
-  },
-  {
-   "headline": "U.S. crude stocks rose 1.1 million barrels last week, EIA says",
-   "body": "U.S. crude inventories rose 1.1 million barrels to 418.9 million in the week ended November 20, the Energy Information Administration said, less than the 1.5 million-barrel build analysts expected. The modest build supported prices alongside the Middle East supply worries, with WTI holding near $85.",
+   "headline": "Trump says Iran campaign funded 'through January' as strikes weighed",
+   "body": "President Trump told the New York Post the U.S. military campaign against Iran remains funded \u201cthrough January,\u201d and NBC News reported administration officials are weighing strikes on senior Iranian leaders. The comments came as the U.S. blockade of Iranian oil enters its fifth month, with Gulf tensions keeping oil prices elevated into the holiday.",
    "stamp": "Nov 26, 2026"
   }
  ],
@@ -716,35 +715,35 @@
   "items": [
    {
     "headline": "Latest from the Strait",
-    "body": "Two more tankers exploded and caught fire after hitting sea mines north of Oman's Khasab port on Thursday, the Revolutionary Guards said, claiming the vessels were on an unauthorized route — one was a supertanker carrying more than 2 million barrels of crude; the claims remain unverified and the vessels unnamed. Britain's maritime trade agency separately reported an explosion from an unknown projectile near a tanker about 50 nautical miles west of Dubai on Thursday. Yemen's Houthis said they had struck Saudi Arabia's largest oil refinery and Saudi ports, pushing oil higher on supply concerns, though Gulf oil supply had been recovering toward pre-war levels before the latest disruptions. Kpler's latest data still puts Iranian crude loadings at zero, with Iranian oil on the water down below 50 million barrels and only about 4.5 million barrels left outside the blockade zone to discharge, while total Gulf crude exports — counting the Saudi and UAE bypass pipelines — are running at about 16.7 million barrels a day, just shy of the roughly 17 million before the war."
+    "body": "Treasury Secretary Scott Bessent said Iran has not loaded a single oil tanker since Operation Economic Outcast began in August, and trackers noted the first tanker observed loading at Kharg Island since September \u2014 though no Iranian crude tanker has evaded the blockade since July 14. Iran\u2019s army claimed it shot down two U.S. drones, an MQ-9 and a second aircraft, and its Strait Authority added 26 tugboats to its non-compliance blacklist, now 266 vessels. No Iranian oil is getting past the blockade: Treasury says not a single tanker has loaded since August and Kpler still puts Iranian loadings at zero, while CENTCOM says Gulf partners shipped a record 108 million barrels of crude through the strait under U.S. protection last week, the largest weekly volume yet."
    }
   ],
   "stats": ""
  },
  "space": [
   {
+   "tag": "Science",
+   "headline": "AI-aided team claims the 'real' Navier-Stokes proof \u2014 with a catch",
+   "body": "Anthropic's Levent Alp\u00f6ge and NYU's Tristan Buckmaster say they have proved finite-time blow-up for the unforced 3D Navier-Stokes equations, closing the loophole in OpenAI's September result, which relied on an artificial external force. The 79-page paper and Lean formalization were posted Nov 20, but the numerical certificate that completes the proof has not yet been released, so the claim is unverified for now.",
+   "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/"
+  },
+  {
+   "tag": "Science",
+   "headline": "Ocean iodine won't rescue air quality as seas warm, study finds",
+   "body": "A University of York study in Science Advances finds marine iodine emissions will dip about 3% by 2100 instead of surging as earlier models assumed, because warmer seas slow the release of iodine gas that destroys ground-level ozone. Iodine now accounts for nearly 11% of ozone destruction, falling to 10.2% by century\u2019s end \u2014 bad news for air quality, though Arctic iodine emissions are projected to surge 143% as sea ice retreats.",
+   "url": "https://www.gazetteherald.co.uk/news/26757620.university-york-study-reveals-iodine-climate-impact/"
+  },
+  {
    "tag": "Space",
-   "headline": "A giant lambda-shaped stellar nursery hides in the Milky Way's outskirts",
-   "body": "Astronomers have found a giant hub-filament system of molecular gas in the outer Milky Way, dubbed the lambda-complex, about 43,000 light-years from the galactic center and 16,800 light-years from the Sun. The structure, G195.65-0.10, holds 61 dense gas clumps where stars are forming, and it behaves much like the star-forming regions closer to the galaxy's center despite the harsher environment.",
-   "url": "https://phys.org/news/2026-11-giant-lambda-stellar-nursery-milky.html"
+   "headline": "Europa's vast sodium cloud stays stable across decades",
+   "body": "Seven observing epochs from 1999 to 2025 show Europa's distant sodium cloud barely changes, even as the moon moves through Jupiter's wildly varying plasma environment. The Keck I observations found sodium abundance beyond 20 Europa radii varied by less than a factor of two, far steadier than earlier models spanning a factor of five \u2014 suggesting slow transport blurs the link between local plasma conditions and the distant cloud.",
+   "url": "https://watchers.news/epicenter/europas-vast-sodium-cloud-stays-unexpectedly-stable-across-decades/"
   },
   {
-   "tag": "Science",
-   "headline": "Gut microbes adapt as we age, a 10,000-person study finds",
-   "body": "A study of more than 10,000 people, published in Nature, found specific mutations in gut bacteria that arise during human ageing — but few linked to disease. The authors singled out one adaptation that helps one of the most abundant gut species resist oxidative stress, the cell damage that increases with age. The gut's bacterial community itself usually stays stable over a lifetime.",
-   "url": "https://www.nature.com/articles/d41586-026-03268-9"
-  },
-  {
-   "tag": "Science",
-   "headline": "New maps of a heart receptor point to better drugs for heart failure",
-   "body": "A Harvard team has revealed that the two types of drugs now being tested for heart failure and pulmonary fibrosis activate the RXFP1 relaxin receptor in different ways: the protein relaxin-2 binds a part sticking out of the cell surface, while the small molecule AZD5462 binds directly inside the membrane. The work, published in Science, opens at least two distinct sites on the receptor for drug design.",
-   "url": "https://medicalxpress.com/news/2026-11-aid-drugs-heart-failure-pulmonary.html"
-  },
-  {
-   "tag": "Science",
-   "headline": "A molecular backdoor destroys the 'undruggable' protein behind Ewing sarcoma",
-   "body": "Penn State researchers found a way to destroy the rogue fusion protein that drives Ewing sarcoma, a rare bone and soft-tissue cancer in children, by blocking CK2, the enzyme that stabilizes it. In preclinical studies the drug silmitasertib broke down the fusion protein, slowed tumor spread and prolonged survival in mice — and a Phase I clinical trial is already underway.",
-   "url": "https://medicalxpress.com/news/2026-11-molecular-backdoor-destroys-undruggable-protein.html"
+   "tag": "Space",
+   "headline": "Hubble maps 25 million stars to sharpen Roman's planet hunt",
+   "body": "NASA published new Hubble images of the Milky Way\u2019s galactic bulge on Nov 25, a precursor survey of the fields the Nancy Grace Roman Space Telescope will watch for microlensing events starting in spring 2027. The planned catalog of about 25 million stars will let astronomers turn Roman\u2019s planet-to-star mass ratios into actual planet masses \u2014 the missing piece a light curve alone cannot give.",
+   "url": "https://tml.news/stories/hubble-bulge-catalog-roman-planet-masses/"
   }
  ],
  "cdRates": {
@@ -796,74 +795,74 @@
    }
   ],
   "footnote": "",
-  "ratesAsOf": "Schwab Thu, Nov 19, 2026 · eTrade Mon, Nov 23, 2026"
+  "ratesAsOf": "Schwab Thu, Nov 19, 2026 \u00b7 eTrade Mon, Nov 23, 2026"
  },
  "weather": [
   {
    "name": "Houston Winter Condo",
    "detail": "ZIP 77056",
-   "tempF": 40,
+   "tempF": 47,
    "conditions": "Sunny",
    "icon": "sun",
    "alerts": "",
-   "extra": "Humidity 64% · Wind NW 10 mph",
-   "today": "Sunny, high 59°F",
-   "tonight": "Mostly Cloudy, low 40°F",
-   "tomorrow": "Partly Sunny, high 64°F"
+   "extra": "Humidity 48% \u00b7 Wind NNW 10 mph",
+   "today": "Mostly Sunny, high 59\u00b0F",
+   "tonight": "Partly Cloudy, low 42\u00b0F",
+   "tomorrow": "Partly Cloudy, high 66\u00b0F"
   },
   {
-   "name": "Seiver Ranch — Plains, MT",
+   "name": "Seiver Ranch \u2014 Plains, MT",
    "detail": "Sanders County",
    "tempF": 34,
-   "conditions": "Patchy Fog",
-   "icon": "fog",
+   "conditions": "Rain",
+   "icon": "rain",
    "alerts": "",
-   "extra": "Humidity 97% · Wind SSE 1 mph",
-   "today": "Patchy Fog then Light Rain, high 43°F",
-   "tonight": "Chance Light Rain, low 36°F",
-   "tomorrow": "Light Rain Likely, high 44°F"
+   "extra": "Humidity 100% \u00b7 Wind SSW 1 mph",
+   "today": "Rain, high 43\u00b0F",
+   "tonight": "Rain Early, low 41\u00b0F",
+   "tomorrow": "Cloudy, high 44\u00b0F"
   },
   {
-   "name": "Seiver Slough — Rugby, ND",
+   "name": "Seiver Slough \u2014 Rugby, ND",
    "detail": "Pierce County",
-   "tempF": 31,
-   "conditions": "Mostly Sunny",
+   "tempF": 33,
+   "conditions": "Fair",
    "icon": "sun",
    "alerts": "",
-   "extra": "Humidity 92% · Wind S 10 mph",
-   "today": "Sunny, high 44°F",
-   "tonight": "Mostly Cloudy then Chance Light Rain, low 32°F",
-   "tomorrow": "Mostly Sunny, high 46°F"
+   "extra": "Humidity 89% \u00b7 Wind SSW 9 mph",
+   "today": "Mostly Sunny, high 45\u00b0F",
+   "tonight": "Cloudy, low 32\u00b0F",
+   "tomorrow": "Mostly Sunny, high 49\u00b0F"
   },
   {
-   "name": "Seiver Lodge — L'Anse, MI",
+   "name": "Seiver Lodge \u2014 L\u2019Anse, MI",
    "detail": "Baraga County",
-   "tempF": 20,
-   "conditions": "Mostly Sunny",
-   "icon": "sun",
+   "tempF": 27,
+   "conditions": "Mostly Cloudy",
+   "icon": "clouds",
    "alerts": "",
-   "extra": "Humidity 93% · Wind E 0-5 mph",
-   "today": "Patchy Fog then Mostly Sunny, high 41°F",
-   "tonight": "Partly Cloudy, low 22°F",
-   "tomorrow": "Partly Sunny, high 42°F"
+   "extra": "Humidity 100% \u00b7 Wind E 4 mph",
+   "today": "Partly Cloudy, high 39\u00b0F",
+   "tonight": "Fog Late, low 27\u00b0F",
+   "tomorrow": "AM Fog/PM Sun, high 40\u00b0F"
   }
  ],
  "apod": {
   "date": "November 26, 2026",
-  "title": "Eye in the Sky: The Milky Way over Lençóis",
-  "credit": "Ignacio Fernández",
-  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Milky_Way_Lencois.jpg?w=2048&h=2048&fit=clip",
-  "explanation": "Beauty is in the eye of the beholder. The Milky Way shines bright in the sky of Brazil, over the white sand dunes and dark lagoons of Lençóis Maranhenses National Park. This composite image was taken later in the night in July from a latitude of approximately 2º south, and shows prominent Milky Way features such as dark dust lanes and colorful nebulas. The arched, rainbow-like shape is an artifact of the wide-angle lens — as the Galaxy was artfully framed, it matches the contour of the dark lagoon, creating the illusion of a cosmic eye, half in space and half on the ground.",
-  "pageUrl": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/"
+  "title": "Seeking Refuge on Resolution Island",
+  "credit": "NASA Earth Observatory image by Michala Garrison, using Landsat data from the U.S. Geological Survey",
+  "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/seeking-refuge-on-resolution-island/nzresolution_oli2_20251212.jpg",
+  "explanation": "Resolution Island, in Fiordland on New Zealand\u2019s South Island, was eyed as a predator-free refuge for native birds as early as 1872 \u2014 but stoats proved able to swim there. This Landsat 9 image from December 12, 2025, shows the uninhabited island rising to Mount Clerke at 1,069 meters amid steep glacial valleys now filled by the sea, where a conservation program has worked since 2008 to control stoats and bolster kiwi and k\u0101k\u0101p\u014d.",
+  "pageUrl": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/"
  },
  "aqiMap": {
   "image": "aqi-map.jpg",
-  "stamp": "Thu Nov 26, 2026, 7:00 AM CT",
+  "stamp": "Thu Nov 26, 2026, 10:00 AM CT",
   "credit": "AQI & wind data: Open-Meteo (CAMS / NOAA)"
  },
  "portfolio": {
   "mode": "24h",
-  "asOf": "Thu, Nov 26, 2026, 7:01 AM CT",
+  "asOf": "Thu, Nov 26, 2026, 10:01 AM CT",
   "cells": [
    {
     "symbol": "GOLD",
@@ -1069,21 +1068,8 @@
    },
    {
     "symbol": "EUR/USD",
-    "price": 1.0981,
+    "price": 1.0976,
     "spark": [
-     1.0946,
-     1.0945,
-     1.0948,
-     1.0948,
-     1.0942,
-     1.0949,
-     1.0948,
-     1.0954,
-     1.0943,
-     1.0942,
-     1.0943,
-     1.0946,
-     1.0951,
      1.0951,
      1.0949,
      1.0967,
@@ -1168,27 +1154,27 @@
      1.0975,
      1.0979,
      1.0981,
-     1.0981
+     1.0978,
+     1.0981,
+     1.0983,
+     1.0988,
+     1.0989,
+     1.0989,
+     1.0984,
+     1.0983,
+     1.0983,
+     1.0977,
+     1.0976,
+     1.0976,
+     1.0976
     ],
     "fx": true,
     "lead": true
    },
    {
     "symbol": "USD/JPY",
-    "price": 159.252,
+    "price": 159.323,
     "spark": [
-     159.296,
-     159.272,
-     159.242,
-     159.365,
-     159.372,
-     159.319,
-     159.083,
-     159.256,
-     159.192,
-     159.181,
-     159.136,
-     159.134,
      159.124,
      159.024,
      158.765,
@@ -1273,27 +1259,28 @@
      159.255,
      159.271,
      159.251,
-     159.252
+     159.234,
+     159.228,
+     159.234,
+     159.194,
+     159.186,
+     159.195,
+     159.203,
+     159.201,
+     159.21,
+     159.242,
+     159.275,
+     159.307,
+     159.317,
+     159.323
     ],
     "num2": true,
     "lead": true
    },
    {
     "symbol": "BITCOIN",
-    "price": 60733.1484,
+    "price": 60763.2109,
     "spark": [
-     58675.6289,
-     58768.7617,
-     58193.6484,
-     57991.2891,
-     58264.2695,
-     58114.1797,
-     57283.3516,
-     58147.3398,
-     57941.3203,
-     57914.4805,
-     58142.7695,
-     58256.8594,
      58576.1992,
      58613.4219,
      58074.6797,
@@ -1378,7 +1365,20 @@
      60562.5703,
      60847.8789,
      60777.7891,
-     60733.1484
+     60741.9102,
+     60789.9688,
+     60816.2617,
+     60797.4102,
+     60777.4805,
+     60673.6602,
+     60683.0898,
+     60651.8516,
+     60163.9492,
+     60256.0,
+     60370.8008,
+     60542.4102,
+     60674.2891,
+     60763.2109
     ],
     "lead": true
    },
@@ -1592,44 +1592,44 @@
    },
    {
     "symbol": "AIL.F",
-    "price": 207.8306,
+    "price": 208.4372,
     "spark": [
-     206.2997,
-     206.5621,
-     206.6059,
-     206.4747,
-     206.4528,
-     206.4091,
-     206.1029,
-     205.5343,
-     205.8186,
-     206.5621,
-     207.087,
-     206.5184,
-     206.5184,
-     206.2778,
-     206.0373,
-     206.081,
-     207.2182,
-     207.6994,
-     207.7213,
-     208.4648,
-     208.5304,
-     208.7491,
-     208.4211,
-     208.6835,
-     208.6398,
-     208.3774,
-     208.0056,
-     207.8962,
-     207.8087,
-     207.8744,
-     207.8087,
-     207.6119,
-     207.6775,
-     207.765,
-     207.8306,
-     207.8306
+     207.0324,
+     206.7909,
+     206.8349,
+     207.9982,
+     208.4592,
+     208.4811,
+     209.2274,
+     209.2932,
+     209.5127,
+     209.1835,
+     209.4469,
+     209.403,
+     209.1396,
+     208.7665,
+     208.6567,
+     208.5689,
+     208.6348,
+     208.5689,
+     208.3714,
+     208.4372,
+     208.525,
+     208.5908,
+     208.4592,
+     208.4152,
+     208.4592,
+     208.4811,
+     208.547,
+     208.3714,
+     208.3933,
+     208.525,
+     208.3494,
+     208.4811,
+     208.7225,
+     208.3933,
+     208.4372,
+     208.4372
     ]
    },
    {
@@ -2411,7 +2411,7 @@
      222.74,
      223.0,
      221.21,
-     220.75,
+     220.795,
      220.84
     ]
    },
@@ -2453,7 +2453,7 @@
     "symbol": "NVDA",
     "price": 149.3,
     "spark": [
-     155.47,
+     155.48,
      141.655,
      145.625,
      144.5497,
@@ -2479,7 +2479,7 @@
      148.06,
      148.175,
      147.7205,
-     149.29,
+     149.27,
      149.3
     ]
    },
@@ -2521,7 +2521,7 @@
     "symbol": "QQQI",
     "price": 47.36,
     "spark": [
-     47.66,
+     47.665,
      45.495,
      46.2,
      45.982,
@@ -2540,7 +2540,7 @@
      47.015,
      47.1187,
      47.17,
-     47.2598,
+     47.26,
      47.335,
      47.2001,
      47.2047,
@@ -2657,7 +2657,7 @@
      125.88,
      114.6064,
      118.19,
-     116.0601,
+     116.0915,
      116.17,
      116.83,
      116.84,
@@ -2979,7 +2979,7 @@
     "symbol": "VRTX",
     "price": 564.12,
     "spark": [
-     564.18,
+     564.16,
      554.15,
      552.08,
      556.9,
