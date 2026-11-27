@@ -1,5 +1,5 @@
 {
- "version": 104,
+ "version": 105,
  "asOf": "Fri Nov 27, 2026, 10:17 AM CT",
  "breaking": [
   {
@@ -752,13 +752,13 @@
   "boxes": [
    {
     "callable": {
-     "etrade": "5.00% Thomasville",
+     "etrade": "5.05% Central Bk Little Rock",
      "fdicNote": null,
      "green": "schwab",
      "schwab": "5.20%* Morgan Stanley (semi-annual)"
     },
     "noncall": {
-     "etrade": "4.80% Forbright Bk",
+     "etrade": "5.00% Wells Fargo",
      "fdicNote": null,
      "green": "schwab",
      "schwab": "5.00% Wells Fargo"
@@ -767,13 +767,13 @@
    },
    {
     "callable": {
-     "etrade": "5.15% Farmers & Merchants Bk",
+     "etrade": "5.25% First Natl Bk Williamson",
      "fdicNote": null,
      "green": "schwab",
      "schwab": "5.40%* Morgan Stanley (semi-annual)"
     },
     "noncall": {
-     "etrade": "5.00% UBS Bank USA",
+     "etrade": "5.05% Wells Fargo",
      "fdicNote": null,
      "green": "schwab",
      "schwab": "5.05% Wells Fargo"
@@ -782,22 +782,22 @@
    },
    {
     "callable": {
-     "etrade": "5.75% Jonesboro State Bk",
+     "etrade": null,
      "fdicNote": null,
-     "green": "etrade",
+     "green": "schwab",
      "schwab": "5.50% Jonesboro State Bk"
     },
     "noncall": {
-     "etrade": "5.00%* Versabank USA (semi-annual)",
+     "etrade": null,
      "fdicNote": null,
-     "green": "etrade",
+     "green": "schwab",
      "schwab": null
     },
     "term": "10-Year CDs"
    }
   ],
   "footnote": "",
-  "ratesAsOf": "Schwab Thu, Nov 19, 2026 · eTrade Mon, Nov 23, 2026"
+  "ratesAsOf": "Schwab Thu, Nov 19, 2026 · eTrade Fri, Nov 27, 2026"
  },
  "weather": [
   {
