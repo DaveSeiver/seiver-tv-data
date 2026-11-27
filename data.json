@@ -1,6 +1,6 @@
 {
- "version": 107,
- "asOf": "Fri Nov 27, 2026, 2:25 PM CT",
+ "version": 108,
+ "asOf": "Fri Nov 27, 2026, 5:22 PM CT",
  "markets": [
   {
    "label": "S&P 500",
@@ -286,7 +286,7 @@
    "price": "$210.33",
    "change": "+0.86%",
    "dir": "up",
-   "blurb": "Air Liquide closed at \u20ac191.96 in Paris on Friday, up 0.9% from Thursday's \u20ac190.32 close, as European shares rallied with Wall Street's Black Friday rebound. At the ECB's Nov 27 reference rate of 1.0957 the quote converts to $210.33, just under the year's high of \u20ac194.70. Industrial-gas demand stays steady and the CAC 40 is firm; the next Paris session sets the following print.",
+   "blurb": "Air Liquide closed at €191.96 in Paris on Friday, up 0.9% from Thursday's €190.32, as European shares rallied with Wall Street's Black Friday rebound. At the ECB's Nov 27 reference rate of 1.0957 the quote converts to $210.33, just under the year's high of €194.70. Industrial-gas demand stays steady and the CAC 40 is firm; Monday's Paris session sets the next print for the week.",
    "spark": [
     187.58,
     187.66,
@@ -296,7 +296,7 @@
     192.06,
     191.96
    ],
-   "subTag": "\u20ac191.96 \u00d7 1.0957 (ECB Nov 27)",
+   "subTag": "€191.96 × 1.0957 (ECB Nov 27)",
    "yieldTag": null,
    "pct": "+0.86%"
   },
@@ -308,7 +308,7 @@
    "price": "$91.88",
    "change": "+10.98%",
    "dir": "up",
-   "blurb": "Anthropic surged 11.0% to $91.88 in Friday's short session, well above its $83 IPO price, as beaten-down AI names bounced after Wednesday's rout. The stock has now climbed sharply from its $82.79 Wednesday close, leading the AI rebound. The Nov 20 Navier-Stokes blow-up claim with NYU's Tristan Buckmaster is still unverified, its numerical certificate unreleased \u2014 watch for that proof to land or fade.",
+   "blurb": "Anthropic surged 11.0% to $91.88 in Friday's short session, back above its $83 IPO price, as beaten-down AI names bounced after Wednesday's rout. The stock climbed from its $82.79 Wednesday close to lead the AI rebound, with index funds set to add it in December. The Nov 20 Navier-Stokes claim is still unverified, its numerical certificate unreleased — watch for that proof to land or fade.",
    "spark": [
     97.17,
     88.91,
@@ -329,7 +329,7 @@
    "price": "$91.67",
    "change": "+0.03%",
    "dir": "up",
-   "blurb": "BIL edged up to $91.67 as the short session ended, its distribution yield holding at 4.04% after the $0.30849 payout ex Nov 2 and paid Nov 5. The T-bill ETF keeps grinding a few cents higher each session while the Fed looks all but certain to hike on Dec 9, keeping short rates elevated. Nothing flashy, which is the point \u2014 it is the portfolio's cash anchor while AI names whip around.",
+   "blurb": "BIL ticked up to $91.67 in Friday's shortened session, its distribution yield steady at 4.04% after the $0.30849 payout that went ex Nov 2 and paid Nov 5. The T-bill fund keeps inching higher while a Dec 9 Fed hike looks all but certain, keeping short-term rates elevated. It is the portfolio's quiet cash anchor — no drama by design — while AI names swing several percent a day.",
    "spark": [
     91.57,
     91.59,
@@ -350,7 +350,7 @@
    "price": "$274.96",
    "change": "+0.68%",
    "dir": "up",
-   "blurb": "Alphabet rose 0.7% to $274.96 in Friday's rebound, a modest gain after Wednesday's AI selloff cut the Nasdaq sharply. The stock remains well below its autumn highs as investors weigh tariff proposals aimed at Asian tech supply chains. Google's cloud and AI momentum still underpin the story; watch whether Monday's full session extends the bounce or the tariff worries return.",
+   "blurb": "Alphabet gained 0.7% to $274.96 in Friday's rebound, a modest rise after Wednesday's AI selloff knocked the Nasdaq lower. The stock sits well below its autumn highs while investors weigh new tariff proposals aimed at Asian tech supply chains. Cloud and AI momentum still underpin the story; Monday's full session will show whether the bounce extends or tariff worries take charge again.",
    "spark": [
     272.66,
     265.29,
@@ -371,7 +371,7 @@
    "price": "$1,392.38",
    "change": "+0.01%",
    "dir": "up",
-   "blurb": "Eli Lilly was nearly flat at $1,392.38, up a fraction in Friday's broad rally, holding near record territory. The drugmaker's weight-loss and diabetes franchises keep driving the valuation, with investors watching prescription data and pipeline news. Lilly has been one of the steadier big-cap names through the week's AI-driven swings; the next catalyst is likely clinical or pricing news.",
+   "blurb": "Eli Lilly was nearly flat at $1,392.38, up a fraction in Friday's broad rally while holding near record territory. The weight-loss and diabetes franchises keep driving the valuation, with investors watching prescription trends and pipeline news. Lilly has been among the steadier big-cap names through the week's AI-driven swings; the next catalyst is likely a clinical readout or pricing news.",
    "spark": [
     1351.12,
     1347.11,
@@ -392,7 +392,7 @@
    "price": "$305.04",
    "change": "+1.01%",
    "dir": "up",
-   "blurb": "Cheniere rose 1.0% to $305.04 as energy names joined Friday's rally and natural gas markets stayed firm into winter. LNG export demand remains the long-term driver, with Gulf Coast terminals running hard and new capacity coming. The stock sits near its highs; watch Henry Hub prices and any fresh contracting news for the next leg, plus how the Strait of Hormuz disruption affects global gas flows.",
+   "blurb": "Cheniere gained 1.0% to $305.04 as energy names joined Friday's rally and natural gas stayed firm heading into winter. LNG export demand remains the long-term driver, with Gulf Coast terminals running hard and new capacity on the way. The stock sits near its highs; watch Henry Hub prices and fresh contracting news for the next leg, and how the Strait of Hormuz disruption ripples through global gas flows.",
    "spark": [
     295.37,
     294.84,
@@ -413,7 +413,7 @@
    "price": "$150.49",
    "change": "+0.80%",
    "dir": "up",
-   "blurb": "Nvidia gained 0.8% to $150.49 in Friday's AI rebound, a quieter day after Wednesday's rout and Monday's surge on Jensen Huang's reinstatement. The stock is still far below its highs as the board's independent investigation and the SEC probe continue, with Huang's Dec 1 House appearance ahead. Sean's call stands: long-term hold until the probes shake out \u2014 updates only on smoking guns, not noise.",
+   "blurb": "Nvidia rose 0.8% to $150.49 in Friday's AI rebound, a quieter session after Wednesday's rout and Monday's surge on Huang's reinstatement. The stock remains far below its highs while the board investigation and SEC probe continue; Huang faces a House appearance Dec 1 and a Senate Banking hearing Dec 3. Sean's call stands: long-term hold until the probes shake out — updates only on smoking guns, not noise.",
    "spark": [
     145.98,
     125.53,
@@ -455,7 +455,7 @@
    "price": "$50.88",
    "change": "+8.21%",
    "dir": "up",
-   "blurb": "Rocket Lab jumped 8.2% to $50.88, leading Friday's rebound as space names rallied with the broader market. The move extends a strong run for the small launcher, with investors focused on launch cadence and the Neutron program's progress. Starship's 15th flight is also in the air this weekend, keeping space in the headlines; watch for fresh launch or contract news to sustain the momentum.",
+   "blurb": "Rocket Lab jumped 8.2% to $50.88, leading Friday's rebound as space names rallied with the broader market. The move extends a strong run for the small launcher, with investors focused on launch cadence and the Neutron program's progress. SpaceX's Flight 16 is targeted no earlier than December, keeping space in the headlines; watch for fresh launch or contract news to sustain the momentum.",
    "spark": [
     50.99,
     45.42,
@@ -497,7 +497,7 @@
    "price": "$133.59",
    "change": "+4.83%",
    "dir": "up",
-   "blurb": "SpaceX climbed 4.8% to $133.59 as space and AI names rebounded on Black Friday. Starship's 15th flight is two weeks past: Ship 42 reached orbit Nov 13 and was caught by the Starbase tower Nov 14 \u2014 a first \u2014 though Booster 22 was lost in the Gulf. Next is Flight 16, targeted no earlier than December with Booster 23 and Ship 43, possibly the first Starship launch from Florida's LC-39A. Watch for a firm date.",
+   "blurb": "SpaceX climbed 4.8% to $133.59 as space and AI names rebounded on Black Friday. Starship's Flight 15 wrapped up Nov 14, when Ship 42 was caught by the Starbase tower after a 22-hour orbital flight, though Booster 22 was lost in the Gulf. Next is Flight 16, targeted no earlier than December with Booster 23 and Ship 43, possibly the first Starship launch from Florida's LC-39A. Watch for a firm date.",
    "spark": [
     138.43,
     127.79,
@@ -518,7 +518,7 @@
    "price": "$48.50",
    "change": "+1.27%",
    "dir": "up",
-   "blurb": "Truist rose 1.3% to $48.50 in Friday's broad rally, tracking the banks higher as the market recovered. The lender benefits from a steepening curve and steady credit, though a December Fed hike is now nearly fully priced. Watch Monday's full session and any fresh economic data for direction; Truist's next company-specific catalyst is likely its investor day or quarterly update.",
+   "blurb": "Truist gained 1.3% to $48.50 in Friday's broad rally, tracking the banks higher as the market recovered. The lender benefits from a steepening curve and steady credit, though a December Fed hike is now nearly fully priced. Watch Monday's full session and any fresh economic data for direction; Truist's next company-specific catalyst is likely its investor day or quarterly update.",
    "spark": [
     46.67,
     45.81,
@@ -581,7 +581,7 @@
    "price": "$150.00 (est.)",
    "change": "+1.60%",
    "dir": "up",
-   "blurb": "VI5TC's estimate rose 1.6% to $150.00, tracking the S&P 500's Black Friday rally to 7,297.49 in the shortened session. The S&P-anchored estimate moves with the index, and Friday's gain capped the market's best week since April 2025. The estimate refreshes with each index close; watch Monday's full session to see whether the rally holds into December after the holiday-shortened week.",
+   "blurb": "VI5TC's estimate climbed 1.6% to $150.00, tracking the S&P 500's Black Friday rally to 7,297.49 in the shortened session. The S&P-anchored estimate moves with the index, and Friday's gain capped the market's best week since April 2025. The estimate refreshes with each index close; Monday's full session will show whether the rally holds into December after the holiday-shortened week.",
    "spark": [
     147.5,
     142.04,
@@ -602,7 +602,7 @@
    "price": "$329.39",
    "change": "+1.98%",
    "dir": "up",
-   "blurb": "Valero gained 2.0% to $329.39 as refiners rallied with oil's weekly gain, though Brent eased Friday to $94.22 on the front-month contract. The Jazan refinery attack and Hormuz tanker incidents keep a risk premium in crude, supporting refining margins. Valero sits near its highs; watch OPEC+'s Sunday meeting on 2027 output and any fresh Gulf disruption for the next move.",
+   "blurb": "Valero rose 2.0% to $329.39 as refiners rallied with oil's weekly gain, though Brent eased Friday to $94.22. The Jazan refinery attack and the Hormuz tanker incidents keep a risk premium in crude, supporting refining margins. Valero sits near its highs; watch OPEC+'s Sunday meeting on 2027 output targets and any fresh Gulf disruption for the next move, with Monday's full session the next test.",
    "spark": [
     338.46,
     334.18,
@@ -623,7 +623,7 @@
    "price": "$28.45",
    "change": "+0.07%",
    "dir": "up",
-   "blurb": "Vanguard Target 2035 held at $28.45, its Nov 25 net asset value, with Friday's NAV not yet published at build time. The target-date fund keeps its glide path toward a 2035 retirement, blending stocks and bonds that shift more conservative each year. It barely notices single-day tape swings; the next print comes with Monday's close, and the fund's mix does the work quietly.",
+   "blurb": "Vanguard Target 2035 held at $28.45, its Nov 25 net asset value, with Friday's NAV still unpublished at the 5 PM build. The target-date fund stays on its glide path toward a 2035 retirement, blending stocks and bonds that grow more conservative each year. It barely notices single-day tape swings; the next print comes with Monday's close, and the fund's mix does the work quietly.",
    "spark": [
     28.68000030517578,
     28.34000015258789,
@@ -644,7 +644,7 @@
    "price": "$1.00",
    "change": "",
    "dir": "flat",
-   "blurb": "SWVXX holds its $1.00 NAV, with Schwab's 7-day SEC yield at 3.79% as published Nov 25, unchanged from the prior reading. The sweep fund keeps doing its quiet job while the market whipsaws \u2014 the VIX is still above 23 after spiking to 28.29 Wednesday. Per the standing plan, balances above $1,000 get swept into CDs, so the position should keep shrinking steadily toward zero.",
+   "blurb": "SWVXX holds its $1.00 NAV, with Schwab's 7-day SEC yield at 3.79% as published Nov 25, unchanged from the prior reading. The sweep fund keeps doing its quiet job while the market whipsaws around it — the VIX closed at 23.81, down from 26.80 on Wednesday. Per the standing plan, balances above $1,000 get swept into CDs, so the position should keep shrinking steadily toward zero.",
    "spark": null,
    "subTag": "Yield published Nov 25 (Schwab)",
    "yieldTag": "7-day yield 3.79%"
@@ -666,60 +666,60 @@
  "breaking": [
   {
    "tag": "US",
-   "headline": "Wall Street caps best week since April with Black Friday rally",
-   "fact": "The S&P 500 closed up 1.6% at 7,297.49, the Nasdaq 2.3% at 24,129.50 and the Dow 1.2% at 50,774.94 in Friday's shortened session, capping the market's best week since April 2025 as investors bought back beaten-down AI shares after Wednesday's rout; Nvidia joined the rebound, up 0.8%.",
-   "source": "AP",
-   "url": "https://theapexwire.com/stock-market/us-stocks-surge-black-friday-ai-rebound/"
+   "headline": "Gold and silver surge as haven demand returns",
+   "fact": "Gold rose 3.8% to $3,668 an ounce on Friday, silver surged and copper gained 5.0% to $5.60 a pound, as investors piled back into hard assets after the AI selloff — reversing the slide that had taken gold below $3,600 to a 14-month low earlier in the week.",
+   "source": "Globicus",
+   "url": "https://globicus.com/daily-markets-2026-11-27/"
   },
   {
    "tag": "World",
-   "headline": "OPEC+ set to hold output steady into early 2027",
-   "fact": "OPEC+ producers have agreed in principle to keep first-quarter 2027 output targets unchanged at Sunday's meeting, three sources told Reuters, with the Iran war and disputes over capacity estimates clouding the talks; Rystad sees a global surplus of about 5 million barrels a day next year even if Gulf supplies only partly recover.",
-   "source": "Reuters",
-   "url": "https://www.kitco.com/news/off-the-wire/2026-11-27/opec-set-keep-oil-production-targets-steady-sources-say"
-  },
-  {
-   "tag": "Local",
-   "headline": "Texas bids to bring U.S. Space Academy to Houston",
-   "fact": "Texas has formally proposed Houston \u2014 alongside NASA's Johnson Space Center \u2014 as home of the new United States Space Academy, with groundbreaking targeted by 2027 and the first 300 students in 2028; Sens. Ted Cruz and senator-elect James Talarico jointly endorsed the bid this week.",
-   "source": "Texas Space Commission",
-   "url": "https://www.dezeen.com/2026/11/27/us-space-academy-houston-texas/"
+   "headline": "France slips into recession as exports sag",
+   "fact": "France's economy tipped into recession in the third quarter as summer heat waves slowed Airbus's factories and exports sagged, Dow Jones reported Friday — a fresh drag on Europe's second-largest economy just as the ECB weighs a December rate hike.",
+   "source": "Dow Jones",
+   "url": "https://www.morningstar.com/news/dow-jones/202611273717/dow-jones-top-markets-headlines-at-11-am-et-tech-stocks-rise-as-investors-take-a-break-from-ai-jitters-france"
   },
   {
    "tag": "US",
-   "headline": "Fed hike in December now a near-certainty after hot inflation data",
-   "fact": "CME FedWatch put the odds of a quarter-point Fed hike on Dec 9 at 98.6% on Friday morning after October PCE inflation printed 3.8% and third-quarter GDP was revised up to 4.3%; a hike would lift the policy rate and shape CD and money-market yields into 2027.",
-   "source": "CME FedWatch",
-   "url": "https://www.mexc.com/learn/article/us-economy-grew-4-3-inflation-3-8-tariffs-back-what-it-means-for-bitcoin-weekly-market-report"
+   "headline": "Bank of England warns AI financing boom threatens stability",
+   "fact": "The Bank of England warned the scale and breadth of financing behind the AI investment boom poses a threat to financial stability, even as AI-linked spending keeps supporting global growth — a caution landing the same week AI stocks swung wildly on both sides of the Atlantic.",
+   "source": "Dow Jones",
+   "url": "https://www.morningstar.com/news/dow-jones/202611271164/dow-jones-top-markets-headlines-at-3-am-et-asian-markets-rise-as-ai-sentiment-stabilizes-us"
+  },
+  {
+   "tag": "World",
+   "headline": "Dubai's stock index erases its wartime losses",
+   "fact": "Dubai's benchmark stock index passed its Feb. 27 closing level — the last session before the war began — and has gained nearly 14% this month as banks and property shares rise, erasing the war's market losses.",
+   "source": "Dow Jones",
+   "url": "https://www.morningstar.com/news/dow-jones/202611272517/dow-jones-top-markets-headlines-at-7-am-et-stock-futures-jump-as-ai-trade-set-for-rebound-dubais"
   }
  ],
  "weekInBrief": [
   {
-   "headline": "U.S.-led group agrees to buy Lukoil's overseas empire in share swap",
-   "body": "A consortium led by Todd Boehly's Eldridge, including the U.S. International Development Finance Corp., agreed to acquire Lukoil International \u2014 oil fields in 11 countries, three European refineries and 2,000 gas stations \u2014 from sanctioned Russian parent Lukoil. The deal is a share swap, so no cash goes to Russia, and the U.S. government gets an equity stake via the DFC; it still needs U.S. Treasury OFAC approval.",
-   "stamp": "Nov 25, 2026"
-  },
-  {
-   "headline": "ECB minutes point to a December hike as inflation runs at 4%",
-   "body": "The account of the ECB's October meeting, published Nov 26, showed a large number of Governing Council members could have backed a hike then, and markets now price a 94.4% chance of a 25-basis-point rise on Dec 17, which would lift the deposit rate to 2.75%. Eurozone inflation hit 4.0% in October; EU leaders also endorsed Pablo Hern\u00e1ndez de Cos to succeed Christine Lagarde as ECB president in February.",
+   "headline": "China's industrial profits surged in October",
+   "body": "China's industrial profits surged in October despite mounting domestic headwinds, as robust global demand for its tech products kept exports humming. The strength complicates Beijing's efforts to cool overcapacity even as Washington's new tariff proposals target Chinese goods.",
    "stamp": "Nov 27, 2026"
   },
   {
-   "headline": "Bank of Korea hikes again as the AI chip boom powers growth",
-   "body": "South Korea's central bank raised its benchmark rate a quarter point to 3.25% on Thursday, its third hike since July, as semiconductor exports boom and inflation stays elevated. The bank also lifted its growth forecasts to 3.9% for 2026 and 4.1% for 2027; two of the seven board members voted to hold.",
-   "stamp": "Nov 26, 2026"
+   "headline": "Canada posts a current-account surplus as trade firms",
+   "body": "Canada posted a third-quarter current-account surplus of C$4.48 billion, the first time in about four years the country has recorded two consecutive quarterly surpluses, though it was smaller than expected. The swing reflects firmer exports and a softer import bill.",
+   "stamp": "Nov 27, 2026"
   },
   {
-   "headline": "Bitcoin ETFs suffer their worst month on record",
-   "body": "U.S. spot bitcoin ETFs have lost a net $5.39 billion in November through Nov 25, already the largest monthly outflow since the funds launched in January 2024, beating June's $4.51 billion record. BlackRock's IBIT accounts for about $4.5 billion of the redemptions, and bitcoin is down about 22% this month to near $60,000.",
-   "stamp": "Nov 26, 2026"
+   "headline": "Inflation slides in France and Spain as fuel prices fall",
+   "body": "Inflation fell more than expected in France and Spain in November on declining fuel prices, while the eurozone economy grew less rapidly than previously estimated in the third quarter. The cooler price data comes days before the ECB decides on a December hike markets now see as near-certain.",
+   "stamp": "Nov 27, 2026"
+  },
+  {
+   "headline": "Asia's AI boom powers exports despite the Nvidia affair",
+   "body": "AI-linked exports and investment are still driving growth across Asia, Dow Jones reported Friday, even as the Nvidia affair whipsaws the sector's stocks. The boom looks alive and well in the region's supply chains for now, with Beijing also signaling more market support.",
+   "stamp": "Nov 27, 2026"
   }
  ],
  "hormuz": {
   "items": [
    {
     "headline": "Latest from the Strait",
-    "body": "Saudi Arabia's Energy Ministry said a projectile struck Aramco's Jazan refinery on Thursday, killing a Nepalese worker and wounding several others and temporarily halting part of the 400,000-barrel-a-day plant; the Saudi-led coalition blamed Yemen's Houthis, a day after they claimed a strike on the Ras Tanura refinery, and said it hit 50 targets in Yemen. The IRGC said two tankers exploded and caught fire after striking mines north of Oman's Khasab port, one a supertanker carrying more than 2 million barrels, and UKMTO reported a projectile striking a tanker off Oman on Wednesday. Iran's navy claimed it recovered two tankers seized by U.S. forces, the EU's von der Leyen called for more pressure on Iran, and President Trump said \u201cvictory\u201d is at hand."
+    "body": "U.S. Central Command said Friday it disabled the Palau-flagged bulk carrier Pacific Archer in the Gulf of Oman, after the ship left Bandar Abbas on Thursday in an attempt to run the blockade; an aircraft struck the stern, knocking out propulsion with the civilian crew unharmed, and CENTCOM says its forces have now redirected 158 ships and disabled six that refused to comply. Mohammad Mokhber, an adviser to Iran's supreme leader, vowed Friday that Tehran will keep the Strait shut while breaking the embargo. Treasury Secretary Scott Bessent said Wednesday that Iran has no oil left at sea to sell outside the blockade, pointing to a Treasury count that fell from about 52.7 million barrels on Aug. 24 to zero by Oct. 22. No Iranian oil is getting past the blockade: Kpler still counts zero Iranian crude loadings since Aug. 24, with about 44 million barrels stuck on tankers inside the Gulf, while roughly 10 to 12 million barrels a day of non-Iranian oil keeps moving through the strait."
    }
   ],
   "stats": ""
@@ -727,27 +727,27 @@
  "space": [
   {
    "tag": "Space",
-   "headline": "Starship Flight 16 is next: December target, Florida debut possible",
-   "body": "Two weeks after Flight 15 made history \u2014 Ship 42 caught by the Starbase tower on Nov 14 after a 22-hour orbital flight, while Booster 22 was lost in the Gulf \u2014 attention has shifted to Flight 16. It pairs Booster 23 with Ship 43, is targeted no earlier than December, and could be the first Starship launch from Kennedy's LC-39A. SpaceX has not announced a firm date, and no launch license had been announced as of mid-November.",
-   "url": "https://en.wikipedia.org/wiki/Starship_flight_16"
+   "headline": "South Pole Telescope releases the clearest map ever of matter in the distant universe",
+   "body": "Scientists from 30 institutions used the South Pole Telescope in Antarctica to produce the sharpest map yet of the universe's mass, measuring how ancient light from the cosmic microwave background was bent by gravity across 1,500 square degrees of sky. The map — the deepest of its kind — sharpens tests of how cosmic structure formed and how strongly matter clumps together, and agrees with earlier Planck and Atacama measurements.",
+   "url": "https://www.anl.gov/article/south-pole-telescope-releases-clearest-map-ever-of-matter-in-the-distant-universe"
   },
   {
    "tag": "Science",
-   "headline": "Deepest explosive eruption ever found, 4 miles down in the Mariana Trench",
-   "body": "Marine geologists using the remotely operated vehicle Jason/Medea found pyroclastic rocks \u2014 telltale debris of an explosive eruption \u2014 on the walls of the Mariana Trench near Challenger Deep, about 6,500 meters down, the deepest-known explosive volcanic eruption on Earth. The rocks show recent igneous activity in a place long assumed too deep and too pressured for explosive eruptions; the findings appear in Frontiers in Earth Science.",
-   "url": "https://www.reuters.com/business/environment/evidence-deepest-explosive-volcanic-eruption-found-pacific-trench-2026-11-27/"
+   "headline": "345-million-year-old 'first reptile' fossil turns out to be aquatic",
+   "body": "Synchrotron X-ray scans of Westlothiana lizziae — nicknamed 'Lizzie,' a fossil found in Scotland in 1984 and long regarded as the earliest known reptile — revealed internal gills, a primitive skull and a fish-like mouth with thousands of tiny teeth. Published in Nature, the reclassification means claws and five-digit limbs evolved in animals still tied to the water, rewriting the story of vertebrates' move onto land.",
+   "url": "https://sciencedaily.com/releases/2026/11/261125045307.htm"
   },
   {
    "tag": "Science",
-   "headline": "Internet cables map New Zealand's Alpine Fault in unprecedented detail",
-   "body": "Researchers turned a 30-kilometer strand of dark fiber-optic cable along New Zealand's Haast Pass into thousands of seismic sensors and captured the sharpest view yet of the Alpine Fault's interior. The fault is not a single break but a roughly 200-meter-wide zone of shattered rock with up to six narrow slip cores, and the main core runs continuously for about 180 kilometers \u2014 evidence the fault's segments stay connected at earthquake depths. The work appears in Science Advances.",
-   "url": "https://phys.org/news/2026-11-internet-cables-seismic-sensors-earthquake.html"
+   "headline": "Most brain cells are multitaskers, not specialists, major study finds",
+   "body": "Neuroscientists at Columbia's Zuckerman Institute analyzed neural recordings from 43 regions of the mouse brain and found most neurons respond to multiple types of information rather than performing one narrow job. Published in Nature and reported Nov. 26, the finding challenges longstanding assumptions about brain organization and could reshape computational models of cognition and studies of neurological disorders.",
+   "url": "https://scientificinquirer.com/2026/11/27/daily-dose-most-brain-cells-are-multitaskers-rather-than-specialists-major-study-finds-fossil-thought-to-be-an-early-reptile-turns-out-to-be-an-aquatic-animal/"
   },
   {
-   "tag": "Space",
-   "headline": "The faintest supernova ever seen refuses to fade",
-   "body": "Astronomers using the BlackGEM telescopes in Chile found the faintest supernova observed to date, SN 2024vjm in the galaxy NGC 6744 about 30 million light-years away, and it has stayed visible for nearly a year. It likely came from a white dwarf and a small companion star, and the odd, dim, long-lived explosion may reshape ideas about binary-star evolution and how supernovae are used to measure the universe's expansion. The results appear in Nature Astronomy.",
-   "url": "https://phys.org/news/2026-11-faintest-supernova-staying-visible-year.html"
+   "tag": "Science",
+   "headline": "Tobacco plants coaxed to brew the cancer drug Taxol",
+   "body": "Researchers at the University of Copenhagen reproduced the full paclitaxel production pathway in Nicotiana benthamiana, a tobacco relative, engineering in more than 20 yew-tree genes and boosting output over 500-fold to levels comparable to yew bark. Published in Nature Chemical Biology, the proof-of-concept could lead to cheaper, more sustainable production of the chemotherapy drug, though large-scale manufacturing still needs permanently engineered plants.",
+   "url": "https://phys.org/news/2026-11-recipe-world-important-cancer-drugs.html"
   }
  ],
  "cdRates": {
@@ -799,7 +799,7 @@
    }
   ],
   "footnote": "",
-  "ratesAsOf": "Schwab Thu, Nov 19, 2026 \u00b7 eTrade Fri, Nov 27, 2026"
+  "ratesAsOf": "Schwab Thu, Nov 19, 2026 · eTrade Fri, Nov 27, 2026"
  },
  "weather": [
   {
@@ -809,64 +809,64 @@
    "conditions": "Sunny",
    "icon": "sun",
    "alerts": "",
-   "extra": "Humidity 33% \u00b7 Wind WSW 7 mph",
-   "today": "Partly Cloudy, high 64\u00b0F",
-   "tonight": "Partly Cloudy, low 48\u00b0F",
-   "tomorrow": "Mostly Sunny, high 76\u00b0F"
+   "extra": "Humidity 40% · Wind S 8 mph",
+   "today": "Sunny, high 64°F",
+   "tonight": "Partly Cloudy, low 49°F",
+   "tomorrow": "Mostly Sunny, high 76°F"
   },
   {
-   "name": "Seiver Ranch \u2014 Plains, MT",
+   "name": "Seiver Ranch — Plains, MT",
    "detail": "Sanders County",
-   "tempF": 48,
+   "tempF": 46,
    "conditions": "Mostly Cloudy",
    "icon": "clouds",
    "alerts": "",
-   "extra": "Humidity 65% \u00b7 Wind SW 6 mph",
-   "today": "Cloudy, high 49\u00b0F",
-   "tonight": "Showers Early, low 36\u00b0F",
-   "tomorrow": "AM Clouds/PM Sun, high 42\u00b0F"
+   "extra": "Humidity 72% · Wind SSW 4 mph",
+   "today": "Cloudy, high 49°F",
+   "tonight": "Showers Early, low 35°F",
+   "tomorrow": "AM Clouds/PM Sun, high 42°F"
   },
   {
-   "name": "Seiver Slough \u2014 Rugby, ND",
+   "name": "Seiver Slough — Rugby, ND",
    "detail": "Pierce County",
-   "tempF": 49,
-   "conditions": "Partly Cloudy",
-   "icon": "partly",
-   "alerts": "",
-   "extra": "Humidity 55% \u00b7 Wind W 18 mph",
-   "today": "Partly Cloudy, high 50\u00b0F",
-   "tonight": "Mostly Cloudy, low 33\u00b0F",
-   "tomorrow": "Cloudy/Wind, high 38\u00b0F"
-  },
-  {
-   "name": "Seiver Lodge \u2014 L\u2019Anse, MI",
-   "detail": "Baraga County",
-   "tempF": 39,
-   "conditions": "Sunny",
+   "tempF": 45,
+   "conditions": "Fair",
    "icon": "sun",
    "alerts": "",
-   "extra": "Humidity 76% \u00b7 Wind NW 4 mph",
-   "today": "Partly Sunny, high 40\u00b0F",
-   "tonight": "Mostly Cloudy then Slight Chance Freezing Rain, low 29\u00b0F",
-   "tomorrow": "Chance Rain Showers then Partly Sunny, high 42\u00b0F"
+   "extra": "Humidity 60% · Wind WSW 13 mph",
+   "today": "Partly Cloudy, high 50°F",
+   "tonight": "Mostly Cloudy, low 33°F",
+   "tomorrow": "Cloudy/Wind, high 38°F"
+  },
+  {
+   "name": "Seiver Lodge — L’Anse, MI",
+   "detail": "Baraga County",
+   "tempF": 33,
+   "conditions": "Clear",
+   "icon": "sun",
+   "alerts": "",
+   "extra": "Humidity 86% · Wind NNW 1 mph",
+   "today": "Partly Sunny, high 40°F",
+   "tonight": "Freezing Drizzle, low 27°F",
+   "tomorrow": "AM Light Rain/Ice, high 43°F"
   }
  ],
  "apod": {
-  "date": "November 27, 2026",
-  "title": "Artemis III Astronaut Andre Douglas Visits VAB",
-  "credit": "NASA \u2014 NASA Image of the Day, Nov. 27, 2026",
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261117-ph-kls02-0020orig.jpg",
-  "explanation": "NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at Kennedy Space Center, where the agency is preparing the Artemis III mission to return astronauts to the Moon.",
-  "pageUrl": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/"
+  "date": "November 19, 2026",
+  "title": "Lake Pelku",
+  "credit": "CSA/Joshua Kutryk — NASA Image of the Day, Nov. 19, 2026",
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg",
+  "explanation": "An astronaut aboard the International Space Station photographed Lake Pelku (near center) as the station orbited above Asia. The C-shaped lake sits on the Chinese side of the snow-capped Himalayas, with Nepal on the adjacent side.",
+  "pageUrl": "https://www.nasa.gov/image-article/lake-pelku/"
  },
  "aqiMap": {
   "image": "aqi-map.jpg",
-  "stamp": "Fri Nov 27, 2026, 7:00 AM CT",
+  "stamp": "Fri Nov 27, 2026, 4:00 PM CT",
   "credit": "AQI & wind data: Open-Meteo (CAMS / NOAA)"
  },
  "portfolio": {
   "mode": "24h",
-  "asOf": "Fri, Nov 27, 2026, 1:58 PM CT",
+  "asOf": "Fri, Nov 27, 2026, 4:57 PM CT",
   "cells": [
    {
     "symbol": "GOLD",
@@ -885,8 +885,8 @@
      3661.0,
      3660.6001,
      3666.6001,
-     3659.2,
-     3674.6001,
+     3659.5,
+     3674.7,
      3674.2
     ],
     "lead": true
@@ -896,7 +896,7 @@
     "price": 43.9,
     "spark": [
      42.085,
-     43.88,
+     43.885,
      43.895,
      43.86,
      43.81,
@@ -918,16 +918,6 @@
     "symbol": "EUR/USD",
     "price": 1.0939,
     "spark": [
-     1.0975,
-     1.0975,
-     1.0975,
-     1.0975,
-     1.0972,
-     1.0972,
-     1.0972,
-     1.0972,
-     1.0972,
-     1.0977,
      1.0969,
      1.0975,
      1.0975,
@@ -1014,7 +1004,17 @@
      1.0936,
      1.0936,
      1.094,
+     1.0939,
+     1.0939,
+     1.0939,
+     1.0937,
+     1.0937,
+     1.0937,
      1.0936,
+     1.0935,
+     1.0937,
+     1.0939,
+     1.0939,
      1.0939
     ],
     "fx": true,
@@ -1022,17 +1022,8 @@
    },
    {
     "symbol": "USD/JPY",
-    "price": 159.567,
+    "price": 159.515,
     "spark": [
-     159.264,
-     159.26,
-     159.261,
-     159.267,
-     159.274,
-     159.28,
-     159.279,
-     159.271,
-     159.269,
      159.221,
      159.225,
      159.203,
@@ -1120,114 +1111,123 @@
      159.546,
      159.562,
      159.545,
-     159.56,
-     159.567
+     159.563,
+     159.558,
+     159.553,
+     159.559,
+     159.564,
+     159.575,
+     159.564,
+     159.578,
+     159.523,
+     159.515,
+     159.515
     ],
     "num2": true,
     "lead": true
    },
    {
     "symbol": "BITCOIN",
-    "price": 59830.3281,
+    "price": 59735.4609,
     "spark": [
-     60641.8203,
-     60660.4297,
-     60653.4297,
-     60715.1289,
-     60694.5781,
-     60737.1289,
-     60824.9805,
-     60818.4414,
-     60740.4883,
-     60490.1797,
-     60529.6797,
-     60578.4102,
-     60467.1602,
-     60382.1289,
-     60382.8281,
+     60467.1719,
+     60382.1211,
+     60380.5781,
      60416.0781,
-     60495.5703,
-     60458.75,
-     60470.8711,
-     60653.2109,
+     60493.5,
+     60458.6914,
+     60467.1992,
+     60653.25,
      60611.9297,
-     60724.5781,
-     60711.6602,
-     60616.3203,
+     60721.3281,
+     60711.4414,
+     60614.2617,
      60644.6797,
-     61183.8594,
-     61443.1914,
-     61429.8008,
-     61239.9414,
-     61482.5312,
-     61520.3516,
-     61394.3516,
+     61183.8516,
+     61443.1797,
+     61429.8516,
+     61239.8984,
+     61477.5312,
+     61520.5195,
+     61377.2109,
      61331.9609,
      61417.8086,
-     61380.1797,
-     61437.75,
-     61338.0391,
+     61391.6094,
+     61440.1914,
+     61338.0508,
      61556.6406,
      61670.1797,
-     61665.6797,
+     61664.5508,
      61694.3516,
      61834.8711,
-     61636.8086,
+     61636.8008,
      61603.1914,
      61624.0586,
-     61702.9492,
+     61701.5508,
      61750.6914,
-     61429.0781,
+     61432.1289,
      61588.9805,
      61787.2383,
-     61754.2891,
-     61708.4414,
-     61646.9297,
-     61613.7617,
-     61654.7109,
-     61621.1484,
+     61753.5,
+     61709.6016,
+     61648.8984,
+     61618.3203,
+     61652.5312,
+     61621.1406,
      61558.2891,
-     61585.8906,
-     61624.0586,
+     61585.9609,
+     61634.8516,
      61549.9688,
-     61584.3906,
+     61584.3789,
      61558.0117,
-     61604.25,
-     61607.4219,
-     61574.1484,
+     61604.5117,
+     61598.5195,
+     61577.5117,
      61546.3984,
-     61502.1992,
+     61502.1914,
      61459.6719,
-     61546.5391,
-     61421.9297,
-     61356.3516,
+     61551.3008,
+     61420.6602,
+     61367.1797,
      61344.7617,
-     61406.2695,
-     61416.4609,
-     61351.0508,
-     60136.7188,
-     59113.5117,
-     59600.5195,
-     59750.6992,
-     60099.9805,
-     60054.5117,
-     59954.3516,
-     59977.4219,
-     60209.7383,
-     59891.8086,
-     59895.4883,
-     59596.6094,
-     59514.6914,
-     59869.5781,
-     59846.8906,
-     59778.5117,
+     61403.4492,
+     61411.0,
+     61351.1211,
+     60137.2891,
+     59130.7383,
+     59585.0195,
+     59753.4805,
+     60106.8984,
+     60055.0,
+     59939.4297,
+     59967.8203,
+     60222.9414,
+     59886.6211,
+     59918.1211,
+     59604.5117,
+     59523.9609,
+     59840.8516,
+     59853.0,
+     59779.6211,
      59744.5703,
-     59837.2812,
-     59768.2188,
+     59843.2695,
+     59768.2109,
      59898.8906,
      59953.3086,
-     59834.1914,
-     59830.3281
+     59834.0898,
+     59706.7383,
+     59735.6289,
+     59758.6406,
+     59733.0586,
+     59779.0312,
+     59760.5586,
+     59753.3516,
+     59722.1406,
+     59610.0312,
+     59691.8906,
+     59689.6406,
+     59752.3984,
+     59735.4609
     ],
     "lead": true
    },
@@ -1297,7 +1297,7 @@
      3.511,
      3.518,
      3.517,
-     3.509,
+     3.507,
      3.497
     ],
     "lead": true
@@ -1641,7 +1641,7 @@
     "symbol": "GOOGL",
     "price": 274.8192,
     "spark": [
-     272.95,
+     272.975,
      274.75,
      271.79,
      271.47,
@@ -1860,7 +1860,7 @@
     "symbol": "MRNA",
     "price": 228.1,
     "spark": [
-     220.75,
+     220.795,
      223.5,
      216.37,
      219.7,
@@ -1880,7 +1880,7 @@
    },
    {
     "symbol": "MU",
-    "price": 646.5,
+    "price": 646.5014,
     "spark": [
      604.16,
      616.87,
@@ -1896,15 +1896,15 @@
      639.65,
      638.8501,
      638.09,
-     645.37,
-     646.5
+     645.76,
+     646.5014
     ]
    },
    {
     "symbol": "NVDA",
     "price": 149.98,
     "spark": [
-     149.29,
+     149.27,
      147.575,
      146.33,
      147.21,
@@ -2176,7 +2176,7 @@
      5.9,
      5.915,
      5.919,
-     5.925,
+     5.92,
      6.06
     ]
    },
