@@ -1,6 +1,6 @@
 {
- "version": 106,
- "asOf": "Fri Nov 27, 2026, 2:17 PM CT",
+ "version": 107,
+ "asOf": "Fri Nov 27, 2026, 2:25 PM CT",
  "markets": [
   {
    "label": "S&P 500",
@@ -286,7 +286,7 @@
    "price": "$210.33",
    "change": "+0.86%",
    "dir": "up",
-   "blurb": "Air Liquide closed at €191.96 in Paris on Friday, up 0.9% from Thursday's €190.32 close, as European shares rallied with Wall Street's Black Friday rebound. At the ECB's Nov 27 reference rate of 1.0957 the quote converts to $210.33, just under the year's high of €194.70. Industrial-gas demand stays steady and the CAC 40 is firm; the next Paris session sets the following print.",
+   "blurb": "Air Liquide closed at \u20ac191.96 in Paris on Friday, up 0.9% from Thursday's \u20ac190.32 close, as European shares rallied with Wall Street's Black Friday rebound. At the ECB's Nov 27 reference rate of 1.0957 the quote converts to $210.33, just under the year's high of \u20ac194.70. Industrial-gas demand stays steady and the CAC 40 is firm; the next Paris session sets the following print.",
    "spark": [
     187.58,
     187.66,
@@ -296,7 +296,7 @@
     192.06,
     191.96
    ],
-   "subTag": "€191.96 × 1.0957 (ECB Nov 27)",
+   "subTag": "\u20ac191.96 \u00d7 1.0957 (ECB Nov 27)",
    "yieldTag": null,
    "pct": "+0.86%"
   },
@@ -308,7 +308,7 @@
    "price": "$91.88",
    "change": "+10.98%",
    "dir": "up",
-   "blurb": "Anthropic surged 11.0% to $91.88 in Friday's short session, well above its $83 IPO price, as beaten-down AI names bounced after Wednesday's rout. The stock has now climbed sharply from its $82.79 Wednesday close, leading the AI rebound. The Nov 20 Navier-Stokes blow-up claim with NYU's Tristan Buckmaster is still unverified, its numerical certificate unreleased — watch for that proof to land or fade.",
+   "blurb": "Anthropic surged 11.0% to $91.88 in Friday's short session, well above its $83 IPO price, as beaten-down AI names bounced after Wednesday's rout. The stock has now climbed sharply from its $82.79 Wednesday close, leading the AI rebound. The Nov 20 Navier-Stokes blow-up claim with NYU's Tristan Buckmaster is still unverified, its numerical certificate unreleased \u2014 watch for that proof to land or fade.",
    "spark": [
     97.17,
     88.91,
@@ -329,7 +329,7 @@
    "price": "$91.67",
    "change": "+0.03%",
    "dir": "up",
-   "blurb": "BIL edged up to $91.67 as the short session ended, its distribution yield holding at 4.04% after the $0.30849 payout ex Nov 2 and paid Nov 5. The T-bill ETF keeps grinding a few cents higher each session while the Fed looks all but certain to hike on Dec 9, keeping short rates elevated. Nothing flashy, which is the point — it is the portfolio's cash anchor while AI names whip around.",
+   "blurb": "BIL edged up to $91.67 as the short session ended, its distribution yield holding at 4.04% after the $0.30849 payout ex Nov 2 and paid Nov 5. The T-bill ETF keeps grinding a few cents higher each session while the Fed looks all but certain to hike on Dec 9, keeping short rates elevated. Nothing flashy, which is the point \u2014 it is the portfolio's cash anchor while AI names whip around.",
    "spark": [
     91.57,
     91.59,
@@ -413,7 +413,7 @@
    "price": "$150.49",
    "change": "+0.80%",
    "dir": "up",
-   "blurb": "Nvidia gained 0.8% to $150.49 in Friday's AI rebound, a quieter day after Wednesday's rout and Monday's surge on Jensen Huang's reinstatement. The stock is still far below its highs as the board's independent investigation and the SEC probe continue, with Huang's Dec 1 House appearance ahead. Sean's call stands: long-term hold until the probes shake out — updates only on smoking guns, not noise.",
+   "blurb": "Nvidia gained 0.8% to $150.49 in Friday's AI rebound, a quieter day after Wednesday's rout and Monday's surge on Jensen Huang's reinstatement. The stock is still far below its highs as the board's independent investigation and the SEC probe continue, with Huang's Dec 1 House appearance ahead. Sean's call stands: long-term hold until the probes shake out \u2014 updates only on smoking guns, not noise.",
    "spark": [
     145.98,
     125.53,
@@ -497,7 +497,7 @@
    "price": "$133.59",
    "change": "+4.83%",
    "dir": "up",
-   "blurb": "SpaceX shares climbed 4.8% to $133.59 as the market's AI and space names rebounded on Black Friday. The FCC's conditional approval of the 1-million-satellite Starmind orbital data-center plan is still fresh, and Starship's 15th flight is under way with a pad-catch attempt due Saturday. Watch the Starship catch attempt Saturday and any fresh FCC or Starlink news over the weekend.",
+   "blurb": "SpaceX climbed 4.8% to $133.59 as space and AI names rebounded on Black Friday. Starship's 15th flight is two weeks past: Ship 42 reached orbit Nov 13 and was caught by the Starbase tower Nov 14 \u2014 a first \u2014 though Booster 22 was lost in the Gulf. Next is Flight 16, targeted no earlier than December with Booster 23 and Ship 43, possibly the first Starship launch from Florida's LC-39A. Watch for a firm date.",
    "spark": [
     138.43,
     127.79,
@@ -644,7 +644,7 @@
    "price": "$1.00",
    "change": "",
    "dir": "flat",
-   "blurb": "SWVXX holds its $1.00 NAV, with Schwab's 7-day SEC yield at 3.79% as published Nov 25, unchanged from the prior reading. The sweep fund keeps doing its quiet job while the market whipsaws — the VIX is still above 23 after spiking to 28.29 Wednesday. Per the standing plan, balances above $1,000 get swept into CDs, so the position should keep shrinking steadily toward zero.",
+   "blurb": "SWVXX holds its $1.00 NAV, with Schwab's 7-day SEC yield at 3.79% as published Nov 25, unchanged from the prior reading. The sweep fund keeps doing its quiet job while the market whipsaws \u2014 the VIX is still above 23 after spiking to 28.29 Wednesday. Per the standing plan, balances above $1,000 get swept into CDs, so the position should keep shrinking steadily toward zero.",
    "spark": null,
    "subTag": "Yield published Nov 25 (Schwab)",
    "yieldTag": "7-day yield 3.79%"
@@ -681,7 +681,7 @@
   {
    "tag": "Local",
    "headline": "Texas bids to bring U.S. Space Academy to Houston",
-   "fact": "Texas has formally proposed Houston — alongside NASA's Johnson Space Center — as home of the new United States Space Academy, with groundbreaking targeted by 2027 and the first 300 students in 2028; Sens. Ted Cruz and senator-elect James Talarico jointly endorsed the bid this week.",
+   "fact": "Texas has formally proposed Houston \u2014 alongside NASA's Johnson Space Center \u2014 as home of the new United States Space Academy, with groundbreaking targeted by 2027 and the first 300 students in 2028; Sens. Ted Cruz and senator-elect James Talarico jointly endorsed the bid this week.",
    "source": "Texas Space Commission",
    "url": "https://www.dezeen.com/2026/11/27/us-space-academy-houston-texas/"
   },
@@ -696,12 +696,12 @@
  "weekInBrief": [
   {
    "headline": "U.S.-led group agrees to buy Lukoil's overseas empire in share swap",
-   "body": "A consortium led by Todd Boehly's Eldridge, including the U.S. International Development Finance Corp., agreed to acquire Lukoil International — oil fields in 11 countries, three European refineries and 2,000 gas stations — from sanctioned Russian parent Lukoil. The deal is a share swap, so no cash goes to Russia, and the U.S. government gets an equity stake via the DFC; it still needs U.S. Treasury OFAC approval.",
+   "body": "A consortium led by Todd Boehly's Eldridge, including the U.S. International Development Finance Corp., agreed to acquire Lukoil International \u2014 oil fields in 11 countries, three European refineries and 2,000 gas stations \u2014 from sanctioned Russian parent Lukoil. The deal is a share swap, so no cash goes to Russia, and the U.S. government gets an equity stake via the DFC; it still needs U.S. Treasury OFAC approval.",
    "stamp": "Nov 25, 2026"
   },
   {
    "headline": "ECB minutes point to a December hike as inflation runs at 4%",
-   "body": "The account of the ECB's October meeting, published Nov 26, showed a large number of Governing Council members could have backed a hike then, and markets now price a 94.4% chance of a 25-basis-point rise on Dec 17, which would lift the deposit rate to 2.75%. Eurozone inflation hit 4.0% in October; EU leaders also endorsed Pablo Hernández de Cos to succeed Christine Lagarde as ECB president in February.",
+   "body": "The account of the ECB's October meeting, published Nov 26, showed a large number of Governing Council members could have backed a hike then, and markets now price a 94.4% chance of a 25-basis-point rise on Dec 17, which would lift the deposit rate to 2.75%. Eurozone inflation hit 4.0% in October; EU leaders also endorsed Pablo Hern\u00e1ndez de Cos to succeed Christine Lagarde as ECB president in February.",
    "stamp": "Nov 27, 2026"
   },
   {
@@ -719,7 +719,7 @@
   "items": [
    {
     "headline": "Latest from the Strait",
-    "body": "Saudi Arabia's Energy Ministry said a projectile struck Aramco's Jazan refinery on Thursday, killing a Nepalese worker and wounding several others and temporarily halting part of the 400,000-barrel-a-day plant; the Saudi-led coalition blamed Yemen's Houthis, a day after they claimed a strike on the Ras Tanura refinery, and said it hit 50 targets in Yemen. The IRGC said two tankers exploded and caught fire after striking mines north of Oman's Khasab port, one a supertanker carrying more than 2 million barrels, and UKMTO reported a projectile striking a tanker off Oman on Wednesday. Iran's navy claimed it recovered two tankers seized by U.S. forces, the EU's von der Leyen called for more pressure on Iran, and President Trump said “victory” is at hand."
+    "body": "Saudi Arabia's Energy Ministry said a projectile struck Aramco's Jazan refinery on Thursday, killing a Nepalese worker and wounding several others and temporarily halting part of the 400,000-barrel-a-day plant; the Saudi-led coalition blamed Yemen's Houthis, a day after they claimed a strike on the Ras Tanura refinery, and said it hit 50 targets in Yemen. The IRGC said two tankers exploded and caught fire after striking mines north of Oman's Khasab port, one a supertanker carrying more than 2 million barrels, and UKMTO reported a projectile striking a tanker off Oman on Wednesday. Iran's navy claimed it recovered two tankers seized by U.S. forces, the EU's von der Leyen called for more pressure on Iran, and President Trump said \u201cvictory\u201d is at hand."
    }
   ],
   "stats": ""
@@ -727,20 +727,20 @@
  "space": [
   {
    "tag": "Space",
-   "headline": "Starship's 15th flight: booster lost, ship in orbit, pad catch due Saturday",
-   "body": "SpaceX's 15th Starship test flight lifted off from Starbase, Texas, and the Super Heavy booster's return went wrong — its engines cut out early on the way back, the booster was diverted offshore and exploded in the Gulf of Mexico. The ship itself reached orbit and released 26 advanced Starlink satellites, the second Starship flight to carry operational satellites. It is due to complete about 15 laps and attempt the first-ever catch of an orbital Starship by the tower arms on Saturday.",
-   "url": "https://dailyfoxnews.com/news/42679/spacex-s-starship-soars-into-orbit-after-booster-explosion"
+   "headline": "Starship Flight 16 is next: December target, Florida debut possible",
+   "body": "Two weeks after Flight 15 made history \u2014 Ship 42 caught by the Starbase tower on Nov 14 after a 22-hour orbital flight, while Booster 22 was lost in the Gulf \u2014 attention has shifted to Flight 16. It pairs Booster 23 with Ship 43, is targeted no earlier than December, and could be the first Starship launch from Kennedy's LC-39A. SpaceX has not announced a firm date, and no launch license had been announced as of mid-November.",
+   "url": "https://en.wikipedia.org/wiki/Starship_flight_16"
   },
   {
    "tag": "Science",
    "headline": "Deepest explosive eruption ever found, 4 miles down in the Mariana Trench",
-   "body": "Marine geologists using the remotely operated vehicle Jason/Medea found pyroclastic rocks — telltale debris of an explosive eruption — on the walls of the Mariana Trench near Challenger Deep, about 6,500 meters down, the deepest-known explosive volcanic eruption on Earth. The rocks show recent igneous activity in a place long assumed too deep and too pressured for explosive eruptions; the findings appear in Frontiers in Earth Science.",
+   "body": "Marine geologists using the remotely operated vehicle Jason/Medea found pyroclastic rocks \u2014 telltale debris of an explosive eruption \u2014 on the walls of the Mariana Trench near Challenger Deep, about 6,500 meters down, the deepest-known explosive volcanic eruption on Earth. The rocks show recent igneous activity in a place long assumed too deep and too pressured for explosive eruptions; the findings appear in Frontiers in Earth Science.",
    "url": "https://www.reuters.com/business/environment/evidence-deepest-explosive-volcanic-eruption-found-pacific-trench-2026-11-27/"
   },
   {
    "tag": "Science",
    "headline": "Internet cables map New Zealand's Alpine Fault in unprecedented detail",
-   "body": "Researchers turned a 30-kilometer strand of dark fiber-optic cable along New Zealand's Haast Pass into thousands of seismic sensors and captured the sharpest view yet of the Alpine Fault's interior. The fault is not a single break but a roughly 200-meter-wide zone of shattered rock with up to six narrow slip cores, and the main core runs continuously for about 180 kilometers — evidence the fault's segments stay connected at earthquake depths. The work appears in Science Advances.",
+   "body": "Researchers turned a 30-kilometer strand of dark fiber-optic cable along New Zealand's Haast Pass into thousands of seismic sensors and captured the sharpest view yet of the Alpine Fault's interior. The fault is not a single break but a roughly 200-meter-wide zone of shattered rock with up to six narrow slip cores, and the main core runs continuously for about 180 kilometers \u2014 evidence the fault's segments stay connected at earthquake depths. The work appears in Science Advances.",
    "url": "https://phys.org/news/2026-11-internet-cables-seismic-sensors-earthquake.html"
   },
   {
@@ -799,7 +799,7 @@
    }
   ],
   "footnote": "",
-  "ratesAsOf": "Schwab Thu, Nov 19, 2026 · eTrade Fri, Nov 27, 2026"
+  "ratesAsOf": "Schwab Thu, Nov 19, 2026 \u00b7 eTrade Fri, Nov 27, 2026"
  },
  "weather": [
   {
@@ -809,52 +809,52 @@
    "conditions": "Sunny",
    "icon": "sun",
    "alerts": "",
-   "extra": "Humidity 33% · Wind WSW 7 mph",
-   "today": "Partly Cloudy, high 64°F",
-   "tonight": "Partly Cloudy, low 48°F",
-   "tomorrow": "Mostly Sunny, high 76°F"
+   "extra": "Humidity 33% \u00b7 Wind WSW 7 mph",
+   "today": "Partly Cloudy, high 64\u00b0F",
+   "tonight": "Partly Cloudy, low 48\u00b0F",
+   "tomorrow": "Mostly Sunny, high 76\u00b0F"
   },
   {
-   "name": "Seiver Ranch — Plains, MT",
+   "name": "Seiver Ranch \u2014 Plains, MT",
    "detail": "Sanders County",
    "tempF": 48,
    "conditions": "Mostly Cloudy",
    "icon": "clouds",
    "alerts": "",
-   "extra": "Humidity 65% · Wind SW 6 mph",
-   "today": "Cloudy, high 49°F",
-   "tonight": "Showers Early, low 36°F",
-   "tomorrow": "AM Clouds/PM Sun, high 42°F"
+   "extra": "Humidity 65% \u00b7 Wind SW 6 mph",
+   "today": "Cloudy, high 49\u00b0F",
+   "tonight": "Showers Early, low 36\u00b0F",
+   "tomorrow": "AM Clouds/PM Sun, high 42\u00b0F"
   },
   {
-   "name": "Seiver Slough — Rugby, ND",
+   "name": "Seiver Slough \u2014 Rugby, ND",
    "detail": "Pierce County",
    "tempF": 49,
    "conditions": "Partly Cloudy",
    "icon": "partly",
    "alerts": "",
-   "extra": "Humidity 55% · Wind W 18 mph",
-   "today": "Partly Cloudy, high 50°F",
-   "tonight": "Mostly Cloudy, low 33°F",
-   "tomorrow": "Cloudy/Wind, high 38°F"
+   "extra": "Humidity 55% \u00b7 Wind W 18 mph",
+   "today": "Partly Cloudy, high 50\u00b0F",
+   "tonight": "Mostly Cloudy, low 33\u00b0F",
+   "tomorrow": "Cloudy/Wind, high 38\u00b0F"
   },
   {
-   "name": "Seiver Lodge — L’Anse, MI",
+   "name": "Seiver Lodge \u2014 L\u2019Anse, MI",
    "detail": "Baraga County",
    "tempF": 39,
    "conditions": "Sunny",
    "icon": "sun",
    "alerts": "",
-   "extra": "Humidity 76% · Wind NW 4 mph",
-   "today": "Partly Sunny, high 40°F",
-   "tonight": "Mostly Cloudy then Slight Chance Freezing Rain, low 29°F",
-   "tomorrow": "Chance Rain Showers then Partly Sunny, high 42°F"
+   "extra": "Humidity 76% \u00b7 Wind NW 4 mph",
+   "today": "Partly Sunny, high 40\u00b0F",
+   "tonight": "Mostly Cloudy then Slight Chance Freezing Rain, low 29\u00b0F",
+   "tomorrow": "Chance Rain Showers then Partly Sunny, high 42\u00b0F"
   }
  ],
  "apod": {
   "date": "November 27, 2026",
   "title": "Artemis III Astronaut Andre Douglas Visits VAB",
-  "credit": "NASA — NASA Image of the Day, Nov. 27, 2026",
+  "credit": "NASA \u2014 NASA Image of the Day, Nov. 27, 2026",
   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261117-ph-kls02-0020orig.jpg",
   "explanation": "NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at Kennedy Space Center, where the agency is preparing the Artemis III mission to return astronauts to the Moon.",
   "pageUrl": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/"
