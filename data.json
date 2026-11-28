@@ -1,19 +1,19 @@
 {
- "version": 109,
- "asOf": "Sat Nov 28, 2026, 8:12 AM CT",
+ "version": 110,
+ "asOf": "Sat Nov 28, 2026, 8:28 AM CT",
  "edition": "weekend",
  "breaking": [
   {
    "tag": "World",
    "headline": "Chinese shares soar as Beijing pledges state backing",
-   "fact": "Chinese shares posted their biggest rise in more than two years on Friday after a State Council meeting clarified that Central Huijin, the state investment arm, should act as a ‘quasi-stabilisation fund’ — the Shanghai Composite rose 3.7% and the STAR 50 surged 15%, while October industrial profits grew 20.1% year on year.",
+   "fact": "Chinese shares posted their biggest rise in more than two years on Friday after a State Council meeting clarified that Central Huijin, the state investment arm, should act as a \u2018quasi-stabilisation fund\u2019 \u2014 the Shanghai Composite rose 3.7% and the STAR 50 surged 15%, while October industrial profits grew 20.1% year on year.",
    "source": "Reuters",
    "url": "https://blog.adenxie.com.cn/en/2026/11/28/2026-11-28-daily-brief/"
   },
   {
    "tag": "World",
-   "headline": "Brazil’s real rallies as Lula names a banker finance chief",
-   "fact": "Brazil’s real strengthened as much as 4.7% to 5.47 per dollar on Friday after President Lula tapped Bradesco chairman Luiz Carlos Trabuco, 75, as his next finance minister, calming markets rattled since Lula’s shock re-election in October; the Bovespa had already jumped 6% on Thursday as the appointment took shape.",
+   "headline": "Brazil\u2019s real rallies as Lula names a banker finance chief",
+   "fact": "Brazil\u2019s real strengthened as much as 4.7% to 5.47 per dollar on Friday after President Lula tapped Bradesco chairman Luiz Carlos Trabuco, 75, as his next finance minister, calming markets rattled since Lula\u2019s shock re-election in October; the Bovespa had already jumped 6% on Thursday as the appointment took shape.",
    "source": "Reuters",
    "url": "https://wdsm710.com/2026/11/27/brazilian-markets-rally-after-lula-taps-bradesco-chairman-for-finance-chief/"
   }
@@ -303,7 +303,7 @@
    "price": "$210.33",
    "change": "+0.86%",
    "dir": "up",
-   "blurb": "Air Liquide closed at €191.96 in Paris on Friday, up 0.9% from Thursday's €190.32, as European shares rallied with Wall Street's Black Friday rebound. At the ECB's Nov 27 reference rate of 1.0957 the quote converts to $210.33, just under the year's high of €194.70. Industrial-gas demand stays steady and the CAC 40 is firm; Monday's Paris session sets the next print for the week.",
+   "blurb": "Air Liquide closed at \u20ac191.96 in Paris on Friday, up 0.9% from Thursday's \u20ac190.32, as European shares rallied with Wall Street's Black Friday rebound. At the ECB's Nov 27 reference rate of 1.0957 the quote converts to $210.33, just under the year's high of \u20ac194.70. Industrial-gas demand stays steady and the CAC 40 is firm; Monday's Paris session sets the next print for the week.",
    "spark": [
     187.58,
     187.66,
@@ -313,7 +313,7 @@
     192.06,
     191.96
    ],
-   "subTag": "€191.96 × 1.0957 (ECB Nov 27)",
+   "subTag": "\u20ac191.96 \u00d7 1.0957 (ECB Nov 27)",
    "yieldTag": null,
    "pct": "+0.86%"
   },
@@ -325,7 +325,7 @@
    "price": "$91.88",
    "change": "+10.98%",
    "dir": "up",
-   "blurb": "Anthropic surged 11.0% to $91.88 in Friday's short session, back above its $83 IPO price, as beaten-down AI names bounced after Wednesday's rout. The stock climbed from its $82.79 Wednesday close to lead the AI rebound, with index funds set to add it in December. The Nov 20 Navier-Stokes claim is still unverified, its numerical certificate unreleased — watch for that proof to land or fade.",
+   "blurb": "Anthropic surged 11.0% to $91.88 in Friday's short session, back above its $83 IPO price, as beaten-down AI names bounced after Wednesday's rout. The stock climbed from its $82.79 Wednesday close to lead the AI rebound, with index funds set to add it in December. The Nov 20 Navier-Stokes claim is still unverified, its numerical certificate unreleased \u2014 watch for that proof to land or fade.",
    "spark": [
     97.17,
     88.91,
@@ -346,7 +346,7 @@
    "price": "$91.67",
    "change": "+0.03%",
    "dir": "up",
-   "blurb": "BIL ticked up to $91.67 in Friday's shortened session, its distribution yield steady at 4.04% after the $0.30849 payout that went ex Nov 2 and paid Nov 5. The T-bill fund keeps inching higher while a Dec 9 Fed hike looks all but certain, keeping short-term rates elevated. It is the portfolio's quiet cash anchor — no drama by design — while AI names swing several percent a day.",
+   "blurb": "BIL ticked up to $91.67 in Friday's shortened session, its distribution yield steady at 4.04% after the $0.30849 payout that went ex Nov 2 and paid Nov 5. The T-bill fund keeps inching higher while a Dec 9 Fed hike looks all but certain, keeping short-term rates elevated. It is the portfolio's quiet cash anchor \u2014 no drama by design \u2014 while AI names swing several percent a day.",
    "spark": [
     91.57,
     91.59,
@@ -430,7 +430,7 @@
    "price": "$150.49",
    "change": "+0.80%",
    "dir": "up",
-   "blurb": "Nvidia rose 0.8% to $150.49 in Friday's AI rebound, a quieter session after Wednesday's rout and Monday's surge on Huang's reinstatement. The stock remains far below its highs while the board investigation and SEC probe continue; Huang faces a House appearance Dec 1 and a Senate Banking hearing Dec 3. Sean's call stands: long-term hold until the probes shake out — updates only on smoking guns, not noise.",
+   "blurb": "Nvidia rose 0.8% to $150.49 in Friday's AI rebound, a quieter session after Wednesday's rout and Monday's surge on Huang's reinstatement. The stock remains far below its highs while the board investigation and SEC probe continue; Huang faces a House appearance Dec 1 and a Senate Banking hearing Dec 3. Sean's call stands: long-term hold until the probes shake out \u2014 updates only on smoking guns, not noise.",
    "spark": [
     145.98,
     125.53,
@@ -661,7 +661,7 @@
    "price": "$1.00",
    "change": "",
    "dir": "flat",
-   "blurb": "SWVXX holds its $1.00 NAV, with Schwab's 7-day SEC yield at 3.79% as published Nov 25, unchanged from the prior reading. The sweep fund keeps doing its quiet job while the market whipsaws around it — the VIX closed at 23.81, down from 26.80 on Wednesday. Per the standing plan, balances above $1,000 get swept into CDs, so the position should keep shrinking steadily toward zero.",
+   "blurb": "SWVXX holds its $1.00 NAV, with Schwab's 7-day SEC yield at 3.79% as published Nov 25, unchanged from the prior reading. The sweep fund keeps doing its quiet job while the market whipsaws around it \u2014 the VIX closed at 23.81, down from 26.80 on Wednesday. Per the standing plan, balances above $1,000 get swept into CDs, so the position should keep shrinking steadily toward zero.",
    "spark": null,
    "subTag": "Yield published Nov 25 (Schwab)",
    "yieldTag": "7-day yield 3.79%"
@@ -683,17 +683,17 @@
  "weekInBrief": [
   {
    "headline": "Anthropic jumps 11% to $91.88, back above its $83 IPO price",
-   "body": "Anthropic surged 10.98% in Friday’s short session to close at $91.88 — its highest close since its Nov. 19 debut and back above the $83 offer price after two sessions below it — as Wedbush, Canaccord and Oppenheimer launched coverage with targets of $120 to $150. Sean holds 66 shares from the IPO allocation.",
+   "body": "Anthropic surged 10.98% in Friday\u2019s short session to close at $91.88 \u2014 its highest close since its Nov. 19 debut and back above the $83 offer price after two sessions below it \u2014 as Wedbush, Canaccord and Oppenheimer launched coverage with targets of $120 to $150. Sean holds 66 shares from the IPO allocation.",
    "stamp": "Nov 27, 2026"
   },
   {
    "headline": "Black Friday online sales tracking past $13 billion",
-   "body": "Adobe Analytics counted $9.7 billion in U.S. online spending by 6:30 p.m. ET on Black Friday, up 12.8% on a year ago, and expects the full day to land between $13.0 billion and $13.4 billion — above its $12.9 billion September forecast — with Cyber Monday forecast at $15.1 billion.",
+   "body": "Adobe Analytics counted $9.7 billion in U.S. online spending by 6:30 p.m. ET on Black Friday, up 12.8% on a year ago, and expects the full day to land between $13.0 billion and $13.4 billion \u2014 above its $12.9 billion September forecast \u2014 with Cyber Monday forecast at $15.1 billion.",
    "stamp": "Nov 27, 2026"
   },
   {
    "headline": "Taiwan votes in local elections, Taipei race watched",
-   "body": "Taiwan holds local elections on Saturday, with the Taipei mayoral race closely watched: a result read as friendlier to Beijing would ease the political discount on Taiwan’s shares, while the opposite would add to record foreign selling of the island’s stocks.",
+   "body": "Taiwan holds local elections on Saturday, with the Taipei mayoral race closely watched: a result read as friendlier to Beijing would ease the political discount on Taiwan\u2019s shares, while the opposite would add to record foreign selling of the island\u2019s stocks.",
    "stamp": "Nov 28, 2026"
   },
   {
@@ -706,56 +706,56 @@
   {
    "tag": "Houston",
    "headline": "KPRC 2 and a motorcycle club feed 30 Houston families",
-   "body": "KPRC 2 staff traded their usual duties for packing duty this week, joining the Deguello Motorcycle Club and local sponsors to fill Thanksgiving boxes — turkeys, mashed potatoes, macaroni and cheese and sweet potatoes — for 30 families at a Title I elementary school in the Heights. The club, which has helped families in past holidays, hopes to reach 100 families next year: ‘Kindness is free,’ said club secretary Tyler Johnson.",
+   "body": "KPRC 2 staff traded their usual duties for packing duty this week, joining the Deguello Motorcycle Club and local sponsors to fill Thanksgiving boxes \u2014 turkeys, mashed potatoes, macaroni and cheese and sweet potatoes \u2014 for 30 families at a Title I elementary school in the Heights. The club, which has helped families in past holidays, hopes to reach 100 families next year: \u2018Kindness is free,\u2019 said club secretary Tyler Johnson.",
    "source": "KPRC 2",
    "url": "https://gmg-kprc-prod.cdn.arcpublishing.com/news/local/2026/11/20/kindness-is-free-kprc-2-houston-motorcycle-club-team-up-to-feed-30-families-this-thanksgiving/"
   },
   {
    "tag": "Houston",
    "headline": "A Sunnyside mom of 11 gets her Thanksgiving miracle",
-   "body": "Erica Lang, a Houston mother of 11, was brought to tears after losing her food stamps and wondering how she would feed her children for the holidays — until The Queen’s Foundation, a small nonprofit rooted in Sunnyside, arrived at her door with a full Thanksgiving meal. The group is delivering holiday meals to dozens of Southside families and hopes to extend the giving to Christmas dinners.",
+   "body": "Erica Lang, a Houston mother of 11, was brought to tears after losing her food stamps and wondering how she would feed her children for the holidays \u2014 until The Queen\u2019s Foundation, a small nonprofit rooted in Sunnyside, arrived at her door with a full Thanksgiving meal. The group is delivering holiday meals to dozens of Southside families and hopes to extend the giving to Christmas dinners.",
    "source": "KPRC 2",
    "url": "https://gmg-kprc-prod.cdn.arcpublishing.com/news/local/2026/11/25/sunnyside-family-gets-thanksgiving-dinner-delivered-by-one-of-their-own-thanks-to-facebook/"
   },
   {
    "tag": "Houston",
    "headline": "Bridge The Gaps hits its biggest turkey goal yet: 400",
-   "body": "Bridge The Gaps reached its largest distribution goal to date at its sixth annual Thanksgiving Turkey Drive at Klein Forest High School, handing out 400 turkeys to Houston families in 90 minutes on Saturday, Nov. 21. More than 120 student volunteers helped — and the nonprofit has now distributed 1,290 turkeys since 2021.",
+   "body": "Bridge The Gaps reached its largest distribution goal to date at its sixth annual Thanksgiving Turkey Drive at Klein Forest High School, handing out 400 turkeys to Houston families in 90 minutes on Saturday, Nov. 21. More than 120 student volunteers helped \u2014 and the nonprofit has now distributed 1,290 turkeys since 2021.",
    "source": "Bridge The Gaps",
    "url": "https://www.bridgethegaps.org/blog/thanksgiving-drive-2026"
   },
   {
    "tag": "Montana",
-   "headline": "Missoula’s turkey drive sets a record: 1,197 birds",
-   "body": "Missoula’s 32nd annual Z100 Guerrilla Turkey Drive collected a record 1,197 turkeys and $765 this year — the most ever for the drive — with the Reno Bar in East Missoula bringing in 100 birds and the Missoula Smokejumpers pitching in. The turkeys went to the Missoula Food Bank, the Mineral County Food Bank and four other regional food banks and pantries.",
+   "headline": "Missoula\u2019s turkey drive sets a record: 1,197 birds",
+   "body": "Missoula\u2019s 32nd annual Z100 Guerrilla Turkey Drive collected a record 1,197 turkeys and $765 this year \u2014 the most ever for the drive \u2014 with the Reno Bar in East Missoula bringing in 100 birds and the Missoula Smokejumpers pitching in. The turkeys went to the Missoula Food Bank, the Mineral County Food Bank and four other regional food banks and pantries.",
    "source": "We Are Missoula",
    "url": "https://wearemissoula.com/ixp/1116/p/missoula-guerrilla-turkey-drive-record/"
   },
   {
    "tag": "Michigan",
-   "headline": "Baraga County shops small today — and launches Baraga County Cash",
-   "body": "The Baraga County Chamber of Commerce marks Small Business Saturday today, Nov. 28, with an open house and Shop Small Welcome Station at its L’Anse office from 10 a.m. to noon, with refreshments, reusable bags and door prizes. Today also launches Baraga County Cash, a new gift-check program redeemable at any Baraga County business that accepts checks, designed to keep holiday dollars circulating locally.",
+   "headline": "Baraga County shops small today \u2014 and launches Baraga County Cash",
+   "body": "The Baraga County Chamber of Commerce marks Small Business Saturday today, Nov. 28, with an open house and Shop Small Welcome Station at its L\u2019Anse office from 10 a.m. to noon, with refreshments, reusable bags and door prizes. Today also launches Baraga County Cash, a new gift-check program redeemable at any Baraga County business that accepts checks, designed to keep holiday dollars circulating locally.",
    "source": "Daily Mining Gazette",
    "url": "https://www.europesays.com/unitedstates/140370/"
   },
   {
    "tag": "Animals",
    "headline": "A Canada lynx comes home to New Mexico",
-   "body": "A trail camera in Carson National Forest photographed a Canada lynx on June 12 — the first confirmed lynx in New Mexico in about 25 years, confirmed by a New Mexico State University researcher who ruled out a bobcat. The cat lives at the southern edge of where lynx can survive, and the sighting could change how the forest is cared for, since the state was left out of the latest federal lynx habitat plan.",
+   "body": "A trail camera in Carson National Forest photographed a Canada lynx on June 12 \u2014 the first confirmed lynx in New Mexico in about 25 years, confirmed by a New Mexico State University researcher who ruled out a bobcat. The cat lives at the southern edge of where lynx can survive, and the sighting could change how the forest is cared for, since the state was left out of the latest federal lynx habitat plan.",
    "source": "Big Cat Rescue",
    "url": "https://bigcatrescue.org/conservation-news/advocat-2026-11"
   },
   {
    "tag": "Animals",
    "headline": "Wolves turn out to be blueberry gardeners",
-   "body": "Blueberry seeds that pass through a wolf’s gut sprout faster and more often than seeds taken straight from the fruit, a Biology Letters study found: 96% of wolf-passed seeds germinated, against 69% of controls, and half sprouted by day 19 versus day 26. Gray wolves in northern Minnesota’s Voyageurs country eat so many berries in summer — up to 83% of their weekly diet — that they may seed new berry patches far from the parent plants.",
+   "body": "Blueberry seeds that pass through a wolf\u2019s gut sprout faster and more often than seeds taken straight from the fruit, a Biology Letters study found: 96% of wolf-passed seeds germinated, against 69% of controls, and half sprouted by day 19 versus day 26. Gray wolves in northern Minnesota\u2019s Voyageurs country eat so many berries in summer \u2014 up to 83% of their weekly diet \u2014 that they may seed new berry patches far from the parent plants.",
    "source": "EnviroLink",
    "url": "https://www.envirolink.org/2026/11/23/gray-wolves-may-help-wild-blueberries-spread-study-finds/"
   },
   {
    "tag": "Science",
-   "headline": "A battery-free implant that glows to show it’s working",
-   "body": "Hong Kong Polytechnic University researchers built the world’s first battery-free, bioresorbable implant that both powers itself and shows its condition from outside the body: it harvests energy from ultrasound and glows under a UV lamp, its outline bright and complete when intact. The device, published in Nature Nanotechnology, could one day monitor patients after surgery, deliver drugs on demand or stimulate nerves — then dissolve away.",
+   "headline": "A battery-free implant that glows to show it\u2019s working",
+   "body": "Hong Kong Polytechnic University researchers built the world\u2019s first battery-free, bioresorbable implant that both powers itself and shows its condition from outside the body: it harvests energy from ultrasound and glows under a UV lamp, its outline bright and complete when intact. The device, published in Nature Nanotechnology, could one day monitor patients after surgery, deliver drugs on demand or stimulate nerves \u2014 then dissolve away.",
    "source": "Phys.org",
    "url": "https://phys.org/news/2026-11-battery-free-implant-harvests-ultrasound.html"
   }
@@ -772,34 +772,34 @@
  "comic": {
   "title": "Tiny Squirrels",
   "image": "https://imgs.xkcd.com/comics/tiny_squirrels.png",
-  "alt": "It’s actually an open question why squirrels are so rare. Some theories of the vacuum suggest there should be enormous numbers of them at every point in empty space; it’s hard to get the equations to cancel out and produce the observed small number.",
+  "alt": "It\u2019s actually an open question why squirrels are so rare. Some theories of the vacuum suggest there should be enormous numbers of them at every point in empty space; it\u2019s hard to get the equations to cancel out and produce the observed small number.",
   "url": "https://xkcd.com/3330/",
-  "credit": "xkcd by Randall Munroe — licensed CC BY-NC 2.5; xkcd.com",
-  "note": "It’s actually an open question why squirrels are so rare. Some theories of the vacuum suggest there should be enormous numbers of them at every point in empty space; it’s hard to get the equations to cancel out and produce the observed small number."
+  "credit": "xkcd by Randall Munroe \u2014 licensed CC BY-NC 2.5; xkcd.com",
+  "note": "It\u2019s actually an open question why squirrels are so rare. Some theories of the vacuum suggest there should be enormous numbers of them at every point in empty space; it\u2019s hard to get the equations to cancel out and produce the observed small number."
  },
  "space": [
   {
    "tag": "Space",
-   "headline": "Starship gets a two-hour docking test in NASA’s Artemis III plan",
-   "body": "NASA’s mission profile for the 2027 Artemis III Earth-orbit test flight, published Nov. 18, gives SpaceX’s Starship an uncrewed docking test of up to two hours in low Earth orbit, while Blue Origin’s Blue Moon lander test article gets the two-day crewed habitation evaluation. Starship launches from Florida later in the 14-day mission and carries a forward docking adapter; no crew enters the vehicle. Both landers must still complete uncrewed landing demonstrations before astronauts ride either to the surface.",
+   "headline": "Starship gets a two-hour docking test in NASA\u2019s Artemis III plan",
+   "body": "NASA\u2019s mission profile for the 2027 Artemis III Earth-orbit test flight, published Nov. 18, gives SpaceX\u2019s Starship an uncrewed docking test of up to two hours in low Earth orbit, while Blue Origin\u2019s Blue Moon lander test article gets the two-day crewed habitation evaluation. Starship launches from Florida later in the 14-day mission and carries a forward docking adapter; no crew enters the vehicle. Both landers must still complete uncrewed landing demonstrations before astronauts ride either to the surface.",
    "url": "https://www.elonosphere.com/Articles/3316/nasa-s-artemis-iii-plan-gives-starship-a-two-hour-docking-test-blue-origin-the-crewed-cabin-work"
   },
   {
    "tag": "Science",
    "headline": "ATLAS finds hints of the hidden structure of the vacuum",
-   "body": "The ATLAS collaboration at CERN’s Large Hadron Collider saw more proton collisions with an unusually even spread of particles than expected — a possible first hint of QCD instanton processes, a Standard Model phenomenon never directly observed, in which the structure of empty space itself shapes collisions. The result, posted as a preprint, needs confirmation before it counts as a discovery.",
+   "body": "The ATLAS collaboration at CERN\u2019s Large Hadron Collider saw more proton collisions with an unusually even spread of particles than expected \u2014 a possible first hint of QCD instanton processes, a Standard Model phenomenon never directly observed, in which the structure of empty space itself shapes collisions. The result, posted as a preprint, needs confirmation before it counts as a discovery.",
    "url": "https://phys.org/news/2026-11-atlas-hints-hidden-vacuum.html"
   },
   {
    "tag": "Science",
    "headline": "A second barrier traps nucleic-acid medicines inside cells",
-   "body": "Hong Kong University researchers found that when a cell’s endolysosomes are damaged, proteins rapidly gather into dense, solid-like condensates that trap antisense oligonucleotide medicines inside — even after the membrane is breached. The Nature Cell Biology finding explains why some promising nucleic-acid drugs never reach their targets, and points drug designers at defeating two barriers, not one.",
+   "body": "Hong Kong University researchers found that when a cell\u2019s endolysosomes are damaged, proteins rapidly gather into dense, solid-like condensates that trap antisense oligonucleotide medicines inside \u2014 even after the membrane is breached. The Nature Cell Biology finding explains why some promising nucleic-acid drugs never reach their targets, and points drug designers at defeating two barriers, not one.",
    "url": "https://phys.org/news/2026-11-newly-barrier-nucleic-acid-medicines.html"
   },
   {
    "tag": "Science",
    "headline": "3D mapping of gene therapy reveals its safety guardrails",
-   "body": "St. Jude scientists mapped 329 integration sites from their X-linked severe combined immunodeficiency gene therapy and found that DNA insulators act as protective walls, limiting effects on nearby genes. The Science Advances findings also fed a machine-learning model that estimates the safety of future integration sites — a step toward safer gene therapies for children born without an immune system.",
+   "body": "St. Jude scientists mapped 329 integration sites from their X-linked severe combined immunodeficiency gene therapy and found that DNA insulators act as protective walls, limiting effects on nearby genes. The Science Advances findings also fed a machine-learning model that estimates the safety of future integration sites \u2014 a step toward safer gene therapies for children born without an immune system.",
    "url": "https://www.stjude.org/media-resources/news-releases/2026-medicine-science-news/3d-mapping-of-x-scid-gene-therapy-reveals-genomic-features-that-predict-safety.html"
   }
  ],
@@ -852,7 +852,7 @@
    }
   ],
   "footnote": "",
-  "ratesAsOf": "Schwab Thu, Nov 19, 2026 · eTrade Fri, Nov 27, 2026"
+  "ratesAsOf": "Schwab Thu, Nov 19, 2026 \u00b7 eTrade Fri, Nov 27, 2026"
  },
  "weather": [
   {
@@ -862,54 +862,54 @@
    "conditions": "Partly Cloudy",
    "icon": "partly",
    "alerts": "",
-   "extra": "Humidity 82% · Wind SE 4 mph",
-   "today": "Partly Cloudy, high 75°F",
-   "tonight": "Partly Cloudy, low 65°F",
-   "tomorrow": "Partly Cloudy, high 67°F"
+   "extra": "Humidity 82% \u00b7 Wind SE 4 mph",
+   "today": "Partly Cloudy, high 75\u00b0F",
+   "tonight": "Partly Cloudy, low 65\u00b0F",
+   "tomorrow": "Partly Cloudy, high 67\u00b0F"
   },
   {
-   "name": "Seiver Ranch — Plains, MT",
+   "name": "Seiver Ranch \u2014 Plains, MT",
    "detail": "Sanders County",
    "tempF": 28,
    "conditions": "Mostly Cloudy",
    "icon": "clouds",
    "alerts": "",
-   "extra": "Humidity 100% · Wind SSW 3 mph",
-   "today": "Mostly Cloudy, high 42°F",
-   "tonight": "Mostly Cloudy, low 29°F",
-   "tomorrow": "Cloudy, high 37°F"
+   "extra": "Humidity 100% \u00b7 Wind SSW 3 mph",
+   "today": "Mostly Cloudy, high 42\u00b0F",
+   "tonight": "Mostly Cloudy, low 29\u00b0F",
+   "tomorrow": "Cloudy, high 37\u00b0F"
   },
   {
-   "name": "Seiver Slough — Rugby, ND",
+   "name": "Seiver Slough \u2014 Rugby, ND",
    "detail": "Pierce County",
    "tempF": 36,
    "conditions": "Cloudy",
    "icon": "clouds",
    "alerts": "",
-   "extra": "Humidity 84% · Wind W 18 mph",
-   "today": "Cloudy/Wind, high 38°F",
-   "tonight": "Cloudy, low 23°F",
-   "tomorrow": "Partly Cloudy, high 28°F"
+   "extra": "Humidity 84% \u00b7 Wind W 18 mph",
+   "today": "Cloudy/Wind, high 38\u00b0F",
+   "tonight": "Cloudy, low 23\u00b0F",
+   "tomorrow": "Partly Cloudy, high 28\u00b0F"
   },
   {
-   "name": "Seiver Lodge — L’Anse, MI",
+   "name": "Seiver Lodge \u2014 L\u2019Anse, MI",
    "detail": "Baraga County",
    "tempF": 31,
    "conditions": "Partly Cloudy",
    "icon": "partly",
    "alerts": "",
-   "extra": "Humidity 87% · Wind S 5 mph",
-   "today": "Partly Cloudy, high 47°F",
-   "tonight": "Rain/Snow Showers Late, low 32°F",
-   "tomorrow": "AM Snow Showers, high 36°F"
+   "extra": "Humidity 87% \u00b7 Wind S 5 mph",
+   "today": "Partly Cloudy, high 47\u00b0F",
+   "tonight": "Rain/Snow Showers Late, low 32\u00b0F",
+   "tomorrow": "AM Snow Showers, high 36\u00b0F"
   }
  ],
  "apod": {
   "date": "November 28, 2026",
   "title": "Apollo 17 VIP Site Anaglyph",
-  "credit": "Gene Cernan, Apollo 17, NASA; Anaglyph by Erik van Meijgaarden — NASA Astronomy Picture of the Day, Nov. 28, 2026",
+  "credit": "Gene Cernan, Apollo 17, NASA; Anaglyph by Erik van Meijgaarden \u2014 NASA Astronomy Picture of the Day, Nov. 28, 2026",
   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/a17anaglyph_vanMeijgaarden_f.jpg?w=2014&h=2048&fit=clip",
-  "explanation": "Get out your red/blue glasses and check out this stereo scene from the Taurus-Littrow valley on the Moon. The color anaglyph shows a detailed 3D view of Apollo 17’s Lunar Rover in the foreground, with the Lunar Module and distant lunar hills behind it. Because the world was going to watch the Lunar Module’s ascent stage liftoff via the rover’s TV camera, this parking place was also known as the VIP Site. In December 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours on the Moon, while colleague Ronald Evans orbited overhead.",
+  "explanation": "Get out your red/blue glasses and check out this stereo scene from the Taurus-Littrow valley on the Moon. The color anaglyph shows a detailed 3D view of Apollo 17\u2019s Lunar Rover in the foreground, with the Lunar Module and distant lunar hills behind it. Because the world was going to watch the Lunar Module\u2019s ascent stage liftoff via the rover\u2019s TV camera, this parking place was also known as the VIP Site. In December 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours on the Moon, while colleague Ronald Evans orbited overhead.",
   "pageUrl": "https://apod.nasa.gov/apod/ap261128.html"
  },
  "aiModels": [
@@ -923,9 +923,9 @@
    "license": "OpenMDW-1.1",
    "hw": "NVIDIA GPU (Spark-class)",
    "run": "llama.cpp (GGUF) / vLLM",
-   "notes": "The pick to beat — purpose-built for Spark-class boxes: ~24GB footprint, ~84 tok/s reported, hits the 256K context target.",
+   "notes": "The pick to beat \u2014 purpose-built for Spark-class boxes: ~24GB footprint, ~84 tok/s reported, hits the 256K context target.",
    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
-   "size": "74B (9B active) · ~24GB",
+   "size": "74B (9B active) \u00b7 ~24GB",
    "speed": "~84"
   },
   {
@@ -937,20 +937,20 @@
    "license": "Apache 2.0",
    "hw": "GPU / unified memory, 32GB+ class",
    "run": "vLLM / SGLang / llama.cpp (GGUF); Ollama on Apple silicon only at launch",
-   "notes": "Frontier-class agent scores on vendor benchmarks (SWE-bench Verified 79.2%, unverified); early Spark hands-ons show 40–76 tok/s, but most tokens burn on hidden reasoning.",
+   "notes": "Frontier-class agent scores on vendor benchmarks (SWE-bench Verified 79.2%, unverified); early Spark hands-ons show 40\u201376 tok/s, but most tokens burn on hidden reasoning.",
    "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-   "size": "26.4B (3.4B active) · ~20GB",
-   "speed": "~40–76"
+   "size": "26.4B (3.4B active) \u00b7 ~20GB",
+   "speed": "~40\u201376"
   },
   {
    "model": "Nemotron 3 Super 120B",
    "maker": "NVIDIA",
-   "size": "120B (12B active) · ~80GB NVFP4",
+   "size": "120B (12B active) \u00b7 ~80GB NVFP4",
    "score": 7.8,
    "context": "Up to 1M (256K default)",
    "release": "2026-03-11",
    "license": "NVIDIA Nemotron Open Model License",
-   "hw": "NVIDIA GPU — DGX Spark documented",
+   "hw": "NVIDIA GPU \u2014 DGX Spark documented",
    "run": "vLLM / SGLang (WSL2 on Windows); community GGUF",
    "notes": "The deep-think option from the project's Nov 20 checkpoint: strongest US-open agentic benchmarks and up-to-1M context, but ~80GB and a Linux/WSL2 serving path.",
    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
@@ -959,14 +959,14 @@
   {
    "model": "gpt-oss-120b",
    "maker": "OpenAI",
-   "size": "117B (5.1B active) · ~65GB",
+   "size": "117B (5.1B active) \u00b7 ~65GB",
    "score": 7.4,
    "context": "128K",
    "release": "2025-08-05",
    "license": "Apache 2.0",
    "hw": "GPU / unified memory, 80GB class",
    "run": "Ollama / LM Studio / vLLM",
-   "notes": "The turnkey option: maker-documented Ollama path, Apache 2.0, fast on mini hardware (~60 tok/s class) — but 128K context sits exactly at the project floor, and it is text-only.",
+   "notes": "The turnkey option: maker-documented Ollama path, Apache 2.0, fast on mini hardware (~60 tok/s class) \u2014 but 128K context sits exactly at the project floor, and it is text-only.",
    "url": "https://huggingface.co/openai/gpt-oss-120b",
    "speed": "~60"
   }
@@ -988,7 +988,7 @@
    "storage": "2TB",
    "os": "Windows 11 Pro",
    "price": "$5,999",
-   "notes": "The frontrunner — the only box ticking every project criterion today: CUDA, Windows-native, Microsoft support, now in stock at the Microsoft Store at the same $5,999. Bolt-class models run ~84 tok/s on this silicon. Ceiling: 128GB is learning-class; it cannot touch Spark Open itself."
+   "notes": "The frontrunner \u2014 the only box ticking every project criterion today: CUDA, Windows-native, Microsoft support, now in stock at the Microsoft Store at the same $5,999. Bolt-class models run ~84 tok/s on this silicon. Ceiling: 128GB is learning-class; it cannot touch Spark Open itself."
   },
   {
    "box": "Framework Desktop 192GB",
@@ -1000,7 +1000,7 @@
    "storage": "Configurable",
    "os": "Windows 11 (DIY install)",
    "price": "$6,799 DIY",
-   "notes": "Most memory in a mini — room for the 120B deep-think brain plus a fat 256K KV cache. No CUDA (ROCm/Vulkan serving), you assemble it yourself, and batches sell out."
+   "notes": "Most memory in a mini \u2014 room for the 120B deep-think brain plus a fat 256K KV cache. No CUDA (ROCm/Vulkan serving), you assemble it yourself, and batches sell out."
   },
   {
    "box": "AI Workstation 300",
@@ -1012,21 +1012,21 @@
    "storage": "1TB",
    "os": "Windows 11 Home",
    "price": "$3,999.99 (list $4,799.99)",
-   "notes": "Cheapest US-company route to a 128GB Windows box — on a Black Friday-week sale at $3,999.99 against a $4,799.99 list, so the price may not hold. Launched at $1,999 in Jul 2025; Windows caps its GPU memory at 96GB."
+   "notes": "Cheapest US-company route to a 128GB Windows box \u2014 on a Black Friday-week sale at $3,999.99 against a $4,799.99 list, so the price may not hold. Launched at $1,999 in Jul 2025; Windows caps its GPU memory at 96GB."
   }
  ],
  "readiness": {
   "score": 76,
-  "headline": "Close — the box exists and the speed is there; the brain is one tier shy — projected to be at 100% around Q4-2028",
-  "lacking": "A local model at hosted-Muse tier (today's best stack is a strong supervised junior) · Spark-Open-class capability needs a ~700GB box — the DGX Station class, whose Windows price is still unannounced · memory-shortage prices are still rising, so waiting keeps earning points · Windows serving paths for the favorite models are proven on paper, not yet hands-on",
-  "today": "$5,999 → Surface Dev Box, now in stock, + Bolt 74B always-on (~84 tok/s) + Super 120B for deep think = a working local agent at 76/100. The experience today: about half the capability of hosted Muse — chat at full speed, deep thinking at about half pace. A strong junior on the desk, not a replica."
+  "headline": "Close \u2014 the box exists and the speed is there; the brain is one tier shy \u2014 projected to be at 100% around Q4-2028",
+  "lacking": "A local model at hosted-Muse tier (today's best stack is a strong supervised junior) \u00b7 Spark-Open-class capability needs a ~700GB box \u2014 the DGX Station class, whose Windows price is still unannounced \u00b7 memory-shortage prices are still rising, so waiting keeps earning points \u00b7 Windows serving paths for the favorite models are proven on paper, not yet hands-on",
+  "today": "$6,399 \u2192 Surface Dev Box ($5,999, now in stock) + Wolfram 15 Personal Plus (~$400, the math engine) + Bolt 74B always-on (~84 tok/s) + Super 120B for deep think = a working local agent at 76/100. The experience today: about half the capability of hosted Muse \u2014 chat at full speed, deep thinking at about half pace. A strong junior on the desk, not a replica."
  },
  "buildStack": {
   "pieces": [
    {
     "piece": "Hardware",
     "pick": "Surface RTX Spark Dev Box (Microsoft)",
-    "status": "★ Frontrunner — watching price",
+    "status": "\u2605 Frontrunner \u2014 watching price",
     "cost": "$5,999"
    },
    {
@@ -1055,7 +1055,7 @@
    },
    {
     "piece": "Math engine",
-    "pick": "Wolfram 15 — Personal Plus perpetual, via official MCP",
+    "pick": "Wolfram 15 \u2014 Personal Plus perpetual, via official MCP",
     "status": "Confirmed Nov 24, 2026",
     "cost": "~$400 once"
    },
